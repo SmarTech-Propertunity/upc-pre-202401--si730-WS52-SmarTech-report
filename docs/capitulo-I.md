@@ -123,3 +123,41 @@ El sector inmobiliario constituye un ámbito laboral que engloba una extensa var
 Hemos observado que el factor negativo que afecta los procesos de adquisición de inmobiliarias es la ausencia de un medio formal que sirva como intermediario adecuado para respaldar la compra y venta de bienes raíces. Esta carencia genera una sensación de malestar entre los usuarios, pues se enfrentan a una amplia gama de problemas derivados del aumento de la desinformación y la falta de seguridad y garantía. Estos problemas pueden resultar en pérdidas financieras considerablemente significativas para los clientes (Benalcázar et al., 2017).
 
 ¿De qué manera se pueden optimizar los procesos de adquisición de bienes raíces para mejorar la experiencia y seguridad financiera del cliente y eliminar todas las consecuencias producidas por la creciente informalidad?
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+- **Hypothesis 1**
+
+    Creemos que facilitar a los usuarios el acceso a cálculos de financiamiento para las propiedades que capturan su interés no solo enriquecerá su experiencia de búsqueda, sino que también les proporcionará una herramienta invaluable para tomar decisiones informadas y personalizadas en tiempo real.
+    
+    Sabremos que hemos tenido éxito.
+    
+    Cuando observemos un aumento del 30% en el uso de la función de cálculo de financiamiento y obtengamos comentarios positivos de los usuarios sobre la utilidad y precisión de esta herramienta.
+
+- **Hypothesis 2**
+
+    Creemos que una funcionalidad de búsqueda avanzada personalizable, que permita a los usuarios filtrar propiedades según características específicas de financiamiento, como tasas de interés, plazos de préstamo, y opciones de pago, les brindará una experiencia más completa y adaptada a sus necesidades financieras. Esta herramienta les permitirá explorar de manera eficiente las opciones de financiamiento disponibles para cada propiedad, facilitando así la toma de decisiones informadas y bien fundamentadas.
+    
+    Sabremos que hemos tenido éxito
+    
+    Cuando veamos un incremento del 20% en la satisfacción del usuario, medido a través de encuestas de retroalimentación y una disminución del 15% en las consultas o quejas relacionadas con la falta de opciones adecuadas.
+    
+- **Hypothesis 3**
+
+    Creemos que ofrecer tours virtuales detallados de las propiedades, junto con información clara y accesible sobre las opciones de financiamiento disponibles, no solo enriquecerá la experiencia de búsqueda de nuestros usuarios, sino que también les proporcionará una comprensión integral de lo que implica la adquisición de una propiedad. 
+    
+    Sabremos que hemos tenido éxito 
+    
+    Cuando el número de solicitudes de visitas presenciales reduzca un 15% y visitas virtuales aumente un 25%. Verificado a través de análisis de datos y seguimiento de la actividad en la plataforma. 
+    
+- **Hypothesis 4**
+
+    Creemos que la implementación de una función de chat en vivo dedicada a proporcionar asesoramiento financiero personalizado no solo generará un aumento en la confianza del usuario hacia nuestra plataforma, sino que también fomentará una relación más estrecha y de mayor confianza entre nosotros y nuestros usuarios. 
+    
+    Sabremos que hemos tenido éxito
+    
+    Cuando incremente un 20% la frecuencia de uso del chat en vivo, comparemos el número de solicitudes de financiamiento antes y después de su introducción, y realicemos encuestas de satisfacción para evaluar esta nueva característica.
+
+#### 1.2.2.4. Lean UX Canvas
+
+###### Figura 1.

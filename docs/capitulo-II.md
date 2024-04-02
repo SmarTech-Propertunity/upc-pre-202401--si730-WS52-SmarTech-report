@@ -116,10 +116,15 @@ Segmento 2: anunciante que posee una propiedad en venta o alquiler
 
 ### 2.2.2. Registro de entrevistas
 
+#### Segmento 1
+
+
 **Entrevista N°1:**
 
 ###### Figura 2
 Imagen de presentación de la primera entrevista realizada.
+
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/entrevista-segmento1.png" alt="Entrevista Segmento 1" width="400" height="300">
 
 Nota. .
 
@@ -130,15 +135,13 @@ Nota. .
 - Link: 
 - Inicio de la entrevista: 
 - Duración: 
-		
-**Transcripción de la entrevista:**
 
 ---
 
 **Entrevista N°2:**
 
 ###### Figura 3
-Imagen de presentación de la primera entrevista realizada.
+Imagen de presentación de la segunda entrevista realizada.
 
 Nota. .
 
@@ -149,15 +152,13 @@ Nota. .
 - Link: 
 - Inicio de la entrevista: 
 - Duración: 
-		
-**Transcripción de la entrevista:**
 
 ---
 
 **Entrevista N°3:**
 
 ###### Figura 4
-Imagen de presentación de la primera entrevista realizada.
+Imagen de presentación de la tercera entrevista realizada.
 
 Nota. .
 
@@ -173,15 +174,69 @@ Nota. .
 
 ---
 
+#### Segmento 2
+
+
+**Entrevista N°4:**
+
+###### Figura 5
+Imagen de presentación de la cuarta entrevista realizada.
+
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/entrevista-segmento2.png" alt="Entrevista Segmento 2" width="400" height="300">
+
+Nota. .
+
+**Datos principales:**
+- Nombre completo del entrevistado: 
+- Edad: 
+- Distrito: 
+- Link:
+- Inicio de la entrevista: 
+- Duración: 
+
+---
+
+**Entrevista N°5:**
+
+###### Figura 6
+Imagen de presentación de la quinta entrevista realizada.
+
+Nota. .
+
+**Datos principales:**
+- Nombre completo del entrevistado: 
+- Edad: 
+- Distrito: 
+- Link:
+- Inicio de la entrevista: 
+- Duración: 
+		
+
+---
+
+**Entrevista N°6:**
+
+###### Figura 7
+Imagen de presentación de la sexta entrevista realizada.
+
+Nota. .
+
+**Datos principales:**
+- Nombre completo del entrevistado: 
+- Edad: 
+- Distrito: 
+- Link:
+- Inicio de la entrevista: 
+- Duración: 
+
+---
+
 ### 2.2.3. Análisis de entrevistas
 
-**Entrevista N°1:** 
+**Segmento 1** 
 
 
-**Entrevista N°2:**
-
-
-**Entrevista N°3:** 
+**Segmento 2:**
 
 ---
 
@@ -199,6 +254,32 @@ Para reconocer las demandas de los usuarios, empleamos diversos enfoques. Primer
 ###### Segundo segmento objetivo: Anunciantes que deseen publicar una propiedad en venta o alquiler
 ![Segmento 2 - Anunciantes](https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/segmento2-anunciantes.png)
 
+### 2.3.2. User Task Matrix
+
+###### Tabla 3.
+Modelo de User Task Matrix definido para los dos user persona seleccionados.
+
+| Tareas |  U1  |      |  U2  |      |
+|--------|------|------|------|------|
+| | Frecuencia | Importancia | Frecuencia | Importancia |
+| T1 | | | | |
+| T2 | | | | |
+|... | | | | |
+
+### 2.3.3. User Journey Mapping
+
+###### Figura 7.
+Modelo de User Journey Mapping de nuestro primer user persona seleccionado.
+
+###### Figura 8.
+Modelo de User Journey Mapping de nuestro segundo user persona seleccionado.
+
+### 2.3.4. Empathy Mapping
+###### Figura 9.
+Empathy Map del primer user persona desarrollado.
+
+###### Figura 10.
+Empathy Map del segundo user persona desarrollado.
 
 ### 2.3.5. As-is Scenario Mapping
 ###### Tabla 4.
@@ -220,3 +301,5 @@ User 2: Anunciantes que Deseen Publicar una Propiedad en Venta o Alquiler
 |  Doing | Los anunciantes utilizan múltiples plataformas para publicar sus propiedades, incluyendo descripciones y fotos.| Los anunciantes gestionan consultas de posibles compradores o inquilinos, coordinan visitas a la propiedad y brindan información adicional sobre la misma.| Los anunciantes utilizan estrategias de marketing y publicidad para promocionar sus propiedades de manera efectiva.| Los anunciantes actualizan regularmente la información de sus propiedades para mantenerla relevante y precisa.|
 |Thinking| Los anunciantes desean herramientas más avanzadas para crear listados atractivos y recibir más exposición para sus propiedades.| Los anunciantes desean herramientas para organizar y dar seguimiento a las consultas y visitas de manera eficiente.| Los anunciantes buscan herramientas y consejos para mejorar la visibilidad y atracción de su propiedad en el mercado.| Los anunciantes consideran la importancia de la información actualizada para mantener el interés de los posibles compradores o inquilinos.|
 |Feeling | Los anunciantes pueden sentirse abrumados por la gestión de múltiples listados en diferentes plataformas y la competencia en el mercado.| Los anunciantes pueden sentirse abrumados por la cantidad de consultas y la necesidad de gestionarlas de manera efectiva para cerrar la transacción.| Los anunciantes pueden sentir preocupación por la competencia y la necesidad de destacarse entre otras propiedades similares en el mercado.| Los anunciantes pueden sentirse preocupados por la necesidad de mantenerse al día con cambios en la propiedad y actualizaciones en la plataforma.|
+
+## 2.4. Ubiquitous Language

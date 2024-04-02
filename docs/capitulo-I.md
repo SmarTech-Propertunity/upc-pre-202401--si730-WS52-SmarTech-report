@@ -167,7 +167,7 @@ Hemos observado que el factor negativo que afecta los procesos de adquisición d
 #### 1.2.2.4. Lean UX Canvas
 
 ###### Figura 1.
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-1/assets/img/Apps web canvas (1).png" alt="Lean UX Canvas" >
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-1/assets/img/Lean UX Canvas.png" alt="Lean UX Canvas" >
 ---
 
 ## 1.3. Segmento Objetivo

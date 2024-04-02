@@ -55,6 +55,8 @@ Soy una persona detallista, trabajadora y que siempre hace lo posible por mejora
 
 Soy estudiante de Ingeniería de software en la Universidad peruana de Ciencias Aplicadas (UPC). Me considero una persona altamente responsable, organizada, puntual y empática. Mi capacidad de adaptación a entornos cambiantes y habilidad para trabajar colaborativamente en equipo son aspectos destacados de mi perfil. Tengo conocimientos en Python, C++, HTML, CSS, Javascript, MySQL, MongoDB y SQLite. A modo de desarrollar el proyecto, desempeñaré el rol de **Scrum Member**
 
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-1/assets/img/image.png" alt="Aldhair Valenzuela Huillcaya" width="250" height="200">
+
 ---
 
 #### Yen Cerna, Lucio Heli - U202213143 - Ingeniería de Software
@@ -65,7 +67,7 @@ Seguir creciendo mis aptitudes profesionales como ingenierio de Software.<br>
 
 > Puede que todos los días no sean buenos, pero hay algo bueno en cada día
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-1/assets/img/profile-lucio.png" alt="Lucio Heli Yen Cerna" width="300" height="200">
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-1/assets/img/profile-lucio.png" alt="Lucio Heli Yen Cerna" width="250" height="200">
 ---
 
 ## 1.2. Solution Profile

@@ -76,6 +76,127 @@ Análisis Competitivo organizado para todos los competidores potenciales de Lufo
 |                   | **Oportunidades** | | - Preferencia e ideales en las personas jovenes de sudamérica por conseguir una casa propia desde jovenes. <br>- Bajo poder de los proveedores principales, lo que facilita los modelos de control de calidad y negociaciones. <br>- El fenómeno de la virtualidad al que se adaptaron una gran cantidad de personas. <br>- Grandes dificultades en las barreras de entrada de posibles empresas innovadoras. <br>- Aumento de la industria inmobiliaria en zonas centroamericanas junto al caribe | - Preferencia e ideales en las personas jovenes del Perú por conseguir un departamento propio desde jovenes. <br>- Aumento exponencial de la preferencia de las personas en obtener departamentos en comparación a otros tipos de viviendas. <br>- El fenómeno de la virtualidad al que se adaptaron una gran cantidad de personas. <br>- Grandes dificultades en las barreras de entrada de posibles empresas innovadoras. <br>- Crecimiento de los proyectos de inmobiliarias en zonas de mayor valor como los Estados Unidos o el Continente Europeo | - Preferencia e ideales en las personas jovenes peruanas por conseguir una casa propia desde jovenes. <br>- El fenómeno de la virtualidad al que se adaptaron una gran cantidad de personas. <br>- Grandes dificultades en las barreras de entrada de posibles empresas innovadoras.|
 |                   | **Amenazas** | | - La incertidumbre económica y política en sudamérica puede generar cambios en el mercado y en la demanda de servicios. <br>- El aumento de los costos de desarrollo de software que se presentan en los países sudamericanos. Principalmente en Brasil y Colombia. <br>- La evolución tecnológica puede generar nuevas barreras de comunicación y dificultar la oferta de servicios. | - La incertidumbre económica y política en Perú puede generar cambios en la demanda de servicios y en las preferencias de obtención de viviendas en otros países. <br>- La evolución tecnológica puede generar nuevas barreras de comunicación y dificultar la oferta de servicios. | - La incertidumbre económica y política en Perú puede generar cambios en la demanda de servicios y en las preferencias de obtención de viviendas en otros países. <br>- La evolución tecnológica puede generar nuevas barreras de comunicación y dificultar la oferta de servicios. |
 
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+Ejemplos:
+
+**Calidad:**
+
+**Marketing:**
+
+---
+
+## 2.2. Entrevistas
+
+Según lo aclarado por Folgueiras (2016), la entrevista es un tipo, sistema y/o modelo de técnica de recopilación directa de información, con la cual se busca obtener datos de forma oral y personalizada sobre opiniones, ideas, experiencias y cualquier otro tipo de información relevante para un objetivo especial, el cual normalmente es para un caso de estudio o para el proyecto de solución de alguna problemática presentada. Tanto si se elabora dentro de una investigación, como si se diseña al margen de un estudio sistematizado, tiene unas mismas características y pasos a seguir para mantener la base primordial de obtención de información relevante y utilizable para el trabajo.
+
+### 2.2.1. Diseño de entrevistas
+
+Con el fin de obtener y separar correctamente toda la información obtenida durante las entrevistas, se optó por definir un banco de preguntas según nuestro segmento de mercado identificado anteriormente. Este grupo de preguntas está especializado para la obtención de información específica según la persona entrevistada y según la problemática investigada para el proyecto y la posible solución en la forma de nuestro producto.
+
+Preguntas generales:
+1. ¿Como se llama?
+2. ¿Cuantos años tienes?
+3. ¿A qué te dedicas?
+
+ Segmento 1: usuarios que desean comprar, vender o informarse
+1. Actualmente, ¿tienes planeado comprar o alquilar una propiedad?
+2. ¿Cuales son las características de la propiedad que deseas comprar/alquilar?
+3. ¿Qué métodos de búsqueda ha utilizado para preguntar por alguna propiedad?
+4. ¿Ha visto por la calle diferentes letreros anunciando propiedades?
+5. ¿Ha buscado plataformas en línea que le brindan información sobre propiedades?
+6. ¿Qué tan complejo cree que es usar efectivamente alguna de estas plataformas?
+7. ¿Cree usted que podría utilizar una plataforma de este estilo sin algún tutorial o guía? 8.  ¿Que tanta cercanía cree que tiene con una inmobiliaria o agente inmobiliario a la hora de interactuar vía este tipo de plataformas? 
+9. ¿Cree que esperar por una evaluación crediticia atorpece una búsqueda ágil?
+10. Con respecto a lo mencionado anteriormente, ¿Que tan probable es que adquiera una membresía de la aplicación para obtener beneficios que impactan gradualmente en su experiencia como usuario? 
+11. Recomendaría esta plataforma web? Porqué?
+
+Segmento 2: anunciante que posee una propiedad en venta o alquiler 
+1. ¿Alguna vez ha logrado vender o alquilar una propiedad? En caso fuere así, ¿Cuanto tiempo le tomó encontrar al cliente? 
+2. ¿Alguna vez ha colocado información de su propiedad en la calle mediante anuncios de papel o afines? De no ser el caso, ¿Como ha publicitado su propiedad? 
+3. ¿Que tanto alcance logró tras publicitar su propiedad?
+4. ¿Tuvo problemas al momento de contactarse con los interesados?
+5. ¿Cuanta duración tenían las conversaciones entre anunciante-cliente, donde la mayoría de veces resultaba en un desacuerdo?
+6. ¿Cree que las plataformas inmobiliarias son accesibles y de fácil uso para publicitar propiedades?
+7. Con respecto a lo mencionado anteriormente, ¿Que tan probable es que adquiera una membresía de la aplicación para obtener beneficios que impactan gradualmente en su experiencia como usuario? 
+8. Recomendaría esta plataforma web? Porqué?
+
+### 2.2.2. Registro de entrevistas
+
+**Entrevista N°1:**
+
+###### Figura 2
+Imagen de presentación de la primera entrevista realizada.
+
+Nota. .
+
+**Datos principales:**
+- Nombre completo del entrevistado: 
+- Edad: 
+- Distrito: 
+- Link: 
+- Inicio de la entrevista: 
+- Duración: 
+		
+**Transcripción de la entrevista:**
+
+---
+
+**Entrevista N°2:**
+
+###### Figura 3
+Imagen de presentación de la primera entrevista realizada.
+
+Nota. .
+
+**Datos principales:**
+- Nombre completo del entrevistado: 
+- Edad: 
+- Distrito: 
+- Link: 
+- Inicio de la entrevista: 
+- Duración: 
+		
+**Transcripción de la entrevista:**
+
+---
+
+**Entrevista N°3:**
+
+###### Figura 4
+Imagen de presentación de la primera entrevista realizada.
+
+Nota. .
+
+**Datos principales:**
+- Nombre completo del entrevistado: 
+- Edad: 
+- Distrito: 
+- Link:
+- Inicio de la entrevista: 
+- Duración: 
+		
+**Transcripción de la entrevista:**
+
+---
+
+### 2.2.3. Análisis de entrevistas
+
+**Entrevista N°1:** 
+
+
+**Entrevista N°2:**
+
+
+**Entrevista N°3:** 
+
+---
+
+## 2.3. Needfinding
+
+Según lo señalado por Patnaik (2017), la metodología del Needfinding se concentra principalmente en la acción de descubrir las necesidades, tanto explícitas como implícitas, de los segmentos objetivos seleccionados con el fin de poder crear soluciones adecuadas. Para esto, es necesario ver más allá de todo lo tangible y concentrarse en ideas más abstractas y conceptos más amigables para todos los usuarios.
+
+Para reconocer las demandas de los usuarios, empleamos diversos enfoques. Primero, segmentamos a los usuarios en diferentes categorías y generamos perfiles que representan a nuestro público objetivo, mediante la creación de User Persona. Esto nos permitió agrupar las necesidades específicas de cada tipo de usuario. Luego, para corroborar y validar las necesidades que habíamos determinado previamente para cada categoría de usuario, realizamos entrevistas con representantes de los dos conjuntos de usuarios que habíamos identificado utilizando los User Persona.
 
 ### 2.3.1. User Personas
 

@@ -39,6 +39,7 @@ En SmartTech, estamos comprometidos con una serie de valores fundamentales que g
 
 Me llamo Rubén Mallma Quispe y soy un ingeniero de software. Me gusta escuchar música, estar en compañía de mis seres queridos, y sobre todo ser una persona de éxito. Actualmente estoy trabajando como desarrollador en una empresa naciente y me alegra estar ya poniendo en práctica todos mis conociementos. Como algunas de mis habilidades técnicas puedo decir que sé los lenguajes de programación de C++, Java y Kotlin sólidamente, y sigo aprendiendo. Gracias por leer esta descripción; en este maravilloso proyecto, desempeñaré el rol de **Scrum Member**.
 
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-1/assets/img/profiles/profile-Ruben.png" alt="Ruben Mallma Quispe" width="200" height="280"> 
 ---
 
 #### Shimabukuro Uku, Carlos Joel - U201912407 - Ingeniería de Software

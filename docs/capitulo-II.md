@@ -71,20 +71,14 @@ Análisis Competitivo organizado para todos los competidores potenciales de Prop
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-**Mejora de la Interfaz:**
-Al examinar el caso de "AdondeVivir", se ha identificado que uno de los principales obstáculos para la aceptación y popularidad de su plataforma web radica en su interfaz poco intuitiva y poco atractiva.
+- **Mejora de la Interfaz:**
+Al examinar el caso de "AdondeVivir", se ha identificado que uno de los principales obstáculos para la aceptación y popularidad de su plataforma web radica en su interfaz poco intuitiva y poco atractiva. Con el objetivo de obtener una ventaja competitiva en este ámbito, planeamos diseñar interfaces más atractivas para los usuarios. Esto implicará el uso de colores más armoniosos y relacionados con el sector inmobiliario, así como la selección de tipos de letra legibles y amigables. Además, se mejorará la organización de la información y se proporcionará una experiencia más interactiva destacando las cualidades más relevantes de cada propiedad, acompañadas de imágenes en 360 grados y folletos de los anunciantes.
 
-Con el objetivo de obtener una ventaja competitiva en este ámbito, planeamos diseñar interfaces más atractivas para los usuarios. Esto implicará el uso de colores más armoniosos y relacionados con el sector inmobiliario, así como la selección de tipos de letra legibles y amigables. Además, se mejorará la organización de la información y se proporcionará una experiencia más interactiva destacando las cualidades más relevantes de cada propiedad, acompañadas de imágenes en 360 grados y folletos de los anunciantes.
+- **Diversificación de Servicios:**
+Al analizar el caso de "Edifica", se ha identificado que uno de sus principales desafíos radica en la limitada diversificación de sus servicios, lo cual ha restringido su alcance de mercado y la atracción de inversiones significativas. Dado que Edifica se enfoca principalmente en la construcción y venta de grandes proyectos de departamentos, nuestro enfoque de diversificación relacionada ampliará este alcance. Permitiremos a los usuarios ofrecer una variedad de propiedades, desde viviendas individuales hasta complejos de departamentos. Además, facilitaremos la venta de bienes raíces con diversas características, en diferentes ubicaciones geográficas y en diversos estados de desarrollo.
 
-**Diversificación de Servicios:**
-Al analizar el caso de "Edifica", se ha identificado que uno de sus principales desafíos radica en la limitada diversificación de sus servicios, lo cual ha restringido su alcance de mercado y la atracción de inversiones significativas.
-
-Dado que Edifica se enfoca principalmente en la construcción y venta de grandes proyectos de departamentos, nuestro enfoque de diversificación relacionada ampliará este alcance. Permitiremos a los usuarios ofrecer una variedad de propiedades, desde viviendas individuales hasta complejos de departamentos. Además, facilitaremos la venta de bienes raíces con diversas características, en diferentes ubicaciones geográficas y en diversos estados de desarrollo.
-
-**Estrategia de Marketing:**
-Al analizar el caso de "LaEncontré", se ha identificado que su falta de popularidad en el mercado peruano y latinoamericano se debe en gran medida a la falta de presencia y estrategias de marketing virtual efectivas.
-
-Aunque optaremos por no emplear un enfoque de marketing agresivo, implementaremos métodos consistentes y campañas en redes sociales para captar la atención de nuestro público objetivo. Nos centraremos en transmitir nuestros valores y visión a través de plataformas como Instagram, Facebook y Twitter (modo empresarial), y complementaremos estas estrategias con vídeos instructivos en Youtube y contenido breve en TikTok. Además, consideraremos la posibilidad de anunciarnos en periódicos como Ojo, Trome y El Comercio para alcanzar una audiencia más amplia.
+- **Estrategia de Marketing:**
+Al analizar el caso de "LaEncontré", se ha identificado que su falta de popularidad en el mercado peruano y latinoamericano se debe en gran medida a la falta de presencia y estrategias de marketing virtual efectivas. Aunque optaremos por no emplear un enfoque de marketing agresivo, implementaremos métodos consistentes y campañas en redes sociales para captar la atención de nuestro público objetivo. Nos centraremos en transmitir nuestros valores y visión a través de plataformas como Instagram, Facebook y Twitter (modo empresarial), y complementaremos estas estrategias con vídeos instructivos en Youtube y contenido breve en TikTok. Además, consideraremos la posibilidad de anunciarnos en periódicos como Ojo, Trome y El Comercio para alcanzar una audiencia más amplia.
 
 ---
 
@@ -135,15 +129,15 @@ Imagen de presentación de la primera entrevista realizada.
 
 <img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/entrevista-segmento1.png" alt="Entrevista Segmento 1" width="400" height="300">
 
-Nota. .
+Nota. Piero tiene 23 años, reside en el distrito de Barranco y es estudiante de la Universidad Peruana Aplicada de Ciencias UPC en la carrera de Ingeniería de Sistemas. Él está interesado en alquilar una propiedad cercana a la sede Villa y compartirla con otra persona con los mismos intereses para dividir los gastos. Las herramientas que ha empleado para realizar su búsqueda son las redes sociales, las páginas web y los letreros en las calles. Además, considera que es medianamente complejo utilizar plataformas web sobre propiedades debido a que no sabría identificar todas las funcionalidades que estas páginas le ofrecen a simple vista. Por otro lado, afirma que siente una conexión a medias con los anunciantes y que la evaluación crediticia disminuye su interés y entorpece su búsqueda de otras opciones. Finalmente, tras brindarle una breve explicación sobre la solución que proponemos, comentó que sería probable que adquiera una membresía para obtener beneficios que impactan gradualmente en su experiencia como usuario y que sí recomendaría nuestra plataforma web para personas que están en una situación similar a la suya debido a que les sería de gran utilidad para tomar decisiones informadas.
 
 **Datos principales:**
-- Nombre completo del entrevistado: 
-- Edad: 
-- Distrito: 
-- Link: 
-- Inicio de la entrevista: 
-- Duración: 
+- Nombre completo del entrevistado: Piero Nonolaya Fuentes
+- Edad: 23
+- Distrito: Barranco
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213143_upc_edu_pe/EXBp0YibIpFJkmQwcXfOQpMBT43UwpRwhhPf7uuZP5FPjw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3ajOYM 
+- Inicio de la entrevista: 0.01
+- Duración: 5.36
 
 ---
 
@@ -176,7 +170,7 @@ Nota. .
 - Edad: 
 - Distrito: 
 - Link:
-- Inicio de la entrevista: 
+- Inicio de la entrevista: 0.01
 - Duración: 
 		
 **Transcripción de la entrevista:**
@@ -193,15 +187,15 @@ Imagen de presentación de la cuarta entrevista realizada.
 
 <img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/entrevista-segmento2.png" alt="Entrevista Segmento 2" width="400" height="300">
 
-Nota. .
+Nota. Paolo tiene 22 años, reside en el distrito de San Borja y es un ingeniero Civil que trabaja en el sector inmobiliario por más de 2 años. Él cuenta con experiencia previa en la venta y alquiler de distintas propiedades y ha trabajado con agentes inmobiliarios y clientes directamente. Las herramientas que ha empleado para realizar su búsqueda de clientes son los letreros en la fachada de las propiedades, no obstante, también ha tenido contacto con agentes inmobiliarios que encontraron clientes potenciales para su propiedad y ha utiliza AirBNB para el alquiler de propiedades. Por otro lado, afirma que tiene una conexión directa con los anunciantes debido a que estos se comunican directamente con ellos por teléfono o otros medios, entre estos, ha gastado más de una hora por cliente que desistió de la negociación. Finalmente, tras comentar que no ha utilizado plataformas web del rubro inmobiliario y brindarle una breve explicación sobre la solución que proponemos, comentó que requeriría de más información sobre la inversión que se debe hacer y que está abierto a la posiblidad de adquirir alguna membresía, sin embargo prefiere que la aplicación sea 100% gratuita y que tenga algún tipo de comisión fija, por último, sí recomendaría nuestra plataforma web para personas que están en una situación similar a la suya debido a que les sería de gran utilidad como espacio de trabajo.
 
 **Datos principales:**
-- Nombre completo del entrevistado: 
-- Edad: 
-- Distrito: 
-- Link:
-- Inicio de la entrevista: 
-- Duración: 
+- Nombre completo del entrevistado: Paolo Bustos Vidal
+- Edad: 23
+- Distrito: San Borja
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213143_upc_edu_pe/EaZSU7jaaB5EqLmj0P6XW3ABnguP7w-0D1HO_Mp_Oe2RLg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lS1ZOu 
+- Inicio de la entrevista: 0.01
+- Duración: 6:29
 
 ---
 

@@ -74,9 +74,8 @@ Análisis Competitivo organizado para todos los competidores potenciales de Lufo
 ### 2.3.1. User Personas
 
 ###### Primer segmento objetivo: Personas que deseen comprar o alquilar una propiedad
-![Segmento 1 - Compradores](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg)
+![Segmento 1 - Compradores](https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/segmento1-compradores.png)
 
 ###### Segundo segmento objetivo: Anunciantes que deseen publicar una propiedad en venta o alquiler
-![Segmento 2 - Anunciantes](./assets/img/segmento2-anunciantes.png)
-![Segmento 2 - Anunciantes](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg)
+![Segmento 2 - Anunciantes](https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/segmento2-anunciantes.png)
 

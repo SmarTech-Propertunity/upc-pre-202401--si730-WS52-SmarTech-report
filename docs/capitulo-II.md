@@ -74,7 +74,9 @@ Análisis Competitivo organizado para todos los competidores potenciales de Lufo
 ### 2.3.1. User Personas
 
 ###### Primer segmento objetivo: Personas que deseen comprar o alquilar una propiedad
-![Segmento 1 - Compradore](./assets/img/segmento1-compradores.png)
+![Segmento 1 - Compradores](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg)
 
 ###### Segundo segmento objetivo: Anunciantes que deseen publicar una propiedad en venta o alquiler
 ![Segmento 2 - Anunciantes](./assets/img/segmento2-anunciantes.png)
+![Segmento 2 - Anunciantes](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg)
+

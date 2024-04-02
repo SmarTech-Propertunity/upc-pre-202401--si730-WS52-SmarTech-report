@@ -77,3 +77,25 @@ Análisis Competitivo organizado para todos los competidores potenciales de Lufo
 
 ###### Segundo segmento objetivo: Anunciantes que deseen publicar una propiedad en venta o alquiler
 ![Segmento 2 - Anunciantes](https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/segmento2-anunciantes.png)
+
+
+### 2.3.5. As-is Scenario Mapping
+###### Tabla 4.
+Mapa de Escenario As-Is para nuestro primer user persona.
+
+User 1: Personas que Deseen Comprar o Alquilar una Propiedad
+|  Fases | Búsqueda de Propiedades | Contacto con Vendedores/Agentes | Evaluación de Propiedades | Evaluación de Ofertas y Contrapropuestas |
+|--------|----|----|----|----|
+|  Doing | Los usuarios navegan por múltiples sitios web y portales inmobiliarios en busca de propiedades que se ajusten a sus criterios.| Los usuarios envían múltiples consultas a vendedores o agentes inmobiliarios para obtener más información sobre propiedades de interés.| Los usuarios visitan propiedades físicas para evaluar su estado, ubicación y características.| Los usuarios evalúan ofertas recibidas y pueden hacer contrapropuestas a vendedores/agentes.|
+|Thinking| Los usuarios sienten frustración por la falta de herramientas efectivas para filtrar y comparar propiedades de manera rápida y precisa.| Los usuarios piensan en la necesidad de una comunicación más rápida y eficiente para obtener respuestas oportunas y tomar decisiones informadas.| Los usuarios desean herramientas que les permitan evaluar propiedades de manera más detallada y acceder a información histórica de precios y tendencias del mercado.|Los usuarios desean una forma más clara y estructurada de evaluar y comparar ofertas, así como orientación sobre cómo responder de manera efectiva.|
+|Feeling | Los usuarios se sienten abrumados por la cantidad de información dispersa y la dificultad para tomar decisiones informadas.| Los usuarios experimentan ansiedad y expectativas altas mientras esperan respuestas de vendedores o agentes.| Los usuarios se sienten preocupados por la falta de transparencia en la información proporcionada y la incertidumbre sobre la inversión.|Los usuarios pueden sentirse frustrados por la falta de transparencia en las negociaciones y la incertidumbre sobre el proceso de toma de decisiones.|
+
+###### Tabla 5.
+Mapa de Escenario As-Is para nuestro segundo user persona.
+
+User 2: Anunciantes que Deseen Publicar una Propiedad en Venta o Alquiler
+|  Fases | Publicación de Propiedades | Gestión de Consultas y Visitas | Publicación y Promoción Efectiva | Mantenimiento y Actualización de Información |
+|--------|----|----|----|----|
+|  Doing | Los anunciantes utilizan múltiples plataformas para publicar sus propiedades, incluyendo descripciones y fotos.| Los anunciantes gestionan consultas de posibles compradores o inquilinos, coordinan visitas a la propiedad y brindan información adicional sobre la misma.| Los anunciantes utilizan estrategias de marketing y publicidad para promocionar sus propiedades de manera efectiva.| Los anunciantes actualizan regularmente la información de sus propiedades para mantenerla relevante y precisa.|
+|Thinking| Los anunciantes desean herramientas más avanzadas para crear listados atractivos y recibir más exposición para sus propiedades.| Los anunciantes desean herramientas para organizar y dar seguimiento a las consultas y visitas de manera eficiente.| Los anunciantes buscan herramientas y consejos para mejorar la visibilidad y atracción de su propiedad en el mercado.| Los anunciantes consideran la importancia de la información actualizada para mantener el interés de los posibles compradores o inquilinos.|
+|Feeling | Los anunciantes pueden sentirse abrumados por la gestión de múltiples listados en diferentes plataformas y la competencia en el mercado.| Los anunciantes pueden sentirse abrumados por la cantidad de consultas y la necesidad de gestionarlas de manera efectiva para cerrar la transacción.| Los anunciantes pueden sentir preocupación por la competencia y la necesidad de destacarse entre otras propiedades similares en el mercado.| Los anunciantes pueden sentirse preocupados por la necesidad de mantenerse al día con cambios en la propiedad y actualizaciones en la plataforma.|

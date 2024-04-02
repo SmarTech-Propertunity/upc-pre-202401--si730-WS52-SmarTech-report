@@ -162,3 +162,17 @@ Hemos observado que el factor negativo que afecta los procesos de adquisición d
 #### 1.2.2.4. Lean UX Canvas
 
 ###### Figura 1.
+
+## 1.3. Segmento Objetivo
+
+Según Kingsnorth (2019), un segmento objetivo se refiere a un grupo específico de consumidores dentro de un mercado más amplio que comparten características o necesidades similares. Estas características pueden incluir variables demográficas, geográficas, psicográficas o conductuales. 
+
+El proceso de segmentación de mercados implica identificar y dividir el mercado total en segmentos más pequeños y homogéneos con el objetivo de diseñar estrategias de marketing más efectivas y dirigidas. Al enfocarse en segmentos específicos, las empresas pueden adaptar sus productos, mensajes y canales de marketing para satisfacer las necesidades y preferencias de esos grupos de consumidores de manera más precisa.
+
+En el caso de las secciones y la problemática que abarca nuestro proyecto, después de un proceso de análisis, hemos conseguido determinar los siguientes segmentos objetivos:
+
+* **Personas que deseen comprar o alquilar una propiedad**. Este segmento incluye a usuarios de 18 años o más que residan en Perú y que tengan el interés de comprar o alquilar una propiedad. Este tipo de usuario se divide en personas que toman decisiones informadas sobre sus inversiones personales y deseen comprar o alquilar una propiedad; y personas con conocimientos en inversión de bienes raíces que deseen tener un portafolio de propiedades para invertir. 
+
+* **Anunciantes que deseen publicar una propiedad en venta o alquiler.** Este segmento incluye a Inmobiliarias peruanas que estén correctamente registradas y acreditadas para ofrecer propiedades en venta o alquiler de proyectos de entrega inmediata o futura entrega; y a personas que residan en Perú que cuenten con una propiedad y deseen ponerla en venta o alquiler. Este conjunto se le conoce como Anunciante en la plataforma puesto que publican información importante de las propiedades disponibles que tienen a disposición.
+
+---

@@ -87,6 +87,31 @@ Propertunity es una aplicación web en el mercado que ofrece un enfoque integral
 
 6. **Interfaz detallada y fácil de usar:** Los usuarios podrán interactuar con una interfaz de fácil entendimiento y manipulación, además de ser intuitiva y llamativa. Junto a eso, se agregan otros aspectos de aprendizaje y resolución de dudas como tutoriales y acceso a información general sobre el rubro.
 
+### 1.2.1 Antecedentes y problemática
+
+Para analizar los antecedentes y la problemática a la que nuestro proyecto se afronta, vamos a utilizar el modelo práctico de las 5Ws y 2Hs, con el fin de idear un sistema más estructurado y que se centre en las causas del problema principalmente.
+
+**Antecedentes:**
+
+La casa propia es el anhelo de muchos peruanos; sin embargo, durante los procesos de venta, compra o entrega del inmueble pueden surgir inconvenientes. En los últimos años, el rubro inmobiliario en el Perú ha presentado una reducción del 8% durante el tercer trimestre del 2023, esto mayormente debido a las altas tasas de interés de los créditos hipotecarios y al mal gestionamiento, el cual causo una reducción de las inversiones en el sector privado . Asimismo, el aumento de la informalidad en el Perú a partir del año 2021 provocó que gran parte de las inversiones no tuvieran ningún tipo de garantía y que se provocaran varias quejas por la falta de entrega del inmueble o también por defectos en este o por no presentar ciertos detalles aclarados. Según la Asociación de Desarrolladores Inmobiliarios del Perú (2023), se estima que el 95% de las habilitaciones urbanas presentadas son informales y que, sorprendentemente, el 80% de las propiedades son producto de la autoconstrucción, lo que provoca que sean más propensas a presentar imperfecciones y a ser más vulnerables ante daños, como, por ejemplo, un desastre natural.
+
+Por último, es importante destacar que según Arista et al. (2017), existe un gran desconocimiento entre los peruanos sobre el sector inmobiliario, que abarca desde el tipo de transacciones que se deben realizar hasta las garantías proporcionadas por las características de los inmuebles y cuáles son más adecuados según sus necesidades. Además, diversas encuestas revelaron que solo un 22.07% de las personas acudirían al INDECOPI en caso de presentar un problema durante los procesos de adquisición de bienes raíces, seguido por la propia inmobiliaria a la que están comprando (22.07%) y luego por un abogado (16.22%).
+
+###### Tabla 1.
+
+Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los antecedentes y la problemática que abarca nuestro proyecto.
+
+| 5W's y 2H's | Pregunta | Descripción |
+|-------------|----------|-------------|
+| What?       | ¿Cuál es el problema? | El problema al que se está enfrentando nuestra startup se basa en la falta de organización y comunicación idónea entre los usuarios y las personas o empresas de venta inmobiliaria, además de la falta de información adecuada y formal que los usuarios poseen sobre las empresas, las adquisiciones, los terrenos, el rubro, etc.|
+| When?       | ¿Cuándo sucede el problema? | Según Arista et al. (2017), los problemas presentandos en los negocios del rubro de inmobiliarias pueden suceder en varias etapas del proceso, pero mayoritariamente se presentan en el desarrollo, con una ineficiencia de gestión o mala comunicación entre el cliente y los agentes, y al final del proceso, con el incumplimiento de contratos y fallas o discrepancias en la entrega del inmueble. |
+| Where?      | ¿Dónde surge el problema? |La problemática surge y se presenta en la falta de idoneidad durante los procesos de adquisición de alguna propiedad, ya sea por una mala supervisión del proceso y de la información, por el incumplimiento de contratos, por la falta de entrega o por defectos en el inmueble, o por una mala atención. 
+|Who?| ¿Quiénes están involucrados? | La inmobiliaria, los agentes, las entidades financieras, inspectores de créditos, gestores de propiedades, usuarios.|
+| Why?        | ¿Cuál es la causa del problema? | Fallos en áreas como la gestion de clientes, una comunicación efectiva, la organización y errores administrativos. Igualmente, la desinformación y complejidad en el uso de las aplicaciones generan este problema |
+| How?        | ¿Qué llevó a la persona a esta situación? | Falta de recursos (personal o tecnología), comunicación deficiente, y entre otros llevan a esta situación.|
+| How Much?   | ¿Cuánto dinero se pierde por este problema? | Aproximadamente un 20% de los ingresos por ineficiencias relacionadas con fallas técnicas y administrativas.|
+
+
 ### 1.2.2. Lean UX Process
 
 Según Gothelf y Seiden (2021), el Lean UX Process es, como tal, una propia evolución dada por los crecimientos y transformaciones de conceptos e ideas en el diseño de productos y servicios, sistemas de iteración y la colaboración eficaz. Este sistema toma las herramientas y metodologías principales de los diseñadores y lo combina con un sistema Agile de desarrollo de Software. De esta forma, provee un modelo que maximiza el entendimiento mutuo, evita el aislamiento y amplifica la participación de todas las partes relacionadas con el proyecto, especialmente la del cliente.
@@ -98,7 +123,3 @@ El sector inmobiliario constituye un ámbito laboral que engloba una extensa var
 Hemos observado que el factor negativo que afecta los procesos de adquisición de inmobiliarias es la ausencia de un medio formal que sirva como intermediario adecuado para respaldar la compra y venta de bienes raíces. Esta carencia genera una sensación de malestar entre los usuarios, pues se enfrentan a una amplia gama de problemas derivados del aumento de la desinformación y la falta de seguridad y garantía. Estos problemas pueden resultar en pérdidas financieras considerablemente significativas para los clientes (Benalcázar et al., 2017).
 
 ¿De qué manera se pueden optimizar los procesos de adquisición de bienes raíces para mejorar la experiencia y seguridad financiera del cliente y eliminar todas las consecuencias producidas por la creciente informalidad?
-
-
-
-

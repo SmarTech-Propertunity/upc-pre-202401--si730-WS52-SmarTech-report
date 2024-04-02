@@ -71,5 +71,10 @@ Análisis Competitivo organizado para todos los competidores potenciales de Lufo
 |                   | **Amenazas** | | - La incertidumbre económica y política en sudamérica puede generar cambios en el mercado y en la demanda de servicios. <br>- El aumento de los costos de desarrollo de software que se presentan en los países sudamericanos. Principalmente en Brasil y Colombia. <br>- La evolución tecnológica puede generar nuevas barreras de comunicación y dificultar la oferta de servicios. | - La incertidumbre económica y política en Perú puede generar cambios en la demanda de servicios y en las preferencias de obtención de viviendas en otros países. <br>- La evolución tecnológica puede generar nuevas barreras de comunicación y dificultar la oferta de servicios. | - La incertidumbre económica y política en Perú puede generar cambios en la demanda de servicios y en las preferencias de obtención de viviendas en otros países. <br>- La evolución tecnológica puede generar nuevas barreras de comunicación y dificultar la oferta de servicios. |
 
 
+### 2.3.1. User Personas
 
-<img src="./assets/img/segmento1-compradores.png" alt="Segmento 1 compradores">
+###### Primer segmento objetivo: Personas que deseen comprar o alquilar una propiedad
+![Segmento 1 - Compradore](./assets/img/segmento1-compradores.png)
+
+###### Segundo segmento objetivo: Anunciantes que deseen publicar una propiedad en venta o alquiler
+![Segmento 2 - Anunciantes](./assets/img/segmento2-anunciantes.png)

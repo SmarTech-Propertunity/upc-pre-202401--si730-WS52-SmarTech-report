@@ -71,11 +71,20 @@ Análisis Competitivo organizado para todos los competidores potenciales de Prop
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-Ejemplos:
+**Mejora de la Interfaz:**
+Al examinar el caso de "AdondeVivir", se ha identificado que uno de los principales obstáculos para la aceptación y popularidad de su plataforma web radica en su interfaz poco intuitiva y poco atractiva.
 
-**Calidad:**
+Con el objetivo de obtener una ventaja competitiva en este ámbito, planeamos diseñar interfaces más atractivas para los usuarios. Esto implicará el uso de colores más armoniosos y relacionados con el sector inmobiliario, así como la selección de tipos de letra legibles y amigables. Además, se mejorará la organización de la información y se proporcionará una experiencia más interactiva destacando las cualidades más relevantes de cada propiedad, acompañadas de imágenes en 360 grados y folletos de los anunciantes.
 
-**Marketing:**
+**Diversificación de Servicios:**
+Al analizar el caso de "Edifica", se ha identificado que uno de sus principales desafíos radica en la limitada diversificación de sus servicios, lo cual ha restringido su alcance de mercado y la atracción de inversiones significativas.
+
+Dado que Edifica se enfoca principalmente en la construcción y venta de grandes proyectos de departamentos, nuestro enfoque de diversificación relacionada ampliará este alcance. Permitiremos a los usuarios ofrecer una variedad de propiedades, desde viviendas individuales hasta complejos de departamentos. Además, facilitaremos la venta de bienes raíces con diversas características, en diferentes ubicaciones geográficas y en diversos estados de desarrollo.
+
+**Estrategia de Marketing:**
+Al analizar el caso de "LaEncontré", se ha identificado que su falta de popularidad en el mercado peruano y latinoamericano se debe en gran medida a la falta de presencia y estrategias de marketing virtual efectivas.
+
+Aunque optaremos por no emplear un enfoque de marketing agresivo, implementaremos métodos consistentes y campañas en redes sociales para captar la atención de nuestro público objetivo. Nos centraremos en transmitir nuestros valores y visión a través de plataformas como Instagram, Facebook y Twitter (modo empresarial), y complementaremos estas estrategias con vídeos instructivos en Youtube y contenido breve en TikTok. Además, consideraremos la posibilidad de anunciarnos en periódicos como Ojo, Trome y El Comercio para alcanzar una audiencia más amplia.
 
 ---
 

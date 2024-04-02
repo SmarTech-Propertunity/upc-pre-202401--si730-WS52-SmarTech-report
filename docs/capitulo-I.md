@@ -50,6 +50,8 @@ Mi nombre es Carlos Joel Shimabukuro Uku, soy un estudiante de la carrera de Ing
 
 Soy una persona detallista, trabajadora y que siempre hace lo posible por mejorar. Mis características me permiten avanzar los trabajos de forma rápida, adecuada y ágil, siempre apoyando a mis compañeros en lo posible y esforzandome en cada vez entregar un mejor producto. Asimismo, tengo conocimientos en distintos lenguajes y modelos de programación como C++, Python, HTML y CSS, MySQL, MongoDB y Cyprus. A modo de desarrollar el proyecto, desempañere el rol de **Product Owner**.
 
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-1/assets/img/3 - 4 Ciclo.jpg" alt="Flavio Eduardo Trigueros Chumacero" width="200" height="260">
+
 ---
 #### Valenzuela Huillcaya, Aldhair Johan Juan - U20201F572 - Ingeniería de Software
 
@@ -68,7 +70,7 @@ Seguir creciendo mis aptitudes profesionales como ingenierio de Software.<br>
 > Puede que todos los días no sean buenos, pero hay algo bueno en cada día
 
 <img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-1/assets/img/profile-lucio.png" alt="Lucio Heli Yen Cerna" width="250" height="200">
----
+
 
 ## 1.2. Solution Profile
 

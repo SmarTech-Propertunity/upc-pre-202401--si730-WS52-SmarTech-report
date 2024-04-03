@@ -47,6 +47,8 @@ Me llamo Rubén Mallma Quispe y soy un ingeniero de software. Me gusta escuchar 
 
 Mi nombre es Carlos Joel Shimabukuro Uku, soy un estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente cursando el quinto ciclo académico. Tengo experiencia principalmente en la programación orientada a objetos utilizando el lenguaje de C++, al igual que un conocimiento básico en HTML, CSS y Java Script. En este trabajo, tengo como meta la de aplicar todo lo aprendido en el transcurso del proyecto y conseguir un mejor entendimiento acerca de mi rol como futuro profesional. A modo de desarrollar el proyecto, desempañere el rol de **Scrum Member**.
 
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-1/assets/img/profiles/Profile-Carlos.png" alt="Carlos Joel Shimabukuro Uku" width="200" height="300">
+
 ---
 #### Trigueros Chumacero, Flavio Eduardo - U202210190 - Ingeniería de Software
 
@@ -131,6 +133,52 @@ El sector inmobiliario constituye un ámbito laboral que engloba una extensa var
 Hemos observado que el factor negativo que afecta los procesos de adquisición de inmobiliarias es la ausencia de un medio formal que sirva como intermediario adecuado para respaldar la compra y venta de bienes raíces. Esta carencia genera una sensación de malestar entre los usuarios, pues se enfrentan a una amplia gama de problemas derivados del aumento de la desinformación y la falta de seguridad y garantía. Estos problemas pueden resultar en pérdidas financieras considerablemente significativas para los clientes (Benalcázar et al., 2017).
 
 ¿De qué manera se pueden optimizar los procesos de adquisición de bienes raíces para mejorar la experiencia y seguridad financiera del cliente y eliminar todas las consecuencias producidas por la creciente informalidad?
+
+#### 1.2.2.2. Lean UX Assumptions
+
+- **User Outcomes:** 
+
+1. ¿Quién es el usuario?
+Los usuarios de nuestro servicio son personas mayores de 18 años que buscan comprar, alquilar un inmueble de un agente inmobiliario de forma eficiente y segura. Las agencias inmobiliarias y gestores de propiedades que desean exponer sus locales. Las entidades financieras y inspectores de créditos que proporcionaran información acerca de los créditos y presupuestos. 
+ 
+2. ¿Dónde encaja nuestro producto en su trabajo o vida?
+Encaja en múltiples etapas del proceso de compra, venta y alquiler de un inmueble, en el cual les permitirá generar presupuestos de financiamiento y gestionar su actividad.
+
+3. ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
+Nuestra plataforma puede enfrentarse a una falta de alcance, lo que perjudicaría el desarrollo del servicio. Así como, la falta de credibilidad debido	al corto tiempo dentro del mercado impidiendo la estabilización de la aplicación web. 
+
+4. ¿Cuándo y cómo es usado nuestro producto?
+Nuestra plataforma está diseñada para ser utilizado como nexo durante el proceso completo de la compra, venta o alquiler de un inmueble entre los usuarios y los anunciantes. El acceso y su funcionamiento deben llevarse a cabo exclusivamente a través de la plataforma web designada para el servicio.
+
+5. ¿Qué características son importantes? 
+Las características más importantes de nuestra plataforma serán, la búsqueda y publicación de inmuebles en venta o alquiler, la intermediación entre los usuarios y las agencias de inmuebles, proporcionar una fácil gestión de la actividad inmobiliaria y la orientación financiera mediante presupuestos y herramientas especializadas.
+
+6. ¿Cómo debe verse nuestra aplicación y cómo debe comportarse?
+Nuestra aplicación web debe proporcionar una interfaz amigable, intuitiva y de diseño sencillo. Además de funcionamiento eficiente que pueda ser utilizado en una gran gama de dispositivos inteligentes.
+
+- **Business Outcomes:**
+
+1. Creemos que nuestros clientes necesitan una plataforma donde puedan encontrar un agente inmobiliario de forma confiable. También, una conexión directa en el proceso de compra, venta o alquiler lo más transparentemente posible y mediante una plataforma amigable.
+
+2.  Estas necesidades se pueden resolver mediante la implementación de una plataforma donde los usuarios puedan buscar y publicar inmuebles, además de proporcionar herramientas que faciliten los procesos realizados por los usuarios.
+
+3.  Nuestros clientes iniciales son personas mayores a 18 años que busquen compra, vender o alquilar un inmueble.
+
+4.  El valor numero uno que un cliente quiere de nuestra plataforma es la familiarización con el ambiente y los procesos inmobiliarios. 
+
+5. El cliente también puede obtener estos beneficios adicionales de herramientas inmobiliarias especializadas que presenten interfaces fáciles de entender.
+
+6. Voy a adquirir la mayoría de mis clientes a través de marketing digital en redes sociales y de boca a boca.
+
+7. Haremos dinero a través de donaciones voluntarias, dentro del aplicativo web y mediante anuncios publicidad.
+
+8. Nuestra competencia principal serán las aplicaciones o servicios dentro del mismo rubro con mayor experiencia y años dentro del mercado.
+
+9. Los venceremos debido a la en la implementación de un software innovador e intuitivo que podrá aportar mejores funcionalidades a nuestros usuarios.
+
+10.  Nuestro mayor riesgo es la insatisfacción e inconformidad del cliente con nuestra aplicación web propuesto o que no cumpla sus expectativas.
+
+11.  Se resolverán los problemas con el desarrollo y lanzamiento de mejoras continua.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 

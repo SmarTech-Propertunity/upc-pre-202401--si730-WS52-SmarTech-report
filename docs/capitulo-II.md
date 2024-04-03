@@ -236,7 +236,7 @@ Nota. .
 
 ### 2.2.3. Análisis de entrevistas
 
-A modo de análisis de la información recopilada mediante las entrevistas, 
+A modo de análisis de la información recopilada mediante las entrevistas, se desarrolló un Google Forms con el objetivo de representar datos estadísticos y como herramienta de interpretación.
 
 **Segmento 1:** 
 
@@ -264,6 +264,22 @@ A modo de análisis de la información recopilada mediante las entrevistas,
 
 
 **Segmento 2:**
+
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento2-a.png" alt="Analisis entrevista segmento 2" width="600" height="300">
+
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento2-b.png" alt="Analisis entrevista segmento 2" width="600" height="300">
+
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento2-c.png" alt="Analisis entrevista segmento 2" width="600" height="300">
+
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento2-d.png" alt="Analisis entrevista segmento 2" width="600" height="300">
+
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento2-e.png" alt="Analisis entrevista segmento 2" width="600" height="300">
+
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento2-f.png" alt="Analisis entrevista segmento 2" width="600" height="300">
+
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento2-g.png" alt="Analisis entrevista segmento 2" width="600" height="300">
+
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento2-h.png" alt="Analisis entrevista segmento 2" width="600" height="300">
 
 ---
 

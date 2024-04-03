@@ -353,8 +353,12 @@ Modelo de User Journey Mapping de nuestro segundo user persona seleccionado.
 ###### Figura 9.
 Empathy Map del primer user persona desarrollado.
 
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/empathyMap_segmento1.png" alt="Empathy Map Segmento 1">
+
 ###### Figura 10.
 Empathy Map del segundo user persona desarrollado.
+
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/empathyMap_segmento1.png" alt="Empathy Map Segmento 1">
 
 ### 2.3.5. As-is Scenario Mapping
 ###### Tabla 4.

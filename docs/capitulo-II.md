@@ -165,15 +165,17 @@ Nota. El entrevistado, Yair Aru Acevedo, un estudiante de 20 años de ingenierí
 ###### Figura 4
 Imagen de presentación de la tercera entrevista realizada.
 
-Nota. .
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/entrevista3-segmento1.png" alt="Entrevista3 Segmento 1" width="400" height="200">
+
+Nota. El señor Rubén es una persona quien está buscando comprar una propiedad y nos comenta cómo encuentra las propiedades en diferentes plataformas como Facebook Marketplace, OLX, búsquedas de Google e inclusive anuncios en periódicos. Él no tiene problemas en manejar estas herramientas tecnológicas pues lo que usa es fácil de usar, mas no están especializadas para la adquisición de inmobiliarias o propiedades en general. También ha buscado en anuncios o pancartas puestas en las propiedades y comenta que suele ser difícil encontrar una que se adecúe a sus necesidades o a las características que busca. Él está dispuesto a usar nuevas plataformas o aplicaciones que estén especializadas en este tipo de búsquedas. Finalmente, recomendaría este tipo de aplicación con sus conocidos.
 
 **Datos principales:**
-- Nombre completo del entrevistado: 
-- Edad: 
-- Distrito: 
-- Link:
-- Inicio de la entrevista: 0.01
-- Duración: 
+- Nombre completo del entrevistado: Rubén Mallma Capcha Carlos
+- Edad: 49
+- Distrito: Villa María del Triunfo
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214234_upc_edu_pe/EeUzTO7RiKFOvv4O1MD2-jUB8OAj8tcZMbqTJeAC8jau0w?e=9s2w7d
+- Inicio de la entrevista: 00:00
+- Duración: 08:51
 		
 **Transcripción de la entrevista:**
 
@@ -213,7 +215,7 @@ Nota. La entrevistada, Ximena Vilchez Paredes, una estudiante de Derecho y asist
 - Nombre completo del entrevistado: Ximena Fernanda Vilchez Paredes
 - Edad: 21
 - Distrito: Villa el Salvador
-- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f572_upc_edu_pe/EYo_baMPJz5Jivsu5hZtmiMB1yefCMGWpZDu2N8Ll7x7Aw?e=H5sjYv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214234_upc_edu_pe/EeUzTO7RiKFOvv4O1MD2-jUB8OAj8tcZMbqTJeAC8jau0w?e=7gTdKF
 - Inicio de la entrevista: 0.01
 - Duración: 6.27
 		
@@ -225,15 +227,17 @@ Nota. La entrevistada, Ximena Vilchez Paredes, una estudiante de Derecho y asist
 ###### Figura 7
 Imagen de presentación de la sexta entrevista realizada.
 
-Nota. .
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/entrevista3-segmento2.png" alt="Entrevista3 Segmento 2" width="400" height="200">
+
+Nota. Nuestra entrevistada nos comparte sus dudas y opiniones acerca de cómo y dónde ella publica o anuncia las propiedades a alquilar. Principalmente, nos cuenta que tiene dificultades para poder anunciar puesto que el uso de carteles o pancartas puestas en la propiedad a alquilar resulta ser ineficiente. Segundo, ella muestra interés en usar nuestra aplicación ya que de esta forma podría ofrecer mayor detalle y así aumentar las probabilidades de alquilar su propiedad más rapido. Y por ultimo, ella está dispuesta a confiar en una aplicación especializada que facilite la compra y venta de propiedades ya que ella tiene precaución en cuanto a estafas o plataformas que no sean de confiar.
 
 **Datos principales:**
-- Nombre completo del entrevistado: 
-- Edad: 
-- Distrito: 
-- Link:
-- Inicio de la entrevista: 
-- Duración: 
+- Nombre completo del entrevistado: Rosalinda Quispe Ramos 
+- Edad: 42
+- Distrito: Villa Maria del Triunfo
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214234_upc_edu_pe/EfFMFMj_jsJHsLYP6GBV610BR4bPG1itVhk20FcgqCfZQQ?e=UkbpCe
+- Inicio de la entrevista: 00:00
+- Duración: 09:45
 
 ---
 

@@ -219,7 +219,7 @@ Nuestra aplicación web debe proporcionar una interfaz amigable, intuitiva y de 
 ###### Figura 1.
 *Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los antecedentes y la problemática que abarca nuestro proyecto.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-1/assets/img/Lean UX Canvas.png" alt="Lean UX Canvas" >
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-1/assets/img/Lean UX Canvas.png" alt="Lean UX Canvas" width="1000" height="1450" >
 
 ---
 

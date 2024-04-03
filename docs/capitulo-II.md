@@ -385,7 +385,7 @@ User 2: Anunciantes que Deseen Publicar una Propiedad en Venta o Alquiler
 ## 2.4. Ubiquitous Language
 Según Domain Driven Design (2019), The ubiquitous language o el lenguaje ubicuo es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en común entre todos los implicados dentro del contexto del negocio. A continuación, se han identificado los siguientes conceptos que ayudarán a crear un nexo entre los usuarios y los desarrolladores:
 
-- Propiedad: En lugar de “casa” o “apartamento”, utiliza “propiedad” como un término genérico.
+- Propiedad: En lugar de “casa” o “apartamento”, se utiliza “propiedad” como un término genérico.
 - Inmueble: Para referirse a cualquier tipo de propiedad (residencial, comercial, industrial, etc.).
 - Arrendador: En lugar de “dueño” o “propietario”.
 - Arrendatario: En lugar de “inquilino”.

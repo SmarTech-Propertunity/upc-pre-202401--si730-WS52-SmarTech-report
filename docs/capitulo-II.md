@@ -146,15 +146,17 @@ Nota. Piero tiene 23 años, reside en el distrito de Barranco y es estudiante de
 ###### Figura 3
 Imagen de presentación de la segunda entrevista realizada.
 
-Nota. .
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Entrevista2-Segmento1.png" alt="Entrevista 2 Segmento 1" width="400" height="200">
+
+Nota. El entrevistado, Yair Aru Acevedo, un estudiante de 20 años de ingeniería de software, revela su interés en adquirir una propiedad con su familia, destacando los desafíos financieros y crediticios que enfrentan. Menciona la importancia de una comunicación más eficiente entre compradores y vendedores, señalando la aplicación Property Unity como una posible solución. Aunque muestra escepticismo sobre la membresía de la aplicación como cliente, reconoce su utilidad potencial para los vendedores al mejorar la promoción y el contacto con los clientes. Destaca la necesidad de una plataforma segura y regulada para buscar propiedades, tanto como usuario como vendedor, resaltando la conveniencia y la seguridad que proporcionaría una plataforma dedicada a este fin.
 
 **Datos principales:**
-- Nombre completo del entrevistado: 
-- Edad: 
-- Distrito: 
-- Link: 
-- Inicio de la entrevista: 
-- Duración: 
+- Nombre completo del entrevistado: Yair Aru Acevedo
+- Edad: 20
+- Distrito: Chorrillos
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f572_upc_edu_pe/ETBbFDXtsKxAknVALJjnuCIBhWIcGfMwADZN38xwMM6ERg?e=cqWdcc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+- Inicio de la entrevista: 0.01
+- Duración: 10.06
 
 ---
 
@@ -204,15 +206,16 @@ Nota. Paolo tiene 22 años, reside en el distrito de San Borja y es un ingeniero
 ###### Figura 6
 Imagen de presentación de la quinta entrevista realizada.
 
-Nota. .
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Entrevista2-Segmento2.png" alt="Entrevista Segmento 2" width="400" height="200">
+Nota. La entrevistada, Ximena Vilchez Paredes, una estudiante de Derecho y asistente legal en estudio jurídico, comparte su experiencia en alquilar propiedades utilizando medios digitales como Marketplace y Mercado Libre, destacando la rapidez y facilidad de acceso que estas plataformas brindan para publicitar propiedades. Ella menciona los desafíos de comunicación con los interesados, especialmente en obtener números de contacto para una comunicación más efectiva. Además, muestra interés en una aplicación como Propportunity que ofrece simulaciones crediticias y personalización de anuncios, lo que aumentaría su seguridad al alquilar propiedades. Finalmente, recomienda esta plataforma por su facilidad de uso y seguridad, lo que la hace atractiva para aquellos en el rubro inmobiliario.
 
 **Datos principales:**
-- Nombre completo del entrevistado: 
-- Edad: 
-- Distrito: 
-- Link:
-- Inicio de la entrevista: 
-- Duración: 
+- Nombre completo del entrevistado: Ximena Fernanda Vilchez Paredes
+- Edad: 21
+- Distrito: Villa el Salvador
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f572_upc_edu_pe/EYo_baMPJz5Jivsu5hZtmiMB1yefCMGWpZDu2N8Ll7x7Aw?e=H5sjYv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+- Inicio de la entrevista: 0.01
+- Duración: 6.27
 		
 
 ---

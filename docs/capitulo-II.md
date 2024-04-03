@@ -319,6 +319,9 @@ Modelo de User Journey Mapping de nuestro primer user persona seleccionado.
 ###### Figura 8.
 Modelo de User Journey Mapping de nuestro segundo user persona seleccionado.
 
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Journey Mapping - Miguel Arias.png" alt="Journey Mapping - Miguel Arias" width="1100" height="620">
+
+
 ### 2.3.4. Empathy Mapping
 ###### Figura 9.
 Empathy Map del primer user persona desarrollado.

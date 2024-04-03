@@ -1,10 +1,12 @@
+# Capítulo II: Requirements Elicitation & Analysis
+
 ## 2.1. Competidores
 
 Nuestro proyecto está orientado en el desarrollo de un sistema de software que ofrece un enfoque integral para la búsqueda y evaluación de propiedades inmobiliarias con una interfaz intuitiva y fácil de usar, proporcionando información detallada y actualizada. En base a estas características especiales de nuestro aplicativo, hemos realizado una búsqueda, presentación y análisis de algunos posibles competidores potenciales que podrían hacernos frente después de la salida de nuestro producto al mercado, además de entorpecer el futuro y seguridad económica de nuestra startup. Este grupo de competidores pueden llegar a ser notorias amenazas para nuestro equipo de trabajo, puesto que poseen mejores conocimientos en el mundo de la programación de aplicativos web, marketing y finanzas, además de que poseen equipos de trabajo más profesionales y multidisciplinarios que el nuestro. Estos competidores a resaltar son los siguientes:
 
 ---
 
-**adondevivir:**
+**1. adondevivir:**
 - **Página web principal:** [adondevivir.com](https://www.adondevivir.com/)
 - Es un aplicativo web peruano que opera en gran parte de suramérica y mantiene el principal objetivo de facilitar el proceso de compra, venta o alquiler de bienes raíces mediante el uso de tecnología y herramientas digitales sofisticadas junto a mejores medios de comunicación. Esto lo consigue mediante varias funcionalidades relevantes como:
     - **Búsqueda avanzada:** Los usuarios pueden realizar búsquedas específicas utilizando filtros como ubicación, tipo de propiedad, precio, tamaño, número de habitaciones, características resaltantes, estado o fase de la construcción entre otros criterios.
@@ -19,7 +21,7 @@ Nuestro proyecto está orientado en el desarrollo de un sistema de software que 
 
 ---
 
-**Edifica:**
+**2. Edifica:**
 - **Página web principal:** [edifica.com.pe](https://edifica.com.pe/)
 - Es un aplicativo web peruano que mantiene el principal objetivo de proporcionar información y servicios relacionados con el sector inmobiliario para facilitar y mejorar la experiencia de compra, venta o alquiler de propiedades. Esto lo consigue mediante varias funcionalidades relevantes como:
     - **Listados muy detallados:** Cada propiedad en el sitio suele tener una página detallada con información sobre características específicas, fotos con 360°, ubicación en el mapa, precio, planos a profundidad y detalles de contacto del agente o propietario junto a horarios de atención. Cabe resaltar que también proporciona brochures o dípticos informativos.
@@ -32,7 +34,7 @@ Nuestro proyecto está orientado en el desarrollo de un sistema de software que 
 
 ---
 
-**LaEncontré:**
+**3. LaEncontré:**
 - **Página web principal:** [laencontre.com.pe](https://laencontre.com.pe/)
 - Es un aplicativo web peruano que mantiene el principal objetivo de facilitar el proceso de búsqueda, compra y venta de propiedades inmobiliarias. Esto lo consigue mediante varias funcionalides relevantes como:
     - **Búsqueda avanzada:** Los usuarios pueden realizar búsquedas específicas utilizando filtros como ubicación, tipo de propiedad, precio, número de habitaciones, entre otros criterios.

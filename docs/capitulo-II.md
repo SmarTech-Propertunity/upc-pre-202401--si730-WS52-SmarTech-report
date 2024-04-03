@@ -41,6 +41,7 @@ Nuestro proyecto está orientado en el desarrollo de un sistema de software que 
     - **Listados detallados:** Cada propiedad en el sitio suele tener una página detallada con información sobre características, fotos, ubicación en el mapa, precio y detalles de contacto del agente o propietario.
     - **Conexión directa con anunciantes:** Cada usuario puede enviar información y contactarse directamente con los anunciantes y asesores de todas las propiedades.
     - **Herramientas de financiamiento:** Proporciona información sobre opciones de financiamiento disponibles para ayudar a los compradores a entender mejor sus opciones financieras.
+    - **Comunidad y consejos:** Ofrece foros comunitarios, blogs o secciones de consejos para ayudar a los usuarios con información útil sobre compra, venta o alquiler de propiedades.
     - **Publicación de inmuebles:** Ofrece modelos de ingreso de datos bastante detallados sobre la empresa en la que se trabaja y los inmuebles presentados.
  - De esta forma, el segmento de mercado de esta aplicación puede estar completamente seguro durantes sus adquisiciones de bienes raíces variados, siguiendo los modelos financieros y las recomendaciones de la comunidad. 
 
@@ -382,3 +383,6 @@ User 2: Anunciantes que Deseen Publicar una Propiedad en Venta o Alquiler
 |Feeling | Los anunciantes pueden sentirse abrumados por la gestión de múltiples listados en diferentes plataformas y la competencia en el mercado.| Los anunciantes pueden sentirse abrumados por la cantidad de consultas y la necesidad de gestionarlas de manera efectiva para cerrar la transacción.| Los anunciantes pueden sentir preocupación por la competencia y la necesidad de destacarse entre otras propiedades similares en el mercado.| Los anunciantes pueden sentirse preocupados por la necesidad de mantenerse al día con cambios en la propiedad y actualizaciones en la plataforma.|
 
 ## 2.4. Ubiquitous Language
+
+
+

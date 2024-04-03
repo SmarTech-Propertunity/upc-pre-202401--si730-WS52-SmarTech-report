@@ -1,10 +1,10 @@
-# Capítulo I: Introducción
+ # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
 
 Según el Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual (2022), entre enero de 2019 y abril de 2022, se han impuesto 1,589 sanciones, resultando en aproximadamente S/ 21,286,830 (equivalente a 4,956.4 UIT) en multas para proveedores del sector inmobiliario. Además, se ha señalado que desde el inicio del año 2022 hasta abril, el Centro Especial de Monitoreo (CEMI) ha registrado 514 reportes y consultas sobre problemas en dicho sector. Los principales inconvenientes reportados están relacionados con el incumplimiento de contratos (173 casos), falta de reembolso de abonos (132 casos), falta de entrega del inmueble (78 casos), defectos en el inmueble (63 casos) y la atención no adecuada por parte del personal (11 casos).
 
-Por este motivo, un equipo comformado por estudiantes de la Universidad Peruana de Ciencias Aplicadas, ha fundado SmartTech, una startup innovadora que se especializa en el desarrollo de soluciones tecnológicas disruptivas para el sector inmobiliario en nuestro país. Estamos dispuestos a revolucionar la forma en que las personas encuentran, evalúan y adquieren propiedades, ofreciendo herramientas inteligentes y accesibles que simplifican todo el proceso de búsqueda y compra de bienes raíces.
+Por este motivo, un equipo conformado por estudiantes de la Universidad Peruana de Ciencias Aplicadas, ha fundado SmartTech, una startup innovadora que se especializa en el desarrollo de soluciones tecnológicas disruptivas para el sector inmobiliario en nuestro país. Estamos dispuestos a revolucionar la forma en que las personas encuentran, evalúan y adquieren propiedades, ofreciendo herramientas inteligentes y accesibles que simplifican todo el proceso de búsqueda y compra de bienes raíces.
 
 Nosotros estamos comprometidos con la innovación y la excelencia, y continuamos trabajando para mejorar y expandir nuestras soluciones tecnológicas para satisfacer las necesidades cambiantes del mercado inmobiliario. Ante esto, hemos programado y patentado la aplicación web de nombre Propertunity, con la cual estamos redefiniendo y mejorando la experiencia del usuario.
 
@@ -14,7 +14,7 @@ Esta aplicación web ofrece información confiable y actualizada sobre oportunid
 
 - **Misión:** 
 
-Nuestra misión es proporcionar una aplicación web peruana a las personas que buscan adquirir una propiedad, con el fin de garantizarles una experiencia siempre satisfactoria, un mayor control sobre sus adquisiciones y evitar cualquier problema o dscrepancia durante el proceso.
+Nuestra misión es proporcionar una aplicación web peruana a las personas que buscan adquirir una propiedad, con el fin de garantizarles una experiencia siempre satisfactoria, un mayor control sobre sus adquisiciones y evitar cualquier problema o discrepancia durante el proceso.
 
 - **Visión:** 
 
@@ -28,7 +28,7 @@ En SmartTech, estamos comprometidos con una serie de valores fundamentales que g
 2. **Colaboración y trabajo en equipo:** Valoramos la colaboración entre nuestros equipos internos y con nuestros clientes, reconociendo que el éxito se logra mejor cuando trabajamos juntos hacia un objetivo común.
 3. **Compromiso con el cliente:** Ponemos las necesidades y deseos de nuestros clientes en el centro de todo lo que hacemos, esforzándonos por superar sus expectativas en cada oportunidad posible.
 4. **Compromiso con la excelencia:** Nos esforzamos por ofrecer un servicio de la más alta calidad en todo momento, buscando la perfección en cada aspecto de nuestro trabajo y manteniendo altos estándares de profesionalismo.
-5. **Ética empresarial:** Nos comprometemos a operar de manera ética y responsable, contribuyendo positivamente a nuestros segmento de mercado y a la sociedad en general. 
+5. **Ética empresarial:** Nos comprometemos a operar de manera ética y responsable, contribuyendo positivamente a nuestros segmentos de mercado y a la sociedad en general. 
 6. **Innovación:** Buscamos constantemente nuevas formas de utilizar la tecnología de software para mejorar la experiencia y asegurar la privacidad de todos nuestros clientes.
 7.  **Respeto:** Mantenemos un ambiente amigable y respetuoso de forma interna y externa en todo momento, tanto para nuestros trabajadores como para nuestros clientes.
 8. **Transparencia y confianza:** Actuamos con integridad en todas nuestras interacciones, proporcionando información clara y precisa sobre las propiedades disponibles, las empresas que venden las propiedades, los precios y los términos de compra.
@@ -37,7 +37,7 @@ En SmartTech, estamos comprometidos con una serie de valores fundamentales que g
 
 #### Mallma Quispe, Rubén Elías - U202214234 - Ingeniería de Software
 
-Me llamo Rubén Mallma Quispe y soy un ingeniero de software. Me gusta escuchar música, estar en compañía de mis seres queridos, y sobre todo ser una persona de éxito. Actualmente estoy trabajando como desarrollador en una empresa naciente y me alegra estar ya poniendo en práctica todos mis conociementos. Como algunas de mis habilidades técnicas puedo decir que sé los lenguajes de programación de C++, Java y Kotlin sólidamente, y sigo aprendiendo. Gracias por leer esta descripción; en este maravilloso proyecto, desempeñaré el rol de **Scrum Member**.
+Me llamo Rubén Mallma Quispe y soy un ingeniero de software. Me gusta escuchar música, estar en compañía de mis seres queridos, y sobre todo ser una persona de éxito. Actualmente estoy trabajando como desarrollador en una empresa naciente y me alegra estar ya poniendo en práctica todos mis conocimientos. Como algunas de mis habilidades técnicas puedo decir que sé los lenguajes de programación de C++, Java y Kotlin sólidamente, y sigo aprendiendo. Gracias por leer esta descripción; en este maravilloso proyecto, desempeñaré el rol de **Scrum Member**.
 
 <img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-1/assets/img/profiles/profile-Ruben.png" alt="Ruben Mallma Quispe" width="200" height="280"> 
 
@@ -45,21 +45,21 @@ Me llamo Rubén Mallma Quispe y soy un ingeniero de software. Me gusta escuchar 
 
 #### Shimabukuro Uku, Carlos Joel - U201912407 - Ingeniería de Software
 
-Mi nombre es Carlos Joel Shimabukuro Uku, soy un estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente cursando el quinto ciclo académico. Tengo experiencia principalmente en la programación orientada a objetos utilizando el lenguaje de C++, al igual que un conocimiento básico en HTML, CSS y Java Script. En este trabajo, tengo como meta la de aplicar todo lo aprendido en el transcurso del proyecto y conseguir un mejor entendimiento acerca de mi rol como futuro profesional. A modo de desarrollar el proyecto, desempañere el rol de **Scrum Member**.
+Mi nombre es Carlos Joel Shimabukuro Uku, soy un estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente cursando el quinto ciclo académico. Tengo experiencia principalmente en la programación orientada a objetos utilizando el lenguaje de C++, al igual que un conocimiento básico en HTML, CSS y Java Script. En este trabajo, tengo como meta la de aplicar todo lo aprendido en el transcurso del proyecto y conseguir un mejor entendimiento acerca de mi rol como futuro profesional. A modo de desarrollar el proyecto, desempeñaré el rol de **Scrum Member**.
 
 <img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-1/assets/img/profiles/Profile-Carlos.png" alt="Carlos Joel Shimabukuro Uku" width="200" height="300">
 
 ---
 #### Trigueros Chumacero, Flavio Eduardo - U202210190 - Ingeniería de Software
 
-Soy una persona detallista, trabajadora y que siempre hace lo posible por mejorar. Mis características me permiten avanzar los trabajos de forma rápida, adecuada y ágil, siempre apoyando a mis compañeros en lo posible y esforzandome en cada vez entregar un mejor producto. Asimismo, tengo conocimientos en distintos lenguajes y modelos de programación como C++, Python, HTML y CSS, MySQL, MongoDB y Cyprus. A modo de desarrollar el proyecto, desempañere el rol de **Product Owner**.
+Soy una persona detallista, trabajadora y que siempre hace lo posible por mejorar. Mis características me permiten avanzar los trabajos de forma rápida, adecuada y ágil, siempre apoyando a mis compañeros en lo posible y esforzándome en cada vez entregar un mejor producto. Asimismo, tengo conocimientos en distintos lenguajes y modelos de programación como C++, Python, HTML y CSS, MySQL, MongoDB y Cyprus. A modo de desarrollar el proyecto, desempeñaré el rol de **Product Owner**.
 
 <img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-1/assets/img/profiles/Profile-Flavio.png" alt="Flavio Eduardo Trigueros Chumacero" width="200" height="280">
 
 ---
 #### Valenzuela Huillcaya, Aldhair Johan Juan - U20201F572 - Ingeniería de Software
 
-Soy estudiante de Ingeniería de software en la Universidad peruana de Ciencias Aplicadas (UPC). Me considero una persona altamente responsable, organizada, puntual y empática. Mi capacidad de adaptación a entornos cambiantes y habilidad para trabajar colaborativamente en equipo son aspectos destacados de mi perfil. Tengo conocimientos en Python, C++, HTML, CSS, Javascript, MySQL, MongoDB y SQLite. A modo de desarrollar el proyecto, desempeñaré el rol de **Scrum Member**
+Soy estudiante de Ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona altamente responsable, organizada, puntual y empática. Mi capacidad de adaptación a entornos cambiantes y habilidad para trabajar colaborativamente en equipo son aspectos destacados de mi perfil. Tengo conocimientos en Python, C++, HTML, CSS, Javascript, MySQL, MongoDB y SQLite. A modo de desarrollar el proyecto, desempeñaré el rol de **Scrum Member**
 
 
 <img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-1/assets/img/profiles/Profile-Aldhair-.png" alt="Aldhair Johan Juan Valenzuela Huillcaya" width="200" height="200">
@@ -81,7 +81,7 @@ Seguir creciendo mis aptitudes profesionales como ingenierio de Software.<br>
 
 En SmartTech, buscamos entregar productos de calidad a nuestros usuarios para que puedan tener más seguridad, precisión y comodidad durante todos los procesos de adquisición de propiedades y en los bienes raíces. Con el fin de conseguir esta meta, hemos planteado la programación avanzada de nuestra aplicación estrella: Propertunity.
 
-Propertunity es una aplicación web en el mercado que ofrece un enfoque integral para la búsqueda y evaluación de propiedades inmobiliarias. Con una interfaz intuitiva y fácil de usar, Propertunity permite a los usuarios explorar una amplia gama de listados de propiedades en su área, proporcionando información detallada y actualizada sobre cada propiedad disponible. Asimismo, ofrece tutoriales y secciones de aprendizaje para promover un mejor entendimiento sobre el rubro inmobiliario y disminuir la informalidad.
+Propertunity es una aplicación web en el mercado que ofrece un enfoque integral para la búsqueda y evaluación de propiedades inmobiliarias. Con una interfaz intuitiva y fácil de usar, Propertunity permite a los usuarios explorar una amplia gama de listados de propiedades en su área, proporcionando información detallada y actualizada sobre cada propiedad disponible. Asimismo, ofrece tutoriales y sesiones de aprendizaje para promover un mejor entendimiento sobre el rubro inmobiliario y disminuir la informalidad.
 
 **Características Principales:**
 
@@ -103,7 +103,7 @@ Para analizar los antecedentes y la problemática a la que nuestro proyecto se a
 
 **Antecedentes:**
 
-La casa propia es el anhelo de muchos peruanos; sin embargo, durante los procesos de venta, compra o entrega del inmueble pueden surgir inconvenientes. En los últimos años, el rubro inmobiliario en el Perú ha presentado una reducción del 8% durante el tercer trimestre del 2023, esto mayormente debido a las altas tasas de interés de los créditos hipotecarios y al mal gestionamiento, el cual causo una reducción de las inversiones en el sector privado . Asimismo, el aumento de la informalidad en el Perú a partir del año 2021 provocó que gran parte de las inversiones no tuvieran ningún tipo de garantía y que se provocaran varias quejas por la falta de entrega del inmueble o también por defectos en este o por no presentar ciertos detalles aclarados. Según la Asociación de Desarrolladores Inmobiliarios del Perú (2023), se estima que el 95% de las habilitaciones urbanas presentadas son informales y que, sorprendentemente, el 80% de las propiedades son producto de la autoconstrucción, lo que provoca que sean más propensas a presentar imperfecciones y a ser más vulnerables ante daños, como, por ejemplo, un desastre natural.
+La casa propia es el anhelo de muchos peruanos; sin embargo, durante los procesos de venta, compra o entrega del inmueble pueden surgir inconvenientes. En los últimos años, el rubro inmobiliario en el Perú ha presentado una reducción del 8% durante el tercer trimestre del 2023, esto mayormente debido a las altas tasas de interés de los créditos hipotecarios y a la mala gestión, el cual causó una reducción de las inversiones en el sector privado . Asimismo, el aumento de la informalidad en el Perú a partir del año 2021 provocó que gran parte de las inversiones no tuvieran ningún tipo de garantía y que se provocan varias quejas por la falta de entrega del inmueble o también por defectos en este o por no presentar ciertos detalles aclarados. Según la Asociación de Desarrolladores Inmobiliarios del Perú (2023), se estima que el 95% de las habilitaciones urbanas presentadas son informales y que, sorprendentemente, el 80% de las propiedades son producto de la autoconstrucción, lo que provoca que sean más propensas a presentar imperfecciones y a ser más vulnerables ante daños, como, por ejemplo, un desastre natural.
 
 Por último, es importante destacar que según Arista et al. (2017), existe un gran desconocimiento entre los peruanos sobre el sector inmobiliario, que abarca desde el tipo de transacciones que se deben realizar hasta las garantías proporcionadas por las características de los inmuebles y cuáles son más adecuados según sus necesidades. Además, diversas encuestas revelaron que solo un 22.07% de las personas acudirían al INDECOPI en caso de presentar un problema durante los procesos de adquisición de bienes raíces, seguido por la propia inmobiliaria a la que están comprando (22.07%) y luego por un abogado (16.22%).
 
@@ -114,7 +114,7 @@ Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los
 | 5W's y 2H's | Pregunta | Descripción |
 |-------------|----------|-------------|
 | What?       | ¿Cuál es el problema? | El problema al que se está enfrentando nuestra startup se basa en la falta de organización y comunicación idónea entre los usuarios y las personas o empresas de venta inmobiliaria, además de la falta de información adecuada y formal que los usuarios poseen sobre las empresas, las adquisiciones, los terrenos, el rubro, etc.|
-| When?       | ¿Cuándo sucede el problema? | Según Arista et al. (2017), los problemas presentandos en los negocios del rubro de inmobiliarias pueden suceder en varias etapas del proceso, pero mayoritariamente se presentan en el desarrollo, con una ineficiencia de gestión o mala comunicación entre el cliente y los agentes, y al final del proceso, con el incumplimiento de contratos y fallas o discrepancias en la entrega del inmueble. |
+| When?       | ¿Cuándo sucede el problema? | Según Arista et al. (2017), los problemas presentados en los negocios del rubro de inmobiliarias pueden suceder en varias etapas del proceso, pero mayoritariamente se presentan en el desarrollo, con una ineficiencia de gestión o mala comunicación entre el cliente y los agentes, y al final del proceso, con el incumplimiento de contratos y fallas o discrepancias en la entrega del inmueble. |
 | Where?      | ¿Dónde surge el problema? |La problemática surge y se presenta en la falta de idoneidad durante los procesos de adquisición de alguna propiedad, ya sea por una mala supervisión del proceso y de la información, por el incumplimiento de contratos, por la falta de entrega o por defectos en el inmueble, o por una mala atención. 
 |Who?| ¿Quiénes están involucrados? | La inmobiliaria, los agentes, las entidades financieras, inspectores de créditos, gestores de propiedades, usuarios.|
 | Why?        | ¿Cuál es la causa del problema? | Fallos en áreas como la gestion de clientes, una comunicación efectiva, la organización y errores administrativos. Igualmente, la desinformación y complejidad en el uso de las aplicaciones generan este problema |
@@ -139,7 +139,7 @@ Hemos observado que el factor negativo que afecta los procesos de adquisición d
 - **User Outcomes:** 
 
 1. ¿Quién es el usuario?
-Los usuarios de nuestro servicio son personas mayores de 18 años que buscan comprar, alquilar un inmueble de un agente inmobiliario de forma eficiente y segura. Las agencias inmobiliarias y gestores de propiedades que desean exponer sus locales. Las entidades financieras y inspectores de créditos que proporcionaran información acerca de los créditos y presupuestos. 
+Los usuarios de nuestro servicio son personas mayores de 18 años que buscan comprar, alquilar un inmueble de un agente inmobiliario de forma eficiente y segura. Las agencias inmobiliarias y gestores de propiedades que desean exponer sus locales. Las entidades financieras y inspectores de créditos que proporcionan información acerca de los créditos y presupuestos. 
  
 2. ¿Dónde encaja nuestro producto en su trabajo o vida?
 Encaja en múltiples etapas del proceso de compra, venta y alquiler de un inmueble, en el cual les permitirá generar presupuestos de financiamiento y gestionar su actividad.
@@ -154,17 +154,17 @@ Nuestra plataforma está diseñada para ser utilizado como nexo durante el proce
 Las características más importantes de nuestra plataforma serán, la búsqueda y publicación de inmuebles en venta o alquiler, la intermediación entre los usuarios y las agencias de inmuebles, proporcionar una fácil gestión de la actividad inmobiliaria y la orientación financiera mediante presupuestos y herramientas especializadas.
 
 6. ¿Cómo debe verse nuestra aplicación y cómo debe comportarse?
-Nuestra aplicación web debe proporcionar una interfaz amigable, intuitiva y de diseño sencillo. Además de funcionamiento eficiente que pueda ser utilizado en una gran gama de dispositivos inteligentes.
+Nuestra aplicación web debe proporcionar una interfaz amigable, intuitiva y de diseño sencillo. Además de un funcionamiento eficiente que pueda ser utilizado en una gran gama de dispositivos inteligentes.
 
 - **Business Outcomes:**
 
-1. Creemos que nuestros clientes necesitan una plataforma donde puedan encontrar un agente inmobiliario de forma confiable. También, una conexión directa en el proceso de compra, venta o alquiler lo más transparentemente posible y mediante una plataforma amigable.
+1. Creemos que nuestros clientes necesitan una plataforma donde puedan encontrar un agente inmobiliario de forma confiable. También, una conexión directa en el proceso de compra, venta o alquiler lo más transparente posible y mediante una plataforma amigable.
 
 2.  Estas necesidades se pueden resolver mediante la implementación de una plataforma donde los usuarios puedan buscar y publicar inmuebles, además de proporcionar herramientas que faciliten los procesos realizados por los usuarios.
 
 3.  Nuestros clientes iniciales son personas mayores a 18 años que busquen compra, vender o alquilar un inmueble.
 
-4.  El valor numero uno que un cliente quiere de nuestra plataforma es la familiarización con el ambiente y los procesos inmobiliarios. 
+4.  El valor número uno que un cliente quiere de nuestra plataforma es la familiarización con el ambiente y los procesos inmobiliarios. 
 
 5. El cliente también puede obtener estos beneficios adicionales de herramientas inmobiliarias especializadas que presenten interfaces fáciles de entender.
 
@@ -176,7 +176,7 @@ Nuestra aplicación web debe proporcionar una interfaz amigable, intuitiva y de 
 
 9. Los venceremos debido a la en la implementación de un software innovador e intuitivo que podrá aportar mejores funcionalidades a nuestros usuarios.
 
-10.  Nuestro mayor riesgo es la insatisfacción e inconformidad del cliente con nuestra aplicación web propuesto o que no cumpla sus expectativas.
+10.  Nuestro mayor riesgo es la insatisfacción e inconformidad del cliente con nuestra aplicación web propuesta o que no cumpla sus expectativas.
 
 11.  Se resolverán los problemas con el desarrollo y lanzamiento de mejoras continua.
 
@@ -184,11 +184,11 @@ Nuestra aplicación web debe proporcionar una interfaz amigable, intuitiva y de 
 
 - **Hypothesis 1**
 
-    Creemos que facilitar a los usuarios el acceso a cálculos de financiamiento para las propiedades que capturan su interés no solo enriquecerá su experiencia de búsqueda, sino que también les proporcionará una herramienta invaluable para tomar decisiones informadas y personalizadas en tiempo real.
+    Creemos que facilitar a los usuarios el acceso a cálculos de financiamiento para las propiedades que captaron su interés no solo enriquecerá su experiencia de búsqueda, sino que también les proporcionará una herramienta invaluable para tomar decisiones informadas y personalizadas en tiempo real.
     
     Sabremos que hemos tenido éxito.
     
-    Cuando observemos un aumento del 30% en el uso de la función de cálculo de financiamiento y obtengamos comentarios positivos de los usuarios sobre la utilidad y precisión de esta herramienta.
+    Cuando observamos un aumento del 30% en el uso de la función de cálculo de financiamiento y obtengamos comentarios positivos de los usuarios sobre la utilidad y precisión de esta herramienta.
 
 - **Hypothesis 2**
 
@@ -204,7 +204,7 @@ Nuestra aplicación web debe proporcionar una interfaz amigable, intuitiva y de 
     
     Sabremos que hemos tenido éxito 
     
-    Cuando el número de solicitudes de visitas presenciales reduzca un 15% y visitas virtuales aumente un 25%. Verificado a través de análisis de datos y seguimiento de la actividad en la plataforma. 
+    Cuando el número de solicitudes de visitas presenciales se reduzca un 15% y las visitas virtuales aumenten un 25%. Verificado a través de análisis de datos y seguimiento de la actividad en la plataforma. 
     
 - **Hypothesis 4**
 
@@ -222,7 +222,7 @@ Nuestra aplicación web debe proporcionar una interfaz amigable, intuitiva y de 
 
 ## 1.3. Segmento Objetivo
 
-Según Kingsnorth (2019), un segmento objetivo se refiere a un grupo específico de consumidores dentro de un mercado más amplio que comparten características o necesidades similares. Estas características pueden incluir variables demográficas, geográficas, psicográficas o conductuales. 
+Según Kingsnorth (2019), un segmento objetivo se refiere a un grupo específico de consumidores dentro de un mercado más amplio que comparten características o necesidades similares. Estas características pueden incluir variables demográficas, geográficas, psicográficas y conductuales. 
 
 El proceso de segmentación de mercados implica identificar y dividir el mercado total en segmentos más pequeños y homogéneos con el objetivo de diseñar estrategias de marketing más efectivas y dirigidas. Al enfocarse en segmentos específicos, las empresas pueden adaptar sus productos, mensajes y canales de marketing para satisfacer las necesidades y preferencias de esos grupos de consumidores de manera más precisa.
 
@@ -233,3 +233,4 @@ En el caso de las secciones y la problemática que abarca nuestro proyecto, desp
 * **Anunciantes que deseen publicar una propiedad en venta o alquiler.** Este segmento incluye a Inmobiliarias peruanas que estén correctamente registradas y acreditadas para ofrecer propiedades en venta o alquiler de proyectos de entrega inmediata o futura entrega; y a personas que residan en Perú que cuenten con una propiedad y deseen ponerla en venta o alquiler. Este conjunto se le conoce como Anunciante en la plataforma puesto que publican información importante de las propiedades disponibles que tienen a disposición.
 
 ---
+

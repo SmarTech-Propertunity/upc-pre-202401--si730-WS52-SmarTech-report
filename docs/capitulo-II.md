@@ -314,6 +314,8 @@ Modelo de User Task Matrix definido para los dos user persona seleccionados.
 ###### Figura 7.
 Modelo de User Journey Mapping de nuestro primer user persona seleccionado.
 
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Journey Mapping - Sarah Peterson.png" alt="Journey Mapping - Sarah Peterson" width="1100" height="620">
+
 ###### Figura 8.
 Modelo de User Journey Mapping de nuestro segundo user persona seleccionado.
 

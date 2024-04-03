@@ -217,7 +217,10 @@ Nuestra aplicación web debe proporcionar una interfaz amigable, intuitiva y de 
 #### 1.2.2.4. Lean UX Canvas
 
 ###### Figura 1.
+*Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los antecedentes y la problemática que abarca nuestro proyecto.*
+
 <img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-1/assets/img/Lean UX Canvas.png" alt="Lean UX Canvas" >
+
 ---
 
 ## 1.3. Segmento Objetivo

@@ -383,6 +383,19 @@ User 2: Anunciantes que Deseen Publicar una Propiedad en Venta o Alquiler
 |Feeling | Los anunciantes pueden sentirse abrumados por la gestión de múltiples listados en diferentes plataformas y la competencia en el mercado.| Los anunciantes pueden sentirse abrumados por la cantidad de consultas y la necesidad de gestionarlas de manera efectiva para cerrar la transacción.| Los anunciantes pueden sentir preocupación por la competencia y la necesidad de destacarse entre otras propiedades similares en el mercado.| Los anunciantes pueden sentirse preocupados por la necesidad de mantenerse al día con cambios en la propiedad y actualizaciones en la plataforma.|
 
 ## 2.4. Ubiquitous Language
+Según Domain Driven Design (2019), The ubiquitous language o el lenguaje ubicuo es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en común entre todos los implicados dentro del contexto del negocio. A continuación, se han identificado los siguientes conceptos que ayudarán a crear un nexo entre los usuarios y los desarrolladores:
+
+- Propiedad: En lugar de “casa” o “apartamento”, utiliza “propiedad” como un término genérico.
+- Inmueble: Para referirse a cualquier tipo de propiedad (residencial, comercial, industrial, etc.).
+- Arrendador: En lugar de “dueño” o “propietario”.
+- Arrendatario: En lugar de “inquilino”.
+- Garante: Para la persona que respalda financieramente al arrendatario.
+- Contrato de alquiler: En lugar de “contrato de arrendamiento”.
+- Visita virtual: Para describir recorridos virtuales por las propiedades.
+- Ficha de propiedad: Para la información detallada de una propiedad.
+- Zona residencial: En lugar de “barrio” o “vecindario”.
+- Oferta: Para referirse a una propuesta de compra o alquiler.
+- Búsqueda avanzada: Para las opciones de filtrado en la búsqueda de propiedades.
 
 
-
+Domain Driven Design. (2019, 21 de abril). *Developing the ubiquituos language* Recuperado el 3 de abril de 2024, de https://thedomaindrivendesign.io/developing-the-ubiquitous-language/ 

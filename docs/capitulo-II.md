@@ -307,14 +307,32 @@ Para reconocer las demandas de los usuarios, empleamos diversos enfoques. Primer
 ### 2.3.2. User Task Matrix
 
 ###### Tabla 3.
-Modelo de User Task Matrix definido para los dos user persona seleccionados.
 
-| Tareas |  U1  |      |  U2  |      |
-|--------|------|------|------|------|
-| | Frecuencia | Importancia | Frecuencia | Importancia |
-| T1 | | | | |
-| T2 | | | | |
-|... | | | | |
+- **User Persona 1:**
+
+| Tareas | Sara | Peterson |    
+|--------|------|------|
+| | Frecuencia | Importancia |
+| Pregunta a amistades y familiares acerca de inmuebles en venta. | Often | Medium |
+| Buscar inmuebles mediante métodos tradicionales. | Always | Medium |
+| Buscar reseñas y experiencias de personas que han trabajado con las agencias inmobiliaria. | Always | High | 
+| Contacta con una agencia inmobiliaria para obtener información actualizada. | Often | Medium | 
+| Buscar entidades financieras para realizar las consultas necesarias. | Often | Medium | 
+| Solicita una evaluación crediticia a una entidad financiera. | Sometimes | Medium | 
+| Concreta una compra de un inmueble satisfactoriamente. | Rarely | High | 
+
+- **User Persona 2:**
+
+| Tareas | Miguel |  Arias |    
+|--------|------|------|
+| | Frecuencia | Importancia |
+| Investiga métodos para anunciar sus propiedades en venta o alquiler. | Always | High |
+| Pega anuncios en los postes de luz para expandir su alcance. | Often | Medium |
+| Se informa sobre nuevas tecnologías que le ayuden en la venta de sus inmuebles. |Sometimes | Low | 
+| Recibe llamadas de desconocidos que están interesados en sus inmuebles. | Often | Medium | 
+| Se contacta con los interesados y les muestra personalmente el inmueble. | Sometimes| High | 
+| Le entregan la aprobación crediticia de parte de una entidad financiera.| Rarely| High | 
+| Concreta una venta de un inmueble satisfactoriamente. | Rarely | High |
 
 ### 2.3.3. User Journey Mapping
 

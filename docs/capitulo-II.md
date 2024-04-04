@@ -93,12 +93,14 @@ Según lo aclarado por Folgueiras (2016), la entrevista es un tipo, sistema y/o 
 
 Con el fin de obtener y separar correctamente toda la información obtenida durante las entrevistas, se optó por definir un banco de preguntas según nuestro segmento de mercado identificado anteriormente. Este grupo de preguntas está especializado para la obtención de información específica según la persona entrevistada y según la problemática investigada para el proyecto y la posible solución en la forma de nuestro producto.
 
-Preguntas generales:
+**Preguntas generales:**
+
 1. ¿Como se llama?
 2. ¿Cuantos años tienes?
 3. ¿A qué te dedicas?
 
- Segmento 1: usuarios que desean comprar, vender o informarse
+**Segmento 1: Usuarios que desean comprar, vender o informarse:**
+
 1. Actualmente, ¿tienes planeado comprar o alquilar una propiedad?
 2. ¿Cuales son las características de la propiedad que deseas comprar/alquilar?
 3. ¿Qué métodos de búsqueda ha utilizado para preguntar por alguna propiedad?
@@ -110,7 +112,8 @@ Preguntas generales:
 10. Con respecto a lo mencionado anteriormente, ¿Que tan probable es que adquiera una membresía de la aplicación para obtener beneficios que impactan gradualmente en su experiencia como usuario? 
 11. Recomendaría esta plataforma web? Porqué?
 
-Segmento 2: anunciante que posee una propiedad en venta o alquiler 
+**Segmento 2: Anunciantes que deseen publicar una propiedad en venta o alquiler:**
+
 1. ¿Alguna vez ha logrado vender o alquilar una propiedad? En caso fuere así, ¿Cuanto tiempo le tomó encontrar al cliente? 
 2. ¿Alguna vez ha colocado información de su propiedad en la calle mediante anuncios de papel o afines? De no ser el caso, ¿Como ha publicitado su propiedad? 
 3. ¿Que tanto alcance logró tras publicitar su propiedad?
@@ -181,17 +184,16 @@ Segmento 2: anunciante que posee una propiedad en venta o alquiler
 
 ---
 
-#### Segmento 2
-
+#### Segmento 2: Anunciantes que deseen publicar una propiedad en venta o alquiler.
 
 **Entrevista N°4:**
 
 ###### Figura 5
-Imagen de presentación de la cuarta entrevista realizada.
+*Imagen de presentación de la cuarta entrevista realizada.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/entrevista-segmento2.png" alt="Entrevista Segmento 2" width="400" height="300">
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/entrevista-segmento2.png" alt="Entrevista Segmento 2" width="400" height="300">
 
-Nota. Paolo tiene 22 años, reside en el distrito de San Borja y es un ingeniero Civil que trabaja en el sector inmobiliario por más de 2 años. Él cuenta con experiencia previa en la venta y alquiler de distintas propiedades y ha trabajado con agentes inmobiliarios y clientes directamente. Las herramientas que ha empleado para realizar su búsqueda de clientes son los letreros en la fachada de las propiedades, no obstante, también ha tenido contacto con agentes inmobiliarios que encontraron clientes potenciales para su propiedad y ha utiliza AirBNB para el alquiler de propiedades. Por otro lado, afirma que tiene una conexión directa con los anunciantes debido a que estos se comunican directamente con ellos por teléfono o otros medios, entre estos, ha gastado más de una hora por cliente que desistió de la negociación. Finalmente, tras comentar que no ha utilizado plataformas web del rubro inmobiliario y brindarle una breve explicación sobre la solución que proponemos, comentó que requeriría de más información sobre la inversión que se debe hacer y que está abierto a la posiblidad de adquirir alguna membresía, sin embargo prefiere que la aplicación sea 100% gratuita y que tenga algún tipo de comisión fija, por último, sí recomendaría nuestra plataforma web para personas que están en una situación similar a la suya debido a que les sería de gran utilidad como espacio de trabajo.
+*Nota.* Paolo tiene 22 años, reside en el distrito de San Borja y es un ingeniero Civil que trabaja en el sector inmobiliario por más de 2 años. Él cuenta con experiencia previa en la venta y alquiler de distintas propiedades y ha trabajado con agentes inmobiliarios y clientes directamente. Las herramientas que ha empleado para realizar su búsqueda de clientes son los letreros en la fachada de las propiedades, no obstante, también ha tenido contacto con agentes inmobiliarios que encontraron clientes potenciales para su propiedad y ha utiliza AirBNB para el alquiler de propiedades. Por otro lado, afirma que tiene una conexión directa con los anunciantes debido a que estos se comunican directamente con ellos por teléfono o otros medios, entre estos, ha gastado más de una hora por cliente que desistió de la negociación. Finalmente, tras comentar que no ha utilizado plataformas web del rubro inmobiliario y brindarle una breve explicación sobre la solución que proponemos, comentó que requeriría de más información sobre la inversión que se debe hacer y que está abierto a la posiblidad de adquirir alguna membresía, sin embargo prefiere que la aplicación sea 100% gratuita y que tenga algún tipo de comisión fija, por último, sí recomendaría nuestra plataforma web para personas que están en una situación similar a la suya debido a que les sería de gran utilidad como espacio de trabajo.
 
 **Datos principales:**
 - Nombre completo del entrevistado: Paolo Bustos Vidal

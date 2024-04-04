@@ -136,49 +136,43 @@ Hemos observado que el factor negativo que afecta los procesos de adquisición d
 
 #### 1.2.2.2. Lean UX Assumptions
 
-- **User Outcomes:** 
+**User Outcomes:**
 
-1. ¿Quién es el usuario?
-Los usuarios de nuestro servicio son personas mayores de 18 años que buscan comprar, alquilar un inmueble de un agente inmobiliario de forma eficiente y segura. Las agencias inmobiliarias y gestores de propiedades que desean exponer sus locales. Las entidades financieras y inspectores de créditos que proporcionaran información acerca de los créditos y presupuestos. 
- 
-2. ¿Dónde encaja nuestro producto en su trabajo o vida?
-Encaja en múltiples etapas del proceso de compra, venta y alquiler de un inmueble, en el cual les permitirá generar presupuestos de financiamiento y gestionar su actividad.
+1. ¿Quién es el usuario? Los usuarios de nuestro servicio son personas mayores de 18 años que buscan comprar, alquilar un inmueble de un agente inmobiliario de forma eficiente y segura. Las agencias inmobiliarias y gestores de propiedades que desean exponer sus locales. Las entidades financieras e inspectores de créditos que proporcionan información acerca de los créditos y presupuestos.
 
-3. ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
-Nuestra plataforma puede enfrentarse a una falta de alcance, lo que perjudicaría el desarrollo del servicio. Así como, la falta de credibilidad debido	al corto tiempo dentro del mercado impidiendo la estabilización de la aplicación web. 
+2. ¿Dónde encaja nuestro producto en su trabajo o vida? Encaja en múltiples etapas del proceso de compra, venta y alquiler de un inmueble, en el cual les permitirá generar presupuestos de financiamiento y gestionar su actividad.
 
-4. ¿Cuándo y cómo es usado nuestro producto?
-Nuestra plataforma está diseñada para ser utilizado como nexo durante el proceso completo de la compra, venta o alquiler de un inmueble entre los usuarios y los anunciantes. El acceso y su funcionamiento deben llevarse a cabo exclusivamente a través de la plataforma web designada para el servicio.
+3. ¿Qué problemas tiene nuestro producto y cómo se pueden resolver? Nuestra plataforma puede enfrentarse a una falta de alcance, lo que perjudicaría el desarrollo del servicio. Así como, la falta de credibilidad debido al corto tiempo dentro del mercado impidiendo la estabilización de la aplicación web.
 
-5. ¿Qué características son importantes? 
-Las características más importantes de nuestra plataforma serán, la búsqueda y publicación de inmuebles en venta o alquiler, la intermediación entre los usuarios y las agencias de inmuebles, proporcionar una fácil gestión de la actividad inmobiliaria y la orientación financiera mediante presupuestos y herramientas especializadas.
+4. ¿Cuándo y cómo es usado nuestro producto? Nuestra plataforma está diseñada para ser utilizado como nexo durante el proceso completo de la compra, venta o alquiler de un inmueble entre los usuarios y los anunciantes. El acceso y su funcionamiento deben llevarse a cabo exclusivamente a través de la plataforma web designada para el servicio.
 
-6. ¿Cómo debe verse nuestra aplicación y cómo debe comportarse?
-Nuestra aplicación web debe proporcionar una interfaz amigable, intuitiva y de diseño sencillo. Además de funcionamiento eficiente que pueda ser utilizado en una gran gama de dispositivos inteligentes.
+5. ¿Qué características son importantes? Las características más importantes de nuestra plataforma serán, la búsqueda y publicación de inmuebles en venta o alquiler, la intermediación entre los usuarios y las agencias de inmuebles, proporcionar una fácil gestión de la actividad inmobiliaria y la orientación financiera mediante presupuestos y herramientas especializadas.
 
-- **Business Outcomes:**
+6. ¿Cómo debe verse nuestra aplicación y cómo debe comportarse? Nuestra aplicación web debe proporcionar una interfaz amigable, intuitiva y de diseño sencillo. Además de un funcionamiento eficiente que pueda ser utilizado en una gran gama de dispositivos inteligentes.
 
-1. Creemos que nuestros clientes necesitan una plataforma donde puedan encontrar un agente inmobiliario de forma confiable. También, una conexión directa en el proceso de compra, venta o alquiler lo más transparentemente posible y mediante una plataforma amigable.
+**Business Outcomes:**
 
-2.  Estas necesidades se pueden resolver mediante la implementación de una plataforma donde los usuarios puedan buscar y publicar inmuebles, además de proporcionar herramientas que faciliten los procesos realizados por los usuarios.
+1. Creemos que nuestros clientes necesitan una plataforma donde puedan encontrar un agente inmobiliario de forma confiable. También, una conexión directa en el proceso de compra, venta o alquiler lo más transparente posible y mediante una plataforma con una interfaz amigable.
 
-3.  Nuestros clientes iniciales son personas mayores a 18 años que busquen compra, vender o alquilar un inmueble.
+2. Creemos que las necesidades de nuestros usuarios se pueden resolver mediante la implementación de una plataforma donde los usuarios puedan buscar y publicar inmuebles, además de proporcionar herramientas que faciliten los procesos de compra y venta realizados por los usuarios.
 
-4.  El valor numero uno que un cliente quiere de nuestra plataforma es la familiarización con el ambiente y los procesos inmobiliarios. 
+3. Creemos que nuestros clientes iniciales son personas mayores de 18 años que busquen comprar, vender o alquilar un inmueble por algún motivo personal o económico.
 
-5. El cliente también puede obtener estos beneficios adicionales de herramientas inmobiliarias especializadas que presenten interfaces fáciles de entender.
+4. Creemos que el valor número uno que un cliente quiere de nuestra plataforma es la familiarización con el ambiente y la interfaz y una mayor facilidad y optimización en los procesos de compra, venta o alquiler en el rubro inmobiliario.
 
-6. Voy a adquirir la mayoría de mis clientes a través de marketing digital en redes sociales y de boca a boca.
+5. Creemos que el cliente necesita obtener estos beneficios adicionales de herramientas inmobiliarias especializadas que presenten interfaces fáciles de entender, bastante amigables y muy organizadas con toda la información que buscan y necesitan para realizar decisiones de inversión en bienes raíces.
 
-7. Haremos dinero a través de donaciones voluntarias, dentro del aplicativo web y mediante anuncios publicidad.
+6. Creemos que vamos a adquirir la mayoría de nuestros clientes a través de varias estrategias de marketing digital en medios como las redes sociales, la publicación de anuncios en periódicos y el uso de tácticas con técnicas boca a boca entre nuestros segmentos de mercado.
 
-8. Nuestra competencia principal serán las aplicaciones o servicios dentro del mismo rubro con mayor experiencia y años dentro del mercado.
+7. Creemos que haremos ganancias económicas en la aplicación a través de la implementación de planes y suscripciones para las personas o empresas que quieren publicar sus productos inmobiliarios en nuestra plataforma para la venta o el alquiler.
 
-9. Los venceremos debido a la en la implementación de un software innovador e intuitivo que podrá aportar mejores funcionalidades a nuestros usuarios.
+8. Creemos que nuestra competencia principal serán las empresas u organizaciones que ofrezcan productos o servicios dentro del mismo rubro con mayor experiencia y años dentro del mercado peruano o sudamericano.
 
-10.  Nuestro mayor riesgo es la insatisfacción e inconformidad del cliente con nuestra aplicación web propuesto o que no cumpla sus expectativas.
+9. Creemos que podremos superar a nuestros competidores con la implementación de un software innovador e intuitivo que podrá aportar mejores funcionalidades a nuestros usuarios, aprovechando las debilidades que padecen nuestros competidores para así poder usarlas a nuestro favor.
 
-11.  Se resolverán los problemas con el desarrollo y lanzamiento de mejoras continua.
+10. Creemos que nuestro mayor riesgo es la insatisfacción e inconformidad del cliente con nuestra aplicación web propuesta o que no cumpla sus expectativas con respecto al rubro inmobiliario. Esto podría darle ventaja y oportunidades a toda nuestra competencia.
+
+11. Creemos que esos problemas mencionados anteriormente se puede resolver mediante el desarrollo óptimo de todas las funcionalidades junto a la interfaz de la aplicación, además del lanzamiento mejoras continuas junto a parches.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 

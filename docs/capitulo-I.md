@@ -111,7 +111,7 @@ Por último, es importante destacar que según Arista et al. (2017), existe un g
 
 ###### Tabla 1.
 
-Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los antecedentes y la problemática que abarca nuestro proyecto.
+*Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los antecedentes y la problemática que abarca nuestro proyecto.*
 
 | 5W's y 2H's | Pregunta | Descripción |
 |-------------|----------|-------------|

@@ -74,7 +74,7 @@ Seguir creciendo mis aptitudes profesionales como ingenierio de Software.<br>
 
 > Puede que todos los días no sean buenos, pero hay algo bueno en cada día
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-1/assets/img/profiles/profile-lucio.png" alt="Lucio Heli Yen Cerna" width="250" height="200">
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/profiles/profile-lucio.png" alt="Lucio Heli Yen Cerna" width="250" height="200">
 
 
 ## 1.2. Solution Profile

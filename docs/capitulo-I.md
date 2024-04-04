@@ -47,7 +47,7 @@ Me llamo Rubén Mallma Quispe y soy un ingeniero de software. Me gusta escuchar 
 
 Mi nombre es Carlos Joel Shimabukuro Uku, soy un estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente cursando el quinto ciclo académico. Tengo experiencia principalmente en la programación orientada a objetos utilizando el lenguaje de C++, al igual que un conocimiento básico en HTML, CSS y Java Script. En este trabajo, tengo como meta la de aplicar todo lo aprendido en el transcurso del proyecto y conseguir un mejor entendimiento acerca de mi rol como futuro profesional. A modo de desarrollar el proyecto, desempañere el rol de **Scrum Member**.
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-1/assets/img/profiles/Profile-Carlos.png" alt="Carlos Joel Shimabukuro Uku" width="200" height="300">
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/profiles/Profile-Carlos.png" alt="Carlos Joel Shimabukuro Uku" width="200" height="300">
 
 ---
 #### Trigueros Chumacero, Flavio Eduardo - U202210190 - Ingeniería de Software

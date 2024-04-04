@@ -56,7 +56,7 @@ Nuestro proyecto está orientado en el desarrollo de un sistema de software que 
 El objetivo de este análisis es investigar a detalle las características principales y las propuestas de valor que ofrecen otras empresas que tienen el objetivo de brindar una solución a nuestra misma problemática. Así, podremos encontrar una forma viable y consistente con la que podremos diferenciarnos de ellos.
 
 ###### Tabla 2. 
-Análisis Competitivo organizado para todos los competidores potenciales de Propertunity.
+*Análisis Competitivo organizado para todos los competidores potenciales de Propertunity.*
 
 |  | Empresas | Propertunity | adondevivir | Edifica | LaEncontré |
 |--|----------|--------------|-------------|---------|------------|
@@ -122,15 +122,14 @@ Segmento 2: anunciante que posee una propiedad en venta o alquiler
 
 ### 2.2.2. Registro de entrevistas
 
-#### Segmento 1
-
+#### Segmento 1: Personas que deseen comprar o alquilar una propiedad
 
 **Entrevista N°1:**
 
 ###### Figura 2
-Imagen de presentación de la primera entrevista realizada.
+*Imagen de presentación de la primera entrevista realizada.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/entrevista-segmento1.png" alt="Entrevista Segmento 1" width="400" height="300">
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/entrevista-segmento1.png" alt="Entrevista Segmento 1" width="400" height="300">
 
 Nota. Piero tiene 23 años, reside en el distrito de Barranco y es estudiante de la Universidad Peruana Aplicada de Ciencias UPC en la carrera de Ingeniería de Sistemas. Él está interesado en alquilar una propiedad cercana a la sede Villa y compartirla con otra persona con los mismos intereses para dividir los gastos. Las herramientas que ha empleado para realizar su búsqueda son las redes sociales, las páginas web y los letreros en las calles. Además, considera que es medianamente complejo utilizar plataformas web sobre propiedades debido a que no sabría identificar todas las funcionalidades que estas páginas le ofrecen a simple vista. Por otro lado, afirma que siente una conexión a medias con los anunciantes y que la evaluación crediticia disminuye su interés y entorpece su búsqueda de otras opciones. Finalmente, tras brindarle una breve explicación sobre la solución que proponemos, comentó que sería probable que adquiera una membresía para obtener beneficios que impactan gradualmente en su experiencia como usuario y que sí recomendaría nuestra plataforma web para personas que están en una situación similar a la suya debido a que les sería de gran utilidad para tomar decisiones informadas.
 

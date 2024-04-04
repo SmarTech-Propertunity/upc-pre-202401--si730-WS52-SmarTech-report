@@ -76,6 +76,7 @@ Seguir creciendo mis aptitudes profesionales como ingenierio de Software.<br>
 
 <img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/profiles/profile-lucio.png" alt="Lucio Heli Yen Cerna" width="250" height="200">
 
+---
 
 ## 1.2. Solution Profile
 
@@ -120,7 +121,6 @@ Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los
 | Why?        | ¿Cuál es la causa del problema? | Fallos en áreas como la gestion de clientes, una comunicación efectiva, la organización y errores administrativos. Igualmente, la desinformación y complejidad en el uso de las aplicaciones generan este problema |
 | How?        | ¿Qué llevó a la persona a esta situación? | Falta de recursos (personal o tecnología), comunicación deficiente, y entre otros llevan a esta situación.|
 | How Much?   | ¿Cuánto dinero se pierde por este problema? | Aproximadamente un 20% de los ingresos por ineficiencias relacionadas con fallas técnicas y administrativas.|
-
 
 ### 1.2.2. Lean UX Process
 
@@ -217,7 +217,7 @@ Nuestra aplicación web debe proporcionar una interfaz amigable, intuitiva y de 
 #### 1.2.2.4. Lean UX Canvas
 
 ###### Figura 1.
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-1/assets/img/Lean UX Canvas.png" alt="Lean UX Canvas" >
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/Lean UX Canvas.png" alt="Lean UX Canvas" >
 ---
 
 ## 1.3. Segmento Objetivo

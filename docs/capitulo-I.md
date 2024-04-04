@@ -62,7 +62,7 @@ Soy una persona detallista, trabajadora y que siempre hace lo posible por mejora
 Soy estudiante de Ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona altamente responsable, organizada, puntual y empática. Mi capacidad de adaptación a entornos cambiantes y habilidad para trabajar colaborativamente en equipo son aspectos destacados de mi perfil. Tengo conocimientos en Python, C++, HTML, CSS, Javascript, MySQL, MongoDB y SQLite. A modo de desarrollar el proyecto, desempeñaré el rol de **Scrum Member**
 
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-1/assets/img/profiles/Profile-Aldhair-.png" alt="Aldhair Johan Juan Valenzuela Huillcaya" width="200" height="200">
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-Chapter01/assets/img/profiles/Profile-Aldhair-.png" alt="Aldhair Johan Juan Valenzuela Huillcaya" width="200" height="200">
 
 ---
 

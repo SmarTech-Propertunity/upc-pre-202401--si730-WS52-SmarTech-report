@@ -129,7 +129,7 @@ Segmento 2: anunciante que posee una propiedad en venta o alquiler
 ###### Figura 2
 *Imagen de presentación de la primera entrevista realizada.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/entrevista-segmento1.png" alt="Entrevista Segmento 1" width="400" height="300">
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/entrevista-segmento1.png" alt="Entrevista Segmento 1" width="550" height="300">
 
 *Nota.* Piero tiene 23 años, reside en el distrito de Barranco y es estudiante de la Universidad Peruana Aplicada de Ciencias UPC en la carrera de Ingeniería de Sistemas. Él está interesado en alquilar una propiedad cercana a la sede Villa y compartirla con otra persona con los mismos intereses para dividir los gastos. Las herramientas que ha empleado para realizar su búsqueda son las redes sociales, las páginas web y los letreros en las calles. Además, considera que es medianamente complejo utilizar plataformas web sobre propiedades debido a que no sabría identificar todas las funcionalidades que estas páginas le ofrecen a simple vista. Por otro lado, afirma que siente una conexión a medias con los anunciantes y que la evaluación crediticia disminuye su interés y entorpece su búsqueda de otras opciones. Finalmente, tras brindarle una breve explicación sobre la solución que proponemos, comentó que sería probable que adquiera una membresía para obtener beneficios que impactan gradualmente en su experiencia como usuario y que sí recomendaría nuestra plataforma web para personas que están en una situación similar a la suya debido a que les sería de gran utilidad para tomar decisiones informadas.
 
@@ -165,11 +165,11 @@ Segmento 2: anunciante que posee una propiedad en venta o alquiler
 **Entrevista N°3:**
 
 ###### Figura 4
-Imagen de presentación de la tercera entrevista realizada.
+*Imagen de presentación de la tercera entrevista realizada.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/entrevista3-segmento1.png" alt="Entrevista3 Segmento 1" width="400" height="200">
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/entrevista3-segmento1.png" alt="Entrevista3 Segmento 1" width="400" height="200">
 
-Nota. El señor Rubén es una persona quien está buscando comprar una propiedad y nos comenta cómo encuentra las propiedades en diferentes plataformas como Facebook Marketplace, OLX, búsquedas de Google e inclusive anuncios en periódicos. Él no tiene problemas en manejar estas herramientas tecnológicas pues lo que usa es fácil de usar, mas no están especializadas para la adquisición de inmobiliarias o propiedades en general. También ha buscado en anuncios o pancartas puestas en las propiedades y comenta que suele ser difícil encontrar una que se adecúe a sus necesidades o a las características que busca. Él está dispuesto a usar nuevas plataformas o aplicaciones que estén especializadas en este tipo de búsquedas. Finalmente, recomendaría este tipo de aplicación con sus conocidos.
+*Nota.* El señor Rubén es una persona quien está buscando comprar una propiedad y nos comenta cómo encuentra las propiedades en diferentes plataformas como Facebook Marketplace, OLX, búsquedas de Google e inclusive anuncios en periódicos. Él no tiene problemas en manejar estas herramientas tecnológicas pues lo que usa es fácil de usar, mas no están especializadas para la adquisición de inmobiliarias o propiedades en general. También ha buscado en anuncios o pancartas puestas en las propiedades y comenta que suele ser difícil encontrar una que se adecúe a sus necesidades o a las características que busca. Él está dispuesto a usar nuevas plataformas o aplicaciones que estén especializadas en este tipo de búsquedas. Finalmente, recomendaría este tipo de aplicación con sus conocidos.
 
 **Datos principales:**
 - Nombre completo del entrevistado: Rubén Mallma Capcha Carlos
@@ -178,8 +178,6 @@ Nota. El señor Rubén es una persona quien está buscando comprar una propiedad
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214234_upc_edu_pe/EeUzTO7RiKFOvv4O1MD2-jUB8OAj8tcZMbqTJeAC8jau0w?e=9s2w7d
 - Inicio de la entrevista: 00:00
 - Duración: 08:51
-		
-**Transcripción de la entrevista:**
 
 ---
 

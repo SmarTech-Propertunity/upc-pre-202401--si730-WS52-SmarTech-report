@@ -208,10 +208,10 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 **Entrevista N°5:**
 
 ###### Figura 6
-Imagen de presentación de la quinta entrevista realizada.
+*Imagen de presentación de la quinta entrevista realizada.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Entrevista2-Segmento2.png" alt="Entrevista Segmento 2" width="400" height="200">
-Nota. La entrevistada, Ximena Vilchez Paredes, una estudiante de Derecho y asistente legal en estudio jurídico, comparte su experiencia en alquilar propiedades utilizando medios digitales como Marketplace y Mercado Libre, destacando la rapidez y facilidad de acceso que estas plataformas brindan para publicitar propiedades. Ella menciona los desafíos de comunicación con los interesados, especialmente en obtener números de contacto para una comunicación más efectiva. Además, muestra interés en una aplicación como Propportunity que ofrece simulaciones crediticias y personalización de anuncios, lo que aumentaría su seguridad al alquilar propiedades. Finalmente, recomienda esta plataforma por su facilidad de uso y seguridad, lo que la hace atractiva para aquellos en el rubro inmobiliario.
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Entrevista2-Segmento2.png" alt="Entrevista Segmento 2" width="400" height="200">
+*Nota.* La entrevistada, Ximena Vilchez Paredes, una estudiante de Derecho y asistente legal en estudio jurídico, comparte su experiencia en alquilar propiedades utilizando medios digitales como Marketplace y Mercado Libre, destacando la rapidez y facilidad de acceso que estas plataformas brindan para publicitar propiedades. Ella menciona los desafíos de comunicación con los interesados, especialmente en obtener números de contacto para una comunicación más efectiva. Además, muestra interés en una aplicación como Propportunity que ofrece simulaciones crediticias y personalización de anuncios, lo que aumentaría su seguridad al alquilar propiedades. Finalmente, recomienda esta plataforma por su facilidad de uso y seguridad, lo que la hace atractiva para aquellos en el rubro inmobiliario.
 
 **Datos principales:**
 - Nombre completo del entrevistado: Ximena Fernanda Vilchez Paredes

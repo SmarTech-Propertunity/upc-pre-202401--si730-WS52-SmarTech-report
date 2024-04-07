@@ -246,30 +246,34 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 
 A modo de análisis de la información recopilada mediante las entrevistas, se desarrolló un Google Forms con el objetivo de representar datos estadísticos y como herramienta de interpretación.
 
-**Segmento 1:** 
+**Segmento 1: Usuarios que desean comprar, vender o informarse:** 
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento1-a.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+###### Figura 8
+*Conjunto de datos analizados y que resultaron de las entrevistas dadas.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento1-b.png" alt="Analisis entrevista segmento 1" width="600" height="220">
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento1-a.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento1-c.png" alt="Analisis entrevista segmento 1" width="600" height="220">
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento1-b.png" alt="Analisis entrevista segmento 1" width="600" height="220">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento1-d.png" alt="Analisis entrevista segmento 1" width="600" height="220">
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento1-c.png" alt="Analisis entrevista segmento 1" width="600" height="220">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento1-e.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento1-d.png" alt="Analisis entrevista segmento 1" width="600" height="220">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento1-f.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento1-e.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento1-g.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento1-f.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento1-h.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento1-g.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento-i.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento1-h.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento1-j.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento-i.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento1-k.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento1-j.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
+<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento1-k.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+
+---
 
 **Segmento 2:**
 

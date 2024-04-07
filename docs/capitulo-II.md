@@ -306,17 +306,19 @@ Para reconocer las demandas de los usuarios, empleamos diversos enfoques. Primer
 
 ### 2.3.1. User Personas
 
-###### Primer segmento objetivo: Personas que deseen comprar o alquilar una propiedad
-![Segmento 1 - Compradores](https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/segmento1-compradores.png)
+###### Figura 10
+*User Persona del primer segmento objetivo: Personas que deseen comprar o alquilar una propiedad*
 
-###### Segundo segmento objetivo: Anunciantes que deseen publicar una propiedad en venta o alquiler
-![Segmento 2 - Anunciantes](https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/segmento2-anunciantes.png)
+![Segmento 1 - Compradores](https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/segmento1-compradores.png)
+
+###### Figura 11
+*User Persona del segundo segmento objetivo: Anunciantes que deseen publicar una propiedad en venta o alquiler*
+![Segmento 2 - Anunciantes](https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/segmento2-anunciantes.png)
 
 ### 2.3.2. User Task Matrix
 
 ###### Tabla 3.
-
-- **User Persona 1:**
+*User task matrix para el primer user persona.*
 
 | Tareas | Sara | Peterson |    
 |--------|------|------|
@@ -329,7 +331,8 @@ Para reconocer las demandas de los usuarios, empleamos diversos enfoques. Primer
 | Solicita una evaluación crediticia a una entidad financiera. | Sometimes | Medium | 
 | Concreta una compra de un inmueble satisfactoriamente. | Rarely | High | 
 
-- **User Persona 2:**
+###### Tabla 4.
+*User task matrix para el segundo user persona.*
 
 | Tareas | Miguel |  Arias |    
 |--------|------|------|

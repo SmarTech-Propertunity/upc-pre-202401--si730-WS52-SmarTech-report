@@ -23,13 +23,58 @@
 
 ## 3.2. User Stories
 ###### Tabla 9.
-*Tabla de épicas establecidas para las historias de usuarios.*
 
-|  Epic ID   |   Título   |
-|------------|------------|
-|  Epic 01   | |
-|  Epic 02   | |
-|    ...     | |
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1">Código</td>
+            <td colspan="1">Título</td>
+            <td colspan="1">Epic</td>
+		</tr>
+		<tr>
+            <td colspan="1">EP001</td>
+            <td colspan="1"></td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la plataforma<strong> quiero</strong> acceder a la plataforma web <strong>para</strong> gestionar mi cuenta.
+</td>
+		</tr>
+        <tr>
+            <td colspan="1">EP002</td>
+            <td colspan="1"></td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> visualizar la interfaz del landing page y la plataforma <strong>para </strong>explorar sus diferentes funcionalidades. 
+            </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP003</td>
+            <td colspan="1"></td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> interactuar con sus diferentes características <strong>para</strong> realizar diversas acciones y obtener resultados esperados. 
+            </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP004</td>
+            <td colspan="1"></td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> explorar los diferentes videojuegos <strong>para</strong> poder apredender cada rama de las matemáticas
+            </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP005</td>
+            <td colspan="1"></td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> acceder a un apartado donde se visualice el desempeño del usuario estudiante <strong>para</strong> analizar su rendimiento académico dentro de la plataforma.
+            </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP006</td>
+            <td colspan="1"></td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> contar con un apartado técnico <strong>para</strong> reportar cualquier problema que pueda haber en el sistema.
+            </td>
+		</tr>
+	</tbody>
+</table>
 
 ---
 

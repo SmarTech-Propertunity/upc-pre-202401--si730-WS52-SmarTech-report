@@ -132,7 +132,7 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 ###### Figura 2
 *Imagen de presentación de la primera entrevista realizada.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/entrevista-segmento1.png" alt="Entrevista Segmento 1" width="550" height="300">
+<img src="/assets/img/entrevistas/entrevista-segmento1.png" alt="Entrevista Segmento 1" width="550" height="300">
 
 *Nota.* Piero tiene 23 años, reside en el distrito de Barranco y es estudiante de la Universidad Peruana Aplicada de Ciencias UPC en la carrera de Ingeniería de Sistemas. Él está interesado en alquilar una propiedad cercana a la sede Villa y compartirla con otra persona con los mismos intereses para dividir los gastos. Las herramientas que ha empleado para realizar su búsqueda son las redes sociales, las páginas web y los letreros en las calles. Además, considera que es medianamente complejo utilizar plataformas web sobre propiedades debido a que no sabría identificar todas las funcionalidades que estas páginas le ofrecen a simple vista. Por otro lado, afirma que siente una conexión a medias con los anunciantes y que la evaluación crediticia disminuye su interés y entorpece su búsqueda de otras opciones. Finalmente, tras brindarle una breve explicación sobre la solución que proponemos, comentó que sería probable que adquiera una membresía para obtener beneficios que impactan gradualmente en su experiencia como usuario y que sí recomendaría nuestra plataforma web para personas que están en una situación similar a la suya debido a que les sería de gran utilidad para tomar decisiones informadas.
 
@@ -151,7 +151,7 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 ###### Figura 3
 *Imagen de presentación de la segunda entrevista realizada.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Entrevista2-Segmento1.png" alt="Entrevista 2 Segmento 1" width="400" height="200">
+<img src="/assets/img/entrevistas/Entrevista2-Segmento1.png" alt="Entrevista 2 Segmento 1" width="400" height="200">
 
 *Nota.* El entrevistado, Yair Aru Acevedo, un estudiante de 20 años de ingeniería de software, revela su interés en adquirir una propiedad con su familia, destacando los desafíos financieros y crediticios que enfrentan. Menciona la importancia de una comunicación más eficiente entre compradores y vendedores, señalando la aplicación Property Unity como una posible solución. Aunque muestra escepticismo sobre la membresía de la aplicación como cliente, reconoce su utilidad potencial para los vendedores al mejorar la promoción y el contacto con los clientes. Destaca la necesidad de una plataforma segura y regulada para buscar propiedades, tanto como usuario como vendedor, resaltando la conveniencia y la seguridad que proporcionaría una plataforma dedicada a este fin.
 
@@ -170,7 +170,7 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 ###### Figura 4
 *Imagen de presentación de la tercera entrevista realizada.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/entrevista3-segmento1.png" alt="Entrevista3 Segmento 1" width="400" height="200">
+<img src="/assets/img/entrevistas/entrevista3-segmento1.png" alt="Entrevista3 Segmento 1" width="400" height="200">
 
 *Nota.* El señor Rubén es una persona quien está buscando comprar una propiedad y nos comenta cómo encuentra las propiedades en diferentes plataformas como Facebook Marketplace, OLX, búsquedas de Google e inclusive anuncios en periódicos. Él no tiene problemas en manejar estas herramientas tecnológicas pues lo que usa es fácil de usar, mas no están especializadas para la adquisición de inmobiliarias o propiedades en general. También ha buscado en anuncios o pancartas puestas en las propiedades y comenta que suele ser difícil encontrar una que se adecúe a sus necesidades o a las características que busca. Él está dispuesto a usar nuevas plataformas o aplicaciones que estén especializadas en este tipo de búsquedas. Finalmente, recomendaría este tipo de aplicación con sus conocidos.
 
@@ -191,7 +191,7 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 ###### Figura 5
 *Imagen de presentación de la cuarta entrevista realizada.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/entrevista-segmento2.png" alt="Entrevista Segmento 2" width="400" height="300">
+<img src="/assets/img/entrevistas/entrevista-segmento2.png" alt="Entrevista Segmento 2" width="400" height="300">
 
 *Nota.* Paolo tiene 22 años, reside en el distrito de San Borja y es un ingeniero Civil que trabaja en el sector inmobiliario por más de 2 años. Él cuenta con experiencia previa en la venta y alquiler de distintas propiedades y ha trabajado con agentes inmobiliarios y clientes directamente. Las herramientas que ha empleado para realizar su búsqueda de clientes son los letreros en la fachada de las propiedades, no obstante, también ha tenido contacto con agentes inmobiliarios que encontraron clientes potenciales para su propiedad y ha utiliza AirBNB para el alquiler de propiedades. Por otro lado, afirma que tiene una conexión directa con los anunciantes debido a que estos se comunican directamente con ellos por teléfono o otros medios, entre estos, ha gastado más de una hora por cliente que desistió de la negociación. Finalmente, tras comentar que no ha utilizado plataformas web del rubro inmobiliario y brindarle una breve explicación sobre la solución que proponemos, comentó que requeriría de más información sobre la inversión que se debe hacer y que está abierto a la posiblidad de adquirir alguna membresía, sin embargo prefiere que la aplicación sea 100% gratuita y que tenga algún tipo de comisión fija, por último, sí recomendaría nuestra plataforma web para personas que están en una situación similar a la suya debido a que les sería de gran utilidad como espacio de trabajo.
 
@@ -210,7 +210,7 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 ###### Figura 6
 *Imagen de presentación de la quinta entrevista realizada.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Entrevista2-Segmento2.png" alt="Entrevista Segmento 2" width="400" height="200">
+<img src="/assets/img/entrevistas/Entrevista2-Segmento2.png" alt="Entrevista Segmento 2" width="400" height="200">
 *Nota.* La entrevistada, Ximena Vilchez Paredes, una estudiante de Derecho y asistente legal en estudio jurídico, comparte su experiencia en alquilar propiedades utilizando medios digitales como Marketplace y Mercado Libre, destacando la rapidez y facilidad de acceso que estas plataformas brindan para publicitar propiedades. Ella menciona los desafíos de comunicación con los interesados, especialmente en obtener números de contacto para una comunicación más efectiva. Además, muestra interés en una aplicación como Propportunity que ofrece simulaciones crediticias y personalización de anuncios, lo que aumentaría su seguridad al alquilar propiedades. Finalmente, recomienda esta plataforma por su facilidad de uso y seguridad, lo que la hace atractiva para aquellos en el rubro inmobiliario.
 
 **Datos principales:**
@@ -228,7 +228,7 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 ###### Figura 7
 *Imagen de presentación de la sexta entrevista realizada.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/entrevista3-segmento2.png" alt="Entrevista3 Segmento 2" width="400" height="200">
+<img src="/assets/img/entrevistas/entrevista3-segmento2.png" alt="Entrevista3 Segmento 2" width="400" height="200">
 
 *Nota.* Nuestra entrevistada nos comparte sus dudas y opiniones acerca de cómo y dónde ella publica o anuncia las propiedades a alquilar. Principalmente, nos cuenta que tiene dificultades para poder anunciar puesto que el uso de carteles o pancartas puestas en la propiedad a alquilar resulta ser ineficiente. Segundo, ella muestra interés en usar nuestra aplicación ya que de esta forma podría ofrecer mayor detalle y así aumentar las probabilidades de alquilar su propiedad más rapido. Y por ultimo, ella está dispuesta a confiar en una aplicación especializada que facilite la compra y venta de propiedades ya que ella tiene precaución en cuanto a estafas o plataformas que no sean de confiar.
 
@@ -251,27 +251,27 @@ A modo de análisis de la información recopilada mediante las entrevistas, se d
 ###### Figura 8
 *Conjunto de datos analizados de las entrevistas para el primer segmento objetivo.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento1-a.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento1-a.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento1-b.png" alt="Analisis entrevista segmento 1" width="600" height="220">
+<img src="/assets/img/entrevistas/Analisis-segmento1-b.png" alt="Analisis entrevista segmento 1" width="600" height="220">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento1-c.png" alt="Analisis entrevista segmento 1" width="600" height="220">
+<img src="/assets/img/entrevistas/Analisis-segmento1-c.png" alt="Analisis entrevista segmento 1" width="600" height="220">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento1-d.png" alt="Analisis entrevista segmento 1" width="600" height="220">
+<img src="/assets/img/entrevistas/Analisis-segmento1-d.png" alt="Analisis entrevista segmento 1" width="600" height="220">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento1-e.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento1-e.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento1-f.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento1-f.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento1-g.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento1-g.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento1-h.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento1-h.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento-i.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento-i.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento1-j.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento1-j.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento1-k.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento1-k.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
 ---
 
@@ -280,21 +280,21 @@ A modo de análisis de la información recopilada mediante las entrevistas, se d
 ###### Figura 9
 *Conjunto de datos analizados de las entrevistas para el segundo segmento objetivo.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento2-a.png" alt="Analisis entrevista segmento 2" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento2-a.png" alt="Analisis entrevista segmento 2" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento2-b.png" alt="Analisis entrevista segmento 2" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento2-b.png" alt="Analisis entrevista segmento 2" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento2-c.png" alt="Analisis entrevista segmento 2" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento2-c.png" alt="Analisis entrevista segmento 2" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento2-d.png" alt="Analisis entrevista segmento 2" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento2-d.png" alt="Analisis entrevista segmento 2" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento2-e.png" alt="Analisis entrevista segmento 2" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento2-e.png" alt="Analisis entrevista segmento 2" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento2-f.png" alt="Analisis entrevista segmento 2" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento2-f.png" alt="Analisis entrevista segmento 2" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento2-g.png" alt="Analisis entrevista segmento 2" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento2-g.png" alt="Analisis entrevista segmento 2" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Analisis-segmento2-h.png" alt="Analisis entrevista segmento 2" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento2-h.png" alt="Analisis entrevista segmento 2" width="600" height="270">
 
 ---
 
@@ -309,11 +309,11 @@ Para reconocer las demandas de los usuarios, empleamos diversos enfoques. Primer
 ###### Figura 10
 *User Persona del primer segmento objetivo: Personas que deseen comprar o alquilar una propiedad*
 
-![Segmento 1 - Compradores](https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/segmento1-compradores.png)
+![Segmento 1 - Compradores](/assets/img/segmento1-compradores.png)
 
 ###### Figura 11
 *User Persona del segundo segmento objetivo: Anunciantes que deseen publicar una propiedad en venta o alquiler*
-![Segmento 2 - Anunciantes](https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/segmento2-anunciantes.png)
+![Segmento 2 - Anunciantes](/assets/img/segmento2-anunciantes.png)
 
 ### 2.3.2. User Task Matrix
 
@@ -350,24 +350,24 @@ Para reconocer las demandas de los usuarios, empleamos diversos enfoques. Primer
 ###### Figura 12.
 *Modelo de User Journey Mapping de nuestro primer user persona.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Journey Mapping - Sarah Peterson.png" alt="Journey Mapping - Sarah Peterson" width="1100" height="620">
+<img src="/assets/img/entrevistas/Journey Mapping - Sarah Peterson.png" alt="Journey Mapping - Sarah Peterson" width="1100" height="620">
 
 ###### Figura 13.
 *Modelo de User Journey Mapping de nuestro segundo user persona.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/entrevistas/Journey Mapping - Miguel Arias.png" alt="Journey Mapping - Miguel Arias" width="1100" height="620">
+<img src="/assets/img/entrevistas/Journey Mapping - Miguel Arias.png" alt="Journey Mapping - Miguel Arias" width="1100" height="620">
 
 ### 2.3.4. Empathy Mapping
 
 ###### Figura 14.
 *Empathy Map para el primer user persona.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/empathyMap_segmento1.png" alt="Empathy Map Segmento 1">
+<img src="/assets/img/empathyMap_segmento1.png" alt="Empathy Map Segmento 1">
 
 ###### Figura 15.
 *Empathy Map para el segundo user persona*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/empathyMap_segmento1.png" alt="Empathy Map Segmento 1">
+<img src="/assets/img/empathyMap_segmento1.png" alt="Empathy Map Segmento 1">
 
 ### 2.3.5. As-is Scenario Mapping
 

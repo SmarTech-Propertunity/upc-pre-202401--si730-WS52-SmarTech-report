@@ -83,17 +83,16 @@
 
 | User<br>Story<br>ID | Título | Descripción | Criterios de Aceptación | Relacionado<br>con Epic |
 |---------------------|--------|-------------|-------------------------|-------------------------|
-| US01 | Esquematización y programación de<br>una landing page | Como usuario general de la aplicación web, deseo que haya una página sencilla y llamativa como presentación para que pueda revisar varios detalles de la aplicación, como sus funcionalidades, las suscripciones, información sobre la startup, etc. | Dado que tengo el link de la página web copiado en mi portapapeles, cuando pegué el link en la barra de búsqueda y presione siguiente, entonces podré revisar la landing page de la aplicación web Propertunity y podre revisar sus funcionalidades, suscripciones y más información útil. | Epic 01 |
-| US02 | | | |
-| US03 | | | |
-| US04 | | | |
-| US05 | | | |
-| US06 | | | |
-| US07 | | | |
-| US08 | | | |
-| US09 | | | |
-| US010 | | | |
-
+| US01 | Esquematización y programación de una landing page | **Como** usuario general de la aplicación web, **quiero** que haya una página sencilla y llamativa como presentación, **para** que pueda revisar varios detalles de la aplicación, como sus funcionalidades, las suscripciones, información sobre la startup, etc. | **Dado que** tengo el link de la página web copiado en mi portapapeles, **cuando** pegué el link en la barra de búsqueda y presione siguiente, **entonces** podré revisar la landing page de la aplicación web Propertunity y podre revisar sus funcionalidades, suscripciones y más información útil. | Epic 01 |
+| US02 | Integración de búsqueda en un Web Browser | **Como** usuario general de la aplicación web, **quiero** ser capaz de buscar la landing page de la aplicación web directamente desde el browser con el uso de palabras clave, **para** que mi búsqueda sea más fácil y no tener que copiar y pegar el link de la página en todo momento que quiera acceder. | **Dado que** estoy en el navegador web de mi dispositivo, **cuando** ponga palabras clave relacionadas directamente con Propertunity o con el rubro inmobiliario peruano, **entonces** me saldra la landing page de Propertunity como resultado en cualquier sección de la primera página po segunda página de resultados. | Epic 01 |
+| US03 | Integración de links para redes sociales en el Footer | **Como** usuario general de la aplicación web, **quiero** ser capaz de acceder a las principales redes sociales de la startup que diseña Propertunity, **para** poder revisar información actualizada sobre sus planes de negocio, eventos con su público o nuevas actualizaciones en Propertunity o en algún otro producto web que ofrezcan. | **Dado que** me encuentro dentro de landing page de Propertunity, **cuando** me dirija a la sección de la base o footer de la landing page y le de click a alguno de los simbolos de redes sociales que tiene la startup de SmarTech, los cuales son de Facebook, X, Instagram y LinkedIn, **entonces** podré acceder directamente al perfil de la startup en la red social que elegí. | Epic 01 |
+| US04 | | | | |
+| US05 | | | | |
+| US06 | | | | |
+| US07 | | | | |
+| US08 | | | | |
+| US09 | | | | |
+| US010 | | | | |
 
 ## 3.3. Impact Mapping
 

@@ -39,7 +39,7 @@ En SmartTech, estamos comprometidos con una serie de valores fundamentales que g
 
 Me llamo Rubén Mallma Quispe y soy un ingeniero de software. Me gusta escuchar música, estar en compañía de mis seres queridos, y sobre todo ser una persona de éxito. Actualmente estoy trabajando como desarrollador en una empresa naciente y me alegra estar ya poniendo en práctica todos mis conocimientos. Como algunas de mis habilidades técnicas puedo decir que sé los lenguajes de programación de C++, Java y Kotlin sólidamente, y sigo aprendiendo. Gracias por leer esta descripción; en este maravilloso proyecto, desempeñaré el rol de **Scrum Member**.
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/profiles/profile-Ruben.png" alt="Ruben Mallma Quispe" width="200" height="280"> 
+<img src="assets/img/profiles/profile-Ruben.png" alt="Ruben Mallma Quispe" width="200" height="280"> 
 
 ---
 
@@ -47,14 +47,14 @@ Me llamo Rubén Mallma Quispe y soy un ingeniero de software. Me gusta escuchar 
 
 Mi nombre es Carlos Joel Shimabukuro Uku, soy un estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente cursando el quinto ciclo académico. Tengo experiencia principalmente en la programación orientada a objetos utilizando el lenguaje de C++, al igual que un conocimiento básico en HTML, CSS y Java Script. En este trabajo, tengo como meta la de aplicar todo lo aprendido en el transcurso del proyecto y conseguir un mejor entendimiento acerca de mi rol como futuro profesional. A modo de desarrollar el proyecto, desempeñaré el rol de **Scrum Member**.
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/profiles/Profile-Carlos.png" alt="Carlos Joel Shimabukuro Uku" width="200" height="250">
+<img src="/assets/img/profiles/Profile-Carlos.png" alt="Carlos Joel Shimabukuro Uku" width="200" height="250">
 
 ---
 #### Trigueros Chumacero, Flavio Eduardo - U202210190 - Ingeniería de Software
 
 Soy una persona detallista, trabajadora y que siempre hace lo posible por mejorar. Mis características me permiten avanzar los trabajos de forma rápida, adecuada y ágil, siempre apoyando a mis compañeros en lo posible y esforzándome en cada vez entregar un mejor producto. Asimismo, tengo conocimientos en distintos lenguajes y modelos de programación como C++, Python, HTML y CSS, MySQL, MongoDB y Cyprus. A modo de desarrollar el proyecto, desempeñaré el rol de **Product Owner**.
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/profiles/Profile-Flavio.png" alt="Flavio Eduardo Trigueros Chumacero" width="200" height="280">
+<img src="/assets/img/profiles/Profile-Flavio.png" alt="Flavio Eduardo Trigueros Chumacero" width="200" height="280">
 
 ---
 #### Valenzuela Huillcaya, Aldhair Johan Juan - U20201F572 - Ingeniería de Software
@@ -62,7 +62,7 @@ Soy una persona detallista, trabajadora y que siempre hace lo posible por mejora
 Soy estudiante de Ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona altamente responsable, organizada, puntual y empática. Mi capacidad de adaptación a entornos cambiantes y habilidad para trabajar colaborativamente en equipo son aspectos destacados de mi perfil. Tengo conocimientos en Python, C++, HTML, CSS, Javascript, MySQL, MongoDB y SQLite. A modo de desarrollar el proyecto, desempeñaré el rol de **Scrum Member**
 
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/profiles/Profile-Aldhair-.png" alt="Aldhair Johan Juan Valenzuela Huillcaya" width="200" height="200">
+<img src="/assets/img/profiles/Profile-Aldhair-.png" alt="Aldhair Johan Juan Valenzuela Huillcaya" width="200" height="200">
 
 ---
 
@@ -74,7 +74,7 @@ Seguir creciendo mis aptitudes profesionales como ingenierio de Software.<br>
 
 > Puede que todos los días no sean buenos, pero hay algo bueno en cada día
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/profiles/profile-lucio.png" alt="Lucio Heli Yen Cerna" width="250" height="200">
+<img src="/assets/img/profiles/profile-lucio.png" alt="Lucio Heli Yen Cerna" width="250" height="200">
 
 
 ## 1.2. Solution Profile
@@ -220,7 +220,7 @@ Nuestra aplicación web debe proporcionar una interfaz amigable, intuitiva y de 
 ###### Figura 1.
 *Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los antecedentes y la problemática que abarca nuestro proyecto.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/develop/assets/img/Lean UX Canvas.png" alt="Lean UX Canvas" width="1000" height="1450" >
+<img src="/assets/img/Lean UX Canvas.png" alt="Lean UX Canvas" width="1000" height="1450" >
 
 ---
 

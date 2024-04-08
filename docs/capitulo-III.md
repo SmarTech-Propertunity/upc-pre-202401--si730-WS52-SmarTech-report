@@ -2,11 +2,8 @@
 
 ## 3.1. To-Be Scenario Mapping
 
-###### Tabla 6.
-
-Mapa de Escenario To-Be para nuestro primer user persona.
-
-User 1
+###### Tabla 7.
+*Mapa de Escenario To-Be para nuestro primer user persona.*
 
 |  Fases | F1 | F2 | F3 | F4 |
 |--------|----|----|----|----|
@@ -14,11 +11,8 @@ User 1
 |Thinking| | | |
 |Feeling | | | |
 
-###### Tabla 7.
-
-Mapa de Escenario To-Be para nuestro segundo user persona.
-
-User 2
+###### Tabla 8.
+*Mapa de Escenario To-Be para nuestro segundo user persona.*
 
 |  Fases | F1 | F2 | F3 | F4 |
 |--------|----|----|----|----|
@@ -28,8 +22,8 @@ User 2
 
 
 ## 3.2. User Stories
-###### Tabla 8.
-Tabla de épicas establecidas para las historias de usuarios.
+###### Tabla 9.
+*Tabla de épicas establecidas para las historias de usuarios.*
 
 |  Epic ID   |   Título   |
 |------------|------------|
@@ -37,9 +31,24 @@ Tabla de épicas establecidas para las historias de usuarios.
 |  Epic 02   | |
 |    ...     | |
 
-> [Presenten el modelo de tabla para las US]
-
 ---
+
+###### Tabla 10.
+*Tabla de épicas establecidas para las historias de usuarios.*
+
+| User<br>Story<br>ID | Título | Descripción | Criterios de Aceptación | Relacionado<br>con Epic |
+|---------------------|--------|-------------|-------------------------|-------------------------|
+| US01 | Esquematización y programación de<br>una landing page | Como usuario general de la aplicación web, deseo que haya una página sencilla y llamativa como presentación para que pueda revisar varios detalles de la aplicación, como sus funcionalidades, las suscripciones, información sobre la startup, etc. | Dado que tengo el link de la página web copiado en mi portapapeles, cuando pegué el link en la barra de búsqueda y presione siguiente, entonces podré revisar la landing page de la aplicación web Propertunity y podre revisar sus funcionalidades, suscripciones y más información útil. | Epic 01 |
+| US02 | | | |
+| US03 | | | |
+| US04 | | | |
+| US05 | | | |
+| US06 | | | |
+| US07 | | | |
+| US08 | | | |
+| US09 | | | |
+| US010 | | | |
+
 
 ## 3.3. Impact Mapping
 

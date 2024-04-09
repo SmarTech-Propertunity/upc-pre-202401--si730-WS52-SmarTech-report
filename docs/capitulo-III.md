@@ -33,44 +33,44 @@
 		</tr>
 		<tr>
             <td colspan="1">EP001</td>
-            <td colspan="1"></td>
+            <td colspan="1"> Implementación de la experiencia UI/UX de la landing page</td>
             <td colspan="1">
-            <strong>Como</strong> usuario de la plataforma<strong> quiero</strong> acceder a la plataforma web <strong>para</strong> gestionar mi cuenta.
+            <strong>Como</strong> usuario de internet<strong> quiero</strong> acceder a la landing page<strong> para</strong> informarme sobre la plataforma web
 </td>
 		</tr>
         <tr>
             <td colspan="1">EP002</td>
-            <td colspan="1"></td>
+            <td colspan="1">Manejo de cuentas</td>
             <td colspan="1">
-            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> visualizar la interfaz del landing page y la plataforma <strong>para </strong> explorar sus diferentes funcionalidades. 
+            <strong>Como</strong> usuario de la plataforma <strong>quiero </strong>ingresar a la plataforma web</strong> <strong>para </strong> para gestionar mi cuenta
             </td>
 		</tr>
         <tr>
             <td colspan="1">EP003</td>
-            <td colspan="1"></td>
+            <td colspan="1"> Implementación de interfaz de plataforma web </td>
             <td colspan="1">
-            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> interactuar con sus diferentes características <strong>para</strong> realizar diversas acciones y obtener resultados esperados. 
+            <strong>Como</strong> usuario de la plataforma <strong>quiero </strong>visualizar una interfaz amigable y didáctica <strong>para</strong>entender lo que ofrece la plataforma a primera vista
             </td>
 		</tr>
         <tr>
             <td colspan="1">EP004</td>
-            <td colspan="1"></td>
+            <td colspan="1"> Optimización de la Navegación de la plataforma web</td>
             <td colspan="1">
-            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> explorar los diferentes videojuegos <strong>para</strong> poder apredender cada rama de las matemáticas
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> manipular diferentes herramientas de búsqueda y atajos <strong>para</strong> optimizar mi tiempo de navegación dentro de la plataforma
             </td>
 		</tr>
         <tr>
             <td colspan="1">EP005</td>
-            <td colspan="1"></td>
+            <td colspan="1">Publicación de propiedad </td>
             <td colspan="1">
-            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> acceder a un apartado donde se visualice el desempeño del usuario estudiante <strong>para</strong> analizar su rendimiento académico dentro de la plataforma.
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> acceder a un apartado donde pueda ingresar la información de mi propiedad <strong>para</strong> que se publique dentro de la plataforma
             </td>
 		</tr>
         <tr>
             <td colspan="1">EP006</td>
-            <td colspan="1"></td>
+            <td colspan="1">Consulta de propiedad</td>
             <td colspan="1">
-            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> contar con un apartado técnico <strong>para</strong> reportar cualquier problema que pueda haber en el sistema.
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> contar con un apartado de consulta de propiedad <strong>para</strong> informarme, verificar si la propiedad está acorde a mis intereses y presupueste, y posteriormente decidir si contactarme con el anunciante
             </td>
 		</tr>
 	</tbody>

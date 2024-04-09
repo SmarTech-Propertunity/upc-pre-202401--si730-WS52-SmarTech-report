@@ -140,10 +140,10 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 - Nombre completo del entrevistado: Piero Nonolaya Fuentes
 - Edad: 23
 - Distrito: Barranco
-- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213143_upc_edu_pe/EXBp0YibIpFJkmQwcXfOQpMBT43UwpRwhhPf7uuZP5FPjw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3ajOYM 
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213143_upc_edu_pe/EcIaCLdJPH1PhEWieLsH4coBSaAZ7AaU6RzcxQfbJFGXlw?e=5WD7mJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
 - Inicio de la entrevista: 0.01
 - Duración: 5.36
-
+- Entrevistador: Lucio Heli Yen Cerna
 ---
 
 **Entrevista N°2:**
@@ -162,7 +162,7 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f572_upc_edu_pe/ETBbFDXtsKxAknVALJjnuCIBhWIcGfMwADZN38xwMM6ERg?e=cqWdcc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
 - Inicio de la entrevista: 0.01
 - Duración: 10.06
-
+- Entrevistador: Aldhair Johan Juan Valenzuela Huillcaya
 ---
 
 **Entrevista N°3:**
@@ -181,7 +181,7 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214234_upc_edu_pe/EeUzTO7RiKFOvv4O1MD2-jUB8OAj8tcZMbqTJeAC8jau0w?e=9s2w7d
 - Inicio de la entrevista: 00:00
 - Duración: 08:51
-
+- Entrevistador: Rubén Elías Mallma Quispe
 ---
 
 #### Segmento 2: Anunciantes que deseen publicar una propiedad en venta o alquiler.
@@ -202,7 +202,7 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213143_upc_edu_pe/EaZSU7jaaB5EqLmj0P6XW3ABnguP7w-0D1HO_Mp_Oe2RLg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lS1ZOu 
 - Inicio de la entrevista: 0.01
 - Duración: 6:29
-
+- Entrevistador: Lucio Heli Yen Cerna
 ---
 
 **Entrevista N°5:**
@@ -220,7 +220,7 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214234_upc_edu_pe/EeUzTO7RiKFOvv4O1MD2-jUB8OAj8tcZMbqTJeAC8jau0w?e=7gTdKF
 - Inicio de la entrevista: 0.01
 - Duración: 6.27
-		
+- Entrevistador: Aldhair Johan Juan Valenzuela Huillcaya 		
 ---
 
 **Entrevista N°6:**
@@ -239,7 +239,7 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214234_upc_edu_pe/EfFMFMj_jsJHsLYP6GBV610BR4bPG1itVhk20FcgqCfZQQ?e=UkbpCe
 - Inicio de la entrevista: 00:00
 - Duración: 09:45
-
+- Entrevistador: Rubén Elías Mallma Quispe
 ---
 
 ### 2.2.3. Análisis de entrevistas

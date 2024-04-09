@@ -95,8 +95,10 @@
 
 ## 3.3. Impact Mapping
 
-###### Figura 11.
-Impact Mapping de los dos user persona del proyecto.
+###### Figura 16.
+*Impact Mapping de los dos user persona del proyecto.*
+
+<img src="/assets/img/Impact Map.png" alt="Impact Map" width="1200" height="500">
 
 ---
 

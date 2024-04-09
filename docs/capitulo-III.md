@@ -23,7 +23,7 @@
 
 ## 3.2. User Stories
 ###### Tabla 9.
-
+*Tabla de épicas establecidas para las historias de usuarios.*
 <table border="1" style="text-align: left;">
 	<tbody>
 		<tr>
@@ -79,7 +79,7 @@
 ---
 
 ###### Tabla 10.
-*Tabla de épicas establecidas para las historias de usuarios.*
+*Tabla de las historias de usuarios.*
 
 | User<br>Story<br>ID | Título | Descripción | Criterios de Aceptación | Relacionado<br>con Epic |
 |---------------------|--------|-------------|-------------------------|-------------------------|

@@ -96,6 +96,23 @@
 | US11 | Modificaciones al perfil  | **Como** usuario general de la aplicación web, **quiero** poder modificar mi perfil a gusto y/o cambiar ciertos aspectos (como foto de perfil, nombre, estado civil, correo electrónico, cambio de contraseña) , **para** configurar mi cuenta con la información correcta y actualizada. | **Dado que** quiero modificar mi cuenta con mis datos correctos y actualizados, **cuando** me encuentre del apartado de 'mi perfil' y encuentre todas las funciones y botones necesarios, **entonces** cambiaré mi información de manera satisfactoria. | Epic 02 |
 | US12 | Implementación de multiples cuentas | **Como** usuario general de la aplicación web, **quiero** cambiar de cuenta fácilmente y cerrar sesión guardando toda mi información y datos del momento, **para** poder usar otras cuentas o que otras personas puedan iniciar sesión también. | **Dado que** quiero cambiar de cuenta y guardar mi información correctamente, **cuando** presione el botón o acceda a la función de 'cerrar sesión', **entonces** mi información se guardará correctamente y podré iniciar sesión otra vez. | Epic 02 |
 | US13 | Eliminación de cuenta | **Como** usuario general de la aplicación web, **quiero** poder tener la opción de eliminar mi cuenta por ciertos motivos, **para** eliminar definitivamente o desactivar temporalmente mi cuenta de la aplicación web. | **Dado que** quiero eliminar o desactivar mi cuenta personal, **cuando** me dirija a 'eliminar cuenta' y brinde toda la información necesaria para ejecutar la acción, **entonces** eliminaré o desactivaré mi cuenta satisfactoriamente. | Epic 02 |
+| US14 | | **Como**  **quiero**  **para**  | **Dado que**  **cuando** **entonces**  | Epic 0 |
+| US15 |  | **Como** **quiero**  **para** | **Dado que**  **cuando**  **entonces**  | Epic 0 |
+| US16 | | **Como** **quiero** **para** | **Dado que** **cuando** **entonces** | Epic 0 |
+| US17 | | **Como** **quiero**  **para** | **Dado que**  **cuando** **entonces** | Epic 0 |
+| US18 | | **Como**  **quiero** **para**  | **Dado que**  **cuando**  **entonces** | Epic 0 |
+| US19 |  | **Como** **quiero**  **para**  | **Dado que** **cuando**  **entonces** | Epic 0 |
+| US20 |  | **Como**  **quiero** **para** | **Dado que**  **cuando**  **entonces** | Epic 0 |
+| US21 |  | **Como**  **quiero**  **para**  | **Dado que** **cuando** **entonces** | Epic 0 |
+| US22 | | **Como**  **quiero**  **para** | **Dado que**  **cuando** **entonces** | Epic 0 |
+| US23 | | **Como** **quiero**  **para** | **Dado que**  **cuando**  **entonces** | Epic 0 |
+| US24 || **Como**  **quiero** **para**  | **Dado que** **cuando** **entonces**  | Epic 0 |
+| US25 |  | **Como** **quiero**  **para**  | **Dado que**  **cuando**  **entonces**  | Epic 0 |
+| US26 |  | **Como** **quiero**  **para**  | **Dado que**  **cuando**  **entonces**  | Epic 0 |
+| US27 | | **Como**  **quiero**  **para** | **Dado que**  **cuando**  **entonces** | Epic 0 |
+| US28 || **Como** **quiero**  **para** | **Dado que** **cuando** **entonces**  | Epic 0 |
+| US29 | | **Como** **quiero** **para**  | **Dado que** **cuando**  **entonces**  | Epic 0 |
+| US30 |  | **Como**  **quiero**  **para** | **Dado que** **cuando** **entonces** | Epic 0 |
 
 ## 3.3. Impact Mapping
 

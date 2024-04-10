@@ -49,6 +49,8 @@ La tercera paleta corresponde al color rojo, el cual transmite valentía y energ
 
 <img src="/assets/img/Paleta de Rojos.png" alt="Paleta de Rojos" width="450" height="175">
 
+---
+
 **Tipografía:**
 
 La tipografía de la marca es un punto esencial para su diseño, según Dopico (2021), el tipo de fuente que elegimos para nuestras páginas provoca una reacción psicológica que puede ayudar a nuestra marca a ser más atrayente, cómoda y amigable. Al cambiar el estilo de fuente y elegir uno adecuado, podemos hacer que los usuarios se sientan de una forma distinta con nuestra startup. Se deben usar fuentes que ofrezcan un impacto positivo y que le otorgue identidad a nuestra empresa, siempre transmitiendo la personalidad y los valores. Todo esto tiene el fin de crear un vinculo más cercano con nuestro segmento objetivo.
@@ -74,6 +76,16 @@ Los modelos de grosor de la letra pueden variar según la página y la sección 
 *Modelos de grosor para el tipo de letra “Lato”.*
 
 <img src="/assets/img/Modelos de grosor - Lato.png" alt="Paleta de Rojos" width="700" height="170">
+
+---
+
+**Tono de comunicación y lenguaje aplicado:**
+
+Según lo aclarado por Smith & Zook (2022), el tono de comunicación es un aspecto muy importante en los estilos que se planean integrar en las páginas, pestañas o apartados de una aplicación. Estos añaden sentimientos subjetivos a los clientes con respecto a los textos que leen y a las imágenes o elementos gráficos que observan, además de agregar un sentimiento de identidad propia sobre la empresa y/o producto. Asimismo, el uso de un lenguaje claro y comprensible es importante para la optimización de motores de búsqueda, ya que estos valoran el contenido de alta calidad que utiliza palabras claves y relevantes en contextos naturales.
+
+Teniendo en cuenta el tipo de segmento objetivo en el que nos estamos centrando, lo preferible sería usar un tono y estilo de lenguaje respetuoso y amigable, pero siempre mantiendo la formalidad necesaria al saber que es un entorno de negocios de grandes cantidades de dinero. De esta forma podremos mostrar seguridad y garantia con facilidad a los usuarios y podremos mantenerlos enfocados en todos los textos que escribamos a lo largo de las páginas. 
+
+Asimismo, podemos agregar un tono bastante entusiasta en todas aquellas secciones en las que se expongan las funcionalidades de nuestra aplicación, junto a nuestra misión, visión y valores. Los estilos serios y formales solo deberían ser empleados cuando se habla de puntos críticos dados durante la negociación de la adquisición de propiedades, durante la venta de propiedades y en las descripciones de suscripciones y cualquier otro tipo de pago relacionado con nuestra aplicación web.
 
 ### 4.1.2. Web Style Guidelines
 

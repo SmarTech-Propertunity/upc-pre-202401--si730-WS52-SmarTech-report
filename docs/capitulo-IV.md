@@ -93,17 +93,14 @@ Asimismo, podemos agregar un tono bastante entusiasta en todas aquellas seccione
 
 Para el logo de nuestra aplicación hemos decidido emplear un modelo pomposo y atractivo que destaque entre todas las demás aplicaciones de nuestra competencia en el rubro inmobiliario y pueda ser interesante y atrayente para nuestros clientes. Este diseño se basa en un resumen rápido de lo que hace nuestra aplicación y el cómo queremos que apoye a nuestros segmentos objetivos en sus correspondientes procesos de negocio en biene raíces. 
 
-El logo esta compuesto por el diseño de una pequeña ciudad 
-
-a mano representa a una persona sordomuda, la cual expresa sus ideas, opiniones y sentimientos mediante el lenguaje de señas, mientras que el oído representa a una persona que no sufre de esas discapacidades, la cual quiere comprender lo que la otra persona trata de expresar. Para esto utilizamos el sistema de transcripciones de imágenes a texto y de texto a audio, lo que puede asegurar una comunicación entendible entre las dos o más personas involucradas
+El logo esta compuesto por el diseño de una pequeña ciudad pintada con tonos naranjas y celestes, destacando una casa naranja que se presenta con más precisión. Esto se plantea con un significado referente a la variedad de ofertas que se ofrecen dentro de nuestra página web, la cual proporciona grandes oportunidades a todas las personas que deseen invertir en el mercado inmobiliario. Asimismo, otorga sentimiento de seguridad siendo que nuestra aplicación web siempre proporciona garantía y bienestar a sus clientes, además de otorgar sentimientos esperanzadores al saber que la compra o venta de una propiedad puede significar grandes cambios economicos en una persona, siempre esperando que sean para bien.
 
 ###### Figura 16.
 *Logo principal de la aplicación Propertunity.*
 
 <img src="/assets/img/Propertunity Logo.png" alt="Propertunity Logo" width="500" height="500">
 
-A través de esto, podemos mostrar nuestro apoyo directo a nuestro segmento de mercado y nuestros esfuerzos por darles mejores oportunidades, para mejorar la comprensión con la sociedad, para fomentar el aprendizaje de señas y para hacer sentir a todas las personas sordomudas con seguridad, confianza y un mejor futuro.
-
+A través del logo atrayente junto a su mensaje claro y agradable, podremos mostrar nuestro apoyo directo a nuestros segmentos de mercados y a como esperemos cambiar el mercado inmobiliario para que sea un lugar más seguro, formal e informado para todas las personas que deseen entrar. Con este logo, no solo conseguiremos atraer a más público, sino que también podremos mostrar nuestra misión, visión y valores de forma abstracta y rápida para todos nuestros clientes potenciales.
 
 ### 4.1.2. Web Style Guidelines
 

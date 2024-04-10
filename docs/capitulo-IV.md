@@ -51,8 +51,6 @@ La tercera paleta corresponde al color rojo, el cual transmite valentía y energ
 
 **Tipografía:**
 
-Tipografía:
-
 La tipografía de la marca es un punto esencial para su diseño, según Dopico (2021), el tipo de fuente que elegimos para nuestras páginas provoca una reacción psicológica que puede ayudar a nuestra marca a ser más atrayente, cómoda y amigable. Al cambiar el estilo de fuente y elegir uno adecuado, podemos hacer que los usuarios se sientan de una forma distinta con nuestra startup. Se deben usar fuentes que ofrezcan un impacto positivo y que le otorgue identidad a nuestra empresa, siempre transmitiendo la personalidad y los valores. Todo esto tiene el fin de crear un vinculo más cercano con nuestro segmento objetivo.
 
 En este caso, el tipo de letra que usaremos principalmente será “Lato" porque está se encuentra diseñada específicamente para verse cómoda y entendible en computadoras y dispositivos móviles. Su diseño limpio, grueso y sin remates facilita la lectura de texto en estas pantallas, lo que puede mejorar la experiencia del usuario, además de que el estilo de la letra da un sentimiento de profesionalismo, sensatez y atractividad. 
@@ -74,6 +72,8 @@ Los modelos de grosor de la letra pueden variar según la página y la sección 
 
 ###### Figura 15.
 *Modelos de grosor para el tipo de letra “Lato”.*
+
+<img src="/assets/img/Modelos de grosor - Lato.png" alt="Paleta de Rojos" width="700" height="170">
 
 ### 4.1.2. Web Style Guidelines
 

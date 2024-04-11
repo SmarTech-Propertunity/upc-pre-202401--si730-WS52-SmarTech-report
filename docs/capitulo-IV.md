@@ -310,7 +310,21 @@ Los wireframes son esquemas visuales simplificados que representan la estructura
 <img src="/assets/img/LandingPage-Wireframes01.PNG" alt="Landing page wireframes" >
 <img src="/assets/img/LandingPage-Wireframes02.PNG" alt="Landing page wireframes" >
 <img src="/assets/img/LandingPage-Wireframes03.PNG" alt="Landing page wireframes" >
+
 ### 4.3.2. Landing Page Mock-up
+
+Un mockup es una representación visual similar a un prototipo que simula el aspecto final de un diseño.
+<br>
+<br>
+URL del diseño: https://www.figma.com/file/EhhUmOL6KJMmSlNKHDspiY/Propertunity_LandingPage-Design?type=design&node-id=0%3A1&mode=design&t=saITXo5X8DKZyxB4-1
+<br>
+<br>
+<img src="/assets/img/mock-up 1.png" alt="Landing page mock-up" >
+<img src="/assets/img/mock-up 2.png" alt="Landing page mock-up" >
+<img src="/assets/img/mock-up 3.png" alt="Landing page mock-up" >
+<img src="/assets/img/mock-up 4.png" alt="Landing page mock-up" >
+<img src="/assets/img/mock-up 5.png" alt="Landing page mock-up" >
+<img src="/assets/img/mock-up 6.png" alt="Landing page mock-up" >
 
 ## 4.4. Web Applications UX/UI Design
 

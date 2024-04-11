@@ -249,4 +249,26 @@ Las acciones y técnicas que guiarán a los usuarios a través del Landing Page 
 ## 4.8. Database Design.
 
 ### 4.8.1 Database Diagrams.
+Tabla de entidades.
+
+|Entidad|Atributos|
+|-|-|
+|usuarios |id_usuario <br> nombre <br> apellido <br>fecha_registro <br> correo <br> correo_recuperacion <br> contrasenia <br> foto_perfil <br> distrito <br> direccion <br> telefono|
+|anunciantes |id_anunciante <br> cantidad_propiedades <br> id_usuario |
+|propiedades |id_propiedades <br> titulo <br> descripcion <br> precio <br> tipo_inmueble <br> area_techada <br> area_total <br> area_comun <br> dormitorios <br> banios <br> etapa_proyecto <br> fecha_entrega <br> mapa <br> calle <br> distrito <br> numero_calle <br> direccion <br> id_anunciante|
+|publicaciones |id_publicacion <br> cantidad_visitas <br> id_propiedad|
+|destacados |id_destacado <br> fecha_inicio <br> fecha_fin <br> estado_destacado <br> id_publicacion |
+|nuevas_publicaciones |id_nueva_publicacion <br> id_publicacion <br> fecha_inicio <br> fecha_fin <br> tiempo |
+|resenias |id_usuario <br> id_publicacion <br> fecha <br> hora <br> calificacion <br> comentario |
+|interacciones |id_usuario <br> id_publicacion <br> fecha <br> hora <br> tipo_interaccion <br> estado_interaccion |
+|membresias |id_membresias <br> precio <br> tipo |
+|membresias_anunciantes |id_anunciante <br> id_membresia <br> fecha_inicio <br> fecha_final <br> fecha_pago <br> meses_miembro|
+|chats | id_chat <br> id_anunciante <br> id_usuario |
+|mensajes |id_mensajes <br> id_chats <br> contenido <br> fecha <br> hora <br> estado |
+|notificaciones |id_notificaciones <br> tipo <br> contenido <br> estado|
+|notificaciones_usuarios |id_notificacion <br> id_usuario |
+|bancos |id_banco <br> nombre <br> servicio <br> telefono <br> correo|
+|propiedades_bancos | id_propiedad <br> id_banco <br> beneficio |
+|formularios_contactos |id_formulario <br> correo <br> nombre <br> apellido <br> telefono <br> dni <br> mensaje <br> recepcion <br> id_banco |
+
 

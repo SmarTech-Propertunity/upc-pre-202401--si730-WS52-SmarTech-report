@@ -250,25 +250,22 @@ Las acciones y técnicas que guiarán a los usuarios a través del Landing Page 
 
 ### 4.8.1 Database Diagrams.
 Tabla de entidades.
-
 |Entidad|Atributos|
 |-|-|
-|usuarios |id_usuario <br> nombre <br> apellido <br>fecha_registro <br> correo <br> correo_recuperacion <br> contrasenia <br> foto_perfil <br> distrito <br> direccion <br> telefono|
-|anunciantes |id_anunciante <br> cantidad_propiedades <br> id_usuario |
-|propiedades |id_propiedades <br> titulo <br> descripcion <br> precio <br> tipo_inmueble <br> area_techada <br> area_total <br> area_comun <br> dormitorios <br> banios <br> etapa_proyecto <br> fecha_entrega <br> mapa <br> calle <br> distrito <br> numero_calle <br> direccion <br> id_anunciante|
-|publicaciones |id_publicacion <br> cantidad_visitas <br> id_propiedad|
-|destacados |id_destacado <br> fecha_inicio <br> fecha_fin <br> estado_destacado <br> id_publicacion |
-|nuevas_publicaciones |id_nueva_publicacion <br> id_publicacion <br> fecha_inicio <br> fecha_fin <br> tiempo |
-|resenias |id_usuario <br> id_publicacion <br> fecha <br> hora <br> calificacion <br> comentario |
-|interacciones |id_usuario <br> id_publicacion <br> fecha <br> hora <br> tipo_interaccion <br> estado_interaccion |
-|membresias |id_membresias <br> precio <br> tipo |
-|membresias_anunciantes |id_anunciante <br> id_membresia <br> fecha_inicio <br> fecha_final <br> fecha_pago <br> meses_miembro|
-|chats | id_chat <br> id_anunciante <br> id_usuario |
-|mensajes |id_mensajes <br> id_chats <br> contenido <br> fecha <br> hora <br> estado |
-|notificaciones |id_notificaciones <br> tipo <br> contenido <br> estado|
-|notificaciones_usuarios |id_notificacion <br> id_usuario |
-|bancos |id_banco <br> nombre <br> servicio <br> telefono <br> correo|
-|propiedades_bancos | id_propiedad <br> id_banco <br> beneficio |
-|formularios_contactos |id_formulario <br> correo <br> nombre <br> apellido <br> telefono <br> dni <br> mensaje <br> recepcion <br> id_banco |
-
+|usuarios |id_usuario (int) PRIMARY KEY <br> nombre (varchar(40)) <br> apellido((varchar(40)) <br>fecha_registro (datetime) <br> correo ((varchar(100)) <br> correo_recuperacion ((varchar(100)) <br> contrasenia ((varchar(15)) <br> foto_perfil (image) <br> distrito ((varchar(30)) <br> direccion ((varchar(50)) <br> telefono ((varchar(9))|
+|propiedades |id_propiedades (int) PRIMARY KEY<br> titulo (varchar(50)) <br> descripcion (varchar(500))<br> precio (money)<br> tipo_inmueble (varchar(20))<br> area_techada (varchar(10))<br> area_total (varchar(10))<br> area_comun (varchar(10))<br> dormitorios (int)<br> banios (int) <br> etapa_proyecto (varchar(20)) <br> fecha_entrega (datetime)<br> mapa (geography) <br> calle (varchar(30))<br> distrito (varchar(30))<br> numero_calle (varchar(5))<br> direccion (varchar(50))<br> id_anunciante (int) FOREIGN KEY|
+|publicaciones |id_publicacion (int) PRIMARY KEY<br> cantidad_visitas (int)<br> id_propiedad (int) FOREIGN KEY|
+|destacados |id_destacado (int) PRIMARY KEY<br> fecha_inicio (datetime)<br> fecha_fin (datetime)<br> estado_destacado (varchar(40))<br> id_publicacion (int) FOREIGN KEY|
+|nuevas_publicaciones |id_nueva_publicacion (int) PRIMARY KEY<br> id_publicacion (int) PRIMARY KEY<br> fecha_inicio (datetime)<br> fecha_fin (datetime)<br> tiempo (time)|
+|resenias |id_usuario (int) PRIMARY KEY<br> id_publicacion (int) PRIMARY KEY<br> fecha (date)<br> hora (time)<br> calificacion (varchar(5))<br> comentario (varchar(500))|
+|interacciones |id_usuario (int) PRIMARY KEY<br> id_publicacion (int)  PRIMARY KEY<br> fecha (date)<br> hora (time) <br> tipo_interaccion (varchar(40))<br> estado_interaccion (varchar(40)) |
+|membresias |id_membresias (int) PRIMARY KEY<br> precio (money)<br> tipo (varchar(40))|
+|membresias_anunciantes |id_anunciante (int) PRIMARY KEY<br> id_membresia (int) PRIMARY KEY<br> fecha_inicio (datetime)<br> fecha_final (datetime)<br> fecha_pago (datetime)<br> meses_miembro (varchar(20))|
+|chats | id_chat (int) PRIMARY KEY<br> id_anunciante (int) FOREIGN KEY<br> id_usuario (int)FOREIGN KEY|
+|mensajes |id_mensajes (int) PRIMARY KEY<br> id_chats (int) PRIMARY KEY<br> contenido (varchar(200))<br> fecha (date)<br> hora (time) <br> estado (varchar(30))|
+|notificaciones |id_notificaciones (int) PRIMARY KEY<br> tipo (varchar(50))<br> contenido (varchar(100))<br> estado (varchar(20))|
+|notificaciones_usuarios |id_notificacion (int) PRIMARY KEY<br> id_usuario (int) PRIMARY KEY|
+|bancos |id_banco (int) PRIMARY KEY<br> nombre (varchar(40))<br> servicio (varchar(40))<br> telefono (varchar(9))<br> correo(varchar(100))|
+|propiedades_bancos | id_propiedad (int) PRIMARY KEY<br> id_banco (int) PRIMARY KEY<br> beneficio (varchar(50))|
+|formularios_contactos |id_formulario (int) PRIMARY KEY<br> correo(varchar(100)) <br> nombre (varchar(40))<br> apellido (varchar(40))<br> telefono (varchar(9))<br> dni (varchar(8))<br> mensaje (varchar(400))<br> recepcion (bit)<br> id_banco (int)FOREIGN KEY|
 

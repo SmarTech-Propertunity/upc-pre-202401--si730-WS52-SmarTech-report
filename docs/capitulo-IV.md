@@ -150,7 +150,61 @@ Es necesario resltar que el color "White" o blanco se tratara de usar en mayor p
 
 - Gray: Este color es exclusivo para las secciones donde el usuario debe introducir algún valor, como los cuadros de texto de los cuestionarios. En ninguna otra circunstancia debe usarse este color de letra.
 
+---
 
+#### Tipografía
+
+El tipo de letra que usaremos principalmente será “Lato “ porque está se encuentra diseñada específicamente para verse cómoda y entendible en computadoras y dispositivos móviles. Su diseño limpio y sin remates facilita la lectura de texto en estas pantallas, lo que puede mejorar la experiencia del usuario y el alcance, además de que el estilo de la letra da un sentimiento de profesionalismo, sensatez y atractividad. 
+
+Las principales características de escritura cambiarán según el dispositivo en el que estemos diseñando, pero las bases generales ya están definidas en los General Style Guidelines y son las siguientes:
+
+- Tamaño base: 16px
+- Interlineado: 1.15
+
+Los modelos de alineamiento variarán según el tipo de texto que se está escribiendo, la sección donde se está escribiendo y el tipo de grosor. Estas son las normas dadas según los diferentes tipos de alineamiento, ya vistas en la sección de General Style Guidelines:
+
+- Justificado: Este un tipo de alineamiento que se usa como descarte en algún parrafo o sección de texto si es que las reglas de los otros tres tipos de alineamiento de texto no se cumplen adecuadamente según los estilos mencionados.
+- A la izquierda: Solo para textos formales y párrafos largos, de más de cien (100) palabras. Nunca debe usarse como texto principal o de subtitulos. También puede usarse como una combinación entre textos con el alineamiento a la derecha y a la izquierda.
+- Centrado: Usado para titulos y/o subtitulos de distintas secciones, sin importar el área en el que se esta usando. También se debe utilizar en párrafos de gran importancia en comparación al resto o párrafos introductorios. En caso la forma de la página provoca que el texto se mueva al centro, en vez de utilizar justificado, se debe usar centrado.
+- A la derecha: Solo debe usarse como una combinación entre textos con el alineamiento a la izquierda y a la derecha. Nunca debe usarse como lineamiento principal.
+  
+Los modelos de grosor de la letra pueden variar según la página y la sección en la que estemos centrando el diseño y la escritura. En el caso del tipo de letra “Lato”, se pueden identificar los siguientes modelos de grosor:
+
+###### Figura 26.
+*Modelos de grosor para el tipo de letra “Lato” en páginas web.*
+
+<img src="/assets/img/Modelos de grosor - Lato.png" alt="Paleta de Rojos" width="700" height="150">
+
+Ahora se pasara a revisar las caracteristicas especificas que tendran las letras utilizadas según su ubicación y función dentro de una página o pestaña, además del contexto en el que se están usando. Cabe resaltar que los datos que cambiaran entre sí son el tamaño de la letra y el grosor de la letra.
+
+##### Para títulos:
+
+Los títulos siempre se escribirán con un grosor de “negrita”, sin importar el contexto dado dentro de la página en la que se encuentren. Siempre deben encontrarse cerca de un subtítulo o una imagen (en estos casos también pueden estar encima y no requieren de limitaciones de distancia), manteniendo una distancia no mayor a veinte (20) y no menor a diez (10) milímetros entre estos. Pueden variar su tamaño según la distribución y el espacio disponible en las páginas. Este puede variar entre los siguientes valores:
+
+- 64px, solamente para los títulos que están formados por una palabra y que mantengan una distancia mayor a veinte (20) milímetros de un encabezado o tope de sección. Solo deben usarse dentro de páginas que funcionen como introducción o presentación o que tengan demasiado espacio de texto disponible.
+  
+- 48px, se usarán cuando el título está formado por dos o más palabras o cuando mantenga una distancia menor a veinte (20) milímetros de un encabezado o tope de sección. Si es con respecto a la barra de navegación, esta distancia aumenta a doscientos veinticinco (25) milímetros.
+
+##### Para subtítulos:
+
+Los subtítulos siempre se escribirán con un grosor de “seminegrita”, sin importar el contexto dado. Siempre serán de tamaño 18px. Pueden encontrarse tanto debajo de un título, debajo de un botón o debajo de una sección, siempre manteniendo una separación no mayor a diez (10) y no menor a cinco (5) milímetros de estos. Debajo de los subtítulos tiene que haber un párrafo de más de una (1) palabra de forma obligatoria y debe mantener la misma distancia de separación.
+
+##### Para botones:
+
+Siempre se escribirán con un tipo de grosor “mediano”, sin importar el contexto dado. El tamaño de letra es de 16px, y la distribución de espacio indica que siempre mantendrán una alineación de texto centrada y no menor a cinco (5) milímetros con respecto a todos los bordes del propio botón. 
+
+##### Para párrafos:
+
+Todos los párrafos siempre se escribirán con un grosor “normal”, sin importar el contexto dado. En caso vaya a escribir un párrafo, debe asegurarse que cada uno contenga menos de doscientas (200) palabras y que se encuentre a una distancia no menor a diez (10) milímetros. El tamaño de la letra puede variar según el contexto dado:
+
+- 16px, se usara para todo párrafo que se encuentre en una zona abierta de la página, sin figuras cercanas a menos de veinte (20) milímetros y que contenga menos de ochenta (80) palabras. También es usado para enlaces a páginas externas.
+
+- 15px, se usara para todo párrafo que se encuentre en una zona abierta de la página, sin figuras cercanas a menos de veinte (15) milímetros y que contenga menos de ochenta (100) palabras.
+
+- 12px, se usara para todo párrafo que se encuentre en una zona cerrada de la página, con varias figuras o imagenes alrededor. Estos párrafos deben tener menos de doscientas (200) palabras y explican más detalles que datos principales. También es usado para enlaces a páginas referentes a términos y/o condiciones de servicios o algún otro modelo de contrato indicado por la aplicación web.
+
+###### Figura 22.
+**Modelos de grosor según los tipos de textos especificados para página web.**
 
 
 

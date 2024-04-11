@@ -105,16 +105,97 @@ A través del logo atrayente junto a su mensaje claro y agradable, podremos most
 ### 4.1.2. Web Style Guidelines
 
 ## 4.2. Informations Architecture
-
 ### 4.2.1. Organization Systems
+El propósito de Organization Systems (Sistema de organización) es establecer la estructura visual del contenido, navegación, cómo encontrar la información, etc. Propertunity utilizará un sistema de organización que se devide en módulos y uso de jerarquías, además detellamos en los siguientes aspectos:
+
+#### Inicio:
+Dentro de inicio se mostrará las funciones principales a primera vista mientras que otras funciones o características estarán (ocultas) en otro apartado que se podrán acceder por medio de un botón. Esta decisión es principalmente para mostrar las funcionalidades importantes o más usadas; usaremos el patrón de diseño 'F', además mostraremos los anuncios inmobiliarios (publicaciones de alquiler, venta) ya que no queremos dilatar la experiencia del usuario y mostrar lo que el usuario está buscando.
+
+#### Publicaciones:
+Esta sección tiene que ser la más resaltante ya que es el "corazón" de nuestra aplicación. En forma de matriz, mostraremos las imágenes de los inmmuebles, el precio, y la ubicación. Si se desea ordenar por orden alfabético, por fecha, por costo, etc., el usuario podrá por medio de un botón o función.
+
+#### Perfil de usuario:
+En "perfil" se mostrará todos los datos relacionados al usuario como aquellas publicaciones guardadas como favoritas, reputación, información personal, entre otros. El usuario podrá editar su perfil con la opción descriptiva de "editar"; podrá además acceder desde este apartado a los chats o conversaciones que los usuarios puedan tener con los anunciantes.
+
+#### Perfil de anunciante:
+El "perfil de anunciante" mostrará todas las publicaciones resaltantes primeramente puestas por el anunciante y las publicaciones normales. Se mostrará la calificación del anunciante y las reseñas para mostrar confianza y credibilidad del anunciante.
 
 ### 4.2.2. Labelling Systems
+En esta parte, trataremos de representar una gran cantidad de información (descripción) en pocas palabras; esta es la parte más resaltante de la arquitectura de la información. Usaremos las siguientes etiquetas para representar la información:
+| Etiqueta | Descripción |
+|----------|-------------|
+| Contactar | El usuario podrá contactar a un anunciante ya sea por medio de una publicación o por medio del perfil del anunciante; el contexto el cual se encuentre está etiqueta bastará |
+| Mi perfil | El usuario podrá ver su perfil como datos personales, publicaciones, reseñas, reputación, etc., el contexto basará lo que se muestra en el perfil |
+| Publicar | Con esta opción, "publicar" permitirá publicar anuncios sobre inmuebles a alquilar, vender, etc., relacionado con el inmueble. |
+| Buscar | Esencialmente, buscar permite lo que el verbo describe. Dependiendo del contexto como: buscar inmuebles, buscar anunciante, buscar usuario, buscar opciones |
+| Ajustes | La etiqueta "ajustes" permitirá la modificaciones o edición de los bloques, por ejemplo, ajustes podría significar en términos de perfil, la modificación de datos personales o actualización del perfil, ajustes en términos de publicación permitiría la edición de la publicación como la modificación del precio, ubicación, etc. |
+| Evaluar | Evaluar se refiere a la evaluación crediticia. Esta opción permitirá al usuario calcular o estimar el crédito y costos de la adquisición de un inmueble |
+| Compartir | Con esta opción se podrá compartir información por medio de un link. La opción de "comparir" permitirá compartir: publicaciones, perfil, etc. |
 
 ### 4.2.3. SEO Tags and Meta Tags
+Se manejarán diversas páginas con diferentes propósitos: inicio, registro, evaluación crediticia, publicaciones, perfil de anunciante, etc., además de nuestro sitio web estático (Landing Page).
+
+1. Landing Page
+- Title Tag: "Propertunity: Anuncia y compra inmuebles fácilmente | SmarTech"
+- Meta Description Tag: content="¡Bienvenido a Propertunity! Conozca cómo fácil es anunciar y comprar inmuebles en nuestro sitio web."
+- Meta Keyword Tag: content="inmueble, comprar, alquilar, rápido, online"
+- Author: name="copyright" content="SmartTech"
+  
+2. Inicio
+- Title Tag: "Inicie sesión para empezar | SmarTech"
+- Meta Description Tag: content="¡Bienvenido a Propertunity! Inicie sesión fácilmente para empezar en el mundo de los inmuebles."
+- Meta Keyword Tag: content="propertunity, comprar, alquilar, inciar, online, sesión"
+- Author: name="copyright" content="SmartTech"
+  
+3. Registro
+- Title Tag: "Registrese en nuestra plataforma con unos simples pasos | SmarTech"
+- Meta Description Tag: content="¡Bienvenido a Propertunity! Complete sus datos para empezar el registro."
+- Meta Keyword Tag: content="registrar, comprar, inmueble, rápido, sesión, propertunity"
+- Author: name="copyright" content="SmartTech"
+  
+4. Evaluación Crediticia
+- Title Tag: "Evaluación crediticia rápido y sencilla | SmarTech"
+- Meta Description Tag: content="Use nuestra evaluación crediticia para conocer cómo será el futuro en la compra de inmuebles."
+- Meta Keyword Tag: content="inmueble, comprar, crédito, averiguar, online, dinero"
+- Author: name="copyright" content="SmartTech"
+  
+5. Publicaciones
+- Title Tag: "Publicaciones de inmuebles | SmarTech"
+- Meta Description Tag: content="En esta sección encontrará todo tipo de publicaciones sobre inmuebles con filtros y detalles."
+- Meta Keyword Tag: content="inmueble, comprar, alquilar, rápido, online, anuncio, características, lugar, precio"
+- Author: name="copyright" content="SmartTech"
+
+6. Perfil de anunciante
+- Title Tag: "Perfil de anunciante | SmarTech"
+- Meta Description Tag: content="Conozca más sobre nuestros anunciantes; vea su reputación, reseñas, publicaciones y más."
+- Meta Keyword Tag: content="anunciante, comprar, publicaciones, dinero, estafa, evitar, sitio, perfil, reseñas, comentarios, contactar"
+- Author: name="copyright" content="SmartTech"
 
 ### 4.2.4. Searching Systems.
+Para evitar que nuestro usuarios estén "perdidos" en nuestra aplicación web, usaremos ciertos métodos como filtros, opciones de búsqueda, clasificadores, contenedores, etc., los cuales permitirán al usuario actuar como mapas o guías entre tanta información mostrada de nuestra aplicación web.
+
+1. Barra de Navegación:
+Esta barra será la principal herramienta el cual el usuario usará para poder buscar opciones, funcionalidades, características de nuestra aplicación. Dependiendo del contexto en el cual el usuario se encuentre, esta barra buscará detalles cómo perfiles, publicaciones, herramientas de la página, y entre otros. Los principales enlaces serían: "página principal", "contactar", "publicaciones", "evaluación crediticia", "acerca de nosotros".
+
+2. Enlaces Contextuales:
+Dentro de la aplicación y en cada aparatado mostraremos botones descriptivos y llamativos los cuales guiarán al usuario a la información que buscan. Por ejemplo, para ubicar cierto elemento o sección, un botón llamado "más" será el responsable de mostrar a más detalles todas las posibles funciones que el usuario necesite. Las funciones o botones con mayor demanda estarán ubicadas al principio de la página.
+
+3. Navegación Jerárquica:
+Nosotros usamos el patrón de diseño 'F' el cual enfatiza y ensalsa lo que nosotros ofrecemos a nuestro usuario. Estás funciones y botones estarán ordenadas de tal manera que se vea a mayor detalles aquellas funciones de mayor demanda hasta la última función disponible para el usuario.
+
+4. Sección Inferior:
+En la parte inferior de nuestra página de inicio, mostraremos ciertas opciones de navegación cómo: contáctanos (como empresa), acerca de nosotros, contáctar asesores, etc.
 
 ### 4.2.5. Navigation Systems.
+Las acciones y técnicas que guiarán a los usuarios a través del Landing Page y las aplicaciones permitiran cumplir sus metas e interactuar de forma satisfactoria con el productos.
+
+| Etiqueta | Descripción |
+|----------|-------------|
+| Inicio |  Un enlace el cual dirigirá al usuario al inicio donde se visualizará la presentación principal de la aplicación |
+| Perfil | Enlace el cual llevará al usuario al perfil de otro usuario o al perfil de un anunciante; dependiendo del contexto |
+| Evaluación | Este enlace llevará al usuario (comprador) a la aplicación de evaluación crediticia |
+| Publicaciones | Publicaciones en conjunto; un enlace el cual llevará al usuario a la página de publicaciones donde podrá apreciar todos los items |
+| Sobre nosotros | Llevará al usuario a nuestra página estática (Landing Page) para que conozca todo sobre nosotros como empresa y nuestras aplicaciones |
 
 ## 4.3. Landing Page UI Design
 

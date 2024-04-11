@@ -305,8 +305,11 @@ Las acciones y técnicas que guiarán a los usuarios a través del Landing Page 
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
-Los wireframes son representaciones visuales esquemáticas y simplificadas de la estructura y disposición de elementos en una página web o aplicación, enfocándose en la organización de la información, la funcionalidad y el flujo de usuario. Para la landing pague de Propertunity se optó por un diseño intuitivo donde se pueda tiene una página de inicio, sobre nosotros, suscripciones, funciones, testimonios y contáctanos. 
-<img src="/assets/img/C4_ContextDiagram.png" alt="Diagrama de contexto del modelo C4" width="500" height="350">
+Los wireframes son esquemas visuales simplificados que representan la estructura y disposición de elementos en una página web o aplicación, centrándose en la organización de la información, la funcionalidad y la experiencia del usuario. En el caso de la landing page de Propertunity, se eligió un diseño intuitivo que incluye secciones como la página de inicio, información sobre la empresa, opciones de suscripción, características, testimonios y formulario de contacto.
+
+<img src="/assets/img/LandingPage-Wireframes01.PNG" alt="Landing page wireframes" >
+<img src="/assets/img/LandingPage-Wireframes02.PNG" alt="Landing page wireframes" >
+<img src="/assets/img/LandingPage-Wireframes03.PNG" alt="Landing page wireframes" >
 ### 4.3.2. Landing Page Mock-up
 
 ## 4.4. Web Applications UX/UI Design

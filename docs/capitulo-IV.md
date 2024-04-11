@@ -269,10 +269,23 @@ Las acciones y técnicas que guiarán a los usuarios a través del Landing Page 
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagram.
+El diagrama de contexto es el nivel más alto de abstracción en el modelo C4. Representa el sistema en su totalidad y su entorno externo, mostrando las interacciones de alto nivel entre el sistema y sus actores externos.<br>
+En el diagrama de Property podemos observar la interacción de los usuarios y agentes inmobiliarios con la aplicación web. Además, de las conexiones que esta tiene con las diversas API y servicios externos, que ayudará al aplicativo web a cumplir con las funciones que requiera realizar los usuarios.
+
+<img src="/assets/img/C4_ContextDiagram.png" alt="Diagrama de contexto del modelo C4" width="500" height="350">
 
 ### 4.6.2. Software Architecture Container Diagrams.
+El diagrama de contenedores se enfoca en la estructura interna del sistema, identificando los principales contenedores que lo componen, y muestra las de comunicaciones entre ellos.<br>
+Se observa con un poco mas de detalle el interior del aplicativo web, en donde tenemos un single page app que se comunica con el backend y este a su vez con la base de datos.
+
+<img src="/assets/img/C4_ContainerDiagram.png" alt="Diagrama de contenedor del modelo C4" width="600" height="350">
 
 ### 4.6.3. Software Architecture Components Diagrams
+El diagrama de componentes se adentra en el nivel más detallado de la arquitectura, desglosando cada contenedor en sus componentes individuales. Se muestra la organización y comunicación entre los componentes dentro del contenedor.<br>
+Se visualiza los componentes internos del backend, el controlador principal y a relación que este tiene con los otros componentes dedicados a la interacción con los API externos y la base de datos.
+
+<img src="/assets/img/C4_ComponentDiagram.png" alt="Diagrama de componentes del modelo C4" width="600" height="350">
+
 
 ## 4.7. Software Object-Oriented Design
 

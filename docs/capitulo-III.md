@@ -47,7 +47,7 @@
 		</tr>
         <tr>
             <td colspan="1">EP003</td>
-            <td colspan="1"> Implementación de interfaz de plataforma web </td>
+            <td colspan="1"> Implementación de interfaz de usuario en la plataforma web </td>
             <td colspan="1">
             <strong>Como</strong> usuario de la plataforma <strong>quiero </strong>visualizar una interfaz amigable y didáctica <strong>para</strong>entender lo que ofrece la plataforma a primera vista
             </td>

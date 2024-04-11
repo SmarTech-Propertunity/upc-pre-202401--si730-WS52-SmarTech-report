@@ -269,3 +269,5 @@ Tabla de entidades.
 |propiedades_bancos | id_propiedad (int) PRIMARY KEY<br> id_banco (int) PRIMARY KEY<br> beneficio (varchar(50))|
 |formularios_contactos |id_formulario (int) PRIMARY KEY<br> correo(varchar(100)) <br> nombre (varchar(40))<br> apellido (varchar(40))<br> telefono (varchar(9))<br> dni (varchar(8))<br> mensaje (varchar(400))<br> recepcion (bit)<br> id_banco (int)FOREIGN KEY|
 
+Modelado de la Base de Datos
+<img src="/assets/img/DataBase Propertunity.PNG" alt="Modelado de la Base de Datos" >

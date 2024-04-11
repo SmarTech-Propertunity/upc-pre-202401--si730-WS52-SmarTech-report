@@ -2,13 +2,13 @@
 
 ## 4.1. Style Guidelines
 
-En esta parte, presentaremos el plan de diseños, estilos y estéticas que hemos elaborado para nuestra página web y las páginas de la propia aplicación con el objetivo de garantizar que nuestros usuarios disfruten de una interfaz amigable y fácil de utilizar. Para lograrlo, hemos optado por emplear elementos visuales que sean claramente visibles y estéticamente agradables, además de identificar una serie de restricciones para evitar incluir elementos gráficos discordantes o poco llamativos.
+En esta parte, presentaremos el plan de diseños, estilos y estéticas que hemos elaborado para todas nuestra páginas web de forma general, con el objetivo de garantizar que nuestros usuarios disfruten de una interfaz amigable y fácil de utilizar. Para lograrlo, hemos optado por emplear elementos visuales que sean claramente visibles y estéticamente agradables, además de identificar una serie de restricciones para evitar incluir elementos gráficos discordantes o poco llamativos.
 
 ### 4.1.1. General Style Guidelines
 
-**Colores:**
+#### Colores:
 
-El color es un elemento fuerte y destacable en los modelos de diseño de la interfaz del usuario. Este puede ser bastante atractivo y efectivo para incrustar y/o evocar sentimientos emocionales en nuestro segmento de mercado de forma impresionable y subjetiva, además de ser una parte central de la identidad de una marca. Al elegir colores específicos para su logotipo y material de marketing, una empresa puede crear una identidad visual distintiva y reconocible que ayuda a los consumidores a identificar y recordar la marca. Asimismo, en un mercado saturado, los colores pueden ayudar a una marca a destacar y diferenciarse de la competencia. Un esquema de colores único o inusual puede atraer la atención de los consumidores y hacer que una marca sea más memorable.
+El color es un elemento fuerte y destacable en los modelos de diseño de la interfaz del usuario. Según García-Garrido (2021), al elegir colores específicos para su logotipo y material de marketing, una empresa puede crear una identidad visual distintiva y reconocible que ayuda a los consumidores a identificar y recordar la marca con facilidad. Este puede ser bastante atractivo y efectivo para incrustar y/o evocar sentimientos emocionales en nuestro segmento de mercado de forma impresionable y subjetiva, además de ser una parte central de la identidad de una marca. Asimismo, en un mercado saturado lleno de competidores, los colores pueden ayudar a una marca a destacar y diferenciarse de todas las demás empresas. Un esquema de colores único o inusual puede atraer la atención de los consumidores y hacer que una marca sea más memorable.
 
 El color base principal que se utilizará en todas las páginas de nuestro aplicativo web, sin importar la plataforma o el dispositivo usado, será el azul, el cual brinda sentimientos de calma y confianza en general, además de profesionalismo y seguridad. Asimismo, a través del uso de diferentes contrastes y brillos, podemos agregarle un valor de estabilidad y seriedad si lleva un tono muy oscuro, o un valor de simpatía y amistad si lleva un tono muy claro. Estos sentimientos se asocian de forma directa a la principal misión que busca nuestro proyecto y a la seguridad, comunicación y felicidad que queremos ofrecer a nuestro propio segmento de mercado.
 
@@ -51,9 +51,9 @@ La tercera paleta corresponde al color rojo, el cual transmite valentía y energ
 
 ---
 
-**Tipografía:**
+#### Tipografía:
 
-La tipografía de la marca es un punto esencial para su diseño, según Dopico (2021), el tipo de fuente que elegimos para nuestras páginas provoca una reacción psicológica que puede ayudar a nuestra marca a ser más atrayente, cómoda y amigable. Al cambiar el estilo de fuente y elegir uno adecuado, podemos hacer que los usuarios se sientan de una forma distinta con nuestra startup. Se deben usar fuentes que ofrezcan un impacto positivo y que le otorgue identidad a nuestra empresa, siempre transmitiendo la personalidad y los valores. Todo esto tiene el fin de crear un vinculo más cercano con nuestro segmento objetivo.
+La tipografía de la marca es un punto esencial para su diseño en general. Según Dopico (2021), el tipo de fuente que elegimos para nuestras páginas provoca una reacción psicológica que puede ayudar a nuestra marca a ser más atrayente, cómoda y amigable. Al cambiar el estilo de fuente y elegir uno adecuado, podemos hacer que los usuarios se sientan de una forma distinta con nuestra startup. Se deben usar fuentes que ofrezcan un impacto positivo y que le otorgue identidad a nuestra empresa, siempre transmitiendo la personalidad y los valores. Todo esto tiene el fin de crear un vinculo más cercano con nuestro segmento objetivo.
 
 En este caso, el tipo de letra que usaremos principalmente será “Lato" porque está se encuentra diseñada específicamente para verse cómoda y entendible en computadoras y dispositivos móviles. Su diseño limpio, grueso y sin remates facilita la lectura de texto en estas pantallas, lo que puede mejorar la experiencia del usuario, además de que el estilo de la letra da un sentimiento de profesionalismo, sensatez y atractividad. 
 
@@ -79,7 +79,7 @@ Los modelos de grosor de la letra pueden variar según la página y la sección 
 
 ---
 
-**Tono de comunicación y lenguaje aplicado:**
+#### Tono de comunicación y lenguaje aplicado:
 
 Según lo aclarado por Smith & Zook (2022), el tono de comunicación es un aspecto muy importante en los estilos que se planean integrar en las páginas, pestañas o apartados de una aplicación. Estos añaden sentimientos subjetivos a los clientes con respecto a los textos que leen y a las imágenes o elementos gráficos que observan, además de agregar un sentimiento de identidad propia sobre la empresa y/o producto. Asimismo, el uso de un lenguaje claro y comprensible es importante para la optimización de motores de búsqueda, ya que estos valoran el contenido de alta calidad que utiliza palabras claves y relevantes en contextos naturales.
 
@@ -89,7 +89,7 @@ Asimismo, podemos agregar un tono bastante entusiasta en todas aquellas seccione
 
 ---
 
-**Branding e Icono:**
+#### Branding e Icono: 
 
 Para el logo de nuestra aplicación hemos decidido emplear un modelo pomposo y atractivo que destaque entre todas las demás aplicaciones de nuestra competencia en el rubro inmobiliario y pueda ser interesante y atrayente para nuestros clientes. Este diseño se basa en un resumen rápido de lo que hace nuestra aplicación y el cómo queremos que apoye a nuestros segmentos objetivos en sus correspondientes procesos de negocio en biene raíces. 
 
@@ -102,7 +102,24 @@ El logo esta compuesto por el diseño de una pequeña ciudad pintada con tonos n
 
 A través del logo atrayente junto a su mensaje claro y agradable, podremos mostrar nuestro apoyo directo a nuestros segmentos de mercados y a como esperemos cambiar el mercado inmobiliario para que sea un lugar más seguro, formal e informado para todas las personas que deseen entrar. Con este logo, no solo conseguiremos atraer a más público, sino que también podremos mostrar nuestra misión, visión y valores de forma abstracta y rápida para todos nuestros clientes potenciales.
 
+--- 
+
 ### 4.1.2. Web Style Guidelines
+
+En esta parte, presentaremos el plan de diseños, estilos y estéticas que hemos elaborado para nuestras páginas web referentes a la landing page y a la propia aplicación web, centrandonos en que cumplan todos los requisitos necesarios para darle una experiencia comoda y agradable a todos nuestros clientes. Muchos de los estilos se guiaran principalmente de las bases generales presentadas anteriormente, mostrandose en escenarios más especificos y siguiendo metodologias y buenas practicas referentes al diseño de páginas web. 
+
+Asimismo nos aseguraremos que se cumplan todos los requisitos para que las páginas de la landing page y la aplicación web cumplan con el enfoque del Responsive Design, el cual busca proporcionar una experiencia de usuario óptima en una amplia gama de dispositivos y tamaños de pantalla. En lugar de crear múltiples versiones de un sitio web para diferentes dispositivos (como computadoras de escritorio, tabletas y teléfonos móviles), el diseño web adaptable utiliza una combinación de técnicas HTML y CSS para ajustar automáticamente el diseño y el contenido del sitio web según las características del dispositivo y el tamaño de la pantalla del usuario (Bhanarkar et al., 2023).
+
+#### Colores:
+
+Los colores que utilizarán las páginas webs de nuestro aplicativo se guiarán de todos los mencionados anteriormente en el manual de diseño general, pero tendrá ciertas variaciones con respecto a la proporción, combinación y contraste con el que se presentan. Estas variaciones no solo dependen del nuevo estilo de formato y pantalla, sino también de la sección o página en la que se encuentre el usuario mientras utiliza la aplicación. Ante esto, se presentan las siguientes secciones que hemos identificado, donde se cambiarán los tipos de color y transparencia según el diseño proporcionado: 
+
+
+
+
+
+
+
 
 ## 4.2. Informations Architecture
 ### 4.2.1. Organization Systems

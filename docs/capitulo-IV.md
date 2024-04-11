@@ -112,16 +112,50 @@ Asimismo nos aseguraremos que se cumplan todos los requisitos para que las pági
 
 #### Colores:
 
-Los colores que utilizarán las páginas webs de nuestro aplicativo se guiarán de todos los mencionados anteriormente en el manual de diseño general, pero tendrá ciertas variaciones con respecto a la proporción, combinación y contraste con el que se presentan. Estas variaciones no solo dependen del nuevo estilo de formato y pantalla, sino también de la sección o página en la que se encuentre el usuario mientras utiliza la aplicación. Ante esto, se presentan las siguientes secciones que hemos identificado, donde se cambiarán los tipos de color y transparencia según el diseño proporcionado: 
+Los colores que utilizarán las páginas webs de nuestro aplicativo se guiarán de todos los mencionados anteriormente en el manual de diseño general, pero tendrá ciertas variaciones con respecto a la proporción, combinación y contraste con el que se presentan. Estas variaciones no solo dependen del nuevo estilo de formato y pantalla, sino también de la sección o página en la que se encuentre el usuario mientras utiliza la aplicación.
+
+##### Capas de colores:
+
+Con el fin de seguir un modelo sensato y de fácil comprensión, hemos dividido a nuestra paleta de colores para las páginas web en tres capas distintas: primaria, secundaria y terciara, cada una con su propia mezcla de colores. Cabe resaltar que estos son colores sólidos y que el uso de degradados no esta permitido en el uso de nuestra página.
+
+- Primaria: Esta capa se basa en el color principal de nuestra empresa, el cual es el azul oscuro, pero puede tener ciertos contrastes más claros según la tonalidad que se busca en cada página y el como encaja con la sección utilizada; sin embargo, no puede usarse más de un color primario. Este color se usara principalmente en las secciones del encabezado, en la barra de navegación, en cuestionarios, en objeto interactuables por los usuarios, y como fondo en articulos con párrafos importantes dentro de una página.
+
+- Secundaria: Esta capa se basa en el color secundario de nuestra empresa, el cual es el blanco junto a otras tonalidades de colores claros que no llegan a una oscuridad mayor al gris; sin embargo, no puede usarse más de dos colores secundarios a menos que sea para cambios de tipografía. Este color se usara principalmente en todo fondo que no tenga algún color primario, lo que sería mayormente articulos con parrafos de relevancia menor, además de ser utilizado en el footer de las páginas.
+
+- Terciaria: Esta capa se basa en el color terciario de nuestra empresa, el cual es en sí un conjunto de colores variados relacionados con el naranja, llevando tonalidades amarillentas y rojizas. Pueden usarse todas las tonalidades, pero prefireblemente no se debe usar más de dos. Este color se usara principalmente en toda figura de una página y todo botón sencillo que solo funcione para la aceptación o negación de alguna acción realizada por el usuario.
+
+###### Figura 23.
+*Modelo de capas usados para los colores.*
+
+Cada capa de color debera tener una proporción para que el color primario sea más resaltante y llamativo en comparación al resto. Pueden haber variaciones, pero la dispersión no debe aumentar al 5% en ninguna circunstancia con respecto al resto de capas. Es necesario resaltar que todo color de una capa se suma entre si se llega a usar más de un color.
+
+###### Figura 24.
+*Escala de proporción para cada capa de color.*
 
 
 
+##### Color de letra:
+
+El color de la letra utilizado en las páginas web dependera de la capa de color que se esta utilizando en la sección de la página en donde se colocara el texto o si el texto se encuentra sobre una figura referente a una imagen o algún otro tipo de estructura de contorno irregular. Se debe tomar mucha precaución al usar un color para la tipografía, puesto que escoger un color erroneo puede provocar incomodes en los usuarios al momento de querer leer información que puede resultar bastante importante. Siguiendo las capas mostradas anteriormente y otros casos extras, se dictaran los siguientes colores posibles para la tipografía:
+
+###### Figura 25.
+*Colores para la tipografía.*
+
+
+Es necesario resltar que el color "White" o blanco se tratara de usar en mayor proporción al color "Black" o negro; no obstante, no hay ningún modelo de proporción definido, puesto que las circunstancias entre páginas pueden variar.
+
+- White: Este color es la contraparte necesaria de la capa de color primario, el cual es el color azul, por lo que en toda zona donde el fondo tenga el color primario, es necesario usar este color de letra también. Otras secciones donde debe ser implementado es sobre imagenes con un contraste mayor al 60% que pertenezcan a encabezados, y en botones con fondo de algún color terciario.
+
+- Black: Este color es la contraparte necesaria de la capa de color secundario, el cual es el color blanco, por lo que en toda zona donde el fondo tenga el color secundario, es necesario usar este color de letra también.
+
+- Gray: Este color es exclusivo para las secciones donde el usuario debe introducir algún valor, como los cuadros de texto de los cuestionarios. En ninguna otra circunstancia debe usarse este color de letra.
 
 
 
 
 
 ## 4.2. Informations Architecture
+
 ### 4.2.1. Organization Systems
 El propósito de Organization Systems (Sistema de organización) es establecer la estructura visual del contenido, navegación, cómo encontrar la información, etc. Propertunity utilizará un sistema de organización que se devide en módulos y uso de jerarquías, además detellamos en los siguientes aspectos:
 

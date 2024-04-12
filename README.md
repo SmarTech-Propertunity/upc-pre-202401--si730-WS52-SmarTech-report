@@ -34,6 +34,20 @@ En esta sección se resumen todas las modificaciones relevantes que sean realiza
 | TB2     |                  |       |                             |
 | TF1     |                  |       |                             |
 
+**Team Collaboration Insights**
+
+Para el Reporte: 
+
+<img src="/assets/img/Contributions for Main.png" alt="Contributions for Main">
+<img src="/assets/img/Individual Contributions for Main - 1.png" alt="Individual Contributions for Main - 1">
+<img src="/assets/img/Individual Contributions for Main - 2.png" alt="Individual Contributions for Main - 2">
+
+Para la Landing Page: 
+
+<img src="/assets/img/Contributions for Landing Page.png" alt="Contributions for Landing Page">
+<img src="/assets/img/Individual Contributions for Landing Page - 1.png" alt="Individual Contributions for Landing Page - 1">
+<img src="/assets/img/Individual Contributions for Landing Page 2.png" alt="Individual Contributions for Landing Page - 2">
+
 ---
 
 ## ÍNDICE

@@ -202,34 +202,52 @@ Finalmente, también se adoptará el uso de los Conventional Commits para los me
 | type: description |
 |-------------------|
 
+---
+
 ### 5.1.3 Source Code Style Guide & Conventions.
 
-Se tiene la intención de seguir las directrices y normativas de codificación establecidas en una variedad de fuentes, tales como el HTML Style Guide and Coding Conventions, la Guía de Estilo de Codificación de Angular, la Guía de Estilo de Codificación para Java, las Convenciones Gherkin para Especificaciones Legibles, la Guía de Estilo de TypeScript, la Guía de Estilo de Codificación de Angular y las características específicas de Spring Boot.
+En esta sección, nuestro equipo de trabajo explicara e indicar las referencias que adoptaremos para nombrar y programar en los lenguajes de programación que se utilizar para el diseñado de nuestra solución de software mediante la Landing Page y el Web Applications. Ante esto, especificaremos todas las convenciones dadas para los siguientes lenguajes de programación o lenguajes de etiquetas junto a sus guías de seguimiento:
 
-**CONNVECIONES QUE USAREMOS**
+- Guía de Estilos y Convenciones de Codigo para HTMl: https://www.w3schools.com/html/html5_syntax.asp 
+- Guía de Estilos de Google para HTML Y CSS: https://google.github.io/styleguide/htmlcssguide.html 
+- Convenciones de Gherkin para especificaciones legibles: https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/ 
+- Guía de Estilos para la Framework de Vue: https://v2.vuejs.org/v2/style-guide/?redirect=true 
+- Guía de Google para el Estilo de JavaScript: https://google.github.io/styleguide/jsguide.html
+- Guía de Pautas de Javascript de MDN (Mozilla): https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/JavaScript}
+- Guía de Estilos de Javascript del consorcio W3: https://www.w3schools.com/js/js_conventions.asp
+- Convenciones de Código para C#: https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
+- Guía de Pautas para el código en ASP.NET Core de Microsoft: https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines#coding-guidelines 
 
-HTML
-- Usar nombres descriptivos para el archivo HTML
+Se tiene la intención de seguir todas estas directrices y normativas de codificación establecidas, además de modelar los diseños de las nomenclaturas y seguir el lenguaje inglés ante la recomendación mayoritaria frente a la codificación de nuestras páginas web.
+
+##### Convenciones que Usaremos
+
+**Con respecto a HTML:**
+- Para el guardado y actualización de archivos HTML se deben usar nombres descriptivos y sencillos que resuman adecuadamente todas las estructuras que se realizaron durante el proceso de programación.
 - Seguir una convención de nomenclatura consistente, como camelCase, para nombres de archivos y carpetas.
-- Utiliza los elementos HTML de manera semántica para describir correctamente el contenido de tu sitio web. Esto incluye el uso apropiado de etiquetas.
+- Utilizar las etiquetas HTML de manera semántica para describir adecuadamente la estructura y el contenido de tu página web. Por ejemplo, utilizar <header>, <nav>, <main>, <section>, <article>, <footer>, etc., en lugar de divs genéricos.
 - Mantener una estructura de código clara y legible mediante la indentación adecuada.
 - Utilizar un estilo de formato consistente en todo el código para mejorar la mantenibilidad.
 
-CSS
+**Con respecto a CSS:**
 - Utiliza nombres de clases descriptivos y significativos para aplicar estilos a tus elementos HTML
 - Prefiere nombres que reflejen la función o el propósito del elemento en lugar de su apariencia.
 - Evita el uso de IDs para estilos, ya que pueden causar especificidad excesiva y dificultar la reutilización de estilos.
 
-JavaScript:
+**Con respecto a JavaScript:**
 - Para la nomenclatura se usara el camelCase para nombres de variables y funciones en JavaScript.
 - Utiliza espacios o tabulaciones de manera consistente y asegúrate de mantener una línea de código por línea para mejorar la legibilidad.
 
-TypeScript:
+**Con respecto a TypeScript:**
 - Aprovecha las generics de TypeScript para crear funciones y clases que sean flexibles y reutilizables con diferentes tipos de datos.
 - Usar el camelCase para nombres de variables y tipos, y el PascalCase para nombres de tipos de datos y clases.
 
-Gherkin:
+**Con respecto a las convenciones de Gherkin:**
 - Utiliza las palabras clave de Gherkin como Given, When, Then para estructurar tus escenarios de manera coherente y expresiva.
+
+**Con respecto al framework de Vue:**
+
+**Con respecto a C#:**
 
 ### 5.1.4 Software Deployment Configuration.
 

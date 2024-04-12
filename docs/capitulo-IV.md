@@ -393,6 +393,10 @@ En la aplicación, los usuarios tienen la libertad de explorar y moverse fácilm
 
 ## 4.5. Web Applications Prototyping
 
+URL prototipo: https://www.figma.com/proto/l2XJHYzb11FHLkdTW8r4se/Web-Application-Wireframe?type=design&node-id=17-3&t=SEYRvLtIaY8ZKSAi-1&scaling=contain&page-id=17%3A2&starting-point-node-id=17%3A3&mode=design
+
+URL video demostrativo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912407_upc_edu_pe/EVw5tGaqkIxKnMGtILenqO4BPmb9Pby46WbbND5ByaRY4w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=r7gefd
+
 ## 4.6. Domain-Driven Software Architecture
 
 El modelo C4  nos brinda una estructura clara para visualizar y comunicar la arquitectura de nuestros sistemas, desde la conceptualización de contextos hasta la implementación de componentes y código.<br>

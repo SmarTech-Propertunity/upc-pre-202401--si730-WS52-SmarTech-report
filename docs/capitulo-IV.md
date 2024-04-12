@@ -333,16 +333,22 @@ En esta sección incluiremos secciones internas donde presentaremos y explicarem
 ### 4.4.1. Web Applications Wireframes
 #### Inicio de sesión
 <img src="/assets/img/Wireframe-InicioDeSesión.png" alt="Wireframe de Inicio de Sesión de la aplicación web">
+
 #### Registro (creación de cuentas)
 <img src="/assets/img/Wireframe-Registro.png" alt="Wireframe de Registro o Creación de cuentas de la aplicación web">
+
 #### Inicio o Home
 <img src="/assets/img/Wireframe-Inicio.png" alt="Wireframe de Inicio o 'Home' de la aplicación web">
+
 #### Perfil
-<img src="/assets/img/WireframePerfil-.png" alt="Wireframe de Perfil de la aplicación web">
+<img src="/assets/img/Wireframe-Perfil.png" alt="Wireframe de Perfil de la aplicación web">
+
 #### Búsqueda
 <img src="/assets/img/Wireframe-Búsqueda.png" alt="Wireframe de Búsqueda de la aplicación web">
+
 #### Publicación
 <img src="/assets/img/Wireframe-Publicación.png" alt="Wireframe de Publicación de la aplicación web">
+
 #### Evaluación
 <img src="/assets/img/Wireframe-Evaluación.png" alt="Wireframe de Evaluación de la aplicación web">
 
@@ -354,8 +360,36 @@ Dentro de la aplicación, el usuario podrá navegar libremente y con sistemas de
 <img src="/assets/img/WireflowDiagram2.png" alt="Wireflow diagram de aplicación web">
 
 ### 4.4.3. Web Applications Mock-Ups
+#### Inicio de sesión
+<img src="/assets/img/Mockup-InicioDeSesión.png" alt="Wireframe de Inicio de Sesión de la aplicación web">
+
+#### Registro (creación de cuentas)
+<img src="/assets/img/Mockup-Registro.png" alt="Mockup correspondiente al Registro o Creación de cuentas de la aplicación web">
+
+#### Inicio o Home
+<img src="/assets/img/Mockup-Inicio.png" alt="Mockup correspondiente al Inicio o 'Home' de la aplicación web">
+
+#### Perfil
+<img src="/assets/img/Mockup-Perfil.png" alt="Mockup correspondiente al Perfil de la aplicación web">
+
+#### Búsqueda
+<img src="/assets/img/Mockup-Búsqueda.png" alt="Mockup correspondiente al Búsqueda de la aplicación web">
+
+#### Publicación
+<img src="/assets/img/Mockup-Publicación.png" alt="Mockup correspondiente al Publicación de la aplicación web">
+
+#### Evaluación
+<img src="/assets/img/Mockup-Evaluación.png" alt="Mockup correspondiente al Evaluación de la aplicación web">
 
 ### 4.4.4. Web Applications User Flow Diagrams
+
+Cuando un usuario inicia sesión, tiene la opción de utilizar una cuenta existente de la aplicación web o de crear una nueva. Si el inicio de sesión es exitoso, se redirigirá al usuario a la página de inicio; de lo contrario, se le pedirá que cree una cuenta nueva. Para crear una nueva cuenta, el usuario debe proporcionar sus datos completos. Si el usuario necesita recuperar su cuenta debido a olvidar la contraseña, se le solicitará que proporcione su nombre de usuario o correo electrónico asociado con la cuenta para iniciar el proceso de recuperación.
+
+<img src="/assets/img/UserFlowDiagram1.png" alt="User Flow Diagram correspondiente al inicio de sesión">
+
+En la aplicación, los usuarios tienen la libertad de explorar y moverse fácilmente por la página gracias a sistemas de navegación intuitivos diseñado para el correcto funcionamiento de Propertunity.
+
+<img src="/assets/img/UserFlowDiagram2.png" alt="User Flow Diagram correspondiente al manejo de la aplicación web">
 
 ## 4.5. Web Applications Prototyping
 

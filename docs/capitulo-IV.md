@@ -356,6 +356,10 @@ En esta sección incluiremos secciones internas donde presentaremos y explicarem
 
 ## 4.6. Domain-Driven Software Architecture
 
+El modelo C4  nos brinda una estructura clara para visualizar y comunicar la arquitectura de nuestros sistemas, desde la conceptualización de contextos hasta la implementación de componentes y código.<br>
+
+URL del diseño: https://online.visual-paradigm.com/community/share/modeloc4-propertunity-1q23s09jll
+
 ### 4.6.1. Software Architecture Context Diagram.
 El diagrama de contexto es el nivel más alto de abstracción en el modelo C4. Representa el sistema en su totalidad y su entorno externo, mostrando las interacciones de alto nivel entre el sistema y sus actores externos.<br>
 En el diagrama de Property podemos observar la interacción de los usuarios y agentes inmobiliarios con la aplicación web. Además, de las conexiones que esta tiene con las diversas API y servicios externos, que ayudará al aplicativo web a cumplir con las funciones que requiera realizar los usuarios.

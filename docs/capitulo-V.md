@@ -122,6 +122,8 @@ Para todo el despliegue necesario de la Landing Page, nuestro grupo va a utiliza
 
 Página oficial de Github Pages: https://pages.github.com/ 
 
+---
+
 #### Software Document:
 
 Esta sección corresponde a las herramientas y aplicaciones dadas para la documentación precisa de todo el reporte de programación junto a la propia documentación del software durante todo el ciclo de vida de nuestro proyecto. Las herramientas utilizadas para este proceso deben ser sencillas de comprender y manipular para todos los miembros del equipo, además de que deben ser adecuadas para el uso de textos largos con grandes cantidades de informcación, junto a soportar imagenes y seguir buenos modelos de división en secciones.
@@ -138,7 +140,11 @@ Página de guía y seguimiento para HTML5: https://www.w3schools.com/html/
 
 ### 5.1.2 Source Code Management.
 
-En esta sección explicaremos de qué forma se implementará GitFlow. Como Workflow de control de versiones, es decir qué branches (ramas) creacion además de main branch (rama principal), por ejemplo, develop branch. Para GitFlow cada Feature requiere su propio branch, por ello se especificara qué convenciones se aplica para nombrar los feature branches.
+En esta sección se establecerá la estrategia principal para utilizar GitHub como plataforma y sistema de control de versiones entre todas las colaboraciones dadas por el equipo de trabajo durante todo el ciclo de vida del proyecto. Es necesario utilizar todas las herramientas implementadas y estipuladas durante el uso del proyecto y seguir el historial de versiones para identificar posibles cambios nuevos o posibles errores que deben ser eliminados.
+
+En nuestro caso se implementará el modelo GitFlow como WorkFlow de control de versiones, el cual incluye ramas principales como main y develop, las cuales funcionan como bases para el desarrollo e implementación final de todo un proyecto; así como ramas de características, lanzamiento y corrección, las cuales funcionan como ramas provisionales, las cuales tienen caracteristicas extras que esperan ser integradas en el producto final mediante un pull request dado por un miembro o por todo el equipo de trabajo. Esta estrategia proporciona una organización efectiva para el seguimiento de cambios, colaboración en el equipo y gestión de versiones del proyecto.
+
+En esta sección explicaremos de qué forma se implementará GitFlow. Para este modelo presentado, cada Feature requiere su propio branch idealmente para luego ser integrado mediante un pull request ya establecido. Ante esta estrategia ya utilizada por nuestro equipo de trabajo, se explicaran y especificaran las convenciones que se deben aplicar para todos los titulos que llevaran las ramas creadas por nuestro equipo de trabajo:
 
 | *Main: *Esta rama contendrá la versión estable del proyecto, lista para su despliegue.  |
 |-----------------------------------------------------------------------------------------|
@@ -201,7 +207,6 @@ En esta sección especificaremos la configuración del despliegue de la solució
 
 Empezaremos por crear un repositorio en GitHub para almacenar los archivos HTML, CSS y JavaScript. Luego cada integrante del equipo trabajará en su propia rama "feature" para desarrollar nuestro landing page. Una vez completada una característica, se procederá a hacer el merge con la rama "develop" para que la landing page se encuentre actualizada. estableceremos la configuración en GitHub Pages para publicar la página de destino utilizando la rama "develop". A continuación, detallamos los pasos para llevar a cabo este despliegue en GitHub Pages:
 
-
 ### 1. Comenzaremos creando un repositorio público en GitHub, le asignamos un nombre y añadimos los archivos necesarios.
 <img src="/assets/img/set-repository-name.png" alt="Set Repository Name">
 <img src="/assets/img/repository.png" alt="Repository">
@@ -224,6 +229,7 @@ Empezaremos por crear un repositorio en GitHub para almacenar los archivos HTML,
 A continuacion explicaremos el enfoque que seguiremos para llevar a cabo la implementación, pruebas y lanzamiento de nuestro landing page, así como también de los servicios web y la interfaz de usuario de la aplicación web en cada ciclo de desarrollo. Con respecto al Sprint 1, nos centraremos únicamente en describir el proceso de implementación del landing page.
 
 ### 5.2.1 Sprint 1
+
 ### 5.2.1.1 Sprint Planning 1
 
 El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión.

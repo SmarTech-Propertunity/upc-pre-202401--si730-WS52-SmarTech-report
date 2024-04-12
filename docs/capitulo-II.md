@@ -56,7 +56,7 @@ Nuestro proyecto está orientado en el desarrollo de un sistema de software que 
 El objetivo de este análisis es investigar a detalle las características principales y las propuestas de valor que ofrecen otras empresas que tienen el objetivo de brindar una solución a nuestra misma problemática. Así, podremos encontrar una forma viable y consistente con la que podremos diferenciarnos de ellos.
 
 ###### Tabla 2. 
-Análisis Competitivo organizado para todos los competidores potenciales de Propertunity.
+*Análisis Competitivo organizado para todos los competidores potenciales de Propertunity.*
 
 |  | Empresas | Propertunity | adondevivir | Edifica | LaEncontré |
 |--|----------|--------------|-------------|---------|------------|
@@ -93,12 +93,14 @@ Según lo aclarado por Folgueiras (2016), la entrevista es un tipo, sistema y/o 
 
 Con el fin de obtener y separar correctamente toda la información obtenida durante las entrevistas, se optó por definir un banco de preguntas según nuestro segmento de mercado identificado anteriormente. Este grupo de preguntas está especializado para la obtención de información específica según la persona entrevistada y según la problemática investigada para el proyecto y la posible solución en la forma de nuestro producto.
 
-Preguntas generales:
+**Preguntas generales:**
+
 1. ¿Como se llama?
 2. ¿Cuantos años tienes?
 3. ¿A qué te dedicas?
 
- Segmento 1: usuarios que desean comprar, vender o informarse
+**Segmento 1: Usuarios que desean comprar, vender o informarse:**
+
 1. Actualmente, ¿tienes planeado comprar o alquilar una propiedad?
 2. ¿Cuales son las características de la propiedad que deseas comprar/alquilar?
 3. ¿Qué métodos de búsqueda ha utilizado para preguntar por alguna propiedad?
@@ -111,7 +113,8 @@ Preguntas generales:
 10. Con respecto a lo mencionado anteriormente, ¿Que tan probable es que adquiera una membresía de la aplicación para obtener beneficios que impactan gradualmente en su experiencia como usuario? 
 11. Recomendaría esta plataforma web? Porqué?
 
-Segmento 2: anunciante que posee una propiedad en venta o alquiler 
+**Segmento 2: Anunciantes que deseen publicar una propiedad en venta o alquiler:**
+
 1. ¿Alguna vez ha logrado vender o alquilar una propiedad? En caso fuere así, ¿Cuanto tiempo le tomó encontrar al cliente? 
 2. ¿Alguna vez ha colocado información de su propiedad en la calle mediante anuncios de papel o afines? De no ser el caso, ¿Como ha publicitado su propiedad? 
 3. ¿Que tanto alcance logró tras publicitar su propiedad?
@@ -123,36 +126,35 @@ Segmento 2: anunciante que posee una propiedad en venta o alquiler
 
 ### 2.2.2. Registro de entrevistas
 
-#### Segmento 1
-
+#### Segmento 1: Personas que deseen comprar o alquilar una propiedad
 
 **Entrevista N°1:**
 
 ###### Figura 2
-Imagen de presentación de la primera entrevista realizada.
+*Imagen de presentación de la primera entrevista realizada.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/entrevista-segmento1.png" alt="Entrevista Segmento 1" width="400" height="300">
+<img src="/assets/img/entrevistas/entrevista-segmento1.png" alt="Entrevista Segmento 1" width="550" height="300">
 
-Nota. Piero tiene 23 años, reside en el distrito de Barranco y es estudiante de la Universidad Peruana Aplicada de Ciencias UPC en la carrera de Ingeniería de Sistemas. Él está interesado en alquilar una propiedad cercana a la sede Villa y compartirla con otra persona con los mismos intereses para dividir los gastos. Las herramientas que ha empleado para realizar su búsqueda son las redes sociales, las páginas web y los letreros en las calles. Además, considera que es medianamente complejo utilizar plataformas web sobre propiedades debido a que no sabría identificar todas las funcionalidades que estas páginas le ofrecen a simple vista. Por otro lado, afirma que siente una conexión a medias con los anunciantes y que la evaluación crediticia disminuye su interés y entorpece su búsqueda de otras opciones. Finalmente, tras brindarle una breve explicación sobre la solución que proponemos, comentó que sería probable que adquiera una membresía para obtener beneficios que impactan gradualmente en su experiencia como usuario y que sí recomendaría nuestra plataforma web para personas que están en una situación similar a la suya debido a que les sería de gran utilidad para tomar decisiones informadas.
+*Nota.* Piero tiene 23 años, reside en el distrito de Barranco y es estudiante de la Universidad Peruana Aplicada de Ciencias UPC en la carrera de Ingeniería de Sistemas. Él está interesado en alquilar una propiedad cercana a la sede Villa y compartirla con otra persona con los mismos intereses para dividir los gastos. Las herramientas que ha empleado para realizar su búsqueda son las redes sociales, las páginas web y los letreros en las calles. Además, considera que es medianamente complejo utilizar plataformas web sobre propiedades debido a que no sabría identificar todas las funcionalidades que estas páginas le ofrecen a simple vista. Por otro lado, afirma que siente una conexión a medias con los anunciantes y que la evaluación crediticia disminuye su interés y entorpece su búsqueda de otras opciones. Finalmente, tras brindarle una breve explicación sobre la solución que proponemos, comentó que sería probable que adquiera una membresía para obtener beneficios que impactan gradualmente en su experiencia como usuario y que sí recomendaría nuestra plataforma web para personas que están en una situación similar a la suya debido a que les sería de gran utilidad para tomar decisiones informadas.
 
 **Datos principales:**
 - Nombre completo del entrevistado: Piero Nonolaya Fuentes
 - Edad: 23
 - Distrito: Barranco
-- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213143_upc_edu_pe/EXBp0YibIpFJkmQwcXfOQpMBT43UwpRwhhPf7uuZP5FPjw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3ajOYM 
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213143_upc_edu_pe/EcIaCLdJPH1PhEWieLsH4coBSaAZ7AaU6RzcxQfbJFGXlw?e=5WD7mJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
 - Inicio de la entrevista: 0.01
 - Duración: 5.36
-
+- Entrevistador: Lucio Heli Yen Cerna
 ---
 
 **Entrevista N°2:**
 
 ###### Figura 3
-Imagen de presentación de la segunda entrevista realizada.
+*Imagen de presentación de la segunda entrevista realizada.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Entrevista2-Segmento1.png" alt="Entrevista 2 Segmento 1" width="400" height="200">
+<img src="/assets/img/entrevistas/Entrevista2-Segmento1.png" alt="Entrevista 2 Segmento 1" width="400" height="200">
 
-Nota. El entrevistado, Yair Aru Acevedo, un estudiante de 20 años de ingeniería de software, revela su interés en adquirir una propiedad con su familia, destacando los desafíos financieros y crediticios que enfrentan. Menciona la importancia de una comunicación más eficiente entre compradores y vendedores, señalando la aplicación Property Unity como una posible solución. Aunque muestra escepticismo sobre la membresía de la aplicación como cliente, reconoce su utilidad potencial para los vendedores al mejorar la promoción y el contacto con los clientes. Destaca la necesidad de una plataforma segura y regulada para buscar propiedades, tanto como usuario como vendedor, resaltando la conveniencia y la seguridad que proporcionaría una plataforma dedicada a este fin.
+*Nota.* El entrevistado, Yair Aru Acevedo, un estudiante de 20 años de ingeniería de software, revela su interés en adquirir una propiedad con su familia, destacando los desafíos financieros y crediticios que enfrentan. Menciona la importancia de una comunicación más eficiente entre compradores y vendedores, señalando la aplicación Property Unity como una posible solución. Aunque muestra escepticismo sobre la membresía de la aplicación como cliente, reconoce su utilidad potencial para los vendedores al mejorar la promoción y el contacto con los clientes. Destaca la necesidad de una plataforma segura y regulada para buscar propiedades, tanto como usuario como vendedor, resaltando la conveniencia y la seguridad que proporcionaría una plataforma dedicada a este fin.
 
 **Datos principales:**
 - Nombre completo del entrevistado: Yair Aru Acevedo
@@ -161,17 +163,17 @@ Nota. El entrevistado, Yair Aru Acevedo, un estudiante de 20 años de ingenierí
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f572_upc_edu_pe/ETBbFDXtsKxAknVALJjnuCIBhWIcGfMwADZN38xwMM6ERg?e=cqWdcc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
 - Inicio de la entrevista: 0.01
 - Duración: 10.06
-
+- Entrevistador: Aldhair Johan Juan Valenzuela Huillcaya
 ---
 
 **Entrevista N°3:**
 
 ###### Figura 4
-Imagen de presentación de la tercera entrevista realizada.
+*Imagen de presentación de la tercera entrevista realizada.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/entrevista3-segmento1.png" alt="Entrevista3 Segmento 1" width="400" height="200">
+<img src="/assets/img/entrevistas/entrevista3-segmento1.png" alt="Entrevista3 Segmento 1" width="400" height="200">
 
-Nota. El señor Rubén es una persona quien está buscando comprar una propiedad y nos comenta cómo encuentra las propiedades en diferentes plataformas como Facebook Marketplace, OLX, búsquedas de Google e inclusive anuncios en periódicos. Él no tiene problemas en manejar estas herramientas tecnológicas pues lo que usa es fácil de usar, mas no están especializadas para la adquisición de inmobiliarias o propiedades en general. También ha buscado en anuncios o pancartas puestas en las propiedades y comenta que suele ser difícil encontrar una que se adecúe a sus necesidades o a las características que busca. Él está dispuesto a usar nuevas plataformas o aplicaciones que estén especializadas en este tipo de búsquedas. Finalmente, recomendaría este tipo de aplicación con sus conocidos.
+*Nota.* El señor Rubén es una persona quien está buscando comprar una propiedad y nos comenta cómo encuentra las propiedades en diferentes plataformas como Facebook Marketplace, OLX, búsquedas de Google e inclusive anuncios en periódicos. Él no tiene problemas en manejar estas herramientas tecnológicas pues lo que usa es fácil de usar, mas no están especializadas para la adquisición de inmobiliarias o propiedades en general. También ha buscado en anuncios o pancartas puestas en las propiedades y comenta que suele ser difícil encontrar una que se adecúe a sus necesidades o a las características que busca. Él está dispuesto a usar nuevas plataformas o aplicaciones que estén especializadas en este tipo de búsquedas. Finalmente, recomendaría este tipo de aplicación con sus conocidos.
 
 **Datos principales:**
 - Nombre completo del entrevistado: Rubén Mallma Capcha Carlos
@@ -180,22 +182,19 @@ Nota. El señor Rubén es una persona quien está buscando comprar una propiedad
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214234_upc_edu_pe/EeUzTO7RiKFOvv4O1MD2-jUB8OAj8tcZMbqTJeAC8jau0w?e=9s2w7d
 - Inicio de la entrevista: 00:00
 - Duración: 08:51
-		
-**Transcripción de la entrevista:**
-
+- Entrevistador: Rubén Elías Mallma Quispe
 ---
 
-#### Segmento 2
-
+#### Segmento 2: Anunciantes que deseen publicar una propiedad en venta o alquiler.
 
 **Entrevista N°4:**
 
 ###### Figura 5
-Imagen de presentación de la cuarta entrevista realizada.
+*Imagen de presentación de la cuarta entrevista realizada.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/entrevista-segmento2.png" alt="Entrevista Segmento 2" width="400" height="300">
+<img src="/assets/img/entrevistas/entrevista-segmento2.png" alt="Entrevista Segmento 2" width="400" height="300">
 
-Nota. Paolo tiene 22 años, reside en el distrito de San Borja y es un ingeniero Civil que trabaja en el sector inmobiliario por más de 2 años. Él cuenta con experiencia previa en la venta y alquiler de distintas propiedades y ha trabajado con agentes inmobiliarios y clientes directamente. Las herramientas que ha empleado para realizar su búsqueda de clientes son los letreros en la fachada de las propiedades, no obstante, también ha tenido contacto con agentes inmobiliarios que encontraron clientes potenciales para su propiedad y ha utiliza AirBNB para el alquiler de propiedades. Por otro lado, afirma que tiene una conexión directa con los anunciantes debido a que estos se comunican directamente con ellos por teléfono o otros medios, entre estos, ha gastado más de una hora por cliente que desistió de la negociación. Finalmente, tras comentar que no ha utilizado plataformas web del rubro inmobiliario y brindarle una breve explicación sobre la solución que proponemos, comentó que requeriría de más información sobre la inversión que se debe hacer y que está abierto a la posiblidad de adquirir alguna membresía, sin embargo prefiere que la aplicación sea 100% gratuita y que tenga algún tipo de comisión fija, por último, sí recomendaría nuestra plataforma web para personas que están en una situación similar a la suya debido a que les sería de gran utilidad como espacio de trabajo.
+*Nota.* Paolo tiene 22 años, reside en el distrito de San Borja y es un ingeniero Civil que trabaja en el sector inmobiliario por más de 2 años. Él cuenta con experiencia previa en la venta y alquiler de distintas propiedades y ha trabajado con agentes inmobiliarios y clientes directamente. Las herramientas que ha empleado para realizar su búsqueda de clientes son los letreros en la fachada de las propiedades, no obstante, también ha tenido contacto con agentes inmobiliarios que encontraron clientes potenciales para su propiedad y ha utiliza AirBNB para el alquiler de propiedades. Por otro lado, afirma que tiene una conexión directa con los anunciantes debido a que estos se comunican directamente con ellos por teléfono o otros medios, entre estos, ha gastado más de una hora por cliente que desistió de la negociación. Finalmente, tras comentar que no ha utilizado plataformas web del rubro inmobiliario y brindarle una breve explicación sobre la solución que proponemos, comentó que requeriría de más información sobre la inversión que se debe hacer y que está abierto a la posiblidad de adquirir alguna membresía, sin embargo prefiere que la aplicación sea 100% gratuita y que tenga algún tipo de comisión fija, por último, sí recomendaría nuestra plataforma web para personas que están en una situación similar a la suya debido a que les sería de gran utilidad como espacio de trabajo.
 
 **Datos principales:**
 - Nombre completo del entrevistado: Paolo Bustos Vidal
@@ -204,16 +203,16 @@ Nota. Paolo tiene 22 años, reside en el distrito de San Borja y es un ingeniero
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213143_upc_edu_pe/EaZSU7jaaB5EqLmj0P6XW3ABnguP7w-0D1HO_Mp_Oe2RLg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lS1ZOu 
 - Inicio de la entrevista: 0.01
 - Duración: 6:29
-
+- Entrevistador: Lucio Heli Yen Cerna
 ---
 
 **Entrevista N°5:**
 
 ###### Figura 6
-Imagen de presentación de la quinta entrevista realizada.
+*Imagen de presentación de la quinta entrevista realizada.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Entrevista2-Segmento2.png" alt="Entrevista Segmento 2" width="400" height="200">
-Nota. La entrevistada, Ximena Vilchez Paredes, una estudiante de Derecho y asistente legal en estudio jurídico, comparte su experiencia en alquilar propiedades utilizando medios digitales como Marketplace y Mercado Libre, destacando la rapidez y facilidad de acceso que estas plataformas brindan para publicitar propiedades. Ella menciona los desafíos de comunicación con los interesados, especialmente en obtener números de contacto para una comunicación más efectiva. Además, muestra interés en una aplicación como Propportunity que ofrece simulaciones crediticias y personalización de anuncios, lo que aumentaría su seguridad al alquilar propiedades. Finalmente, recomienda esta plataforma por su facilidad de uso y seguridad, lo que la hace atractiva para aquellos en el rubro inmobiliario.
+<img src="/assets/img/entrevistas/Entrevista2-Segmento2.png" alt="Entrevista Segmento 2" width="400" height="200">
+*Nota.* La entrevistada, Ximena Vilchez Paredes, una estudiante de Derecho y asistente legal en estudio jurídico, comparte su experiencia en alquilar propiedades utilizando medios digitales como Marketplace y Mercado Libre, destacando la rapidez y facilidad de acceso que estas plataformas brindan para publicitar propiedades. Ella menciona los desafíos de comunicación con los interesados, especialmente en obtener números de contacto para una comunicación más efectiva. Además, muestra interés en una aplicación como Propportunity que ofrece simulaciones crediticias y personalización de anuncios, lo que aumentaría su seguridad al alquilar propiedades. Finalmente, recomienda esta plataforma por su facilidad de uso y seguridad, lo que la hace atractiva para aquellos en el rubro inmobiliario.
 
 **Datos principales:**
 - Nombre completo del entrevistado: Ximena Fernanda Vilchez Paredes
@@ -222,18 +221,17 @@ Nota. La entrevistada, Ximena Vilchez Paredes, una estudiante de Derecho y asist
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214234_upc_edu_pe/EeUzTO7RiKFOvv4O1MD2-jUB8OAj8tcZMbqTJeAC8jau0w?e=7gTdKF
 - Inicio de la entrevista: 0.01
 - Duración: 6.27
-		
-
+- Entrevistador: Aldhair Johan Juan Valenzuela Huillcaya 		
 ---
 
 **Entrevista N°6:**
 
 ###### Figura 7
-Imagen de presentación de la sexta entrevista realizada.
+*Imagen de presentación de la sexta entrevista realizada.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/entrevista3-segmento2.png" alt="Entrevista3 Segmento 2" width="400" height="200">
+<img src="/assets/img/entrevistas/entrevista3-segmento2.png" alt="Entrevista3 Segmento 2" width="400" height="200">
 
-Nota. Nuestra entrevistada nos comparte sus dudas y opiniones acerca de cómo y dónde ella publica o anuncia las propiedades a alquilar. Principalmente, nos cuenta que tiene dificultades para poder anunciar puesto que el uso de carteles o pancartas puestas en la propiedad a alquilar resulta ser ineficiente. Segundo, ella muestra interés en usar nuestra aplicación ya que de esta forma podría ofrecer mayor detalle y así aumentar las probabilidades de alquilar su propiedad más rapido. Y por ultimo, ella está dispuesta a confiar en una aplicación especializada que facilite la compra y venta de propiedades ya que ella tiene precaución en cuanto a estafas o plataformas que no sean de confiar.
+*Nota.* Nuestra entrevistada nos comparte sus dudas y opiniones acerca de cómo y dónde ella publica o anuncia las propiedades a alquilar. Principalmente, nos cuenta que tiene dificultades para poder anunciar puesto que el uso de carteles o pancartas puestas en la propiedad a alquilar resulta ser ineficiente. Segundo, ella muestra interés en usar nuestra aplicación ya que de esta forma podría ofrecer mayor detalle y así aumentar las probabilidades de alquilar su propiedad más rapido. Y por ultimo, ella está dispuesta a confiar en una aplicación especializada que facilite la compra y venta de propiedades ya que ella tiene precaución en cuanto a estafas o plataformas que no sean de confiar.
 
 **Datos principales:**
 - Nombre completo del entrevistado: Rosalinda Quispe Ramos 
@@ -242,59 +240,68 @@ Nota. Nuestra entrevistada nos comparte sus dudas y opiniones acerca de cómo y 
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214234_upc_edu_pe/EfFMFMj_jsJHsLYP6GBV610BR4bPG1itVhk20FcgqCfZQQ?e=UkbpCe
 - Inicio de la entrevista: 00:00
 - Duración: 09:45
-
+- Entrevistador: Rubén Elías Mallma Quispe
 ---
 
 ### 2.2.3. Análisis de entrevistas
 
 A modo de análisis de la información recopilada mediante las entrevistas, se desarrolló un Google Forms con el objetivo de representar datos estadísticos y como herramienta de interpretación.
 
-**Segmento 1:** 
+**Segmento 1: Usuarios que desean comprar, vender o informarse:** 
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento1-a.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+###### Figura 8
+*Conjunto de datos analizados de las entrevistas para el primer segmento objetivo.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento1-b.png" alt="Analisis entrevista segmento 1" width="600" height="220">
+<img src="/assets/img/entrevistas/Analisis-segmento1-a.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento1-c.png" alt="Analisis entrevista segmento 1" width="600" height="220">
+<img src="/assets/img/entrevistas/Analisis-segmento1-b.png" alt="Analisis entrevista segmento 1" width="600" height="220">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento1-d.png" alt="Analisis entrevista segmento 1" width="600" height="220">
+<img src="/assets/img/entrevistas/Analisis-segmento1-c.png" alt="Analisis entrevista segmento 1" width="600" height="220">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento1-e.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento1-d.png" alt="Analisis entrevista segmento 1" width="600" height="220">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento1-f.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento1-e.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento1-g.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento1-f.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento1-h.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento1-g.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento-i.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento1-h.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento1-j.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento-i.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento1-k.png" alt="Analisis entrevista segmento 1" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento1-j.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
+<img src="/assets/img/entrevistas/Analisis-segmento1-k.png" alt="Analisis entrevista segmento 1" width="600" height="270">
 
-**Segmento 2:**
+---
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento2-a.png" alt="Analisis entrevista segmento 2" width="600" height="270">
+**Segmento 2: Anunciantes que deseen publicar una propiedad en venta o alquiler:**
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento2-b.png" alt="Analisis entrevista segmento 2" width="600" height="270">
+###### Figura 9
+*Conjunto de datos analizados de las entrevistas para el segundo segmento objetivo.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento2-c.png" alt="Analisis entrevista segmento 2" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento2-a.png" alt="Analisis entrevista segmento 2" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento2-d.png" alt="Analisis entrevista segmento 2" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento2-b.png" alt="Analisis entrevista segmento 2" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento2-e.png" alt="Analisis entrevista segmento 2" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento2-c.png" alt="Analisis entrevista segmento 2" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento2-f.png" alt="Analisis entrevista segmento 2" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento2-d.png" alt="Analisis entrevista segmento 2" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento2-g.png" alt="Analisis entrevista segmento 2" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento2-e.png" alt="Analisis entrevista segmento 2" width="600" height="270">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Analisis-segmento2-h.png" alt="Analisis entrevista segmento 2" width="600" height="270">
+<img src="/assets/img/entrevistas/Analisis-segmento2-f.png" alt="Analisis entrevista segmento 2" width="600" height="270">
+
+<img src="/assets/img/entrevistas/Analisis-segmento2-g.png" alt="Analisis entrevista segmento 2" width="600" height="270">
+
+<img src="/assets/img/entrevistas/Analisis-segmento2-h.png" alt="Analisis entrevista segmento 2" width="600" height="270">
 
 Luego, recopilamos para cada pregunta de las entrevistas cuales las respuestas que varios tuvieron en común.
 
 **Segmento 1:** 
+=======
+---
 | Preguntas | Respuestas |
 |--------|------|
 | ¿Tiene planeado comprar o alquilar una propiedad? | Varios respondieron que sí, pero la preocupación de encontrar una buena propiedad los desalienta |
@@ -312,6 +319,7 @@ Luego, recopilamos para cada pregunta de las entrevistas cuales las respuestas q
 | ¿Tuvo problemas al momento de contactarse con los interesados? | Unos afirman que sí mientras que otros no ya que los números de contacto o información para poder comunicarse con el anunciante se encuentran dentro de estos anuncios |
 | ¿Cree que las plataformas inmobiliarias son accesibles y de fácil uso para publicitar propiedades? | Varios creen que no es muy rentable ya que se tiene que pagar un costo por la comprar o venta de alguna propiedad al usar estas plataformas. Inclusive que no se da para personas sin experiencia dentro de este campo |
 
+---
 ## 2.3. Needfinding
 
 Según lo señalado por Patnaik (2017), la metodología del Needfinding se concentra principalmente en la acción de descubrir las necesidades, tanto explícitas como implícitas, de los segmentos objetivos seleccionados con el fin de poder crear soluciones adecuadas. Para esto, es necesario ver más allá de todo lo tangible y concentrarse en ideas más abstractas y conceptos más amigables para todos los usuarios.
@@ -320,17 +328,19 @@ Para reconocer las demandas de los usuarios, empleamos diversos enfoques. Primer
 
 ### 2.3.1. User Personas
 
-###### Primer segmento objetivo: Personas que deseen comprar o alquilar una propiedad
-![Segmento 1 - Compradores](https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/segmento1-compradores.png)
+###### Figura 10
+*User Persona del primer segmento objetivo: Personas que deseen comprar o alquilar una propiedad*
 
-###### Segundo segmento objetivo: Anunciantes que deseen publicar una propiedad en venta o alquiler
-![Segmento 2 - Anunciantes](https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/segmento2-anunciantes.png)
+![Segmento 1 - Compradores](/assets/img/segmento1-compradores.png)
+
+###### Figura 11
+*User Persona del segundo segmento objetivo: Anunciantes que deseen publicar una propiedad en venta o alquiler*
+![Segmento 2 - Anunciantes](/assets/img/segmento2-anunciantes.png)
 
 ### 2.3.2. User Task Matrix
 
 ###### Tabla 3.
-
-- **User Persona 1:**
+*User task matrix para el primer user persona.*
 
 | Tareas | Sara | Peterson |    
 |--------|------|------|
@@ -343,7 +353,8 @@ Para reconocer las demandas de los usuarios, empleamos diversos enfoques. Primer
 | Solicita una evaluación crediticia a una entidad financiera. | Sometimes | Medium | 
 | Concreta una compra de un inmueble satisfactoriamente. | Rarely | High | 
 
-- **User Persona 2:**
+###### Tabla 4.
+*User task matrix para el segundo user persona.*
 
 | Tareas | Miguel |  Arias |    
 |--------|------|------|
@@ -358,43 +369,46 @@ Para reconocer las demandas de los usuarios, empleamos diversos enfoques. Primer
 
 ### 2.3.3. User Journey Mapping
 
-###### Figura 7.
-Modelo de User Journey Mapping de nuestro primer user persona seleccionado.
+###### Figura 12.
+*Modelo de User Journey Mapping de nuestro primer user persona.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Journey Mapping - Sarah Peterson.png" alt="Journey Mapping - Sarah Peterson" width="1100" height="620">
+<img src="/assets/img/entrevistas/Journey Mapping - Sarah Peterson.png" alt="Journey Mapping - Sarah Peterson" width="1100" height="620">
 
-###### Figura 8.
-Modelo de User Journey Mapping de nuestro segundo user persona seleccionado.
+###### Figura 13.
+*Modelo de User Journey Mapping de nuestro segundo user persona.*
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/entrevistas/Journey Mapping - Miguel Arias.png" alt="Journey Mapping - Miguel Arias" width="1100" height="620">
-
+<img src="/assets/img/entrevistas/Journey Mapping - Miguel Arias.png" alt="Journey Mapping - Miguel Arias" width="1100" height="620">
 
 ### 2.3.4. Empathy Mapping
-###### Figura 9.
-Empathy Map del primer user persona desarrollado.
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/empathyMap_segmento1.png" alt="Empathy Map Segmento 1">
+###### Figura 14.
+*Empathy Map para el primer user persona.*
 
-###### Figura 10.
-Empathy Map del segundo user persona desarrollado.
+<img src="/assets/img/empathyMap_segmento1.png" alt="Empathy Map Segmento 1">
 
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/empathyMap_segmento1.png" alt="Empathy Map Segmento 1">
+###### Figura 15.
+*Empathy Map para el segundo user persona*
+
+<img src="/assets/img/empathyMap_segmento1.png" alt="Empathy Map Segmento 1">
 
 ### 2.3.5. As-is Scenario Mapping
-###### Tabla 4.
-Mapa de Escenario As-Is para nuestro primer user persona.
-
-User 1: Personas que Deseen Comprar o Alquilar una Propiedad
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/As-Is segmento 1.jpg" alt="As-Is segmento 1">
 
 ###### Tabla 5.
-Mapa de Escenario As-Is para nuestro segundo user persona.
+*Mapa de Escenario As-Is para nuestro primer user persona.*
+
+User 1: Personas que Deseen Comprar o Alquilar una Propiedad
+<img src="/assets/img/As-Is segmento 1.jpg" alt="As-Is segmento 1">
+
+
+###### Tabla 6.
+*Mapa de Escenario As-Is para nuestro segundo user persona.*
 
 User 2: Anunciantes que Deseen Publicar una Propiedad en Venta o Alquiler
-<img src="https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report-tb1-/blob/feature-capitulo-2/assets/img/As-Is segmento 2.jpg" alt="As-Is segmento 2">
+<img src="/assets/img/As-Is segmento 2.jpg" alt="As-Is segmento 2">
+
 
 ## 2.4. Ubiquitous Language
-Según Domain Driven Design (2019), The ubiquitous language o el lenguaje ubicuo es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en común entre todos los implicados dentro del contexto del negocio. A continuación, se han identificado los siguientes conceptos que ayudarán a crear un nexo entre los usuarios y los desarrolladores:
+Según la página Domain Driven Design (2019), el lenguaje ubicuo es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en común entre todos los implicados dentro del contexto del negocio. A continuación, se han identificado los siguientes conceptos que ayudarán a crear un nexo entre los usuarios y los desarrolladores:
 
 - Propiedad: En lugar de “casa” o “apartamento”, se utiliza “propiedad” como un término genérico.
 - Inmueble: Para referirse a cualquier tipo de propiedad (residencial, comercial, industrial, etc.).
@@ -407,6 +421,3 @@ Según Domain Driven Design (2019), The ubiquitous language o el lenguaje ubicuo
 - Zona residencial: En lugar de “barrio” o “vecindario”.
 - Oferta: Para referirse a una propuesta de compra o alquiler.
 - Búsqueda avanzada: Para las opciones de filtrado en la búsqueda de propiedades.
-
-
-Domain Driven Design. (2019, 21 de abril). *Developing the ubiquituos language* Recuperado el 3 de abril de 2024, de https://thedomaindrivendesign.io/developing-the-ubiquitous-language/ 

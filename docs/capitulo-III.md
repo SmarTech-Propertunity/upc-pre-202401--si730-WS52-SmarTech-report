@@ -4,21 +4,13 @@
 
 ###### Tabla 7.
 *Mapa de Escenario To-Be para nuestro primer user persona.*
+<img src="/assets/img/To-Be segmento 1.jpg" alt="To-Be segmento 1" width="1200" >
 
-|  Fases |  Búsqueda de Propiedades | Contacto con Vendedores/Agentes | Evaluación de Propiedades | Evaluación de Ofertas y Contrapropuestas |
-|--------|----|----|----|----|
-|  Doing | Los usuarios utilizan filtros avanzados y herramientas de búsqueda inteligente para encontrar propiedades que se ajusten a sus criterios específicos.| Los usuarios pueden comunicarse directamente con vendedores o agentes inmobiliarios a través de mensajería integrada o sistemas de contacto rápido.|Los usuarios exploran herramientas de visualización avanzada, como recorridos virtuales en 3D y videos interactivos, para evaluar propiedades de manera más detallada. | Los usuarios utilizan herramientas integradas para evaluar y comparar ofertas de manera eficiente, incluyendo análisis de precios históricos y tendencias del mercado.|
-|Thinking|Los usuarios aprecian la facilidad y la precisión de la búsqueda, lo que les permite explorar una amplia gama de opciones de manera eficiente. |Los usuarios valoran la comunicación fluida y rápida, lo que les permite obtener información adicional y aclarar dudas sin demoras. | Los usuarios aprecian la calidad y la variedad de las herramientas de evaluación, lo que les permite tomar decisiones informadas sobre la idoneidad de una propiedad.| Los usuarios encuentran útil la capacidad de analizar ofertas de manera estructurada y transparente, lo que les ayuda a tomar decisiones estratégicas.|
-|Feeling |Los usuarios se sienten satisfechos al encontrar rápidamente propiedades que coinciden con sus necesidades, lo que aumenta su confianza en la plataforma. | Los usuarios se sienten respaldados y confiados al tener una comunicación efectiva con los vendedores, lo que mejora su experiencia general.| Los usuarios se sienten impresionados y comprometidos al interactuar con herramientas visuales innovadoras, lo que mejora su percepción de la plataforma.|Los usuarios se sienten empoderados y seguros al contar con herramientas de evaluación objetiva, lo que reduce la incertidumbre en el proceso de negociación. |
 
 ###### Tabla 8.
 *Mapa de Escenario To-Be para nuestro segundo user persona.*
+<img src="/assets/img/To-Be segmento 2.jpg" alt="To-Be segmento 2" width="1200" >
 
-|  Fases | Publicación de Propiedades | Gestión de Consultas y Visitas | Publicación y Promoción Efectiva | Mantenimiento y Actualización de Información |
-|--------|----|----|----|----|
-|  Doing |Los anunciantes utilizan herramientas intuitivas y de fácil uso para crear listados detallados de propiedades, incluyendo descripciones atractivas y fotos de alta calidad. | Los anunciantes utilizan herramientas de gestión de consultas y calendarios integrados para coordinar visitas a la propiedad y responder de manera rápida a las consultas de los interesados.| Los anunciantes utilizan herramientas de marketing y promoción integradas para aumentar la visibilidad de sus propiedades y atraer a más posibles compradores o inquilinos.|Los anunciantes actualizan regularmente la información de sus propiedades para mantenerla relevante y atractiva para los posibles compradores o inquilinos. |
-|Thinking| Los anunciantes valoran la eficiencia y la capacidad de personalización de la plataforma, lo que les permite crear publicaciones profesionales de manera rápida y efectiva|Los anunciantes aprecian la organización y la capacidad de seguimiento de la plataforma, lo que les permite gestionar consultas y visitas de manera eficiente. |Los anunciantes encuentran útiles las estrategias de promoción efectivas de la plataforma, lo que les permite destacarse en un mercado competitivo. |Los anunciantes valoran la importancia de la información actualizada para mantener el interés de los interesados y asegurar una transacción exitosa. |
-|Feeling |Los anunciantes se sienten confiados y satisfechos al ver sus propiedades publicadas de forma atractiva, aumentando su confianza en el éxito de la transacción. | Los anunciantes se sienten respaldados y en control al manejar consultas y visitas de forma efectiva, lo que mejora su experiencia como anunciante.| Los anunciantes se sienten entusiasmados y motivados al ver el impacto positivo de las estrategias de promoción, lo que aumenta su confianza en el éxito de la transacción.| Los anunciantes se sienten comprometidos y responsables al mantener la información actualizada, lo que mejora su reputación como anunciante confiable.|
 
 
 ## 3.2. User Stories

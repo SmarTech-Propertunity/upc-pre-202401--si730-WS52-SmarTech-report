@@ -327,8 +327,23 @@ URL del diseño: https://www.figma.com/file/EhhUmOL6KJMmSlNKHDspiY/Propertunity_
 <img src="/assets/img/mock-up 6.png" alt="Landing page mock-up" >
 
 ## 4.4. Web Applications UX/UI Design
+En esta sección incluiremos secciones internas donde presentaremos y explicaremos la propuesta visual y de interacción para las aplicaciones que constituyen la experiencia de usuario con los productos digitales.
 
 ### 4.4.1. Web Applications Wireframes
+#### Inicio de sesión
+<img src="/assets/img/Wireframe-InicioDeSesión.png" alt="Wireframe de Inicio de Sesión de la aplicación web">
+#### Registro (creación de cuentas)
+<img src="/assets/img/Wireframe-Registro.png" alt="Wireframe de Registro o Creación de cuentas de la aplicación web">
+#### Inicio o Home
+<img src="/assets/img/Wireframe-Inicio.png" alt="Wireframe de Inicio o 'Home' de la aplicación web">
+#### Perfil
+<img src="/assets/img/WireframePerfil-.png" alt="Wireframe de Perfil de la aplicación web">
+#### Búsqueda
+<img src="/assets/img/Wireframe-Búsqueda.png" alt="Wireframe de Búsqueda de la aplicación web">
+#### Publicación
+<img src="/assets/img/Wireframe-Publicación.png" alt="Wireframe de Publicación de la aplicación web">
+#### Evaluación
+<img src="/assets/img/Wireframe-Evaluación.png" alt=Wireframe de Evaluación de la aplicación web">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 

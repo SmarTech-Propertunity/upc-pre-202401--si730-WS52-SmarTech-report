@@ -1,1 +1,548 @@
+# Capítulo 5: Product Implementation, Validation & Deployment
 
+## 5.1 Software Configuration Management.
+
+Para la gestión de la configuración de software de nuestra aplicación web nos enfocaremos principalmente en la gestión de código fuente, donde controlaremos las versiones y estableceremos una estructura organizada a lo largo de todo el curso de trabajo. Aquí nos aseguramos que todos los miembros del equipo tengan herramientas consistentes para el desarrollo útil y posean una buena configuración de despliegue en el entorno de desarrollo y también ciertas caracteristicas para el entorno de producción. Esta toma de decisiones garantiza la eficiencia, comodidad y coherencia a lo largo de todo el ciclo de vida de la aplicación, lo que es obligatorio para cumplir con nuestra misión y visión y seguir todos nuestros valores y objetivos. De esta forma vamos a ofrecer a nuestro segmento objetivo un espacio seguro, formal e informado en donde buscar y adquirir propiedades para sus bienes raíces, o donde puedan ingresar y publicar las propiedades que quieren vender, junto a otro grupo de funcionalidades ya destacadas en otros capitulos de este informe.
+
+### 5.1.1 Software Development Environment Configuration
+
+En esta sección nuestro equipo de trabajo va a especificar, describir e indicar los nombres de productos, el propósito de uso en el proyecto, la ruta de referencia (para software basado en modelos SaaS) o ruta de descarga (para productos que se ejecutan en el computador del miembro del equipo) de cada uno de los productos de software que deben utilizar los miembros del equipo para colaborar en el ciclo de vida del producto digital, considerando todos los tipos de actividades como Project Management, Requirements Management, Product UX/UI Design, Software Development, Software Testing, Software Deployment, Software Documentation.
+
+#### Project Management:
+
+Esta sección respecta a la organización y control del proyecto durante todo su ciclo de vida en el sentido de control del personal que trabaja en este, junto a sus acciones y colaboraciones a lo largo del tiempo y a sus asignaciones ya estipuladas. Ante esto, hemos separado esta sección entre tres puntos distintos que funcionan como distintos métodos de comunicación y gestión del equipo de trabajo.
+
+**Reuniones de trabajo:** Con respecto a las reuniones organizadas para el equipo de trabajo, nuestro grupo ha decidido de forma unanime que el mejor medio de reunión mediante videoconferencia era con el uso de las herramientas de la aplicación "Discord". Esto debido a que todos tenemos conocimiento sobre el uso de la aplicación y lo consideramos más cómodo y rápido en comparación de otras aplicaciones de videoconferencia. Aunque Discord no tiene las mismas herramientas que otras aplicaciones tienen, consideramos que es mejor porque mantiene un acceso y comunicación más eficiente, tiene una interfaz más simple y directa, y porque no presenta limites de tiempo durante las reuniones.
+
+Página oficial de Discord: https://discord.com/ 
+
+**Organización del trabajo:** Con respecto a la organización del trabajo para cada miembro del equipo, nuestro grupo a utilizado las herramientas provistas por la aplicación web "ClickUp". Esto debido a que esta aplicación permite la separación de actividades entre varios miembros de trabajo junto al uso de fechas límite, apoyos y el estado de cada actividad, juntandose en un solo organizador. ClickUp permite revisar todo el rendimiento en conjunto y las actividades realizadas por cada usuario.
+
+Página oficial de ClickUp: https://clickup.com/ 
+
+**Control de Versiones:** Con respecto al control de versiones que presentara nuestro equipo de trabajo, nuestro grupo a utilizado las propias herramientas de "Github" dentro de la organización de todo el proyecto. A través del uso de commits y pull request, cada miembro del equipo puede apoyar en el desarrollo y, a través del historial, revisar las antiguas versiones antes de los cambios propuestos.
+
+---
+
+#### Product UX/UI Design:
+
+Esta sección respecta al desarrollo y diseñado de las secciones basadas en el UX y UI correspondientes a nuestro proyecto durante todo su ciclo de vida. Las herramientas utilizadas deben estar compuestas de varias aplicaciones con estilos varios que permitan modificar la estetica de todas las páginas que vamos a programar y como estas se verían para nuestros clientes finales, siguiendo las historias de usuario y toda metodologia de desarrollo web. Asimismo, estas herramientas también deben permitir la estructuración y diagramación de todas las tablas y organizadores necesarios.
+
+**Mapas:** Con respecto al diseñado de todos los diagramas referentes a mapas con seguimientos, como el Empathy Map, el Journey Map y el Impact Map, hemos decidido desarrollarlos en la plataforma de "Miro", puesto que esta mantiene un estilo de diseñado mucho más cómodo en comparación con otras aplicaciones. Asimismo, permite el desarrollo en colaboración de forma rápida y precisa.
+
+Página oficial de Miro: https://miro.com/ 
+
+**User Personas:** Con respecto al diseñado de nuestros User Persona para cada segmento objetivo identificado para nuestra startup y nuestro producto, hemos decidido desarrollarlos en la plataforma de "UXPressia", puesto que esta posee herramientas que, aunque no son muy cómodas en el desarrollo de gráficos grandes y diagramas, sí mantiene formatos agradables con modelos ya realizados con los que guiarnos para nuestros User Persona.
+
+Página oficial de UXPressia: https://uxpressia.com/ 
+
+**Wireframes, Mock-ups y Prototypes:** Con respecto al diseñado de los wireframes y mock-ups referentes a la landing page de nuestra startup junto a todas las pestañas de la aplicación web con sus modelos de Responsive Design y a los modelos especializados para los Prototypes, nuestro grupo ha decidido utilizar la plataforma de "Figma", la cual esta especializada en el diseño de aplicaciones y páginas web junto a la forma en la que se verían para nuestros clientes, además de realizar un seguimiento entre cada página. Asimismo, permite el desarrollo colaborativo y ya trae muchos modelos para landing page y aplicaciones que nuestro equipo puede usar para guiarse.
+
+Página oficial de Figma: https://figma.com/ 
+
+---
+
+#### Product Architecture Design:
+
+Esta sección respecta al desarrollo y diseñado de las secciones basadas en la arquitectura del producto durante todo su ciclo de vida. Las herramientas utilizadas deben estar compuestas de varias aplicaciones con estilos varios que permitan la diagramación de esquemas complejos y completos sobre cada una de las capas de la arquitectura que mostrara nuestra solución, identificando todos sus componentes junto a los framework, IDEs y lenguajes de programación a utilizar.
+
+**Diagramas C4:** Con respecto al diseñado de todos los diagramas C4 referentes a nuestro proyecto, siguiendo los esquemas necesarios y modelando todo para personas tanto técnicas como no técnicas en el área, nuestro grupo de trabajo ha decidido utilizar VisualParadigm, puesto que esta plataforma tiene modelos muy optimizados y especializados en el desarrollo de diagramas C4 en comparación a otros programas.
+
+Página oficial de VisualParadigm: https://visual-paradigm.com/
+
+**Diagrama UML:** Con respecto al diseñado de todos los diagramas UML referentes a nuestro proyecto, siguiendo los esquemas necesarios y modelando todo para programadores expertos, nuestro grupo de trabajo ha decidido utilizar LucidChart, puesto que esta es una plataforma especializada en el desarrollo de diagramas de este estilo, mostrando instrumentos adecuadas para toda la diagramación y separación de partes con grupos de trabajo.
+
+Página oficial de LucidChart: https://lucidchart.com/
+
+**Database Design:**  Con respecto al diseñado de la base de datos referente a nuestro proyecto, siguiendo los esquemas necesarios y modelando todo para nuestro equipo de gestión y desarrollo de bases de datos, nuestro grupo ha decidido utilizar la extensión ERD Editor de Visual Studio Code, debido a que esta extensión cumple con todos los requisitos necesarios para el diseñado de bases de datos y permite mostrar una versión en código directo con el uso de la IDE de Visual Studio, permitiendo un avance mucho más rápido, cómodo y completo de todo el trabajo que se debe realizar
+
+Página oficial de Visual Studio Code: https://code.visualstudio.com/
+
+Página de marketplace de ERD Editor de Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode
+
+---
+
+#### Software Development:
+
+Esta sección respecta a las herramientas y aplicaciones dadas para la programación de las páginas web correspondientes a la Landing Page y a la Web Applications de nuestro proyecto durante todo su ciclo de vida. Los instrumentos utilizados deben estar compuestos de IDEs, lenguajes de programación, bibliotecas y frameworks, puesto que deben seguir todos los principios y metodologías predispuestas en todo el proyecto, además de adecuarse a todas las historias de usuario, esquemas y diagramas planteados para cumplir los objetivos de nuestra startup y seguir todas las funcionalidades que buscan nuestros segmentos objetivos.
+
+**Landing Page:** Con respecto al desarrollo de la landing page, se utilizaran varias herramientas para su programación y esquematización adecuada. Con respecto al lenguaje, se usara la combinación e implementación de HTML5, CSS3 y JavaScript, cada uno con su propia sección en archivo dentro del repositorio del grupo. El lenguaje de diseño utilizado debe basarse en el modelo del Material Design. Todo esto se usara debido a que estas herramientas son esenciales para la programación de páginas web adecuadas para un ambiente ya de producción.
+
+**Frontend Web Application:** Con respecto al desarrollo del Frontend Web Application, se utilizaran varias herramientas para su programación y esquematización adecuada junto al diseñado conjunto con varios componentes. Se debe usar el Framework provisto por Vue para la facilitación de material de software y modelos de programación, junto al lenguaje producto de la combinación e implementación de HTML5, CSS3 y Javascript para el desarrollo de aspectos estáticos de templates. Javascript debe ser el principal lenguaje de programación durante el uso del código en la IDE. El lenguaje de diseño utilizado debe basarse en el modelo del Material Design. Asimismo, como biblioteca de materiales y componentes de UI se debe utilizar a PrimeVue para seguir los modelos de diseño del Framework de Vue y garantizar rápides y eficacia al momento de desplegar toda la aplicación web.
+
+Página oficial de Visual Studio Code: https://code.visualstudio.com/
+
+Página oficial de Vue.js: https://vuejs.org/
+
+Página de especificación de Vue.js para la biblioteca de PrimeVue: https://primevue.org/
+
+Página de guía y seguimiento para HTML5: https://www.w3schools.com/html/ 
+
+Página de guía y seguimiento para CSS3: https://www.w3schools.com/css/default.asp
+
+Página de guía y seguimiento para JavaScript: https://developer.mozilla.org/es/docs/Web/JavaScript
+
+Página de guía y seguimiento para el modelo del Material Design: https://m3.material.io/
+
+**Web Services:** Con respecto al desarrollo de los Web Services, se utilizaran varios modelos y metodologias prevista para la programación junto a frameworks con bibliotecas ya implementadas. El estilo de aplicación debe basarse en el RESTful API Architectural Style con el fin de mantener un Backend robusto y con comunicación rápida y directa, además de seguir modelos de buenas prácticas con más facilidad y seguridad. Junto al estilo dado, debe utilizarse el ASP.NET Core Framework junto a todos sus componentes, además de poder juntarlo y combinarlo adecuadamente con el lenguaje de programación de C# y así conseguir un estilo de programación más resistente y adecuado para nuestro backend. Con respecto a la documentación, se debe utilizar el modelo Swagger dado por OpenAPI Specification, puesto que es el modelo ideal en estos casos y permite un registro rápido ante nuevos cambios en la API en el entorno de desarrollo.
+
+Página oficial de ASP.NET Core: https://dotnet.microsoft.com/es-es/apps/aspnet
+
+Página oficial de Swagger: https://swagger.io/ 
+
+Página de guía y seguimiento para C#: https://learn.microsoft.com/es-es/dotnet/csharp/ 
+
+Página de guía y seguimiento para el modelo REST: https://es.apis.support.brightcove.com/getting-started/learning-guide-using-rest-apis.html
+
+---
+
+#### Software Testing:
+
+Esta sección corresponde a las herramientas y aplicaciones dadas para la programación de modelos de testeo para todo el código que vamos a implementar, de forma que pueda garantizar el correcto funcionamiento de todas las clases, componentes, métodos de comunicación, etc. Los instrumentos utilizados deben estar basados en un programa sencillo o en una metodologia que permita la comprobación correcta de todas las funcionalidades de un código en varios escenarios distintos.
+
+Como usamos el editor de codigo Visual Studio Code podremos hacer uso de la extension Live Server. Con esta extensión, tenemos la capacidad de configurar un servidor local, lo que nos facilita la visualización inmediata de las modificaciones que realizamos en un navegador web como Microsoft Edge o Chrome. De esta forma no perdemos tiempo al realizar compilaciones o depuraciones inmediatas. Asimismo, con respecto a las pruebas de aceptación, utilizaremos las herramientas brindadas por la extensión de Cucumber ofrecida también por Visual Studio Code, siguiendo el modelo del esquema Gherkin para garantizar una estructura funcional y ya ordenada.
+
+Página de marketplace de Live Server de Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+Página de marketplace de Cucumber de Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=CucumberOpen.cucumber-official
+
+Guía de Cucumber para el modelo Gherkin: https://cucumber.io/docs/gherkin/
+
+En caso en alguna sección del proyecto sea necesaria la implementación de pruebas automizadas para ganar tiempo y disminuir el gasto de recursos, vamos a utilizar el sistema de software de Cypress, el cual es un sistema bastante útil para pruebas inmediatas en frontend y para pruebas de regresión de aplicaciones web. De esta forma, podemos codificar soluciones de software que nos ayuden a revelar posibles errores en nuestras páginas web.
+
+Página oficial de Cypress: https://www.cypress.io/ 
+
+---
+
+#### Software Deployment:
+
+Esta sección corresponde a las herramientas y aplicaciones dadas para el despliegue e implementación adecuada de todas las páginas web que se programaran a lo largo de todo el ciclo de vida de nuestro proyecto. Los instrumentos utilizados deben ser sencillos de comprender y deben mostrar confianza y garantía al momento de desplegar todas las páginas para que así ninguna de estas se caiga por el mal rendimiento, o terminen saliendo con formatos distintos a los propuestos.
+
+Para todo el despliegue necesario de la Landing Page, nuestro grupo va a utilizar el servicio dado de Github Pages, el cual otorga rendimiento rápido y garantía asegurada ante el uso de los repositorios que se encuentran en la misma plataforma. Asimismo, al ser una página estatica, la Landing Page no requiere muchos cambios y tampoco actualizaciones consecutivas y continuas. 
+
+Página oficial de Github Pages: https://pages.github.com/ 
+
+---
+
+#### Software Document:
+
+Esta sección corresponde a las herramientas y aplicaciones dadas para la documentación precisa de todo el reporte de programación junto a la propia documentación del software durante todo el ciclo de vida de nuestro proyecto. Las herramientas utilizadas para este proceso deben ser sencillas de comprender y manipular para todos los miembros del equipo, además de que deben ser adecuadas para el uso de textos largos con grandes cantidades de informcación, junto a soportar imagenes y seguir buenos modelos de división en secciones.
+
+Para toda la documentación se utilizara un repositorio propio dentro de Github, el cual estara separado en varias ramas y se encontrara dentro de la propia organización del equipo de trabajo. Durante el proceso de escritura se debe usar el lenguaje de marcado de Markdown, de forma que se pueda garantizar la lectura en medios web a través de varios dispositivos y se pueda garantizar métodos de compresión y envio de data cifrada. Asimismo, con el fin de utilizar herramientas más especializadas, se usara el lenguaje HTML en ciertas secciones del desarrollo que no puedan ser escritas de forma cómoda y aceptable mediante Markdown, como, por ejemplo, las tablas de gran tamaño y división. 
+
+Página oficial de Github: https://github.com/ 
+
+Página de guía de uso de Markdown: https://www.markdownguide.org/ 
+
+Página de guía y seguimiento para HTML5: https://www.w3schools.com/html/ 
+
+---
+
+### 5.1.2 Source Code Management.
+
+En esta sección se establecerá la estrategia principal para utilizar GitHub como plataforma y sistema de control de versiones entre todas las colaboraciones dadas por el equipo de trabajo durante todo el ciclo de vida del proyecto. Es necesario utilizar todas las herramientas implementadas y estipuladas durante el uso del proyecto y seguir el historial de versiones para identificar posibles cambios nuevos o posibles errores que deben ser eliminados.
+
+* **Link del Github del Proyecto del equipo:** https://github.com/SmarTech-Propertunity 
+
+En nuestro caso se implementará el modelo GitFlow como WorkFlow de control de versiones, el cual incluye ramas principales como main y develop, las cuales funcionan como bases para el desarrollo e implementación final de todo un proyecto; así como ramas de características, lanzamiento y corrección, las cuales funcionan como ramas provisionales, las cuales tienen caracteristicas extras que esperan ser integradas en el producto final mediante un pull request dado por un miembro o por todo el equipo de trabajo. Esta estrategia proporciona una organización efectiva para el seguimiento de cambios, colaboración en el equipo y gestión de versiones del proyecto.
+
+En esta sección explicaremos de qué forma se implementará GitFlow. Para este modelo presentado, cada Feature requiere su propio branch idealmente para luego ser integrado mediante un pull request ya establecido. Ante esta estrategia ya utilizada por nuestro equipo de trabajo, se explicaran y especificaran las convenciones que se deben aplicar para todos los titulos que llevaran las ramas creadas por nuestro equipo de trabajo:
+
+* **Main:** Esta rama es la que contendrá la versión final estable del proyecto, completamente lista para su despliegue Esta es la última rama en la que se deben hacer merges mediante pulls request y todo cambio nuevo debe ser revisado obligatoriamente por todo el proyecto en conjunto o, por lo menos, todos los que puedan revisarlo en conjunto.
+
+* **Develop:** Esta rama es en la que se agrupan todos los elementos en desarrollo que ya han sido aceptados por al menos un integrante del equipo que no sea quien haya realizado el feature. Esta rama funciona como una última comprobación del funcionamiento de todos los nuevos features agregados. Una vez que el desarrollo está completo y se considera listo para avanzar al siguiente paso, se fusionará con la rama principal de lanzamiento (main).
+
+* **Features de capitulos:** Estas ramas generales son respectivas a cada capitulo del reporte del proyecto y es donde los miembros del grupo de trabajo deben realizar sus pull request en primer lugar, con el fin de conseguir orden y seguridad en todo momento, junto a una buena división y organización. Como el reporte tiene cinco capitulos, entonces se hicieron cinco ramas:
+
+| Nombre | Descripción |
+|--------|-------------|
+| feature-Chapter01 | En esta rama se realizan todos los cambios respectivos a las secciones del Capitulo 1 del reporte del proyecto. En este feature se agregaron todas las partes referentes a la introducción del reporte, de nuestro startup y de nuestro producto. | 
+| feature-Chapter02 | En esta rama se realizan todos los cambios respectivos a las secciones del Capitulo 2 del reporte del proyecto. En este feature se agregaron todas las partes referentes a la obtención y análisis de los requisitos para el proyecto y a nuestra posición en el mercado actual junto a nuestro segmento de mercado. |
+| feature-Chapter03 | En esta rama se realizan todos los cambios respectivos a las secciones del Capitulo 3 del reporte del proyecto. En este feature se agregaron todas las partes referentes a la especificación de todos los requisitos y requerimientos de funcionalidades. |
+| feature-Chapter04 | En esta rama se realizan todos los cambios respectivos a las secciones del Capitulo 4 del reporte del proyecto. En este feature se agregaron todas las partes referentes al modelado del diseño UI/UX que tendra nuestra landing page y aplicación web. |
+| feature-Chapter05 | En esta rama se realizan todos los cambios respectivos a las secciones del Capitulo 5 del reporte del proyecto. En este feature se agregaron todas las partes referentes a la implementación del producto, a su validación con todos los miembros del equipo y a su despliegue en un ambiente de producción. |
+
+* **Features individuales:** Estas ramas individuales son respectivas a todos los cambios que hará cada programador de nuestro equipo en solitario, para luego integrarlos a los features principales de los capitulos mediante un pull request que debe ser aceptado por el líder del equipo de trabajo. Estas branchs luego se eliminaran para evitar la sobrecarga del espacio.
+
+---
+
+Con respecto a la convención utilizada para nombrar todas las ramas ya especificadas junto a los modelos de pull request y commits daods por todos los miembros de nuestro equipo de trabajo, vamos a utilizar el siguiente formato:
+
+| feat(branch): verbo seguido de una descripción sencilla |
+|-------------------------------------------------------------|
+
+Con respecto a la sección de branch, en esta se debe agregar la rama en la que se ha realizado el cambio propuesto en el nuevo feature. En caso es la rama de uno de los capitulos, solo se debe poner "chapter xx", para evitar alargar la convención del commit.
+
+Con respecto a la descripción, esta debe estar escrita completamente en inglés y debe comenzar con un verbo que indique el cambio que se va a realizar. Aqui hay una lista corta de verbos que se pueden usar en estos casos:
+
+| Verbo | Traducción | Uso en el proyecto de programación |
+|-------|------------|------------------------------------|
+| Add | Añadir | Usado para agregar alguna nueva sección, imagen, texto, etc., a una parte del proyecto. Lo ideal es solo usarlos en las features de los capitulos o en features individuales que esperan un pull request. |
+| Create | Crear | Usado exclusivamente para la creación del encabezade de secciones sin más contenido o para la creación de documentos y/o ramas dentro del proyecto |
+| Update | Actualizar | Usado para actualizar alguna sección del proyecto. Lo ideal es que al usarlo solo se realicen cambios grandes y que cambien la estructura del proyecto, pero sin agregar una nueva sección. |
+| Correct | Corregir | Usado para corregir algún aspecto de una sección del proyecto. Esta corrección debe ser menor en comparación a una actualización y se debe usar mayoritariamente para la correción de ortografía y/o grámatica, o la correción de un enlace que no funciona.
+| Delete | Borrar | Usado para borrar alguna sección, imagen, etc., de una parte del proyecto. Solo debe usarse para eliminar una sección incorrecta que ya haya sido aceptada por los miembros del grupo de trabajo. |
+| Drop | Tirar | Usado exclusivamente para tirar abajo alguna rama, carpeta, etc., de todo el repositorio. Solo utilizar cuando el equipo del proyecto acepto tal dropeo. |
+
+Esta norma se utilizara para mantener y seguir el modelo de los Conventional Commits, los cuales son una convención y especificación ligera para la estructuración y nombramiento de los commits realizados por un equipo. Proporciona un conjunto sencillo de reglas para crear un historial de confirmaciones explícito; lo que facilita la escritura de herramientas automatizadas encima. Esta convención es muy útil al querer describir las características, correcciones y cambios importantes realizados en los mensajes de confirmación. (Github & Netlify, 2024). 
+
+Con respecto a las versiones de lanzamiento de las secciones de programación del proyecto, se debe seguir el versionado semántico 2.0.0., el cual se basa en la siguiente estructura. 
+
+| Mayor.Menor.Parche. |
+|---------------------|
+
+donde, 
+
+- El último dígito (Parche) se refiere principalmente a corrección de errores compatibles con versiones anteriores.
+- El segundo dígito (Menor) aumenta cuando se añaden características compatibles con la versión anterior.
+- El primer dígito (Mayor) se incrementa para cambios significativos que podrían no ser compatibles con la versión anterior.
+
+Finalmente, también se adoptará el uso de los Conventional Commits para los mensajes de texto y descripción en cada commit realizada en el proyecto. La estructura de estos mensajes será:
+
+| type: description |
+|-------------------|
+
+---
+
+### 5.1.3 Source Code Style Guide & Conventions.
+
+En esta sección, nuestro equipo de trabajo explicara e indicar las referencias que adoptaremos para nombrar y programar en los lenguajes de programación que se utilizar para el diseñado de nuestra solución de software mediante la Landing Page y el Web Applications. Ante esto, especificaremos todas las convenciones dadas para los siguientes lenguajes de programación o lenguajes de etiquetas junto a sus guías de seguimiento:
+
+- Guía de Estilos y Convenciones de Codigo para HTMl: https://www.w3schools.com/html/html5_syntax.asp 
+- Guía de Estilos de Google para HTML Y CSS: https://google.github.io/styleguide/htmlcssguide.html 
+- Convenciones de Gherkin para especificaciones legibles: https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/ 
+- Guía de Estilos para la Framework de Vue: https://v2.vuejs.org/v2/style-guide/?redirect=true 
+- Guía de Google para el Estilo de JavaScript: https://google.github.io/styleguide/jsguide.html
+- Guía de Pautas de Javascript de MDN (Mozilla): https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/JavaScript}
+- Guía de Estilos de Javascript del consorcio W3: https://www.w3schools.com/js/js_conventions.asp
+- Convenciones de Código para C#: https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
+- Guía de Pautas para el código en ASP.NET Core de Microsoft: https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines#coding-guidelines 
+
+Se tiene la intención de seguir todas estas directrices y normativas de codificación establecidas, además de modelar los diseños de las nomenclaturas y seguir el lenguaje inglés ante la recomendación mayoritaria frente a la codificación de nuestras páginas web.
+
+#### Convenciones que Usaremos:
+
+**Con respecto a HTML:**
+
+- Para el guardado y actualización de archivos HTML se deben usar nombres descriptivos y sencillos que resuman adecuadamente todas las estructuras que se realizaron durante el proceso de programación.
+- Seguir una convención de nomenclatura consistente para los archivos y carpetas utilizadas durante todo el ciclo de vida del proyecto, como camelCase o algún otro similar que cumpla con las mismas especificaciones.
+- Utilizar las etiquetas HTML de manera semántica para describir adecuadamente la estructura y el contenido de tu página web. Por ejemplo, utilizar header, nav, main, section, article, footer, etc., en lugar de divs genéricos.
+- Mantener una estructura de código clara y legible mediante la indentación adecuada. Promover la coherencia en el diseño y la presentación en todas las partes del proyecto, garantizando una experiencia de usuario uniforme.
+- Utilizar etiquetas semánticas y atributos como "alt" en las imágenes para mejorar la accesibilidad y la indexación por parte de los motores de búsqueda/browsers.
+- Diseñar el HTML para que sea receptivo y se vea bien en una variedad de dispositivos y tamaños de pantalla, utilizando CSS adaptable y consultas de medios adecuados.
+- Utilizar modelos de accesibilidad para aumentar el alcance del público que interactua con las páginas web. Centrarse en seguir con el diseño para permitir que puedan acceder personas con discapacidades o con otras lenguas y/o creencias y culturas.
+  
+**Con respecto a CSS:**
+
+- Utilizar nombres de clases descriptivos y coherentes para facilitar la comprensión del código y su mantenimiento a largo plazo. Se deben seguir metodologías como BEM (Block Element Modifier) y SMACSS (Scalable and Modular Architecture for CSS).
+- Utilizar nombres descriptivos para las clases CSS que reflejen su propósito o función en lugar de nombres genéricos o abreviaturas difíciles de entender.
+- Preferir nombres que reflejen la función o el propósito del elemento en lugar de su apariencia.
+- Diseñar CSS modular para que se pueda reutilizar estilos en diferentes partes de la landing page y la propia aplicación web, lo que facilita la mantenibilidad y la escalabilidad.
+- Utilizar prefijos de proveedores CSS (como -webkit-, -moz-, -ms-, -o-) cuando sea necesario para garantizar la compatibilidad con diferentes navegadores.
+- Evitar aplicar estilos directamente en las etiquetas HTML (style attribute) y en su lugar utiliza clases CSS para mantener la separación entre HTML y CSS.
+- Evitar estilos en línea en HTML, ya que hacen que sea más difícil de mantener y sobrescribir. Es preferible definir estilos en un archivo CSS separado.
+- Realizar pruebas en diferentes navegadores y dispositivos para asegurarte de que tus estilos se vean y funcionen correctamente en todas las situaciones.
+
+**Con respecto a JavaScript:**
+
+- Utilizar nombres descriptivos que reflejen el propósito y la función de las variables y funciones para mejorar la comprensión del código a gran escala y durante todo su ciclo de vida.
+- Adoptar el estilo de nomenclatura CamelCase para nombrar variables y funciones, comenzando con minúscula para las variables y con mayúscula para las funciones. Asimsmo, utilizar espacios o tabulaciones de manera consistente y asegurarse de mantener una línea de código por línea para mejorar la legibilidad.
+- Utilizar "const" para declarar variables que no cambiarán de valor y "let" para aquellas que sí lo harán, en lugar de "var", para evitar problemas de alcance y mantener la inmutabilidad cuando sea posible.
+- Documentar el código utilizando comentarios para explicar el propósito de las funciones, algoritmos complejos, decisiones de diseño y cualquier otra información relevante. Sin embargo, al enviar a producción, todos esos comentarios deben eliminarse. En caso el comentario sea demasiado importante y aún se debe mantener en el ambiente de producción, lo mejor es dejarlo con la mayor descripción posible sobre su necesidad, usando un formato agradable y formal.
+- Limitar el uso de variables globales ya que pueden causar conflictos y dificultar el mantenimiento del código. Preferir encapsular variables y funciones dentro de módulos o funciones autoejecutables para evitar contaminar el espacio global.
+- Implementar un manejo adecuado de errores utilizando bloques try-catch para capturar excepciones y manejar errores de manera apropiada, proporcionando mensajes claros y útiles para facilitar la depuración.
+- Asegurarse de que las comparaciones y operaciones sean explícitas y predecibles para evitar errores de tipo. Utiliza operadores estrictos (=== y !==) en lugar de los operadores de igualdad débil (== y !=) siempre que sea posible.
+- Utilizar la delegación de eventos para manejar eventos en elementos dinámicos y reducir la cantidad de manipuladores de eventos necesarios en el DOM.
+- Aprovechar las funciones de orden superior como "map", "filter", "reduce" y "forEach" para simplificar el código y mejorar su legibilidad.
+
+**Con respecto a TypeScript:**
+
+- Aprovechar al máximo el sistema de tipos de TypeScript proporcionando tipos explícitos para variables, parámetros de función y valores de retorno. Esto mejora la legibilidad del código y ayuda a detectar errores en etapas tempranas de desarrollo.
+- Utilizar interfaces y tipos para definir la forma de los objetos y estructuras de datos en el código. Esto facilita la comprensión de cómo deben estructurarse los datos y permite la reutilización de tipos en todo el proyecto.
+- Evitar el uso excesivo del tipo "any", ya que elimina los beneficios del sistema de tipos de TypeScript. En su lugar, intentar ser lo más específico posible con los tipos de datos que se utilicen.
+- Utilizar uniones (|) y tipos de intersección (&) para modelar tipos complejos que puedan tener múltiples formas o combinaciones de tipos.
+- Aprovechar las generics de TypeScript para crear funciones y clases que sean flexibles y reutilizables con diferentes tipos de datos. Asimismo, aprovechar la capacidad de TypeScript para inferir tipos cuando sea posible, especialmente en situaciones donde la tipificación explícita podría ser redundante.
+- Adoptar el estilo de nomenclatura CamelCase para nombrar variables y funciones, comenzando con minúscula para las variables y con mayúscula para las funciones. Asimsmo, utilizar espacios o tabulaciones de manera consistente y asegurarse de mantener una línea de código por línea para mejorar la legibilidad.
+- Habilitar la configuración "strict" en el archivo de configuración tsconfig.json para aprovechar al máximo las características de seguridad y verificación de TypeScript.
+- Documentar el código TypeScript utilizando comentarios JSDoc para describir el propósito, los parámetros y el valor de retorno de las funciones, clases y métodos. Sin embargo, al enviar a producción, todos esos comentarios deben eliminarse. En caso el comentario sea demasiado importante y aún se debe mantener en el ambiente de producción, lo mejor es dejarlo con la mayor descripción posible sobre su necesidad, usando un formato agradable y formal.
+
+**Con respecto a las convenciones de Gherkin:**
+
+- Utilizar las palabras clave de Gherkin (Given, When, Then, And, But) de manera apropiada para estructurar tus escenarios de acuerdo con el flujo de acción deseado.
+- Escribir escenarios en un lenguaje claro y comprensible para todas las partes interesadas, incluidos los no técnicos. Utilizar un vocabulario simple y evitar la jerga técnica cuando sea posible.
+- Asegurarse de que cada escenario se centre en un único aspecto o funcionalidad de la aplicación. Evitar la superposición de funcionalidades en un solo escenario para mantenerlos simples y fáciles de entender.
+- Mantener los escenarios lo más concisos y directos posible. Evitar la repetición innecesaria y eliminar cualquier detalle que no sea relevante para el objetivo del escenario.
+- Escribir los escenarios en primera persona, desde la perspectiva del usuario o actor que realiza la acción. Esto ayuda a mantener un enfoque centrado en el usuario y facilita la comprensión del comportamiento esperado.
+- Evitar incluir detalles de implementación en los escenarios. En su lugar, uno debe concentrarse en describir el comportamiento esperado de la aplicación sin preocuparse por cómo se logra ese comportamiento.
+- Identificar patrones comunes en los escenarios y buscar oportunidades para reutilizar pasos utilizando escenarios de fondo (Background) o pasos compartidos (Step Definitions).
+
+**Con respecto al framework de Vue:**
+
+- Organizar el proyecto siguiendo una estructura clara y coherente, como la proporcionada por la CLI de Vue.js (Vue CLI), que separa los archivos por funcionalidad y tipo (componentes, vistas, servicios, etc.).
+- Diseñar componentes Vue.js que sean reutilizables y modulares, lo que facilita su uso en diferentes partes de la aplicación y fomenta la consistencia en el diseño y la funcionalidad.
+- Utilizar Vuex, la biblioteca de gestión del estado oficial de Vue.js, para mantener un estado centralizado y predecible en la aplicación, lo que facilita el seguimiento de los cambios y la depuración de problemas relacionados con el estado.
+- Utiliza propiedades (props) para pasar datos de un componente padre a un componente hijo y eventos para comunicar cambios desde el hijo al padre, siguiendo el flujo unidireccional de datos de Vue.js.
+- Utilizar directivas (v-bind, v-if, v-for, etc.) y filtros para manipular el DOM y transformar datos en tus plantillas de Vue de manera declarativa y eficiente.
+- Aprovechar los hooks del ciclo de vida de Vue.js (created, mounted, updated, destroyed, etc.) para realizar acciones específicas en diferentes etapas del ciclo de vida de un componente, como inicializar datos, realizar solicitudes de red o limpiar recursos.
+- Optimizar el rendimiento de la aplicación Vue.js utilizando técnicas como la renderización condicional, la fragmentación, la memoización de cálculos costosos y la utilización de la caché de componentes cuando sea posible.
+- Utilizar la biblioteca vue-i18n para facilitar la internacionalización y la localización de la aplicación para personas con lenguas distintas.
+
+**Con respecto a C#:**
+
+- Seguir la convención de nomenclatura de C# que generalmente utiliza PascalCase para nombres de clases y métodos, camelCase para nombres de variables y minúsculas con guiones bajos para nombres de miembros de variables privadas.
+- Utilizar regiones con moderación y de manera significativa para organizar y agrupar secciones de código relacionadas, como métodos de interfaz, métodos de ayuda o propiedades.
+- Documentar el código utilizando comentarios XML para proporcionar información útil sobre la funcionalidad, los parámetros y el valor de retorno de los métodos y clases. Esto facilita la comprensión del código y la generación de documentación automática. Sin embargo, si el código es claro y autoexplicativo, evitar el uso excesivo de comentarios que puedan volverse obsoletos o redundantes con el tiempo. Los comentarios deben utilizarse para explicar el por qué del código, no el qué.
+- Utilizar propiedades autoimplementadas cuando no se requiere lógica adicional en el acceso o establecimiento de una propiedad. Esto simplifica el código y mejora la legibilidad.
+- Implementar un manejo adecuado de excepciones utilizando bloques try-catch-finally para capturar y manejar excepciones de manera adecuada, proporcionando mensajes significativos y tomando acciones apropiadas en caso de error.
+- Evitar la duplicación de código escribiendo funciones y métodos reutilizables. Utiliza la herencia, la composición o los métodos de extensión para compartir funcionalidades comunes entre clases.
+- Seguir los principios SOLID (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) para diseñar clases y sistemas que sean flexibles, mantenibles y escalables.
+
+**Con respecto a ASP.NET Core:**
+
+- Organizar tu proyecto siguiendo una estructura clara y coherente, separando las capas de presentación, lógica de negocio y acceso a datos. Puedes seguir el patrón de arquitectura MVC (Modelo-Vista-Controlador) o el patrón de arquitectura de microservicios, dependiendo de la complejidad de tu aplicación.
+- Utilizar la inyección de dependencias proporcionada por ASP.NET Core para facilitar la creación y gestión de componentes y servicios en tu aplicación. Esto ayuda a mejorar la modularidad, la reutilización y la testabilidad del código.
+- Utilizar middleware para agregar componentes de procesamiento de solicitudes y respuestas en el pipeline de solicitud de ASP.NET Core. Esto te permite agregar funcionalidades como la autenticación, la autorización, el registro de solicitudes y la compresión de respuestas de manera modular y reutilizable.
+- Utilizar la configuración de aplicaciones proporcionada por ASP.NET Core para separar la configuración de la lógica de la aplicación. Utiliza archivos de configuración JSON, variables de entorno u otros proveedores de configuración para gestionar la configuración de la aplicación en diferentes entornos.
+- Utiliza el sistema de registro (logging) integrado de ASP.NET Core para registrar información, advertencias y errores en tu aplicación. Configura adecuadamente los proveedores de registro y los niveles de registro para facilitar la depuración y el monitoreo de la aplicación.
+- Utilizar versionado de API para gestionar cambios en la interfaz pública de la API de manera controlada y compatible con versiones anteriores.
+- Utilizar la caché integrada de ASP.NET Core para mejorar el rendimiento de la aplicación almacenando en caché datos que se acceden con frecuencia y que son costosos de calcular o recuperar.
+- Configurar herramientas de monitorización y registro de errores (como Application Insights, ELK Stack, Sentry, entre otros) para obtener información sobre el rendimiento, la disponibilidad y los errores de tu aplicación en producción.
+
+### 5.1.4 Software Deployment Configuration.
+
+En esta sección especificaremos la configuración del despliegue de la solución, incluyendo los pasos necesarios para que, a partir de los repositorios de código fuente, se pueda lograr el despliegue de el Landing Page.
+
+Empezaremos por crear un repositorio en GitHub para almacenar los archivos HTML, CSS y JavaScript. Luego cada integrante del equipo trabajará en su propia rama "feature" para desarrollar nuestro landing page. Una vez completada una característica, se procederá a hacer el merge con la rama "develop" para que la landing page se encuentre actualizada. estableceremos la configuración en GitHub Pages para publicar la página de destino utilizando la rama "develop". A continuación, detallamos los pasos para llevar a cabo este despliegue en GitHub Pages:
+
+### 1. Comenzaremos creando un repositorio público en GitHub, le asignamos un nombre y añadimos los archivos necesarios.
+<img src="/assets/img/set-repository-name.png" alt="Set Repository Name">
+<img src="/assets/img/repository.png" alt="Repository">
+
+### 2. Dirigirse a la sección de ajustes y elegir la pestaña Pages.
+
+### 3. Nos dirigimos al apartado de configuración para GitHub Pages.
+
+### 4. En el apartado de branch, seleccionamos el branch "main" donde se realizará el despliegue del landing page, dejando las demás configuraciones con sus valores predeterminados.
+<img src="/assets/img/pagedeployed.png" alt="github page">
+
+### 5. Al seleccionar la rama correspondiente, se generará un enlace que permitirá acceder al landing page. Cada modificación efectuada en el "main" se actualiza automáticamente.
+<img src="/assets/img/github-link.png" alt="github link">
+
+### 6. Finalmente, el landing estará desplegada, lista para ser visualizada y utilizada.
+<img src="/assets/img/landing_deployed.png" alt="Landing deployed">
+
+## 5.2 Landing Page, Services & Applications Implementation.
+
+A continuacion explicaremos el enfoque que seguiremos para llevar a cabo la implementación, pruebas y lanzamiento de nuestro landing page, así como también de los servicios web y la interfaz de usuario de la aplicación web en cada ciclo de desarrollo. 
+
+### 5.2.1 Sprint 1
+
+En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint número 1. Todo el avance descriptivo se muestra aquí junto a su desarrollo, historial y avance en conjunto dado por cada intengrante del equipo de trabajo. Todas las especificaciones siguen desde el Product Backlog del Capitulo 3 de requerimientos.
+
+### 5.2.1.1 Sprint Planning 1
+
+En esta sección se explicaran los detalles presentados y analizados durante la reunión del Sprint Planning para el número 1. El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión.
+
+<table>
+        <tr>
+            <td colspan="1">Sprint #</td>
+            <td colspan="1">Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024-04-04</td>
+        </tr>
+          <tr>
+            <td>Time</td>
+            <td>17:02</td>
+        </tr>
+            <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+            <tr>
+            <td>Prepared by</td>
+            <td>Yen Cerna, Lucio Heli</td>
+        </tr>
+            <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Mallma Quispe, Rubén Elías, Shimabukuro Uku, Carlos Joel, Trigueros Chumacero, Flavio Eduardo, Valenzuela Huillcaya, Aldhair Johan Juan, Yen Cerna, Lucio Heli</td>
+        </tr>
+            <tr>
+            <td>Sprint 1 – 1 Review Summary</td>
+            <td>El proceso del sprint 1 concluyo con un claro éxito en términos de avance de los productos softwares dados junto a la colaboración general del equipo y la comunicación. Los logros alcanzados junto a la retroalimentación con la recopilación durante esta revisión proporcionan una buena y sólida base para la construcción y realización del siguiente sprint (2), además de reforzar el compromiso del equipo con la calidad y la entrega responsable.</td>
+        </tr>
+            <tr>
+            <td>Sprint 1 – 1 Retrospective Summary</td>
+            <td>Para la retrospectiva del Sprint 1 fue necesario reflexionar sobre el desempeño general e individual de todos los miembros del equipo de trabajo, además de identificar todas las secciones posibles donde podemos mejorar además del uso de recomendaciones. Esto nos servira como una buena base para impulsar aun más la mejora continua y optimizar el trabajo del equipo en los próximos sprints durante el ciclo de vida del proyecto.</td>
+        </tr>
+            <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+              <tr>
+            <td>Sprint 1 Goal</td>
+            <td>Alcanzar una métrica de cumplimiento del 100%, lo que indicará que se ha logrado todos los objetivos del sprint 1 con todas las historias de usuario y otros materiales necesarios.</td>
+        </tr>
+              <tr>
+            <td>Sprint 1 Velocity</td>
+            <td>Con el equipo para este sprint 1 decidimos aceptar 5 Story Points</td>
+        </tr>
+              <tr>
+            <td>Sum of Story Points</td>
+            <td>La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 1 es 32</td>
+        </tr>
+    </table>
+
+### 5.2.1.2 Sprint Backlog 1
+
+En esta sección se revisara todo el proceso dado para el Sprint Backlog número 1, en el cual nuestro equipo de trabajo se centró principalmente en el diseño y esquematización de la Landing Page de nuestra Startup y Producto de Software. Hemos separado toda la construcción de la Landing Page en seis (6) historias de usuario, donde cada integrante del grupo hizo al menos una. Gracias a este proceso, para el final del Sprint Backlog 1, hemos conseguido crear una página web estatica para nuestra Landing Page.
+
+<table>
+        <tr>
+            <td colspan="2">Sprint #</td>
+            <td colspan="6">Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Descripcion</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In / Process / ToReview / Done)</td>
+        </tr>
+        <tr>
+            <td>US01</td>
+            <td>Agregar una sección con descripciones detalladas sobre la startup</td>
+            <td>T01</td>
+            <td>Sección con descripciones detalladas sobre la startup</td>
+            <td>Como usuario general de la aplicación web, quiero tener disponible la informaación sobre la startup de Propertunity, para saber que los motiva, q.ue metas poseen y que clase de productos ofrecen.</td>
+            <td>1 hora y 30 minutos</td>
+            <td>Mallma Quispe, Rubén Elías</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US02</td>
+            <td>Agregar una sección con descripciones detalladas sobre las suscripciones</td>
+            <td>T02</td>
+            <td>Sección con descripciones de las suscripciones</td>
+            <td>Como usuario general de la aplicación web, quiero poder revisar a detalles las suscripciones que ofrece la aplicación web de Propertunity, para saber si las funcionalidades agregadas que entrega serviran para cumplir con mis necesidades y saber cuanto llegaria a gastar en la suscripción.</td>
+            <td>1 hora y 50 minutos</td>
+            <td>Valenzuela Huillcaya, Aldhair Johan Juan</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Incorporar una lista con las principales características y funcionalidades</td>
+            <td>T03</td>
+            <td>Lista con principales caracteristicas y funcionalidades</td>
+            <td>Como usuario general de la aplicación web, quiero revisar las principales características y funcionalidades de la aplicación web de Propertunity, para ser capaz de saber que funciones pueden ser útiles según mis necesidades y diferenciar a Propertunity de la competencia.</td>
+            <td>1 hora y 40 minutos</td>
+            <td>Trigueros Chumacero, Flavio Eduardo</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Proporcionar testimonios con casos de uso real de la aplicación web</td>
+            <td>T04</td>
+            <td>Testimonios con casos de uso real de la aplicación web</td>
+            <td>Como usuario general de la aplicación web, quiero poder visualizar indicios de otros usuarios quienes ya usaron el producto antes que yo, para poder tener la certeza y garantía de que lo que promocionan es un producto funcional y de confianza.</td>
+            <td>50 minutos</td>
+            <td>Shimabukuro Uku, Carlos Joel</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Implementación de un cuestionario de contacto</td>
+            <td>T05</td>
+            <td>Cuestionario de contacto</td>
+            <td>Como usuario general de la aplicación web, quiero ser capaz de contactarme directamente con el personal de apoyo al cliente que trabaja para Propertunity, para poder resolver cualquier duda que tenga sobre el aplicativo y pueda conseguir más informacación.</td>
+            <td>40 minutos</td>
+            <td>Shimabukuro Uku, Carlos Joel</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>US06</td>
+            <td>Integrar una barra de navegación sencilla</td>
+            <td>T06</td>
+            <td>Barra de navegación</td>
+            <td>Como usuario general de la aplicación web, quiero que haya una barra de navegación en alguna sección de la landing page, para que pueda revisar todo lo que me ofrece la página y pueda dirigirme directamente a cada sección de la página.</td>
+            <td>1 hora y 30 minutos</td>
+            <td>Yen Cerna, Lucio Heli</td>
+            <td>Done</td>
+        </tr>
+    </table>
+
+
+### 5.2.1.3 Development Evidence for Sprint Review.
+
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page. Aquí se dejara cada uno de los commits ya implementados dentro del repositorio de Github, junto a toda la información referente y a los cambios concluidos.
+
+| Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
+|-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(main): add index.html - Lucio - index.html - 1 | e0941ce | feat(main): add index.html | En esta sección se agregó el index.html a la branch del main. | 09/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(main): add styles.css - Lucio - styles.css - 2 | 5399d7a | feat(main): add index.html | En esta sección se agregó el styles.css a la branch del main. | 09/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop) update styles.css - Lucio - styles.css - 3 | d64c1db | feat(develop) update styles.css | En esta sección se actualizo el style.css al agregarle nuevas paletas de color y mejores modelos de escritura y tipografía. | 09/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): add header - Lucio - index.html - 4 | 63ae3ce | feat(develop): add header | En esta sección se realizo el header de la Landing Page junto a la barra de navegación. | 10/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): update IndexHTML About Us - Ruben - index.html - 1 | 8158e6d | feat(develop): update IndexHTML About Us | En esta sección se realizo la parte del About Us de la Landing Page. | 10/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): update Styles - Ruben - styles.css - 2 | 8d7dbba | feat(develop): update Styles | En esta sección se realizó el modelo css para las secciones del About Us de la landing page. | 10/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): Update index.html suscripciones - Aldhair - index.html - 1 | ab49a16 | feat(develop): Update index.html suscripciones | Aquí se programo la sección de suscripciones para la Landing Page ya implementada. | 10/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): Update styles.css - Aldhair - styles.css - 2 | 8d7dbba | feat(develop): Update styles.css | En esta sección se aplico los estilos de la sección de suscripciones para la Landing Page ya inmplementada. | 10/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): update.html funcionalities - Flavio - index.html - 1 | 487b0ce | feat(develop): update.html funcionalities | Para la siguiente sección se programo la sección de funcionalidades para la Landing Page. | 11/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): update styles.css - Flavio - styles.css - 2 | 356c344 | feat(develop): update styles.css | Para la siguiente sección se aplicaron todos los estilos a la sección de funcionalidades para la Landing Page ya implementada. | 11/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat (develop) update Testimony and Form - Carlos - index.html - 1 | 2b7832c | feat (develop) update Testimony and Form | En esta sección se realizo la parte de los testimonios y el cuestionario de contacto dado para la Landing Page de Propertunity. | 11/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat (develop) update.style.css JoinForm - Carlos - styles.css - 2 | 126beae | feat (develop) update.style.css JoinForm | En esta sección se aplicaron los estilos para la sección de testimonios de la landing page. También se hicieron los estilos para la sección del cuestionario de contacto de la landing page. | 11/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): update index.html footer - Lucio - index.html - 5 | 0e06c00 | feat(develop): update index.html footer | En esta sección se realizo el footer de la landing page con todos los datos correspondientes. | 11/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): update styles.css footer - Lucio - styles.css - 6 | a29d3fa | feat(develop): update styles.css footer | En esta sección se actualizo el style.css para el footer de la Landing Page ya implementada | 11/04/24 |
+
+### 5.2.1.4 Testing Suite Evidence for Sprint Review. 
+
+| Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
+|-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
+| REPOSITORIO DEL LANDING(NOMBRE)   | feat(develop): add header - index.html - 1 | 63ae3ce | feat: ...                        | MENSAJE DEL COMMIT            | FECHA DEL COMMIT  |
+
+### 5.2.1.5 Execution Evidence for Sprint Review. 
+
+En este punto explicaremos los logros alcanzados para el Sprint 1
+
+-Creacion de repositorios para el report y el landing page en GitHub.
+-Realizacion del wireframe y mock-ups del landing page.
+-Realizacion del wireframe y mock-ups de la aplicacion web.
+-Implementación del landing page.
+-Diseño del prototipo de la aplicación web.
+-Subir en el GitHub Pages el landing pages.
+
+### 5.2.1.6 Services Documentation Evidence for Sprint Review. 
+
+En este Sprint 1, realizamos el landing page donde no se hizo implementacion de algun servicio, por ese motivo es el que quedara vacio este punto.
+
+### 5.2.1.7 Software Deployment Evidence for Sprint Review.
+
+Explicaremos las acciones que realizamos en el sprint 1, como la preparacion y despliegue de nuestro landing page
+
+* Primero creamos un repositorio en Github para el landing page
+* 
+* Las ramas necesarias se crean siguiendo el flujo de trabajo de GitFlow.
+* 
+* En la configuración del repositorio, se accede a la sección "Pages".
+* 
+* Se ajusta la configuración para indicar la fuente de la landing page.
+* 
+* Después de guardar la configuración, se genera un enlace para acceder a la landing page.
+* 
+* Este enlace permite visualizar las actualizaciones realizadas en la rama "develop".
+
+
+### 5.2.1.8 Team Collaboration Insights during Sprint.
+
+Para este Sprint 1, hemos hecho el desarrollo del landing page, colaborado en conjunto en la implementación. Esta colaboración se refleja en los distintos commits realizados en el repositorio, los cuales están documentados en las capturas de pantalla adjuntas.
+
+Con respecto a la colaboracion del equipo, nos reunimos presencial como virtualmente para asignarnos tarea y discutir como elaborar el proyecto. Esto nos ha permitido comprender claramente nuestras responsabilidades individuales y tener un mejor desempeño. Para el desarrollo del código, hemos decidido que cada integrante se encarga de una sección específica del landing page. Esto para avanzar mas rapido y terminarlo antes de la entrega. Finalmente, tuvimos reuniones donde compartimos ideas y resolvemos algunas dudas o problemas que podriamos tener con respecto a la elaboracion del landing page, lo que nos dio resultados positivos en la elaboracion del trabajo.

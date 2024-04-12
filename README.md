@@ -138,14 +138,6 @@ Para la Landing Page:
        - 5.2.1.7. Software Deployment Evidence for Sprint Review.
        - 5.2.1.8. Team Collaboration Insights during Sprint.
 
-**Conclusiones**
-
-- El proyecto se ha desarrollado con un enfoque integral en la experiencia de usuario, desde la idea de los wireframes hasta la implementación final de la plataforma Propertunity. Se priorizó la coherencia visual, la accesibilidad y la facilidad de uso en cada etapa del proceso de diseño y desarrollo. Se realizaron pruebas de usuario para validar la efectividad de la navegación y se utilizaron prácticas de diseño responsivo para garantizar una experiencia óptima en todos los dispositivos. El resultado es una plataforma intuitiva, atractiva y funcional que satisface los deseos y necesidades de los usuarios inmobiliarios.
-
-**Anexos**
-
-**Bibliografía**
-
 ---
 
 ### LISTA DE FIGURAS

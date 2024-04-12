@@ -142,32 +142,62 @@ Página de guía y seguimiento para HTML5: https://www.w3schools.com/html/
 
 En esta sección se establecerá la estrategia principal para utilizar GitHub como plataforma y sistema de control de versiones entre todas las colaboraciones dadas por el equipo de trabajo durante todo el ciclo de vida del proyecto. Es necesario utilizar todas las herramientas implementadas y estipuladas durante el uso del proyecto y seguir el historial de versiones para identificar posibles cambios nuevos o posibles errores que deben ser eliminados.
 
+* **Link del Github del Proyecto del equipo:** https://github.com/SmarTech-Propertunity 
+
 En nuestro caso se implementará el modelo GitFlow como WorkFlow de control de versiones, el cual incluye ramas principales como main y develop, las cuales funcionan como bases para el desarrollo e implementación final de todo un proyecto; así como ramas de características, lanzamiento y corrección, las cuales funcionan como ramas provisionales, las cuales tienen caracteristicas extras que esperan ser integradas en el producto final mediante un pull request dado por un miembro o por todo el equipo de trabajo. Esta estrategia proporciona una organización efectiva para el seguimiento de cambios, colaboración en el equipo y gestión de versiones del proyecto.
 
 En esta sección explicaremos de qué forma se implementará GitFlow. Para este modelo presentado, cada Feature requiere su propio branch idealmente para luego ser integrado mediante un pull request ya establecido. Ante esta estrategia ya utilizada por nuestro equipo de trabajo, se explicaran y especificaran las convenciones que se deben aplicar para todos los titulos que llevaran las ramas creadas por nuestro equipo de trabajo:
 
-| *Main: *Esta rama contendrá la versión estable del proyecto, lista para su despliegue.  |
-|-----------------------------------------------------------------------------------------|
+* **Main:** Esta rama es la que contendrá la versión final estable del proyecto, completamente lista para su despliegue Esta es la última rama en la que se deben hacer merges mediante pulls request y todo cambio nuevo debe ser revisado obligatoriamente por todo el proyecto en conjunto o, por lo menos, todos los que puedan revisarlo en conjunto.
 
-Develop: Aquí se agrupan todos los elementos en desarrollo. Una vez que el desarrollo está completo y se considera listo para avanzar al siguiente paso, se fusionará con la rama de lanzamiento (release).
+* **Develop:** Esta rama es en la que se agrupan todos los elementos en desarrollo que ya han sido aceptados por al menos un integrante del equipo que no sea quien haya realizado el feature. Esta rama funciona como una última comprobación del funcionamiento de todos los nuevos features agregados. Una vez que el desarrollo está completo y se considera listo para avanzar al siguiente paso, se fusionará con la rama principal de lanzamiento (main).
 
-Feature: Cada miembro del equipo trabajará en su propia rama individual, donde cargarán las secciones de código asignadas para una funcionalidad específica. Estas ramas de características se integrarán con la rama "develop".
+* **Features de capitulos:** Estas ramas generales son respectivas a cada capitulo del reporte del proyecto y es donde los miembros del grupo de trabajo deben realizar sus pull request en primer lugar, con el fin de conseguir orden y seguridad en todo momento, junto a una buena división y organización. Como el reporte tiene cinco capitulos, entonces se hicieron cinco ramas:
 
-Respecto a la convención para nombrar las ramas de características, se utilizará el formato siguiente:
+| Nombre | Descripción |
+|--------|-------------|
+| feature-Chapter01 | En esta rama se realizan todos los cambios respectivos a las secciones del Capitulo 1 del reporte del proyecto. En este feature se agregaron todas las partes referentes a la introducción del reporte, de nuestro startup y de nuestro producto. | 
+| feature-Chapter02 | En esta rama se realizan todos los cambios respectivos a las secciones del Capitulo 2 del reporte del proyecto. En este feature se agregaron todas las partes referentes a la obtención y análisis de los requisitos para el proyecto y a nuestra posición en el mercado actual junto a nuestro segmento de mercado. |
+| feature-Chapter03 | En esta rama se realizan todos los cambios respectivos a las secciones del Capitulo 3 del reporte del proyecto. En este feature se agregaron todas las partes referentes a la especificación de todos los requisitos y requerimientos de funcionalidades. |
+| feature-Chapter04 | En esta rama se realizan todos los cambios respectivos a las secciones del Capitulo 4 del reporte del proyecto. En este feature se agregaron todas las partes referentes al modelado del diseño UI/UX que tendra nuestra landing page y aplicación web. |
+| feature-Chapter05 | En esta rama se realizan todos los cambios respectivos a las secciones del Capitulo 5 del reporte del proyecto. En este feature se agregaron todas las partes referentes a la implementación del producto, a su validación con todos los miembros del equipo y a su despliegue en un ambiente de producción. |
 
-| feature_<nombre -integrante>/<breve-descripción>    |
-|-----------------------------------------------------|
+* **Features individuales:** Estas ramas individuales son respectivas a todos los cambios que hará cada programador de nuestro equipo en solitario, para luego integrarlos a los features principales de los capitulos mediante un pull request que debe ser aceptado por el líder del equipo de trabajo. Estas branchs luego se eliminaran para evitar la sobrecarga del espacio.
 
-Para nombrar las versiones de lanzamiento, se seguirá el versionado semántico 2.0.0, que consiste en la estructura 
+---
+
+Con respecto a la convención utilizada para nombrar todas las ramas ya especificadas junto a los modelos de pull request y commits daods por todos los miembros de nuestro equipo de trabajo, vamos a utilizar el siguiente formato:
+
+| feat(branch): verbo seguido de una descripción sencilla |
+|-------------------------------------------------------------|
+
+Con respecto a la sección de branch, en esta se debe agregar la rama en la que se ha realizado el cambio propuesto en el nuevo feature. En caso es la rama de uno de los capitulos, solo se debe poner "chapter xx", para evitar alargar la convención del commit.
+
+Con respecto a la descripción, esta debe estar escrita completamente en inglés y debe comenzar con un verbo que indique el cambio que se va a realizar. Aqui hay una lista corta de verbos que se pueden usar en estos casos:
+
+| Verbo | Traducción | Uso en el proyecto de programación |
+|-------|------------|------------------------------------|
+| Add | Añadir | Usado para agregar alguna nueva sección, imagen, texto, etc., a una parte del proyecto. Lo ideal es solo usarlos en las features de los capitulos o en features individuales que esperan un pull request. |
+| Create | Crear | Usado exclusivamente para la creación del encabezade de secciones sin más contenido o para la creación de documentos y/o ramas dentro del proyecto |
+| Update | Actualizar | Usado para actualizar alguna sección del proyecto. Lo ideal es que al usarlo solo se realicen cambios grandes y que cambien la estructura del proyecto, pero sin agregar una nueva sección. |
+| Correct | Corregir | Usado para corregir algún aspecto de una sección del proyecto. Esta corrección debe ser menor en comparación a una actualización y se debe usar mayoritariamente para la correción de ortografía y/o grámatica, o la correción de un enlace que no funciona.
+| Delete | Borrar | Usado para borrar alguna sección, imagen, etc., de una parte del proyecto. Solo debe usarse para eliminar una sección incorrecta que ya haya sido aceptada por los miembros del grupo de trabajo. |
+| Drop | Tirar | Usado exclusivamente para tirar abajo alguna rama, carpeta, etc., de todo el repositorio. Solo utilizar cuando el equipo del proyecto acepto tal dropeo. |
+
+Esta norma se utilizara para mantener y seguir el modelo de los Conventional Commits, los cuales son una convención y especificación ligera para la estructuración y nombramiento de los commits realizados por un equipo. Proporciona un conjunto sencillo de reglas para crear un historial de confirmaciones explícito; lo que facilita la escritura de herramientas automatizadas encima. Esta convención es muy útil al querer describir las características, correcciones y cambios importantes realizados en los mensajes de confirmación. (Github & Netlify, 2024). 
+
+Con respecto a las versiones de lanzamiento de las secciones de programación del proyecto, se debe seguir el versionado semántico 2.0.0., el cual se basa en la siguiente estructura. 
 
 | Mayor.Menor.Parche. |
 |---------------------|
 
-El último dígito (Parche) se refiere principalmente a corrección de errores compatibles con versiones anteriores..
-El segundo dígito (Menor) aumenta cuando se añaden características compatibles con la versión anterior.
-El primer dígito (Mayor) se incrementa para cambios significativos que podrían no ser compatibles con la versión anterior.
+donde, 
 
-Por último, se adoptará el uso de Conventional Commits para los mensajes de texto en cada commit. La estructura de estos mensajes será:
+- El último dígito (Parche) se refiere principalmente a corrección de errores compatibles con versiones anteriores.
+- El segundo dígito (Menor) aumenta cuando se añaden características compatibles con la versión anterior.
+- El primer dígito (Mayor) se incrementa para cambios significativos que podrían no ser compatibles con la versión anterior.
+
+Finalmente, también se adoptará el uso de los Conventional Commits para los mensajes de texto y descripción en cada commit realizada en el proyecto. La estructura de estos mensajes será:
 
 | type: description |
 |-------------------|

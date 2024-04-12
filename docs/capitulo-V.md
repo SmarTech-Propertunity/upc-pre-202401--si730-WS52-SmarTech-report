@@ -13,43 +13,62 @@ En esta sección nuestro equipo de trabajo va a especificar, describir e indicar
 Esta sección respecta a la organización y control del proyecto durante todo su ciclo de vida en el sentido de control del personal que trabaja en este, junto a sus acciones y colaboraciones a lo largo del tiempo y a sus asignaciones ya estipuladas. Ante esto, hemos separado esta sección entre tres puntos distintos que funcionan como distintos métodos de comunicación y gestión del equipo de trabajo.
 
 * **Reuniones de trabajo:** Con respecto a las reuniones organizadas para el equipo de trabajo, nuestro grupo ha decidido de forma unanime que el mejor medio de reunión mediante videoconferencia era con el uso de las herramientas de la aplicación "Discord". Esto debido a que todos tenemos conocimiento sobre el uso de la aplicación y lo consideramos más cómodo y rápido en comparación de otras aplicaciones de videoconferencia. Aunque Discord no tiene las mismas herramientas que otras aplicaciones tienen, consideramos que es mejor porque mantiene un acceso y comunicación más eficiente, tiene una interfaz más simple y directa, y porque no presenta limites de tiempo durante las reuniones.
+Página oficial de Discord: https://discord.com/ 
 
 * **Organización del trabajo:** Con respecto a la organización del trabajo para cada miembro del equipo, nuestro grupo a utilizado las herramientas provistas por la aplicación web "ClickUp". Esto debido a que esta aplicación permite la separación de actividades entre varios miembros de trabajo junto al uso de fechas límite, apoyos y el estado de cada actividad, juntandose en un solo organizador. ClickUp permite revisar todo el rendimiento en conjunto y las actividades realizadas por cada usuario.
+Página oficial de ClickUp: https://clickup.com/ 
 
 * **Control de Versiones:** Con respecto al control de versiones que presentara nuestro equipo de trabajo, nuestro grupo a utilizado las propias herramientas de "Github" dentro de la organización de todo el proyecto. A través del uso de commits y pull request, cada miembro del equipo puede apoyar en el desarrollo y, a través del historial, revisar las antiguas versiones antes de los cambios propuestos.
 
 #### Product UX/UI Design:
 
-Esta sección respecta al desarrollo y diseñado de las secciones basadas en el UX y UI correspondientes a nuestro proyecto durante todo su ciclo de vida. Las herramientas utilizadas deben estar compuestas de varias herramientas con estilos varios que permitan modificar la estetica de todas las páginas que vamos a programar y como estas se verían para nuestros clientes finales, siguiendo las historias de usuario y toda metodologia de desarrollo web. Asimismo, estas herramientas también deben permitir la estructuración y diagramación de todas las tablas y organizadores necesarios.
+Esta sección respecta al desarrollo y diseñado de las secciones basadas en el UX y UI correspondientes a nuestro proyecto durante todo su ciclo de vida. Las herramientas utilizadas deben estar compuestas de varias aplicaciones con estilos varios que permitan modificar la estetica de todas las páginas que vamos a programar y como estas se verían para nuestros clientes finales, siguiendo las historias de usuario y toda metodologia de desarrollo web. Asimismo, estas herramientas también deben permitir la estructuración y diagramación de todas las tablas y organizadores necesarios.
 
-**Mapas:** Con respecto al diseñado de todos los diagramas referentes a mapas con seguimientos, como el Empathy Map, el Journey Map y el Impact Map, hemos decidido desarrollarlos en la plataforma de "Miro", puesto que esta mantiene un estilo de diseñado mucho más cómodo en comparación con otras aplicaciones. Asimismo, permite el desarrollo en colaboración de forma rápida y precisa.
+* **Mapas:** Con respecto al diseñado de todos los diagramas referentes a mapas con seguimientos, como el Empathy Map, el Journey Map y el Impact Map, hemos decidido desarrollarlos en la plataforma de "Miro", puesto que esta mantiene un estilo de diseñado mucho más cómodo en comparación con otras aplicaciones. Asimismo, permite el desarrollo en colaboración de forma rápida y precisa.
+Página oficial de Miro: https://miro.com/ 
 
-**User Personas:** Con respecto al diseñado de nuestros User Persona para cada segmento objetivo identificado para nuestra startup y nuestro producto, hemos decidido desarrollarlos en la plataforma de "UXPressia", puesto que esta posee herramientas que, aunque no son muy cómodas en el desarrollo de gráficos grandes y diagramas, sí mantiene formatos agradables con modelos ya realizados con los que guiarnos para nuestros User Persona.
+* **User Personas:** Con respecto al diseñado de nuestros User Persona para cada segmento objetivo identificado para nuestra startup y nuestro producto, hemos decidido desarrollarlos en la plataforma de "UXPressia", puesto que esta posee herramientas que, aunque no son muy cómodas en el desarrollo de gráficos grandes y diagramas, sí mantiene formatos agradables con modelos ya realizados con los que guiarnos para nuestros User Persona.
+Página oficial de UXPressia: https://uxpressia.com/ 
 
-**Wireframes, Mock-ups y Prototypes:** Con respecto al diseñado de los wireframes y mock-ups referentes a la landing page de nuestra startup junto a todas las pestañas de la aplicación web con sus modelos de Responsive Design y a los modelos especializados para los Prototypes, nuestro grupo ha decidido utilizar la plataforma de "Figma", la cual esta especializada en el diseño de aplicaciones y páginas web junto a la forma en la que se verían para nuestros clientes, además de realizar un seguimiento entre cada página. Asimismo, permite el desarrollo colaborativo y ya trae muchos modelos para landing page y aplicaciones que nuestro equipo puede usar para guiarse.
+* **Wireframes, Mock-ups y Prototypes:** Con respecto al diseñado de los wireframes y mock-ups referentes a la landing page de nuestra startup junto a todas las pestañas de la aplicación web con sus modelos de Responsive Design y a los modelos especializados para los Prototypes, nuestro grupo ha decidido utilizar la plataforma de "Figma", la cual esta especializada en el diseño de aplicaciones y páginas web junto a la forma en la que se verían para nuestros clientes, además de realizar un seguimiento entre cada página. Asimismo, permite el desarrollo colaborativo y ya trae muchos modelos para landing page y aplicaciones que nuestro equipo puede usar para guiarse.
+Página oficial de Figma: https://figma.com/ 
 
+#### Product Architecture Design:
 
+Esta sección respecta al desarrollo y diseñado de las secciones basadas en la arquitectura del producto durante todo su ciclo de vida. Las herramientas utilizadas deben estar compuestas de varias aplicaciones con estilos varios que permitan la diagramación de esquemas complejos y completos sobre cada una de las capas de la arquitectura que mostrara nuestra solución, identificando todos sus componentes junto a los framework, IDEs y lenguajes de programación a utilizar.
 
-Para la elaboración de diagramas de Software Architecture se utilizará Structurizr para C4 Model, LucidChart para UML y para Database Design se utilizará LucidChart / Vertabelo. 
+* **Diagramas C4:** Con respecto al diseñado de todos los diagramas C4 referentes a nuestro proyecto, siguiendo los esquemas necesarios y modelando todo para personas tanto técnicas como no técnicas en el área, nuestro grupo de trabajo ha decidido utilizar VisualParadigm, puesto que esta plataforma tiene modelos muy optimizados y especializados en el desarrollo de diagramas C4 en comparación a otros programas.
+Página oficial de VisualParadigm: https://visual-paradigm.com/
 
-Para el desarrollo del Landing Page, se utilizará HTML5, CSS3 y JavaScript. Para el desarrollo de Frontend Web Applications, se hará uso de Vue Framework, utilizando HTML5, CSS3, JavaScript para aspectos estáticos de templates y JavaScript como lenguaje de programación. El lenguaje de diseño de Landing Page y Web Applications estará basado en Material Design. Como biblioteca de componentes de UI se utilizará PrimeVue. Para el desarrollo de Web Services, se realizará bajo RESTful API architectural style y se hará uso de ASP.NET Core Framework, utilizando C# como lenguaje de Programación.  Para la documentación de Web Services se utilizará OpenAPI Specification vía Swagger. Para el control de proyectos, se utilizará Pivotal Tracker / JetBrains YouTrack / Jira Software / Trello. Para el almacenamiento y control de versiones de código se utilizará GIT gestionado desde GitHub aplicando GitFlow Workflow, Conventional Commits y Semantic Versioning. 
+* **Diagrama UML:** Con respecto al diseñado de todos los diagramas UML referentes a nuestro proyecto, siguiendo los esquemas necesarios y modelando todo para programadores expertos, nuestro grupo de trabajo ha decidido utilizar LucidChart, puesto que esta es una plataforma especializada en el desarrollo de diagramas de este estilo, mostrando instrumentos adecuadas para toda la diagramación y separación de partes con grupos de trabajo.
+Página oficial de LucidChart: https://lucidchart.com/
 
+* **Database Design:**  Con respecto al diseñado de la base de datos referente a nuestro proyecto, siguiendo los esquemas necesarios y modelando todo para nuestro equipo de gestión y desarrollo de bases de datos, nuestro grupo ha decidido utilizar la extensión ERD Editor de Visual Studio Code, debido a que esta extensión cumple con todos los requisitos necesarios para el diseñado de bases de datos y permite mostrar una versión en código directo con el uso de la IDE de Visual Studio, permitiendo un avance mucho más rápido, cómodo y completo de todo el trabajo que se debe realizar
+Página oficial de Visual Studio Code: https://code.visualstudio.com/
+Página de marketplace de ERD Editor de Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode
 
-En los escenarios As-Is y To-Be, segmetno objetivo y impact mapping se utilizo la herramienta Miro. Con respecto a los wireframes, mock-ups y prototipo de la app web, usamos Figma.
+#### Software Development:
 
-* **Software Development**
+Esta sección respecta a las herramientas y aplicaciones dadas para la programación de las páginas web correspondientes a la Landing Page y a la Web Applications de nuestro proyecto durante todo su ciclo de vida. Los instrumentos utilizados deben estar compuestos de IDEs, lenguajes de programación, bibliotecas y frameworks, puesto que deben seguir todos los principios y metodologías predispuestas en todo el proyecto, además de adecuarse a todas las historias de usuario, esquemas y diagramas planteados para cumplir los objetivos de nuestra startup y seguir todas las funcionalidades que buscan nuestros segmentos objetivos.
 
-Para el landing page se usaron las siguientes herramientas:
+* **Landing Page:** Con respecto al desarrollo de la landing page, se utilizaran varias herramientas para su programación y esquematización adecuada. Con respecto al lenguaje, se usara la combinación e implementación de HTML5, CSS3 y JavaScript, cada uno con su propia sección en archivo dentro del repositorio del grupo. El lenguaje de diseño utilizado debe basarse en el modelo del Material Design. Todo esto se usara debido a que estas herramientas son esenciales para la programación de páginas web adecuadas para un ambiente ya de producción.
 
-Visual Studio Code: Editor de código redefinido y optimizado para crear y depurar aplicaciones web y en la nube modernas.
+* **Frontend Web Application:** Con respecto al desarrollo del Frontend Web Application, se utilizaran varias herramientas para su programación y esquematización adecuada junto al diseñado conjunto con varios componentes. Se debe usar el Framework provisto por Vue para la facilitación de material de software y modelos de programación, junto al lenguaje producto de la combinación e implementación de HTML5, CSS3 y Javascript para el desarrollo de aspectos estáticos de templates. Javascript debe ser el principal lenguaje de programación durante el uso del código en la IDE. El lenguaje de diseño utilizado debe basarse en el modelo del Material Design. Asimismo, como biblioteca de materiales y componentes de UI se debe utilizar a PrimeVue para seguir los modelos de diseño del Framework de Vue y garantizar rápides y eficacia al momento de desplegar toda la aplicación web.
 
-HTML: Lenguaje para la creacion de la landing page
+Página oficial de Visual Studio Code: https://code.visualstudio.com/
+Página oficial de Vue.js: https://vuejs.org/
+Página de especificación de Vue.js para la biblioteca de PrimeVue: https://primevue.org/
+Página de guía y seguimiento para HTML5: https://www.w3schools.com/html/ 
+Página de guía y seguimiento para CSS3: https://www.w3schools.com/css/default.asp
+Página de guía y seguimiento para JavaScript: https://developer.mozilla.org/es/docs/Web/JavaScript
+Página de guía y seguimiento para el modelo del Material Design: https://m3.material.io/
 
-CSS: Lenguaje para los estilos y presentar los contenidos de una página de forma atractiva
+* **Web Services:** Con respecto al desarrollo de los Web Services, se utilizaran varios modelos y metodologias prevista para la programación junto a frameworks con bibliotecas ya implementadas. El estilo de aplicación debe basarse en el RESTful API Architectural Style con el fin de mantener un Backend robusto y con comunicación rápida y directa, además de seguir modelos de buenas prácticas con más facilidad y seguridad. Junto al estilo dado, debe utilizarse el ASP.NET Core Framework junto a todos sus componentes, además de poder juntarlo y combinarlo adecuadamente con el lenguaje de programación de C# y así conseguir un estilo de programación más resistente y adecuado para nuestro backend. Con respecto a la documentación, se debe utilizar el modelo Swagger dado por OpenAPI Specification, puesto que es el modelo ideal en estos casos y permite un registro rápido ante nuevos cambios en la API en el entorno de desarrollo.
 
-JavaScript: Lenguaje de programación que los desarrolladores utilizan para hacer páginas web interactivas.
-
-Git: Sistema de control de versiones distribuido y permite al equipo colaborar en el proyecto.
+Página oficial de ASP.NET Core: https://dotnet.microsoft.com/es-es/apps/aspnet
+Página oficial de Swagger: https://swagger.io/ 
+Página de guía y seguimiento para C#: https://learn.microsoft.com/es-es/dotnet/csharp/ 
+Página de guía y seguimiento para el modelo REST: https://es.apis.support.brightcove.com/getting-started/learning-guide-using-rest-apis.html
 
 * **Software Testing**
 

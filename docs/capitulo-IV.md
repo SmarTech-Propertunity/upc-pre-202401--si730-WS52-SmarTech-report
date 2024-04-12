@@ -344,9 +344,14 @@ En esta sección incluiremos secciones internas donde presentaremos y explicarem
 #### Publicación
 <img src="/assets/img/Wireframe-Publicación.png" alt="Wireframe de Publicación de la aplicación web">
 #### Evaluación
-<img src="/assets/img/Wireframe-Evaluación.png" alt=Wireframe de Evaluación de la aplicación web">
+<img src="/assets/img/Wireframe-Evaluación.png" alt="Wireframe de Evaluación de la aplicación web">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+Al iniciar sesión, el usuario podrá usar su cuenta creada de la aplicación web o puede crearse una. En caso el inicio de sesión sea exitoso, el usuario será dirigido a la página de inicio; caso contrario el usuario deberá crearse una cuenta nueva. Si desea crearse una cuenta nueva, el usuario deberá poner sus datos completos para la creación. En caso desee recuperar su cuenta ya sea porque se olvidó la contraseña, se pedirá el usuario o correo electrónico de la cuenta para luego poder recuperarla.
+<img src="/assets/img/WireflowDiagram1.png" alt="Wireflow diagram de inicio de sesión">
+
+Dentro de la aplicación, el usuario podrá navegar libremente y con sistemas de navegación que permitirá el fácil movimiento dentro de la página.
+<img src="/assets/img/WireflowDiagram2.png" alt="Wireflow diagram de aplicación web">
 
 ### 4.4.3. Web Applications Mock-Ups
 

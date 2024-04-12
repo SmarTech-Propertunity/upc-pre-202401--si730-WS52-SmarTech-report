@@ -1,4 +1,4 @@
-![image](https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report/assets/130616378/4b15edf2-2bd5-4540-b306-c687b0fb728f)# Capítulo 5: Product Implementation, Validation & Deployment
+# Capítulo 5: Product Implementation, Validation & Deployment
 
 ## 5.1 Software Configuration Management.
 

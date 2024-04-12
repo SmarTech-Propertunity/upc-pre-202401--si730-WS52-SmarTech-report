@@ -333,13 +333,15 @@ Empezaremos por crear un repositorio en GitHub para almacenar los archivos HTML,
 
 ## 5.2 Landing Page, Services & Applications Implementation.
 
-A continuacion explicaremos el enfoque que seguiremos para llevar a cabo la implementación, pruebas y lanzamiento de nuestro landing page, así como también de los servicios web y la interfaz de usuario de la aplicación web en cada ciclo de desarrollo. Con respecto al Sprint 1, nos centraremos únicamente en describir el proceso de implementación del landing page.
+A continuacion explicaremos el enfoque que seguiremos para llevar a cabo la implementación, pruebas y lanzamiento de nuestro landing page, así como también de los servicios web y la interfaz de usuario de la aplicación web en cada ciclo de desarrollo. 
 
 ### 5.2.1 Sprint 1
 
+En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint número 1. Todo el avance descriptivo se muestra aquí junto a su desarrollo, historial y avance en conjunto dado por cada intengrante del equipo de trabajo. Todas las especificaciones siguen desde el Product Backlog del Capitulo 3 de requerimientos.
+
 ### 5.2.1.1 Sprint Planning 1
 
-El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión.
+En esta sección se explicaran los detalles presentados y analizados durante la reunión del Sprint Planning para el número 1. El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión.
 
 | Sprint #                             | Sprint 1           |
 |--------------------------------------|--------------------|
@@ -357,6 +359,8 @@ El objetivo principal de esta reunión es establecer un plan claro y realista pa
 | Sum of Story Points                  | La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 1 es 32 |
 
 ### 5.2.1.2 Sprint Backlog 1
+
+En esta sección se revisara todo el proceso dado para el Sprint Backlog número 1, en el cual nuestro equipo de trabajo se centró principalmente en el diseño y esquematización de la Landing Page de nuestra Startup y Producto de Software. Hemos separado toda la construcción de la Landing Page en seis (6) historias de usuario, donde cada integrante del grupo hizo al menos una. Gracias a este proceso, para el final del Sprint Backlog 1, hemos conseguido crear una página web estatica para nuestra Landing Page.
 
 <table>
         <tr>
@@ -442,16 +446,30 @@ El objetivo principal de esta reunión es establecer un plan claro y realista pa
 
 ### 5.2.1.3 Development Evidence for Sprint Review.
 
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page. Aquí se dejara cada uno de los commits ya implementados dentro del repositorio de Github, junto a toda la información referente y a los cambios concluidos.
+
 | Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
-| REPOSITORIO DEL LANDING(NOMBRE)   | feature/loremipsum  | 14ca4e3                            | feat: ...                        | MENSAJE DEL COMMIT            | FECHA DEL COMMIT  |
-
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(main): add index.html - Lucio - index.html - 1 | e0941ce | feat(main): add index.html | En esta sección se agregó el index.html a la branch del main. | 09/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(main): add styles.css - Lucio - styles.css - 2 | 5399d7a | feat(main): add index.html | En esta sección se agregó el styles.css a la branch del main. | 09/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop) update styles.css - Lucio - styles.css - 3 | d64c1db | feat(develop) update styles.css | En esta sección se actualizo el style.css al agregarle nuevas paletas de color y mejores modelos de escritura y tipografía. | 09/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): add header - Lucio - index.html - 4 | 63ae3ce | feat(develop): add header | En esta sección se realizo el header de la Landing Page junto a la barra de navegación. | 10/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): update IndexHTML About Us - Ruben - index.html - 1 | 8158e6d | feat(develop): update IndexHTML About Us | En esta sección se realizo la parte del About Us de la Landing Page. | 10/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): update Styles - Ruben - styles.css - 2 | 8d7dbba | feat(develop): update Styles | En esta sección se realizó el modelo css para las secciones del About Us de la landing page. | 10/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): Update index.html suscripciones - Aldhair - index.html - 1 | ab49a16 | feat(develop): Update index.html suscripciones | Aquí se programo la sección de suscripciones para la Landing Page ya implementada. | 10/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): Update styles.css - Aldhair - styles.css - 2 | 8d7dbba | feat(develop): Update styles.css | En esta sección se aplico los estilos de la sección de suscripciones para la Landing Page ya inmplementada. | 10/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): update.html funcionalities - Flavio - index.html - 1 | 487b0ce | feat(develop): update.html funcionalities | Para la siguiente sección se programo la sección de funcionalidades para la Landing Page. | 11/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): update styles.css - Flavio - styles.css - 2 | 356c344 | feat(develop): update styles.css | Para la siguiente sección se aplicaron todos los estilos a la sección de funcionalidades para la Landing Page ya implementada. | 11/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat (develop) update Testimony and Form - Carlos - index.html - 1 | 2b7832c | feat (develop) update Testimony and Form | En esta sección se realizo la parte de los testimonios y el cuestionario de contacto dado para la Landing Page de Propertunity. | 11/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat (develop) update.style.css JoinForm - Carlos - styles.css - 2 | 126beae | feat (develop) update.style.css JoinForm | En esta sección se aplicaron los estilos para la sección de testimonios de la landing page. También se hicieron los estilos para la sección del cuestionario de contacto de la landing page. | 11/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): update index.html footer - Lucio - index.html - 5 | 0e06c00 | feat(develop): update index.html footer | En esta sección se realizo el footer de la landing page con todos los datos correspondientes. | 11/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): update styles.css footer - Lucio - styles.css - 6 | a29d3fa | feat(develop): update styles.css footer | En esta sección se actualizo el style.css para el footer de la Landing Page ya implementada | 11/04/24 |
 
 ### 5.2.1.4 Testing Suite Evidence for Sprint Review. 
 
 | Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
-| REPOSITORIO DEL LANDING(NOMBRE)   | feature/loremipsum  | 14ca4e3                            | feat: ...                        | MENSAJE DEL COMMIT            | FECHA DEL COMMIT  |
+| REPOSITORIO DEL LANDING(NOMBRE)   | feat(develop): add header - index.html - 1 | 63ae3ce | feat: ...                        | MENSAJE DEL COMMIT            | FECHA DEL COMMIT  |
 
 ### 5.2.1.5 Execution Evidence for Sprint Review. 
 

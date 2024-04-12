@@ -1,4 +1,4 @@
-# Capítulo 5: Product Implementation, Validation & Deployment
+![image](https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report/assets/130616378/4b15edf2-2bd5-4540-b306-c687b0fb728f)# Capítulo 5: Product Implementation, Validation & Deployment
 
 ## 5.1 Software Configuration Management.
 
@@ -344,18 +344,17 @@ El objetivo principal de esta reunión es establecer un plan claro y realista pa
 | Sprint #                             | Sprint 1           |
 |--------------------------------------|--------------------|
 | Sprint Planning Background                                |
-| Date                                 |  2024-04-01        |
-| Time                                 |  04:06 PM          |
-| Location                             |  Google Meet       |
-| Prepared By                          |  Piero Tarazona    |
-| Attendees (to planning meeting)      |  Piero Tarazona, Mauricio Chacon, Flavio Trigueros, Moises Donayre |
+| Date                                 |  2024-04-04        |
+| Time                                 |  17:02             |
+| Location                             |  Discord           |
+| Prepared By                          |  Yen Cerna, Lucio Heli |
+| Attendees (to planning meeting)      |  Mallma Quispe, Rubén Elías, Shimabukuro Uku, Carlos Joel, Trigueros Chumacero, Flavio Eduardo, Valenzuela Huillcaya, Aldhair Johan Juan, Yen Cerna, Lucio Heli |
 | Sprint 1 – 1 Review Summary          |  El Sprint 1 fue un éxito en términos de avance del producto de software y colaboración efectiva del equipo. Los logros alcanzados y la retroalimentación recopilada durante esta revisión proporcionan una base sólida para el siguiente sprint y refuerzan el compromiso del equipo con la calidad y la entrega oportuna del producto.  |
 | Sprint 1 – 1 Retrospective Summary   |  Para la retrospectiva del Sprint 1 nos sirvio para reflexionar sobre el desempeño del equipo y identificar áreas de mejora. Esto nos servira como base para impulsar la mejora continua y optimizar el trabajo del equipo en los próximos sprints.  |
 | Sprint Goal & User Stories                                |
-| Sprint 1 Goal                        | Alcanzar una métrica de cumplimiento del 100%, lo que indicará que se ha logrado los objetivos del sprint 1              |
+| Sprint 1 Goal                        | Alcanzar una métrica de cumplimiento del 100%, lo que indicará que se ha logrado todos los objetivos del sprint 1              |
 | Sprint 1 Velocity                    | Con el equipo para este sprint 1 decidimos aceptar 5 Story Points      |
 | Sum of Story Points                  | La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 1 es 32 |
-
 
 ### 5.2.1.2 Sprint Backlog 1
 

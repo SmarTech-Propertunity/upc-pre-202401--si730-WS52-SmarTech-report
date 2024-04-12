@@ -129,13 +129,22 @@ En esta sección especificaremos la configuración del despliegue de la solució
 Empezaremos por crear un repositorio en GitHub para almacenar los archivos HTML, CSS y JavaScript. Luego cada integrante del equipo trabajará en su propia rama "feature" para desarrollar nuestro landing page. Una vez completada una característica, se procederá a hacer el merge con la rama "develop" para que la landing page se encuentre actualizada. estableceremos la configuración en GitHub Pages para publicar la página de destino utilizando la rama "develop". A continuación, detallamos los pasos para llevar a cabo este despliegue en GitHub Pages:
 
 
-1. Comenzaremos creando un repositorio público en GitHub, le asignamos un nombre y añadimos los archivos necesarios..
-2. Dirigirse a la sección de ajustes y elegir la pestaña Pages.
-3. Nos dirigimos al apartado de configuración para GitHub Pages.
-4. En el apartado de branch, seleccionamos el branch "main" donde se realizará el despliegue del landing page, dejando las demás configuraciones con sus valores predeterminados.
-5. Al seleccionar la rama correspondiente, se generará un enlace que permitirá acceder al landing page. Cada modificación efectuada en el "develop" se actualiza automáticamente.
+### 1. Comenzaremos creando un repositorio público en GitHub, le asignamos un nombre y añadimos los archivos necesarios.
+<img src="/assets/img/set-repository-name.png" alt="Set Repository Name">
+<img src="/assets/img/repository.png" alt="Repository">
 
-9. Finalmente, el landing estará desplegada, lista para ser visualizada y utilizada.
+### 2. Dirigirse a la sección de ajustes y elegir la pestaña Pages.
+
+### 3. Nos dirigimos al apartado de configuración para GitHub Pages.
+
+### 4. En el apartado de branch, seleccionamos el branch "main" donde se realizará el despliegue del landing page, dejando las demás configuraciones con sus valores predeterminados.
+<img src="/assets/img/pagedeployed.png" alt="github page">
+
+### 5. Al seleccionar la rama correspondiente, se generará un enlace que permitirá acceder al landing page. Cada modificación efectuada en el "main" se actualiza automáticamente.
+<img src="/assets/img/github-link.png" alt="github link">
+
+### 6. Finalmente, el landing estará desplegada, lista para ser visualizada y utilizada.
+<img src="/assets/img/landing_deployed.png" alt="Landing deployed">
 
 ## 5.2 Landing Page, Services & Applications Implementation.
 

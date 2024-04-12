@@ -220,34 +220,93 @@ En esta sección, nuestro equipo de trabajo explicara e indicar las referencias 
 
 Se tiene la intención de seguir todas estas directrices y normativas de codificación establecidas, además de modelar los diseños de las nomenclaturas y seguir el lenguaje inglés ante la recomendación mayoritaria frente a la codificación de nuestras páginas web.
 
-##### Convenciones que Usaremos
+#### Convenciones que Usaremos:
 
 **Con respecto a HTML:**
-- Para el guardado y actualización de archivos HTML se deben usar nombres descriptivos y sencillos que resuman adecuadamente todas las estructuras que se realizaron durante el proceso de programación.
-- Seguir una convención de nomenclatura consistente, como camelCase, para nombres de archivos y carpetas.
-- Utilizar las etiquetas HTML de manera semántica para describir adecuadamente la estructura y el contenido de tu página web. Por ejemplo, utilizar <header>, <nav>, <main>, <section>, <article>, <footer>, etc., en lugar de divs genéricos.
-- Mantener una estructura de código clara y legible mediante la indentación adecuada.
-- Utilizar un estilo de formato consistente en todo el código para mejorar la mantenibilidad.
 
+- Para el guardado y actualización de archivos HTML se deben usar nombres descriptivos y sencillos que resuman adecuadamente todas las estructuras que se realizaron durante el proceso de programación.
+- Seguir una convención de nomenclatura consistente para los archivos y carpetas utilizadas durante todo el ciclo de vida del proyecto, como camelCase o algún otro similar que cumpla con las mismas especificaciones.
+- Utilizar las etiquetas HTML de manera semántica para describir adecuadamente la estructura y el contenido de tu página web. Por ejemplo, utilizar <header>, <nav>, <main>, <section>, <article>, <footer>, etc., en lugar de divs genéricos.
+- Mantener una estructura de código clara y legible mediante la indentación adecuada. Promover la coherencia en el diseño y la presentación en todas las partes del proyecto, garantizando una experiencia de usuario uniforme.
+- Utilizar etiquetas semánticas y atributos como "alt" en las imágenes para mejorar la accesibilidad y la indexación por parte de los motores de búsqueda/browsers.
+- Diseñar el HTML para que sea receptivo y se vea bien en una variedad de dispositivos y tamaños de pantalla, utilizando CSS adaptable y consultas de medios adecuados.
+- Utilizar modelos de accesibilidad para aumentar el alcance del público que interactua con las páginas web. Centrarse en seguir con el diseño para permitir que puedan acceder personas con discapacidades o con otras lenguas y/o creencias y culturas.
+  
 **Con respecto a CSS:**
-- Utiliza nombres de clases descriptivos y significativos para aplicar estilos a tus elementos HTML
-- Prefiere nombres que reflejen la función o el propósito del elemento en lugar de su apariencia.
-- Evita el uso de IDs para estilos, ya que pueden causar especificidad excesiva y dificultar la reutilización de estilos.
+
+- Utilizar nombres de clases descriptivos y coherentes para facilitar la comprensión del código y su mantenimiento a largo plazo. Se deben seguir metodologías como BEM (Block Element Modifier) y SMACSS (Scalable and Modular Architecture for CSS).
+- Utilizar nombres descriptivos para las clases CSS que reflejen su propósito o función en lugar de nombres genéricos o abreviaturas difíciles de entender.
+- Preferir nombres que reflejen la función o el propósito del elemento en lugar de su apariencia.
+- Diseñar CSS modular para que se pueda reutilizar estilos en diferentes partes de la landing page y la propia aplicación web, lo que facilita la mantenibilidad y la escalabilidad.
+- Utilizar prefijos de proveedores CSS (como -webkit-, -moz-, -ms-, -o-) cuando sea necesario para garantizar la compatibilidad con diferentes navegadores.
+- Evitar aplicar estilos directamente en las etiquetas HTML (style attribute) y en su lugar utiliza clases CSS para mantener la separación entre HTML y CSS.
+- Evitar estilos en línea en HTML, ya que hacen que sea más difícil de mantener y sobrescribir. Es preferible definir estilos en un archivo CSS separado.
+- Realizar pruebas en diferentes navegadores y dispositivos para asegurarte de que tus estilos se vean y funcionen correctamente en todas las situaciones.
 
 **Con respecto a JavaScript:**
-- Para la nomenclatura se usara el camelCase para nombres de variables y funciones en JavaScript.
-- Utiliza espacios o tabulaciones de manera consistente y asegúrate de mantener una línea de código por línea para mejorar la legibilidad.
+
+- Utilizar nombres descriptivos que reflejen el propósito y la función de las variables y funciones para mejorar la comprensión del código a gran escala y durante todo su ciclo de vida.
+- Adoptar el estilo de nomenclatura CamelCase para nombrar variables y funciones, comenzando con minúscula para las variables y con mayúscula para las funciones. Asimsmo, utilizar espacios o tabulaciones de manera consistente y asegurarse de mantener una línea de código por línea para mejorar la legibilidad.
+- Utilizar "const" para declarar variables que no cambiarán de valor y "let" para aquellas que sí lo harán, en lugar de "var", para evitar problemas de alcance y mantener la inmutabilidad cuando sea posible.
+- Documentar el código utilizando comentarios para explicar el propósito de las funciones, algoritmos complejos, decisiones de diseño y cualquier otra información relevante. Sin embargo, al enviar a producción, todos esos comentarios deben eliminarse. En caso el comentario sea demasiado importante y aún se debe mantener en el ambiente de producción, lo mejor es dejarlo con la mayor descripción posible sobre su necesidad, usando un formato agradable y formal.
+- Limitar el uso de variables globales ya que pueden causar conflictos y dificultar el mantenimiento del código. Preferir encapsular variables y funciones dentro de módulos o funciones autoejecutables para evitar contaminar el espacio global.
+- Implementar un manejo adecuado de errores utilizando bloques try-catch para capturar excepciones y manejar errores de manera apropiada, proporcionando mensajes claros y útiles para facilitar la depuración.
+- Asegurarse de que las comparaciones y operaciones sean explícitas y predecibles para evitar errores de tipo. Utiliza operadores estrictos (=== y !==) en lugar de los operadores de igualdad débil (== y !=) siempre que sea posible.
+- Utilizar la delegación de eventos para manejar eventos en elementos dinámicos y reducir la cantidad de manipuladores de eventos necesarios en el DOM.
+- Aprovechar las funciones de orden superior como "map", "filter", "reduce" y "forEach" para simplificar el código y mejorar su legibilidad.
 
 **Con respecto a TypeScript:**
-- Aprovecha las generics de TypeScript para crear funciones y clases que sean flexibles y reutilizables con diferentes tipos de datos.
-- Usar el camelCase para nombres de variables y tipos, y el PascalCase para nombres de tipos de datos y clases.
+
+- Aprovechar al máximo el sistema de tipos de TypeScript proporcionando tipos explícitos para variables, parámetros de función y valores de retorno. Esto mejora la legibilidad del código y ayuda a detectar errores en etapas tempranas de desarrollo.
+- Utilizar interfaces y tipos para definir la forma de los objetos y estructuras de datos en el código. Esto facilita la comprensión de cómo deben estructurarse los datos y permite la reutilización de tipos en todo el proyecto.
+- Evitar el uso excesivo del tipo "any", ya que elimina los beneficios del sistema de tipos de TypeScript. En su lugar, intentar ser lo más específico posible con los tipos de datos que se utilicen.
+- Utilizar uniones (|) y tipos de intersección (&) para modelar tipos complejos que puedan tener múltiples formas o combinaciones de tipos.
+- Aprovechar las generics de TypeScript para crear funciones y clases que sean flexibles y reutilizables con diferentes tipos de datos. Asimismo, aprovechar la capacidad de TypeScript para inferir tipos cuando sea posible, especialmente en situaciones donde la tipificación explícita podría ser redundante.
+- Adoptar el estilo de nomenclatura CamelCase para nombrar variables y funciones, comenzando con minúscula para las variables y con mayúscula para las funciones. Asimsmo, utilizar espacios o tabulaciones de manera consistente y asegurarse de mantener una línea de código por línea para mejorar la legibilidad.
+- Habilitar la configuración "strict" en el archivo de configuración tsconfig.json para aprovechar al máximo las características de seguridad y verificación de TypeScript.
+- Documentar el código TypeScript utilizando comentarios JSDoc para describir el propósito, los parámetros y el valor de retorno de las funciones, clases y métodos. Sin embargo, al enviar a producción, todos esos comentarios deben eliminarse. En caso el comentario sea demasiado importante y aún se debe mantener en el ambiente de producción, lo mejor es dejarlo con la mayor descripción posible sobre su necesidad, usando un formato agradable y formal.
 
 **Con respecto a las convenciones de Gherkin:**
-- Utiliza las palabras clave de Gherkin como Given, When, Then para estructurar tus escenarios de manera coherente y expresiva.
+
+- Utilizar las palabras clave de Gherkin (Given, When, Then, And, But) de manera apropiada para estructurar tus escenarios de acuerdo con el flujo de acción deseado.
+- Escribir escenarios en un lenguaje claro y comprensible para todas las partes interesadas, incluidos los no técnicos. Utilizar un vocabulario simple y evitar la jerga técnica cuando sea posible.
+- Asegurarse de que cada escenario se centre en un único aspecto o funcionalidad de la aplicación. Evitar la superposición de funcionalidades en un solo escenario para mantenerlos simples y fáciles de entender.
+- Mantener los escenarios lo más concisos y directos posible. Evitar la repetición innecesaria y eliminar cualquier detalle que no sea relevante para el objetivo del escenario.
+- Escribir los escenarios en primera persona, desde la perspectiva del usuario o actor que realiza la acción. Esto ayuda a mantener un enfoque centrado en el usuario y facilita la comprensión del comportamiento esperado.
+- Evitar incluir detalles de implementación en los escenarios. En su lugar, uno debe concentrarse en describir el comportamiento esperado de la aplicación sin preocuparse por cómo se logra ese comportamiento.
+- Identificar patrones comunes en los escenarios y buscar oportunidades para reutilizar pasos utilizando escenarios de fondo (Background) o pasos compartidos (Step Definitions).
 
 **Con respecto al framework de Vue:**
 
+- Organizar el proyecto siguiendo una estructura clara y coherente, como la proporcionada por la CLI de Vue.js (Vue CLI), que separa los archivos por funcionalidad y tipo (componentes, vistas, servicios, etc.).
+- Diseñar componentes Vue.js que sean reutilizables y modulares, lo que facilita su uso en diferentes partes de la aplicación y fomenta la consistencia en el diseño y la funcionalidad.
+- Utilizar Vuex, la biblioteca de gestión del estado oficial de Vue.js, para mantener un estado centralizado y predecible en la aplicación, lo que facilita el seguimiento de los cambios y la depuración de problemas relacionados con el estado.
+- Utiliza propiedades (props) para pasar datos de un componente padre a un componente hijo y eventos para comunicar cambios desde el hijo al padre, siguiendo el flujo unidireccional de datos de Vue.js.
+- Utilizar directivas (v-bind, v-if, v-for, etc.) y filtros para manipular el DOM y transformar datos en tus plantillas de Vue de manera declarativa y eficiente.
+- Aprovechar los hooks del ciclo de vida de Vue.js (created, mounted, updated, destroyed, etc.) para realizar acciones específicas en diferentes etapas del ciclo de vida de un componente, como inicializar datos, realizar solicitudes de red o limpiar recursos.
+- Optimizar el rendimiento de la aplicación Vue.js utilizando técnicas como la renderización condicional, la fragmentación, la memoización de cálculos costosos y la utilización de la caché de componentes cuando sea posible.
+- Utilizar la biblioteca vue-i18n para facilitar la internacionalización y la localización de la aplicación para personas con lenguas distintas.
+
 **Con respecto a C#:**
+
+- Seguir la convención de nomenclatura de C# que generalmente utiliza PascalCase para nombres de clases y métodos, camelCase para nombres de variables y minúsculas con guiones bajos para nombres de miembros de variables privadas.
+- Utilizar regiones con moderación y de manera significativa para organizar y agrupar secciones de código relacionadas, como métodos de interfaz, métodos de ayuda o propiedades.
+- Documentar el código utilizando comentarios XML para proporcionar información útil sobre la funcionalidad, los parámetros y el valor de retorno de los métodos y clases. Esto facilita la comprensión del código y la generación de documentación automática. Sin embargo, si el código es claro y autoexplicativo, evitar el uso excesivo de comentarios que puedan volverse obsoletos o redundantes con el tiempo. Los comentarios deben utilizarse para explicar el por qué del código, no el qué.
+- Utilizar propiedades autoimplementadas cuando no se requiere lógica adicional en el acceso o establecimiento de una propiedad. Esto simplifica el código y mejora la legibilidad.
+- Implementar un manejo adecuado de excepciones utilizando bloques try-catch-finally para capturar y manejar excepciones de manera adecuada, proporcionando mensajes significativos y tomando acciones apropiadas en caso de error.
+- Evitar la duplicación de código escribiendo funciones y métodos reutilizables. Utiliza la herencia, la composición o los métodos de extensión para compartir funcionalidades comunes entre clases.
+- Seguir los principios SOLID (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) para diseñar clases y sistemas que sean flexibles, mantenibles y escalables.
+
+**Con respecto a ASP.NET Core:**
+
+- Organizar tu proyecto siguiendo una estructura clara y coherente, separando las capas de presentación, lógica de negocio y acceso a datos. Puedes seguir el patrón de arquitectura MVC (Modelo-Vista-Controlador) o el patrón de arquitectura de microservicios, dependiendo de la complejidad de tu aplicación.
+- Utilizar la inyección de dependencias proporcionada por ASP.NET Core para facilitar la creación y gestión de componentes y servicios en tu aplicación. Esto ayuda a mejorar la modularidad, la reutilización y la testabilidad del código.
+- Utilizar middleware para agregar componentes de procesamiento de solicitudes y respuestas en el pipeline de solicitud de ASP.NET Core. Esto te permite agregar funcionalidades como la autenticación, la autorización, el registro de solicitudes y la compresión de respuestas de manera modular y reutilizable.
+- Utilizar la configuración de aplicaciones proporcionada por ASP.NET Core para separar la configuración de la lógica de la aplicación. Utiliza archivos de configuración JSON, variables de entorno u otros proveedores de configuración para gestionar la configuración de la aplicación en diferentes entornos.
+- Utiliza el sistema de registro (logging) integrado de ASP.NET Core para registrar información, advertencias y errores en tu aplicación. Configura adecuadamente los proveedores de registro y los niveles de registro para facilitar la depuración y el monitoreo de la aplicación.
+- Utilizar versionado de API para gestionar cambios en la interfaz pública de la API de manera controlada y compatible con versiones anteriores.
+- Utilizar la caché integrada de ASP.NET Core para mejorar el rendimiento de la aplicación almacenando en caché datos que se acceden con frecuencia y que son costosos de calcular o recuperar.
+- Configurar herramientas de monitorización y registro de errores (como Application Insights, ELK Stack, Sentry, entre otros) para obtener información sobre el rendimiento, la disponibilidad y los errores de tu aplicación en producción.
 
 ### 5.1.4 Software Deployment Configuration.
 

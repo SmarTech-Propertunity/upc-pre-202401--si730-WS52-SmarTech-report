@@ -379,52 +379,62 @@ El objetivo principal de esta reunión es establecer un plan claro y realista pa
         </tr>
         <tr>
             <td>US01</td>
-            <td>Integración de Redes Sociales y Contenido Útil en el Footer</td>
+            <td>Agregar una sección con descripciones detalladas sobre la startup</td>
             <td>T01</td>
-            <td>Diseño del Footer</td>
-            <td>Crear el diseño inicial del footer para integrar redes sociales y enlaces a contenido útil.</td>
-            <td>40 minutos</td>
-            <td>Mauricio</td>
+            <td>Sección con descripciones detalladas sobre la startup</td>
+            <td>Como usuario general de la aplicación web, quiero tener disponible la informaación sobre la startup de Propertunity, para saber que los motiva, q.ue metas poseen y que clase de productos ofrecen.</td>
+            <td>1 hora y 30 minutos</td>
+            <td>Mallma Quispe, Rubén Elías</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US02</td>
-            <td>Navegación eficiente a través de enlaces internos con anclas</td>
+            <td>Agregar una sección con descripciones detalladas sobre las suscripciones</td>
             <td>T02</td>
-            <td> Implementación de Enlaces Internos con Anclas</td>
-            <td>Implementar enlaces internos con anclas para una navegación más eficiente a través de secciones específicas de la página web.</td>
-            <td>1 hora</td>
-            <td>Moises</td>
+            <td>Sección con descripciones de las suscripciones</td>
+            <td>Como usuario general de la aplicación web, quiero poder revisar a detalles las suscripciones que ofrece la aplicación web de Propertunity, para saber si las funcionalidades agregadas que entrega serviran para cumplir con mis necesidades y saber cuanto llegaria a gastar en la suscripción.</td>
+            <td>1 hora y 50 minutos</td>
+            <td>Valenzuela Huillcaya, Aldhair Johan Juan</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US03</td>
-            <td>Informacion de los planes que ofrecemos</td>
+            <td>Incorporar una lista con las principales características y funcionalidades</td>
             <td>T03</td>
-            <td>Creación de Sección de Planes de Suscripción</td>
-            <td>Crear una sección para mostrar información detallada sobre los planes de suscripción ofrecidos, facilitando la comparación y elección por parte de los usuarios.</td>
-            <td>1 hora</td>
-            <td>Flavio</td>
+            <td>Lista con principales caracteristicas y funcionalidades</td>
+            <td>Como usuario general de la aplicación web, quiero revisar las principales características y funcionalidades de la aplicación web de Propertunity, para ser capaz de saber que funciones pueden ser útiles según mis necesidades y diferenciar a Propertunity de la competencia.</td>
+            <td>1 hora y 40 minutos</td>
+            <td>Trigueros Chumacero, Flavio Eduardo</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US04</td>
-            <td>Implementación de Sección de Contacto</td>
+            <td>Proporcionar testimonios con casos de uso real de la aplicación web</td>
             <td>T04</td>
-            <td>Integración de Sección de Contacto</td>
-            <td>Integrar una sección "Contáctanos" con formulario para correo electrónico y número de teléfono, facilitando la comunicación rápida y sencilla con los usuarios.</td>
-            <td>1 hora</td>
-            <td>Piero</td>
+            <td>Testimonios con casos de uso real de la aplicación web</td>
+            <td>Como usuario general de la aplicación web, quiero poder visualizar indicios de otros usuarios quienes ya usaron el producto antes que yo, para poder tener la certeza y garantía de que lo que promocionan es un producto funcional y de confianza.</td>
+            <td>50 minutos</td>
+            <td>Shimabukuro Uku, Carlos Joel</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US05</td>
-            <td>Agregar la Sección "Sobre Nosotros"</td>
+            <td>Implementación de un cuestionario de contacto</td>
             <td>T05</td>
-            <td>Agregacion de Sección "Sobre Nosotros"</td>
-            <td>Agregar en el sitio web una sección "Sobre Nosotros" que proporcione información sobre nuestro objetivo, mejorando la comprensión de los usuarios sobre quiénes somos y qué hacemos.</td>
-            <td>50 minutos</td>
-            <td>Mauricio</td>
+            <td>Cuestionario de contacto</td>
+            <td>Como usuario general de la aplicación web, quiero ser capaz de contactarme directamente con el personal de apoyo al cliente que trabaja para Propertunity, para poder resolver cualquier duda que tenga sobre el aplicativo y pueda conseguir más informacación.</td>
+            <td>40 minutos</td>
+            <td>Shimabukuro Uku, Carlos Joel</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>US06</td>
+            <td>Integrar una barra de navegación sencilla</td>
+            <td>T06</td>
+            <td>Barra de navegación</td>
+            <td>Como usuario general de la aplicación web, quiero que haya una barra de navegación en alguna sección de la landing page, para que pueda revisar todo lo que me ofrece la página y pueda dirigirme directamente a cada sección de la página.</td>
+            <td>1 hora y 30 minutos</td>
+            <td>Yen Cerna, Lucio Heli</td>
             <td>Done</td>
         </tr>
     </table>

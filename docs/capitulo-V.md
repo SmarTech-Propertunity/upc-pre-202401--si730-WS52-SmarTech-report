@@ -507,7 +507,7 @@ En esta sección se explica y presenta los avances en implementación con relaci
 
 | Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
-| REPOSITORIO DEL LANDING(NOMBRE)   | feat(develop): add header - index.html - 1 | 63ae3ce | feat: ...                        | MENSAJE DEL COMMIT            | FECHA DEL COMMIT  |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): add US01-06 acceptance tests - Lucio - 1 | be875aa | feat(develop): add US01-06 acceptance tests | En esta sección se implementaron todos los Acceptance Test para el Sprint 1 de Propertunity | 12/04/24 |
 
 ### 5.2.1.5 Execution Evidence for Sprint Review. 
 
@@ -529,15 +529,15 @@ En este Sprint 1, realizamos el landing page donde no se hizo implementacion de 
 Explicaremos las acciones que realizamos en el sprint 1, como la preparacion y despliegue de nuestro landing page
 
 * Primero creamos un repositorio en Github para el landing page
-* 
+  
 * Las ramas necesarias se crean siguiendo el flujo de trabajo de GitFlow.
-* 
+  
 * En la configuración del repositorio, se accede a la sección "Pages".
-* 
+  
 * Se ajusta la configuración para indicar la fuente de la landing page.
-* 
+  
 * Después de guardar la configuración, se genera un enlace para acceder a la landing page.
-* 
+  
 * Este enlace permite visualizar las actualizaciones realizadas en la rama "develop".
 
 
@@ -546,3 +546,18 @@ Explicaremos las acciones que realizamos en el sprint 1, como la preparacion y d
 Para este Sprint 1, hemos hecho el desarrollo del landing page, colaborado en conjunto en la implementación. Esta colaboración se refleja en los distintos commits realizados en el repositorio, los cuales están documentados en las capturas de pantalla adjuntas.
 
 Con respecto a la colaboracion del equipo, nos reunimos presencial como virtualmente para asignarnos tarea y discutir como elaborar el proyecto. Esto nos ha permitido comprender claramente nuestras responsabilidades individuales y tener un mejor desempeño. Para el desarrollo del código, hemos decidido que cada integrante se encarga de una sección específica del landing page. Esto para avanzar mas rapido y terminarlo antes de la entrega. Finalmente, tuvimos reuniones donde compartimos ideas y resolvemos algunas dudas o problemas que podriamos tener con respecto a la elaboracion del landing page, lo que nos dio resultados positivos en la elaboracion del trabajo.
+
+Para el Reporte del Proyecto:
+
+<img src="/assets/img/Pulse for Main Branch.png" alt="Pulse for Main Branch">
+<img src="/assets/img/Contributions for Main.png" alt="Contributions for Main">
+<img src="/assets/img/Individual Contributions for Main - 1.png" alt="Individual Contributions for Main - 1">
+<img src="/assets/img/Individual Contributions for Main - 2.png" alt="Individual Contributions for Main - 2">
+
+Para la Landing Page: 
+
+<img src="/assets/img/Pulse for Landing Page.png" alt="Pulse for Landing Page">
+<img src="/assets/img/Contributions for Landing Page.png" alt="Contributions for Landing Page">
+<img src="/assets/img/Individual Contributions for Landing Page - 1.png" alt="Individual Contributions for Landing Page - 1">
+<img src="/assets/img/Individual Contributions for Landing Page 2.png" alt="Individual Contributions for Landing Page - 2">
+

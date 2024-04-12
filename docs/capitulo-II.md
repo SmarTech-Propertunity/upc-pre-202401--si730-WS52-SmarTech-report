@@ -297,7 +297,24 @@ A modo de análisis de la información recopilada mediante las entrevistas, se d
 <img src="/assets/img/entrevistas/Analisis-segmento2-h.png" alt="Analisis entrevista segmento 2" width="600" height="270">
 
 ---
+| Preguntas | Respuestas |
+|--------|------|
+| ¿Tiene planeado comprar o alquilar una propiedad? | Varios respondieron que sí, pero la preocupación de encontrar una buena propiedad los desalienta |
+| ¿Qué métodos de búsqueda ha utilizado para preguntar por alguna propiedad? | Algunos mencionan letreros, otros mencionan publicaciones dentro de redes sociales o aplicaciones como tal |
+| ¿Ha visto por la calle diferentes letreros anunciando propiedades? | Varios afirman que sí vieron letreros en las calles: letreros grandes (panorámicos) o letreros casuales que se pueden encontrar en las propiedades a alquilar o vender |
+| ¿Ha buscado plataformas en línea que le brindan información sobre propiedades? | Muchos respondieron que sí puesto que tradicionalmente usando letreros o pegar anuncios en los periódicos es ineficiente hoy en día |
+| ¿Cree usted que podría utilizar una plataforma de este estilo sin algún tutorial o guía? | Varios afirmand que sí podrían utilizar estas plataformas sin algún tutorial ya que estas plataformas están diseñadas para la fácil comprensión del usuario promedio |
+| ¿Cree que esperar por una evaluación crediticia atorpece una búsqueda ágil? | Afirman que sí puesto que la incertidumbre o simplemente saber que no tendrán los recursos necesarios para conseguir una propiedad puede hasta desalentar a los compradores |
 
+| Preguntas | Respuestas |
+|--------|------|
+| ¿Alguna vez ha logrado vender o alquilar una propiedad? En caso fuere así, ¿Cuanto tiempo le tomó encontrar al cliente? | Varios responden que sí lograron vender o alquilar una propiedad. Y que a algunos les tomó cierto tiempo mientras que otros fue rápido |
+| ¿Alguna vez ha colocado información de su propiedad en la calle mediante anuncios de papel o afines? De no ser el caso, ¿Como ha publicitado su propiedad? | Si han publicado la venta o comprar de propiedades como anuncios, afiches, letreros y entre otros. Los que no han usado alguna aplicación o herramienta externa |
+| ¿Que tanto alcance logró tras publicitar su propiedad? | Varios esperaban que tenga un alcance considerable pero no fue el caso. Los anuncios se ven ensombresidos por la cantidad de letreros o anuncios que existen en la calle |
+| ¿Tuvo problemas al momento de contactarse con los interesados? | Unos afirman que sí mientras que otros no ya que los números de contacto o información para poder comunicarse con el anunciante se encuentran dentro de estos anuncios |
+| ¿Cree que las plataformas inmobiliarias son accesibles y de fácil uso para publicitar propiedades? | Varios creen que no es muy rentable ya que se tiene que pagar un costo por la comprar o venta de alguna propiedad al usar estas plataformas. Inclusive que no se da para personas sin experiencia dentro de este campo |
+
+---
 ## 2.3. Needfinding
 
 Según lo señalado por Patnaik (2017), la metodología del Needfinding se concentra principalmente en la acción de descubrir las necesidades, tanto explícitas como implícitas, de los segmentos objetivos seleccionados con el fin de poder crear soluciones adecuadas. Para esto, es necesario ver más allá de todo lo tangible y concentrarse en ideas más abstractas y conceptos más amigables para todos los usuarios.

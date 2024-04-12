@@ -70,9 +70,19 @@ Página oficial de Swagger: https://swagger.io/
 Página de guía y seguimiento para C#: https://learn.microsoft.com/es-es/dotnet/csharp/ 
 Página de guía y seguimiento para el modelo REST: https://es.apis.support.brightcove.com/getting-started/learning-guide-using-rest-apis.html
 
-* **Software Testing**
+#### Software Testing:
 
-Como usamos el editor de codigo Visual Studio Code podremos hacer uso de la extension Live Server. Con esta extensión, tenemos la capacidad de configurar un servidor local, lo que nos facilita la visualización inmediata de las modificaciones que realizamos en un navegador web como Microsoft Edge o Chrome. Tambien, para las pruebas de aceptacion, usaremos Gherkin para luego subirlos al repositorio.
+Esta sección corresponde a las herramientas y aplicaciones dadas para la programación de modelos de testeo para todo el código que vamos a implementar, de forma que pueda garantizar el correcto funcionamiento de todas las clases, componentes, métodos de comunicación, etc. Los instrumentos utilizados deben estar basados en un programa sencillo o en una metodologia que permita la comprobación correcta de todas las funcionalidades de un código en varios escenarios distintos.
+
+Como usamos el editor de codigo Visual Studio Code podremos hacer uso de la extension Live Server. Con esta extensión, tenemos la capacidad de configurar un servidor local, lo que nos facilita la visualización inmediata de las modificaciones que realizamos en un navegador web como Microsoft Edge o Chrome. De esta forma no perdemos tiempo al realizar compilaciones o depuraciones inmediatas. Asimismo, con respecto a las pruebas de aceptación, utilizaremos las herramientas brindadas por la extensión de Cucumber ofrecida también por Visual Studio Code, siguiendo el modelo del esquema Gherkin para garantizar una estructura funcional y ya ordenada.
+
+Página de marketplace de Live Server de Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+Página de marketplace de Cucumber de Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=CucumberOpen.cucumber-official
+Guía de Cucumber para el modelo Gherkin: https://cucumber.io/docs/gherkin/
+
+En caso en alguna sección del proyecto sea necesaria la implementación de pruebas automizadas para ganar tiempo y disminuir el gasto de recursos, vamos a utilizar el sistema de software de Cypress, el cual es un sistema bastante útil para pruebas inmediatas en frontend y para pruebas de regresión de aplicaciones web. De esta forma, podemos codificar soluciones de software que nos ayuden a revelar posibles errores en nuestras páginas web.
+
+Página oficial de Cypress: https://www.cypress.io/ 
 
 * **Software Deployment**
 

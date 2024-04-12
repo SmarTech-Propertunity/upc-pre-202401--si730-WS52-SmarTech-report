@@ -387,8 +387,32 @@ Se visualiza los componentes internos del backend, el controlador principal y a 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams.
+<img src="/assets/img/ClassDiagram.png" alt="Diagrama de clases">
 
 ### 4.7.2. Class Dictionary
+|Entidad|Atributos|
+|-|-|
+| ***UserData*** | Contenedor de datos para la clase "User" |
+| ***User*** | Clase que representa al usuario mas no a un anunciante. Contiene el método "FetchUserInformation" el cual obtiene datos de "RequestHandler" |
+| ***UserController*** | Controla todo referente a usuario(s); maneja la lógica de "User" y relacionados. |
+| ***PoolableObject*** | Representa una interfaz para cualquier objeto que contiene el método "Reset" para ser usado en "Pool". |
+| ***Pool*** | Espacio en memoria (instanciados) para una colección de objetos. |
+| ***PublicationData*** | Contenedor de datos para la clase "Publication" |
+| ***Publicaction*** | Clase que representa una publicación. Contiene el método "FetchInformation" el cual obtiene datos de "RequestHandler" medainte "PublicationManager" |
+| ***PublicationManager*** | Controlador específico para un conjunto de publicaciones; encargado de manejar el comportamiento y lógica de "Publication" |
+| ***PublicationController*** | Controlador de publicaciones en general. Contiene el método "ExecutePublications" el cual ejecuta toda la lógica referente a publicaciones |
+| ***Calculator*** | Clase la cual representa la evaluación crediticia |
+| ***CachedResults*** | Maneja los resultados obtenidos por la calculadora el cual se usarán después para el algoritmo de búsqueda y otros |
+| ***CalculatorController*** | Controla la calculadora y toda la lógica de esta. Se comunica con "RequestHandler" |
+| ***RequestHandler*** | Clase encargada de obtener información del exterior. Usa "Pool" como instancias de hilos o request pesados |
+| ***Decoder*** | Decodifica o codifica contenido sensible compartido por clases |
+| ***DecoderInterface*** | Presenta funciones que son usadas por otros controladores para implementar decodificadores específicos |
+| ***RealStateEntity*** | Representa una inmobiliaria |
+| ***RealStateController*** | Controla las instancias de inmobiliarias compartidas por "MainController" y "RequestHandler" |
+| ***Flag*** | Representación de una bandera o semáforo dentro de hilos, request o en procesos grandes; "weak mutex". |
+| ***FlagAndBits*** | Controlador de banderas o semáforos |
+| ***Choreographer*** | Encargado de manejar el rumbo constante de procesos. |
+| ***MainController*** | Controlador principal |
 
 ## 4.8. Database Design.
 

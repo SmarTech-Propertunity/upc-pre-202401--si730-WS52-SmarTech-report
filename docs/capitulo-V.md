@@ -507,7 +507,7 @@ En esta sección se explica y presenta los avances en implementación con relaci
 
 | Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
-| REPOSITORIO DEL LANDING(NOMBRE)   | feat(develop): add header - index.html - 1 | 63ae3ce | feat: ...                        | MENSAJE DEL COMMIT            | FECHA DEL COMMIT  |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): add US01-06 acceptance tests - Lucio - 1 | be875aa | feat(develop): add US01-06 acceptance tests | En esta sección se implementaron todos los Acceptance Test para el Sprint 1 de Propertunity | 12/04/24 |
 
 ### 5.2.1.5 Execution Evidence for Sprint Review. 
 
@@ -529,15 +529,15 @@ En este Sprint 1, realizamos el landing page donde no se hizo implementacion de 
 Explicaremos las acciones que realizamos en el sprint 1, como la preparacion y despliegue de nuestro landing page
 
 * Primero creamos un repositorio en Github para el landing page
-* 
+  
 * Las ramas necesarias se crean siguiendo el flujo de trabajo de GitFlow.
-* 
+  
 * En la configuración del repositorio, se accede a la sección "Pages".
-* 
+  
 * Se ajusta la configuración para indicar la fuente de la landing page.
-* 
+  
 * Después de guardar la configuración, se genera un enlace para acceder a la landing page.
-* 
+  
 * Este enlace permite visualizar las actualizaciones realizadas en la rama "develop".
 
 

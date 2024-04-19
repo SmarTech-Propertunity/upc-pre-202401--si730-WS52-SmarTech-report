@@ -408,16 +408,21 @@ User 2: Anunciantes que Deseen Publicar una Propiedad en Venta o Alquiler
 
 
 ## 2.4. Ubiquitous Language
-Según la página Domain Driven Design (2019), el lenguaje ubicuo es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en común entre todos los implicados dentro del contexto del negocio. A continuación, se han identificado los siguientes conceptos que ayudarán a crear un nexo entre los usuarios y los desarrolladores:
 
-- Propiedad: En lugar de “casa” o “apartamento”, se utiliza “propiedad” como un término genérico.
-- Inmueble: Para referirse a cualquier tipo de propiedad (residencial, comercial, industrial, etc.).
-- Arrendador: En lugar de “dueño” o “propietario”.
-- Arrendatario: En lugar de “inquilino”.
-- Garante: Para la persona que respalda financieramente al arrendatario.
-- Contrato de alquiler: En lugar de “contrato de arrendamiento”.
-- Visita virtual: Para describir recorridos virtuales por las propiedades.
-- Ficha de propiedad: Para la información detallada de una propiedad.
-- Zona residencial: En lugar de “barrio” o “vecindario”.
-- Oferta: Para referirse a una propuesta de compra o alquiler.
-- Búsqueda avanzada: Para las opciones de filtrado en la búsqueda de propiedades.
+Según la página de Domain Driven Design (2019), el concepto de lenguaje ubicuo se erige como un pilar fundamental en la construcción de sistemas de software que sean comprensibles y adaptables a las necesidades del negocio. El lenguaje ubicuo se define como la articulación y estandarización de los conceptos y términos que se utilizan en el ámbito empresarial, con el fin de establecer un dialecto común que sea entendido por todos los participantes involucrados en el desarrollo y la operación de un sistema. Dentro del marco del negocio inmobiliario, la aplicación del lenguaje ubicuo es esencial para establecer una comunicación efectiva entre los usuarios y los desarrolladores. A través de la identificación y definición de conceptos clave, se establece un puente entre el lenguaje técnico empleado por los desarrolladores y el lenguaje cotidiano utilizado por los usuarios.
+
+En este contexto, se han identificado una serie de conceptos que son fundamentales para la comprensión y el desarrollo de sistemas informáticos relacionados con el mercado inmobiliario:
+
+1. **Propiedad:** En lugar de utilizar términos específicos como "casa" o "apartamento", se opta por el término genérico "propiedad", que engloba cualquier tipo de activo inmobiliario.
+2. **Inmueble:** Este término se utiliza de manera amplia para referirse a cualquier tipo de propiedad, ya sea residencial, comercial, industrial o de otro tipo.
+3. **Arrendador:** En lugar de emplear términos como "dueño" o "propietario", se utiliza el término "arrendador" para referirse a la persona o entidad que posee la propiedad y la pone en alquiler.
+4. **Arrendatario:** En contraposición al término "inquilino", se utiliza el término "arrendatario" para referirse a la persona o entidad que alquila la propiedad del arrendador.
+5. **Garante:** Se refiere a la persona que proporciona garantías financieras en apoyo al arrendatario, ofreciendo seguridad adicional al arrendador en caso de incumplimiento de pago.
+6. **Contrato de alquiler:** En lugar de utilizar el término "contrato de arrendamiento", se emplea la expresión "contrato de alquiler" para referirse al acuerdo legal entre el arrendador y el arrendatario.
+7. **Visita virtual:** Se utiliza para describir la experiencia de recorrer una propiedad de manera virtual, a través de medios digitales como fotografías, vídeos o tours interactivos.
+8. **Ficha de propiedad:** Se refiere a la recopilación de información detallada sobre una propiedad, que incluye características, fotografías, precio, ubicación, entre otros datos relevantes.
+9. **Zona residencial:** En lugar de los términos "barrio" o "vecindario", se utiliza la expresión "zona residencial" para referirse a áreas geográficas donde predominan las viviendas y la actividad residencial.
+10. **Oferta:** Se utiliza para referirse a una propuesta de compra o alquiler de una propiedad, presentada por un interesado a un vendedor o arrendador.
+11. **Búsqueda avanzada:** Se refiere a las opciones de filtrado y personalización disponibles en las herramientas de búsqueda de propiedades, que permiten a los usuarios realizar búsquedas específicas según sus preferencias y requisitos.
+
+La adopción de este conjunto de términos estandarizados contribuye a eliminar ambigüedades y confusiones en la comunicación entre los distintos actores del negocio inmobiliario, facilitando así el desarrollo de sistemas de software que satisfagan de manera precisa las necesidades y expectativas de los usuarios finales. Además, al establecer un lenguaje común, se fomenta la colaboración y el entendimiento mutuo entre los diferentes equipos involucrados en el proceso de desarrollo y mantenimiento de dichos sistemas. En resumen, el lenguaje ubicuo emerge como un elemento clave en la creación de soluciones tecnológicas efectivas y alineadas con las exigencias del mercado inmobiliario moderno.

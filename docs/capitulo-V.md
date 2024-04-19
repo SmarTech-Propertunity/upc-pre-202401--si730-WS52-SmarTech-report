@@ -204,11 +204,12 @@ La siguiente lista presenta todos los enlaces respectivos a la organización de 
 En esta sección se presentaran a todos los usuarios que se encuentran dentro de la organización de Github del proyecto de SmarTech junto a sus nombres de usuarios respectivos con los integrantes de nuestro equipo. Esto se realizara con el fin de evitar confusión entre los autores de los commits dentro de Github y las personas que lean y analicen el reporte y código planteado dentro de nuestro grupo de trabajo especificado.
 
 | Nombre de Usuario | Imagen de Perfil | Nombre del Integrante del Equipo |
-| RubDaShen | <img src="/assets/img/GitProfilePhoto - Ruben.png" alt="Ruben's Github Profile Photo"> | Mallma Quispe, Rubén Elías - U202214234 |
-| CarlosSh43 | <img src="/assets/img/GitProfilePhoto - Carlos.png" alt="Carlos' Github Profile Photo"> | Shimabukuro Uku, Carlos Joel - U201912407 |
-| FlavioTrigueros | <img src="/assets/img/GitProfilePhoto - Flavio.png" alt="Flavio's Github Profile Photo"> | Trigueros Chumacero, Flavio Eduardo - U202210190 |
-| AldhaValenzuelaH | <img src="/assets/img/GitProfilePhoto - Aldhair.png" alt="Aldhair's Github Profile Photo"> | Valenzuela Huillcaya, Aldhair Johan Juan - U20201F572 |
-| LucioY250 | <img src="/assets/img/GitProfilePhoto - Lucio.png" alt="Lucio's Github Profile Photo"> | Yen Cerna, Lucio Heli - U202213143 |
+|-------------------|------------------|----------------------------------|
+| RubDaShen | <img src="/assets/img/profiles/GitProfilePhoto - Ruben.png" alt="Ruben's Github Profile Photo"> | Mallma Quispe, Rubén Elías - U202214234 |
+| CarlosSh43 | <img src="/assets/img/profiles/GitProfilePhoto - Carlos.png" alt="Carlos' Github Profile Photo"> | Shimabukuro Uku, Carlos Joel - U201912407 |
+| FlavioTrigueros | <img src="/assets/img/profiles/GitProfilePhoto - Flavio.png" alt="Flavio's Github Profile Photo"> | Trigueros Chumacero, Flavio Eduardo - U202210190 |
+| AldhaValenzuelaH | <img src="/assets/img/profiles/GitProfilePhoto - Aldhair.png" alt="Aldhair's Github Profile Photo"> | Valenzuela Huillcaya, Aldhair Johan Juan - U20201F572 |
+| LucioY250 | <img src="/assets/img/profiles/GitProfilePhoto - Lucio.png" alt="Lucio's Github Profile Photo"> | Yen Cerna, Lucio Heli - U202213143 |
 
 **GitFlow Workflow:**
 

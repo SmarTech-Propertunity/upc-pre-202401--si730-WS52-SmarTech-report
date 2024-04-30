@@ -546,3 +546,179 @@ Explicaremos las acciones que realizamos en el sprint 1, como la preparacion y d
 Para este Sprint 1, hemos hecho el desarrollo del landing page, colaborado en conjunto en la implementación. Esta colaboración se refleja en los distintos commits realizados en el repositorio, los cuales están documentados en las capturas de pantalla adjuntas.
 
 Con respecto a la colaboracion del equipo, nos reunimos presencial como virtualmente para asignarnos tarea y discutir como elaborar el proyecto. Esto nos ha permitido comprender claramente nuestras responsabilidades individuales y tener un mejor desempeño. Para el desarrollo del código, hemos decidido que cada integrante se encarga de una sección específica del landing page. Esto para avanzar mas rapido y terminarlo antes de la entrega. Finalmente, tuvimos reuniones donde compartimos ideas y resolvemos algunas dudas o problemas que podriamos tener con respecto a la elaboracion del landing page, lo que nos dio resultados positivos en la elaboracion del trabajo.
+
+### 5.2.2 Sprint 2
+
+En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint número 1. Todo el avance descriptivo se muestra aquí junto a su desarrollo, historial y avance en conjunto dado por cada intengrante del equipo de trabajo. Todas las especificaciones siguen desde el Product Backlog del Capitulo 3 de requerimientos.
+
+### 5.2.2.1 Sprint Planning 2
+
+En esta sección se explicaran los detalles presentados y analizados durante la reunión del Sprint Planning para el número 1. El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión.
+
+<table>
+        <tr>
+            <td colspan="1">Sprint #</td>
+            <td colspan="1">Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024-04-04</td>
+        </tr>
+          <tr>
+            <td>Time</td>
+            <td>17:02</td>
+        </tr>
+            <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+            <tr>
+            <td>Prepared by</td>
+            <td>Yen Cerna, Lucio Heli</td>
+        </tr>
+            <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Mallma Quispe, Rubén Elías, Shimabukuro Uku, Carlos Joel, Trigueros Chumacero, Flavio Eduardo, Valenzuela Huillcaya, Aldhair Johan Juan, Yen Cerna, Lucio Heli</td>
+        </tr>
+            <tr>
+            <td>Sprint 1 – 1 Review Summary</td>
+            <td>El proceso del sprint 1 concluyo con un claro éxito en términos de avance de los productos softwares dados junto a la colaboración general del equipo y la comunicación. Los logros alcanzados junto a la retroalimentación con la recopilación durante esta revisión proporcionan una buena y sólida base para la construcción y realización del siguiente sprint (2), además de reforzar el compromiso del equipo con la calidad y la entrega responsable.</td>
+        </tr>
+            <tr>
+            <td>Sprint 1 – 1 Retrospective Summary</td>
+            <td>Para la retrospectiva del Sprint 1 fue necesario reflexionar sobre el desempeño general e individual de todos los miembros del equipo de trabajo, además de identificar todas las secciones posibles donde podemos mejorar además del uso de recomendaciones. Esto nos servira como una buena base para impulsar aun más la mejora continua y optimizar el trabajo del equipo en los próximos sprints durante el ciclo de vida del proyecto.</td>
+        </tr>
+            <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+              <tr>
+            <td>Sprint 1 Goal</td>
+            <td>Alcanzar una métrica de cumplimiento del 100%, lo que indicará que se ha logrado todos los objetivos del sprint 1 con todas las historias de usuario y otros materiales necesarios.</td>
+        </tr>
+              <tr>
+            <td>Sprint 1 Velocity</td>
+            <td>Con el equipo para este sprint 1 decidimos aceptar 5 Story Points</td>
+        </tr>
+              <tr>
+            <td>Sum of Story Points</td>
+            <td>La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 1 es 32</td>
+        </tr>
+    </table>
+
+### 5.2.2.2 Sprint Backlog 2
+
+En esta sección se revisara todo el proceso dado para el Sprint Backlog número 1, en el cual nuestro equipo de trabajo se centró principalmente en el diseño y esquematización de la Landing Page de nuestra Startup y Producto de Software. Hemos separado toda la construcción de la Landing Page en seis (6) historias de usuario, donde cada integrante del grupo hizo al menos una. Gracias a este proceso, para el final del Sprint Backlog 1, hemos conseguido crear una página web estatica para nuestra Landing Page.
+
+<table>
+        <tr>
+            <td colspan="2">Sprint #</td>
+            <td colspan="6">Sprint 2</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Descripcion</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In / Process / ToReview / Done)</td>
+        </tr>
+        <tr>
+            <td>US01</td>
+            <td>Agregar una sección con descripciones detalladas sobre la startup</td>
+            <td>T01</td>
+            <td>Sección con descripciones detalladas sobre la startup</td>
+            <td>Como usuario general de la aplicación web, quiero tener disponible la informaación sobre la startup de Propertunity, para saber que los motiva, q.ue metas poseen y que clase de productos ofrecen.</td>
+            <td>1 hora y 30 minutos</td>
+            <td>Mallma Quispe, Rubén Elías</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US02</td>
+            <td>Agregar una sección con descripciones detalladas sobre las suscripciones</td>
+            <td>T02</td>
+            <td>Sección con descripciones de las suscripciones</td>
+            <td>Como usuario general de la aplicación web, quiero poder revisar a detalles las suscripciones que ofrece la aplicación web de Propertunity, para saber si las funcionalidades agregadas que entrega serviran para cumplir con mis necesidades y saber cuanto llegaria a gastar en la suscripción.</td>
+            <td>1 hora y 50 minutos</td>
+            <td>Valenzuela Huillcaya, Aldhair Johan Juan</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Incorporar una lista con las principales características y funcionalidades</td>
+            <td>T03</td>
+            <td>Lista con principales caracteristicas y funcionalidades</td>
+            <td>Como usuario general de la aplicación web, quiero revisar las principales características y funcionalidades de la aplicación web de Propertunity, para ser capaz de saber que funciones pueden ser útiles según mis necesidades y diferenciar a Propertunity de la competencia.</td>
+            <td>1 hora y 40 minutos</td>
+            <td>Trigueros Chumacero, Flavio Eduardo</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Proporcionar testimonios con casos de uso real de la aplicación web</td>
+            <td>T04</td>
+            <td>Testimonios con casos de uso real de la aplicación web</td>
+            <td>Como usuario general de la aplicación web, quiero poder visualizar indicios de otros usuarios quienes ya usaron el producto antes que yo, para poder tener la certeza y garantía de que lo que promocionan es un producto funcional y de confianza.</td>
+            <td>50 minutos</td>
+            <td>Shimabukuro Uku, Carlos Joel</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Implementación de un cuestionario de contacto</td>
+            <td>T05</td>
+            <td>Cuestionario de contacto</td>
+            <td>Como usuario general de la aplicación web, quiero ser capaz de contactarme directamente con el personal de apoyo al cliente que trabaja para Propertunity, para poder resolver cualquier duda que tenga sobre el aplicativo y pueda conseguir más informacación.</td>
+            <td>40 minutos</td>
+            <td>Shimabukuro Uku, Carlos Joel</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>US06</td>
+            <td>Integrar una barra de navegación sencilla</td>
+            <td>T06</td>
+            <td>Barra de navegación</td>
+            <td>Como usuario general de la aplicación web, quiero que haya una barra de navegación en alguna sección de la landing page, para que pueda revisar todo lo que me ofrece la página y pueda dirigirme directamente a cada sección de la página.</td>
+            <td>1 hora y 30 minutos</td>
+            <td>Yen Cerna, Lucio Heli</td>
+            <td>Done</td>
+        </tr>
+    </table>
+
+
+### 5.2.2.3 Development Evidence for Sprint Review.
+
+
+### 5.2.2.4 Testing Suite Evidence for Sprint Review. 
+
+| Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
+|-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): add US01-06 acceptance tests - Lucio - 1 | be875aa | feat(develop): add US01-06 acceptance tests | En esta sección se implementaron todos los Acceptance Test para el Sprint 1 de Propertunity | 12/04/24 |
+
+### 5.2.2.5 Execution Evidence for Sprint Review. 
+
+En este punto explicaremos los logros alcanzados para el Sprint 1
+
+
+
+### 5.2.2.6 Services Documentation Evidence for Sprint Review. 
+
+
+
+### 5.2.2.7 Software Deployment Evidence for Sprint Review.
+
+Explicaremos las acciones que realizamos en el sprint 2
+
+
+
+### 5.2.2.8 Team Collaboration Insights during Sprint.
+
+

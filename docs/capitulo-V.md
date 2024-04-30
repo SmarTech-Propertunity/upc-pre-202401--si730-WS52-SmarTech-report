@@ -10,17 +10,29 @@ En esta sección nuestro equipo de trabajo va a especificar, describir e indicar
 
 #### Project Management:
 
-Esta sección respecta a la organización y control del proyecto durante todo su ciclo de vida en el sentido de control del personal que trabaja en este, junto a sus acciones y colaboraciones a lo largo del tiempo y a sus asignaciones ya estipuladas. Ante esto, hemos separado esta sección entre tres puntos distintos que funcionan como distintos métodos de comunicación y gestión del equipo de trabajo.
+Esta sección respecta a la organización y control del proyecto durante todo su ciclo de vida en el sentido de control del personal que trabaja en este, junto a sus acciones y colaboraciones a lo largo del tiempo y a sus asignaciones ya estipuladas. Ante esto, hemos separado esta sección entre puntos distintos que funcionan como distintos métodos de comunicación y gestión del equipo de trabajo.
 
-**Reuniones de trabajo:** Con respecto a las reuniones organizadas para el equipo de trabajo, nuestro grupo ha decidido de forma unanime que el mejor medio de reunión mediante videoconferencia era con el uso de las herramientas de la aplicación "Discord". Esto debido a que todos tenemos conocimiento sobre el uso de la aplicación y lo consideramos más cómodo y rápido en comparación de otras aplicaciones de videoconferencia. Aunque Discord no tiene las mismas herramientas que otras aplicaciones tienen, consideramos que es mejor porque mantiene un acceso y comunicación más eficiente, tiene una interfaz más simple y directa, y porque no presenta limites de tiempo durante las reuniones.
+**Reuniones de Trabajo:** En cuanto a la organización de las reuniones para nuestro equipo de trabajo, hemos llegado a una decisión unánime sobre los medios de videoconferencia más adecuados: hemos optado por utilizar solo la aplicación "Discord". Esta elección se basa en varios factores que consideramos importantes para garantizar reuniones eficientes y productivas.
 
-Página oficial de Discord: https://discord.com/ 
+"Discord" ha sido seleccionado por su accesibilidad y familiaridad para todos los miembros del equipo. Todos estamos familiarizados con esta plataforma, lo que facilita la comunicación y el acceso a las reuniones de manera rápida y sencilla. Aunque Discord puede carecer de algunas herramientas avanzadas presentes en otras aplicaciones de videoconferencia, su interfaz simple y directa nos permite mantener una comunicación eficiente sin complicaciones. Además, su flexibilidad en cuanto a la duración de las reuniones, al no tener límites de tiempo, nos brinda la libertad de discutir temas en profundidad sin interrupciones.
 
-**Organización del trabajo:** Con respecto a la organización del trabajo para cada miembro del equipo, nuestro grupo a utilizado las herramientas provistas por la aplicación web "ClickUp". Esto debido a que esta aplicación permite la separación de actividades entre varios miembros de trabajo junto al uso de fechas límite, apoyos y el estado de cada actividad, juntandose en un solo organizador. ClickUp permite revisar todo el rendimiento en conjunto y las actividades realizadas por cada usuario.
-
-Página oficial de ClickUp: https://clickup.com/ 
+- Página oficial de Discord: https://discord.com/ 
 
 **Control de Versiones:** Con respecto al control de versiones que presentara nuestro equipo de trabajo, nuestro grupo a utilizado las propias herramientas de "Github" dentro de la organización de todo el proyecto. A través del uso de commits y pull request, cada miembro del equipo puede apoyar en el desarrollo y, a través del historial, revisar las antiguas versiones antes de los cambios propuestos.
+
+- Página oficial de Github: https://github.com/
+
+---
+
+#### Requirements Management:
+
+Esta sección respecta a la organización eficiente del trabajo de cada miembro del equipo con tareas y modelos ya estipulados para cada sección del trabajo que les sea respectiva. De esta forma podemos seguir el rendimiento y desempeño de cada miembro del equipo de trabajo, junto a las funciones que cumplieron adecuadamente.
+
+Para garantizar una organización eficiente del trabajo de cada miembro del equipo, hemos optado por utilizar herramientas específicas que faciliten la asignación de tareas, el seguimiento del progreso y la gestión de los requisitos y requerimientos del proyecto.
+
+Hemos integrado la aplicación web "ClickUp" en nuestra metodología de trabajo. ClickUp proporciona una interfaz intuitiva que permite la separación clara de actividades entre varios miembros del equipo. Mediante la creación de tableros personalizados y la asignación de secciones a cada tarea, podemos definir fechas límite, asignar responsables y seguir el estado de cada actividad de manera efectiva. Esto nos permite medir rápidamente el progreso en relación con los requisitos y requerimientos del proyecto. Además, ClickUp nos brinda la capacidad de revisar el rendimiento en conjunto y las actividades realizadas por cada usuario, lo que fomenta la transparencia y la colaboración dentro del equipo.
+
+- Página oficial de ClickUp: https://clickup.com/
 
 ---
 
@@ -28,17 +40,25 @@ Página oficial de ClickUp: https://clickup.com/
 
 Esta sección respecta al desarrollo y diseñado de las secciones basadas en el UX y UI correspondientes a nuestro proyecto durante todo su ciclo de vida. Las herramientas utilizadas deben estar compuestas de varias aplicaciones con estilos varios que permitan modificar la estetica de todas las páginas que vamos a programar y como estas se verían para nuestros clientes finales, siguiendo las historias de usuario y toda metodologia de desarrollo web. Asimismo, estas herramientas también deben permitir la estructuración y diagramación de todas las tablas y organizadores necesarios.
 
-**Mapas:** Con respecto al diseñado de todos los diagramas referentes a mapas con seguimientos, como el Empathy Map, el Journey Map y el Impact Map, hemos decidido desarrollarlos en la plataforma de "Miro", puesto que esta mantiene un estilo de diseñado mucho más cómodo en comparación con otras aplicaciones. Asimismo, permite el desarrollo en colaboración de forma rápida y precisa.
+**Mapas y User Personas:** En relación al diseño de los diagramas relacionados con el seguimiento de mapas, como el Empathy Map, el Journey Map y el Impact Map, hemos llegado a la conclusión unánime de que la plataforma "UXPressia" es la opción más adecuada para llevar a cabo esta tarea. Esta decisión se basa en varios aspectos que consideramos esenciales para un diseño eficaz y colaborativo.
 
-Página oficial de Miro: https://miro.com/ 
+"UXPressia" se destaca por ofrecer un estilo de diseño más cómodo y amigable en comparación con otras aplicaciones disponibles en el mercado. Su interfaz intuitiva y sus herramientas integradas facilitan la creación de mapas con seguimientos de manera rápida y precisa. Además, la plataforma permite el desarrollo colaborativo, lo que nos permite trabajar en equipo de manera eficiente y coordinada, garantizando la coherencia y la calidad de nuestros mapas.
 
-**User Personas:** Con respecto al diseñado de nuestros User Persona para cada segmento objetivo identificado para nuestra startup y nuestro producto, hemos decidido desarrollarlos en la plataforma de "UXPressia", puesto que esta posee herramientas que, aunque no son muy cómodas en el desarrollo de gráficos grandes y diagramas, sí mantiene formatos agradables con modelos ya realizados con los que guiarnos para nuestros User Persona.
+En cuanto al diseño de User Personas para cada segmento objetivo identificado para nuestra startup y producto, también hemos optado por utilizar la plataforma "UXPressia". Aunque reconocemos que otras herramientas pueden ofrecer características más avanzadas, encontramos que "UXPressia" proporciona modelos predefinidos y formatos agradables que nos permiten crear User Personas de manera efectiva y visualmente atractiva. Aunque puede haber algunas limitaciones en el desarrollo de gráficos grandes y diagramas complejos, las características y la usabilidad general de la plataforma compensan estos aspectos.
 
-Página oficial de UXPressia: https://uxpressia.com/ 
+- Página oficial de UXPressia: https://uxpressia.com/ 
 
-**Wireframes, Mock-ups y Prototypes:** Con respecto al diseñado de los wireframes y mock-ups referentes a la landing page de nuestra startup junto a todas las pestañas de la aplicación web con sus modelos de Responsive Design y a los modelos especializados para los Prototypes, nuestro grupo ha decidido utilizar la plataforma de "Figma", la cual esta especializada en el diseño de aplicaciones y páginas web junto a la forma en la que se verían para nuestros clientes, además de realizar un seguimiento entre cada página. Asimismo, permite el desarrollo colaborativo y ya trae muchos modelos para landing page y aplicaciones que nuestro equipo puede usar para guiarse.
+**Escenarios:** Para la realización de escenarios correspondientes al AS-IS y TO-BE para nuestros segmentos de mercado ya diseñados, hemos utilizado la aplicación web de "Miro", la cual es una herramienta muy versátil que ofrece una amplia gama de funcionalidades para el modelado de escenarios AS-IS y TO-BE, así como para el mapeo de todo el camino de acciones que realiza el cliente. Su variedad de plantillas y modelos facilita la creación de tablas y diagramas de manera efectiva y visualmente atractiva.
 
-Página oficial de Figma: https://figma.com/ 
+Además, la capacidad de trabajo colaborativo de Miro es una ventaja significativa, ya que permite que varios miembros del equipo contribuyan en tiempo real al desarrollo y refinamiento de los escenarios y tablas. Esta función fomenta la colaboración y la participación activa de todo el equipo, lo que puede conducir a una mayor calidad en los resultados finales. La interfaz cómoda y sencilla de manipular de Miro también es un punto a favor, ya que facilita la navegación y el uso de la herramienta, lo que permite a los usuarios concentrarse en la tarea de modelado sin distracciones innecesarias.
+
+- Página oficial de Miro: https://miro.com/ 
+
+**Wireframes, Mock-ups y Prototypes:** Para abordar el diseño de los wireframes, mock-ups y prototipos relacionados con la landing page de nuestra startup y todas las pestañas de la aplicación web respectiva al frontend, nuestro equipo ha tomado la decisión unánime de utilizar la plataforma "Figma". Esta elección se basa en varios factores clave que consideramos fundamentales para garantizar un proceso de diseño eficiente y efectivo. Figma es una herramienta especializada en el diseño de aplicaciones y páginas web que ofrece una amplia gama de funcionalidades diseñadas específicamente para satisfacer las necesidades de los diseñadores y desarrolladores de productos digitales. Su enfoque centrado en el diseño colaborativo y la creación de prototipos interactivos la convierte en la opción ideal para nuestro proyecto.
+
+Además, Figma facilita el desarrollo colaborativo al permitir que varios miembros del equipo trabajen en un proyecto simultáneamente. Esta funcionalidad no solo mejora la eficiencia y la productividad, sino que también fomenta la comunicación y la colaboración entre los miembros del equipo. Otro aspecto destacado de Figma es su extensa biblioteca de recursos y modelos predefinidos que nuestro equipo puede utilizar como punto de partida para nuestros diseños. Estos modelos proporcionan una base sólida sobre la cual construir nuestras ideas y conceptos, lo que nos ayuda a ahorrar tiempo y esfuerzo en el proceso de diseño.
+
+- Página oficial de Figma: https://figma.com/ 
 
 ---
 
@@ -46,19 +66,21 @@ Página oficial de Figma: https://figma.com/
 
 Esta sección respecta al desarrollo y diseñado de las secciones basadas en la arquitectura del producto durante todo su ciclo de vida. Las herramientas utilizadas deben estar compuestas de varias aplicaciones con estilos varios que permitan la diagramación de esquemas complejos y completos sobre cada una de las capas de la arquitectura que mostrara nuestra solución, identificando todos sus componentes junto a los framework, IDEs y lenguajes de programación a utilizar.
 
-**Diagramas C4:** Con respecto al diseñado de todos los diagramas C4 referentes a nuestro proyecto, siguiendo los esquemas necesarios y modelando todo para personas tanto técnicas como no técnicas en el área, nuestro grupo de trabajo ha decidido utilizar VisualParadigm, puesto que esta plataforma tiene modelos muy optimizados y especializados en el desarrollo de diagramas C4 en comparación a otros programas.
+**Diagramas C4:** Para abordar el diseño de todos los diagramas C4 relacionados con nuestro proyecto, nuestro grupo de trabajo ha llegado a una decisión unánime de utilizar la plataforma "VisualParadigm". Esta elección se basa en varios aspectos clave que consideramos fundamentales para garantizar un modelado claro y comprensible tanto para personas técnicas como no técnicas en el área. "VisualParadigm" se destaca por ofrecer modelos optimizados, sencillos y especializados en el desarrollo de diagramas C4, lo que la convierte en una opción ideal para nuestro proyecto. Su enfoque centrado en la arquitectura y la visualización de sistemas complejos facilita la creación de diagramas claros y concisos que pueden ser entendidos por todos los miembros del equipo, independientemente de su nivel de experiencia técnica. Además, el equipo de trabajo tiene más experiencia en el uso de "VisualParadigm" en comparación con otros programas ya visualizados. Esto nos proporciona una ventaja adicional, ya que nos permite aprovechar al máximo todas las funcionalidades y características que ofrece la plataforma. Asimismo, en comparación con otros programas como "Structurizr", este programa no requiere de código de bajo nivel para poder construir diagramas, lo que lo vuelve una elección más acogedora y agradable.
 
-Página oficial de VisualParadigm: https://visual-paradigm.com/
+- Página oficial de VisualParadigm: https://visual-paradigm.com/
 
-**Diagrama UML:** Con respecto al diseñado de todos los diagramas UML referentes a nuestro proyecto, siguiendo los esquemas necesarios y modelando todo para programadores expertos, nuestro grupo de trabajo ha decidido utilizar LucidChart, puesto que esta es una plataforma especializada en el desarrollo de diagramas de este estilo, mostrando instrumentos adecuadas para toda la diagramación y separación de partes con grupos de trabajo.
+**Diagrama UML:** Para abordar el diseño de todos los diagramas UML relacionados con nuestro proyecto y asegurar una representación precisa y detallada de la arquitectura del software, nuestro grupo de trabajo ha tomado una decisión unánime: utilizaremos "LucidChart". Esta plataforma se destaca por su especialización en el desarrollo de diagramas UML, lo que la convierte en la opción ideal para nuestras necesidades de modelado. "LucidChart" ofrece una amplia gama de herramientas y características diseñadas específicamente para la creación de diagramas UML, lo que nos permite representar de manera clara y concisa cada aspecto de la arquitectura de nuestro software. Su interfaz intuitiva y su conjunto completo de instrumentos hacen que el proceso de diagramación sea eficiente y productivo.
 
-Página oficial de LucidChart: https://lucidchart.com/
+Además, "LucidChart" ofrece herramientas avanzadas para la organización y separación de partes en los diagramas UML, lo que nos permite estructurar y documentar de manera efectiva cada aspecto de nuestra arquitectura de software. Esto es fundamental para garantizar la comprensión y la comunicación claras entre los programadores expertos involucrados en el proyecto.
 
-**Database Design:**  Con respecto al diseñado de la base de datos referente a nuestro proyecto, siguiendo los esquemas necesarios y modelando todo para nuestro equipo de gestión y desarrollo de bases de datos, nuestro grupo ha decidido utilizar la extensión ERD Editor de Visual Studio Code, debido a que esta extensión cumple con todos los requisitos necesarios para el diseñado de bases de datos y permite mostrar una versión en código directo con el uso de la IDE de Visual Studio, permitiendo un avance mucho más rápido, cómodo y completo de todo el trabajo que se debe realizar
+- Página oficial de LucidChart: https://lucidchart.com/
 
-Página oficial de Visual Studio Code: https://code.visualstudio.com/
+**Database Design:** Para abordar el diseño de la base de datos de nuestro proyecto y garantizar una estructura óptima que cumpla con las necesidades de nuestro equipo de gestión y desarrollo de bases de datos, hemos decidido utilizar "Vertabelo". Esta aplicación web se ha destacado por cumplir con todos los requisitos necesarios para el diseño de bases de datos de manera eficiente y rápida, lo que la convierte en la opción ideal para nuestro proyecto. "Vertabelo" ofrece una amplia gama de herramientas y funcionalidades diseñadas específicamente para el diseño de bases de datos. Su interfaz intuitiva y su conjunto completo de herramientas facilitan la creación de esquemas claros y concisos que pueden ser entendidos por todos los miembros del equipo, independientemente de su nivel de experiencia técnica.
 
-Página de marketplace de ERD Editor de Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode
+Asimismo, "Vertabelo" permite la colaboración entre los miembros del equipo, lo que facilita la comunicación y la colaboración en el diseño y la implementación de la base de datos. Esta función es especialmente útil para un equipo distribuido como el nuestro, ya que nos permite trabajar juntos de manera efectiva.
+
+- Página oficial de Vertabelo: https://vertabelo.com/
 
 ---
 
@@ -66,33 +88,59 @@ Página de marketplace de ERD Editor de Visual Studio Code: https://marketplace.
 
 Esta sección respecta a las herramientas y aplicaciones dadas para la programación de las páginas web correspondientes a la Landing Page y a la Web Applications de nuestro proyecto durante todo su ciclo de vida. Los instrumentos utilizados deben estar compuestos de IDEs, lenguajes de programación, bibliotecas y frameworks, puesto que deben seguir todos los principios y metodologías predispuestas en todo el proyecto, además de adecuarse a todas las historias de usuario, esquemas y diagramas planteados para cumplir los objetivos de nuestra startup y seguir todas las funcionalidades que buscan nuestros segmentos objetivos.
 
-**Landing Page:** Con respecto al desarrollo de la landing page, se utilizaran varias herramientas para su programación y esquematización adecuada. Con respecto al lenguaje, se usara la combinación e implementación de HTML5, CSS3 y JavaScript, cada uno con su propia sección en archivo dentro del repositorio del grupo. El lenguaje de diseño utilizado debe basarse en el modelo del Material Design. Todo esto se usara debido a que estas herramientas son esenciales para la programación de páginas web adecuadas para un ambiente ya de producción.
+**Landing Page:** En el proceso de desarrollo de la landing page, se emplearán diversas herramientas con el fin de garantizar su programación y esquematización de manera efectiva. En cuanto al lenguaje de programación, se optará por la combinación e implementación de HTML5, CSS3 y JavaScript, cada uno con su propia sección dedicada en el repositorio del grupo. Esta elección se fundamenta en la versatilidad y la amplia gama de funcionalidades que ofrecen estos lenguajes, siendo indispensables para la creación de páginas web aptas para un entorno de producción.
 
-**Frontend Web Application:** Con respecto al desarrollo del Frontend Web Application, se utilizaran varias herramientas para su programación y esquematización adecuada junto al diseñado conjunto con varios componentes. Se debe usar el Framework provisto por Vue para la facilitación de material de software y modelos de programación, junto al lenguaje producto de la combinación e implementación de HTML5, CSS3 y Javascript para el desarrollo de aspectos estáticos de templates. Javascript debe ser el principal lenguaje de programación durante el uso del código en la IDE. El lenguaje de diseño utilizado debe basarse en el modelo del Material Design. Asimismo, como biblioteca de materiales y componentes de UI se debe utilizar a PrimeVue para seguir los modelos de diseño del Framework de Vue y garantizar rápides y eficacia al momento de desplegar toda la aplicación web.
+El diseño de la landing page estará orientado conforme al modelo del Material Design, un enfoque reconocido por su claridad y coherencia en la presentación de interfaces de usuario. Al seguir estas directrices de diseño, se busca garantizar una experiencia de usuario óptima y atractiva.
 
-Página oficial de Visual Studio Code: https://code.visualstudio.com/
+Para el desarrollo y la edición del código, se utilizará Visual Studio Code como IDE principal. Este entorno de desarrollo, aunque sencillo, ofrece una amplia gama de funcionalidades y extensiones que facilitan el proceso de desarrollo. Si bien es cierto que Visual Studio Code es ideal para proyectos estáticos de menor complejidad y alcance en comparación con otras IDEs más robustas, su simplicidad y facilidad de uso lo convierten en una opción adecuada para el desarrollo de la landing page.
 
-Página oficial de Vue.js: https://vuejs.org/
+- Página oficial de Visual Studio Code: https://code.visualstudio.com/
 
-Página de especificación de Vue.js para la biblioteca de PrimeVue: https://primevue.org/
+- Página de guía y seguimiento para HTML5: https://www.w3schools.com/html/ 
 
-Página de guía y seguimiento para HTML5: https://www.w3schools.com/html/ 
+- Página de guía y seguimiento para CSS3: https://www.w3schools.com/css/default.asp
 
-Página de guía y seguimiento para CSS3: https://www.w3schools.com/css/default.asp
+- Página de guía y seguimiento para JavaScript: https://developer.mozilla.org/es/docs/Web/JavaScript
 
-Página de guía y seguimiento para JavaScript: https://developer.mozilla.org/es/docs/Web/JavaScript
+- Página de guía y seguimiento para el modelo del Material Design: https://m3.material.io/
 
-Página de guía y seguimiento para el modelo del Material Design: https://m3.material.io/
+**Frontend Web Application:** En el proceso de desarrollo de la aplicación web frontend, se emplearán una variedad de herramientas para garantizar su programación eficiente y una esquematización adecuada, en armonía con el diseño conjunto de múltiples componentes. Para ello, se optará por el uso del framework de Vue, el cual ofrece una sólida base para el desarrollo de software para frontend y una estructura de programación bastante eficiente. Este Framework, combinado con la versatilidad y potencia de HTML5, CSS3 y JavaScript, conformará el núcleo de la implementación técnica. Además, se incorporará la biblioteca de PrimeVue para el desarrollo de los aspectos estáticos de los templates, contribuyendo así a la robustez y mantenibilidad del código junto a la decoración con estilos base.
 
-**Web Services:** Con respecto al desarrollo de los Web Services, se utilizaran varios modelos y metodologias prevista para la programación junto a frameworks con bibliotecas ya implementadas. El estilo de aplicación debe basarse en el RESTful API Architectural Style con el fin de mantener un Backend robusto y con comunicación rápida y directa, además de seguir modelos de buenas prácticas con más facilidad y seguridad. Junto al estilo dado, debe utilizarse el ASP.NET Core Framework junto a todos sus componentes, además de poder juntarlo y combinarlo adecuadamente con el lenguaje de programación de C# y así conseguir un estilo de programación más resistente y adecuado para nuestro backend. Con respecto a la documentación, se debe utilizar el modelo Swagger dado por OpenAPI Specification, puesto que es el modelo ideal en estos casos y permite un registro rápido ante nuevos cambios en la API en el entorno de desarrollo.
+En cuanto al entorno de desarrollo integrado (IDE), se utilizará la plataforma medida de Webstorm proporcionada por la Toolbox de JetBrains. Esta herramienta se distingue por su alta resistencia a cambios, depuraciones y actualizaciones de código inmediatas y es especialmente adecuada para proyectos frontend de gran envergadura y alcance. JaveScript será el principal lenguaje de programación empleado dentro de esta IDE, permitiendo un desarrollo ágil y eficiente.
 
-Página oficial de ASP.NET Core: https://dotnet.microsoft.com/es-es/apps/aspnet
+El enfoque de diseño estará basado en el modelo del Material Design, que proporciona pautas claras y consistentes para la creación de interfaces de usuario atractivas y funcionales. Para materializar este diseño, se recurrirá a la biblioteca de materiales y componentes de UI dada por Angular Material. Esta elección se fundamenta en su compatibilidad con el Framework de Vue, lo que garantiza una integración fluida y eficaz, así como una rápida implementación de la aplicación web en su totalidad.
 
-Página oficial de Swagger: https://swagger.io/ 
+- Página oficial de Jetbrains Toolbox: https://www.jetbrains.com/toolbox-app/
 
-Página de guía y seguimiento para C#: https://learn.microsoft.com/es-es/dotnet/csharp/ 
+- Página oficial de Vue.js: https://vuejs.org/
 
-Página de guía y seguimiento para el modelo REST: https://es.apis.support.brightcove.com/getting-started/learning-guide-using-rest-apis.html
+- Página de especificación de Vue.js para la biblioteca de PrimeVue: https://primevue.org/
+
+- Página de guía y seguimiento para HTML5: https://www.w3schools.com/html/ 
+
+- Página de guía y seguimiento para CSS3: https://www.w3schools.com/css/default.asp
+
+- Página de guía y seguimiento para JavaScript: https://developer.mozilla.org/es/docs/Web/JavaScript
+
+- Página de guía y seguimiento para el modelo del Material Design: https://m3.material.io/
+
+**Web Services:** En el proceso de desarrollo de los Web Services, es fundamental adoptar modelos y metodologías que faciliten la programación eficiente y la implementación de un Backend robusto y de alto rendimiento. Para ello, se prevé utilizar frameworks que cuenten con bibliotecas preimplementadas y que permitan una integración fluida de los servicios web.
+
+El estilo de aplicación seleccionado será el RESTful API Architectural Style, reconocido por su capacidad para ofrecer una comunicación rápida y directa entre clientes y servidor, así como por su adopción generalizada de buenas prácticas de diseño y seguridad. Este enfoque garantiza un Backend sólido y escalable, además de facilitar la adopción de prácticas de desarrollo consistentes y seguras.
+
+En cuanto al framework de desarrollo, se optará por ASP.NET Core, un modelo cómodo y potente que ofrece un conjunto completo de herramientas para la creación de servicios web en grupo con C#. Al combinar ASP.NET Core con el lenguaje de programación C#, se obtiene un entorno de desarrollo robusto y resistente, capaz de manejar las demandas de un backend de alto rendimiento de manera eficiente. En cuanto al entorno de desarrollo integrado (IDE), se utilizará la plataforma de Webstorm proporcionada por el grupo de aplicaciones JetBrains Toolbox. Estas herramientas se distinguen por su robustez y son especialmente adecuadas para proyectos backend de gran resistencia y conexión avanzada.
+
+Para la documentación de los servicios web, se utilizará el modelo Swagger proporcionado por OpenAPI Specification. Este modelo se ha establecido como un estándar en la industria y ofrece una forma estructurada y coherente de documentar APIs, lo que facilita su comprensión y utilización tanto para desarrolladores internos como externos. Además, Swagger permite un registro rápido de los cambios en la API durante el desarrollo, lo que resulta invaluable para mantener la documentación actualizada y precisa en todo momento.
+
+- Página oficial de Jetbrains Toolbox: https://www.jetbrains.com/toolbox-app/
+
+- Página oficial de ASP.NET Core: https://dotnet.microsoft.com/es-es/apps/aspnet
+
+- Página oficial de Swagger: https://swagger.io/ 
+
+- Página de guía y seguimiento para C#: https://learn.microsoft.com/es-es/dotnet/csharp/ 
+
+- Página de guía y seguimiento para el modelo REST: https://es.apis.support.brightcove.com/getting-started/learning-guide-using-rest-apis.html
 
 ---
 
@@ -102,11 +150,11 @@ Esta sección corresponde a las herramientas y aplicaciones dadas para la progra
 
 Como usamos el editor de codigo Visual Studio Code podremos hacer uso de la extension Live Server. Con esta extensión, tenemos la capacidad de configurar un servidor local, lo que nos facilita la visualización inmediata de las modificaciones que realizamos en un navegador web como Microsoft Edge o Chrome. De esta forma no perdemos tiempo al realizar compilaciones o depuraciones inmediatas. Asimismo, con respecto a las pruebas de aceptación, utilizaremos las herramientas brindadas por la extensión de Cucumber ofrecida también por Visual Studio Code, siguiendo el modelo del esquema Gherkin para garantizar una estructura funcional y ya ordenada.
 
-Página de marketplace de Live Server de Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+- Página de marketplace de Live Server de Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
-Página de marketplace de Cucumber de Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=CucumberOpen.cucumber-official
+- Página de marketplace de Cucumber de Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=CucumberOpen.cucumber-official
 
-Guía de Cucumber para el modelo Gherkin: https://cucumber.io/docs/gherkin/
+- Guía de Cucumber para el modelo Gherkin: https://cucumber.io/docs/gherkin/
 
 En caso en alguna sección del proyecto sea necesaria la implementación de pruebas automizadas para ganar tiempo y disminuir el gasto de recursos, vamos a utilizar el sistema de software de Cypress, el cual es un sistema bastante útil para pruebas inmediatas en frontend y para pruebas de regresión de aplicaciones web. De esta forma, podemos codificar soluciones de software que nos ayuden a revelar posibles errores en nuestras páginas web.
 
@@ -120,7 +168,7 @@ Esta sección corresponde a las herramientas y aplicaciones dadas para el despli
 
 Para todo el despliegue necesario de la Landing Page, nuestro grupo va a utilizar el servicio dado de Github Pages, el cual otorga rendimiento rápido y garantía asegurada ante el uso de los repositorios que se encuentran en la misma plataforma. Asimismo, al ser una página estatica, la Landing Page no requiere muchos cambios y tampoco actualizaciones consecutivas y continuas. 
 
-Página oficial de Github Pages: https://pages.github.com/ 
+- Página oficial de Github Pages: https://pages.github.com/
 
 ---
 
@@ -130,11 +178,11 @@ Esta sección corresponde a las herramientas y aplicaciones dadas para la docume
 
 Para toda la documentación se utilizara un repositorio propio dentro de Github, el cual estara separado en varias ramas y se encontrara dentro de la propia organización del equipo de trabajo. Durante el proceso de escritura se debe usar el lenguaje de marcado de Markdown, de forma que se pueda garantizar la lectura en medios web a través de varios dispositivos y se pueda garantizar métodos de compresión y envio de data cifrada. Asimismo, con el fin de utilizar herramientas más especializadas, se usara el lenguaje HTML en ciertas secciones del desarrollo que no puedan ser escritas de forma cómoda y aceptable mediante Markdown, como, por ejemplo, las tablas de gran tamaño y división. 
 
-Página oficial de Github: https://github.com/ 
+- Página oficial de Github: https://github.com/ 
 
-Página de guía de uso de Markdown: https://www.markdownguide.org/ 
+- Página de guía de uso de Markdown: https://www.markdownguide.org/ 
 
-Página de guía y seguimiento para HTML5: https://www.w3schools.com/html/ 
+- Página de guía y seguimiento para HTML5: https://www.w3schools.com/html/ 
 
 ---
 
@@ -142,17 +190,42 @@ Página de guía y seguimiento para HTML5: https://www.w3schools.com/html/
 
 En esta sección se establecerá la estrategia principal para utilizar GitHub como plataforma y sistema de control de versiones entre todas las colaboraciones dadas por el equipo de trabajo durante todo el ciclo de vida del proyecto. Es necesario utilizar todas las herramientas implementadas y estipuladas durante el uso del proyecto y seguir el historial de versiones para identificar posibles cambios nuevos o posibles errores que deben ser eliminados.
 
-* **Link del Github del Proyecto del equipo:** https://github.com/SmarTech-Propertunity 
+La siguiente lista presenta todos los enlaces respectivos a la organización de Github de SportEase y a todos los repositorios dentro de esta organización presentada:
+
+**Repositorios en GitHub:**
+
+- Organización: https://github.com/SmarTech-Propertunity
+- Landing Page: https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-landingPage
+- Report : https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report
+- Acceptance Test: https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-AcceptanceTests
+
+**Integrantes dentro de la organización:**
+
+En esta sección se presentaran a todos los usuarios que se encuentran dentro de la organización de Github del proyecto de SmarTech junto a sus nombres de usuarios respectivos con los integrantes de nuestro equipo. Esto se realizara con el fin de evitar confusión entre los autores de los commits dentro de Github y las personas que lean y analicen el reporte y código planteado dentro de nuestro grupo de trabajo especificado.
+
+| Nombre de Usuario | Imagen de Perfil | Nombre del Integrante del Equipo |
+|-------------------|------------------|----------------------------------|
+| RubDaShen | <img src="/assets/img/profiles/GitProfilePhoto - Ruben.png" alt="Ruben's Github Profile Photo"> | Mallma Quispe, Rubén Elías - U202214234 |
+| CarlosSh43 | <img src="/assets/img/profiles/GitProfilePhoto - Carlos.png" alt="Carlos' Github Profile Photo"> | Shimabukuro Uku, Carlos Joel - U201912407 |
+| FlavioTrigueros | <img src="/assets/img/profiles/GitProfilePhoto - Flavio.png" alt="Flavio's Github Profile Photo"> | Trigueros Chumacero, Flavio Eduardo - U202210190 |
+| AldhaValenzuelaH | <img src="/assets/img/profiles/GitProfilePhoto - Aldhair.png" alt="Aldhair's Github Profile Photo"> | Valenzuela Huillcaya, Aldhair Johan Juan - U20201F572 |
+| LucioY250 | <img src="/assets/img/profiles/GitProfilePhoto - Lucio.png" alt="Lucio's Github Profile Photo"> | Yen Cerna, Lucio Heli - U202213143 |
+
+**GitFlow Workflow:**
 
 En nuestro caso se implementará el modelo GitFlow como WorkFlow de control de versiones, el cual incluye ramas principales como main y develop, las cuales funcionan como bases para el desarrollo e implementación final de todo un proyecto; así como ramas de características, lanzamiento y corrección, las cuales funcionan como ramas provisionales, las cuales tienen caracteristicas extras que esperan ser integradas en el producto final mediante un pull request dado por un miembro o por todo el equipo de trabajo. Esta estrategia proporciona una organización efectiva para el seguimiento de cambios, colaboración en el equipo y gestión de versiones del proyecto.
 
 En esta sección explicaremos de qué forma se implementará GitFlow. Para este modelo presentado, cada Feature requiere su propio branch idealmente para luego ser integrado mediante un pull request ya establecido. Ante esta estrategia ya utilizada por nuestro equipo de trabajo, se explicaran y especificaran las convenciones que se deben aplicar para todos los titulos que llevaran las ramas creadas por nuestro equipo de trabajo:
 
-* **Main:** Esta rama es la que contendrá la versión final estable del proyecto, completamente lista para su despliegue Esta es la última rama en la que se deben hacer merges mediante pulls request y todo cambio nuevo debe ser revisado obligatoriamente por todo el proyecto en conjunto o, por lo menos, todos los que puedan revisarlo en conjunto.
+1. **Branches Principales:**
 
-* **Develop:** Esta rama es en la que se agrupan todos los elementos en desarrollo que ya han sido aceptados por al menos un integrante del equipo que no sea quien haya realizado el feature. Esta rama funciona como una última comprobación del funcionamiento de todos los nuevos features agregados. Una vez que el desarrollo está completo y se considera listo para avanzar al siguiente paso, se fusionará con la rama principal de lanzamiento (main).
+- `main`: Esta rama es la que contendrá la versión final y estable del proyecto, completamente lista para su despliegue. Esta es la última rama en la que se deben hacer merges y todo cambio nuevo debe ser revisado obligatoriamente por todo el proyecto en conjunto o, por lo menos, todos los que puedan revisarlo en conjunto.
+  
+- `develop`: Esta rama es en la que se agrupan todos los elementos en desarrollo que ya han sido aceptados por al menos un integrante del equipo que no sea quien haya realizado el feature. Esta rama funciona como una última comprobación del funcionamiento de todos los nuevos features y caracteristicas agregadas. Una vez que el desarrollo está completo y se considera listo para avanzar al siguiente paso, se fusionará con la rama principal de lanzamiento (main).
 
-* **Features de capitulos:** Estas ramas generales son respectivas a cada capitulo del reporte del proyecto y es donde los miembros del grupo de trabajo deben realizar sus pull request en primer lugar, con el fin de conseguir orden y seguridad en todo momento, junto a una buena división y organización. Como el reporte tiene cinco capitulos, entonces se hicieron cinco ramas:
+2. **Branches de Funcionalidades (Feature Branches):**
+
+- `feature`: Para cada nueva funcionalidad, se creará una rama de funcionalidad con el prefijo "feature/", seguido del nombre descriptivo de la función o característica. En nuestro caso, creamos 5 branches de características correspondientes a los 5 capítulos de nuestro informe, donde se realizan los commits respectivos antes de fusionarlos con la rama develop cuando estén listos. Estas ramas generales son respectivas a cada capitulo del reporte del proyecto y es donde los miembros del grupo de trabajo deben realizar sus pull request en primer lugar, con el fin de conseguir orden y seguridad en todo momento, junto a una buena división y organización:
 
 | Nombre | Descripción |
 |--------|-------------|
@@ -164,43 +237,47 @@ En esta sección explicaremos de qué forma se implementará GitFlow. Para este 
 
 * **Features individuales:** Estas ramas individuales son respectivas a todos los cambios que hará cada programador de nuestro equipo en solitario, para luego integrarlos a los features principales de los capitulos mediante un pull request que debe ser aceptado por el líder del equipo de trabajo. Estas branchs luego se eliminaran para evitar la sobrecarga del espacio.
 
----
+--- 
 
-Con respecto a la convención utilizada para nombrar todas las ramas ya especificadas junto a los modelos de pull request y commits daods por todos los miembros de nuestro equipo de trabajo, vamos a utilizar el siguiente formato:
+Para mantener una convención clara y coherente en el nombramiento de todas las ramas, así como en los modelos de pull request y commits realizados por todos los miembros de nuestro equipo de trabajo, hemos establecido el siguiente formato estándar:
 
-| feat(branch): verbo seguido de una descripción sencilla |
-|-------------------------------------------------------------|
+| feat(branch): verb + simple description in English |
+|----------------------------------------------------|
 
-Con respecto a la sección de branch, en esta se debe agregar la rama en la que se ha realizado el cambio propuesto en el nuevo feature. En caso es la rama de uno de los capitulos, solo se debe poner "chapter xx", para evitar alargar la convención del commit.
+En este formato, la sección branch debe especificar la rama en la que se ha realizado el cambio propuesto en el nuevo feature. En el caso de cambios realizados en una rama de un capítulo específico, simplemente se debe utilizar "chapter-xx" para evitar alargar la convención del commit o pull request.
 
-Con respecto a la descripción, esta debe estar escrita completamente en inglés y debe comenzar con un verbo que indique el cambio que se va a realizar. Aqui hay una lista corta de verbos que se pueden usar en estos casos:
+Respecto a la descripción, esta debe estar redactada íntegramente en inglés y debe comenzar con un verbo que indique claramente el cambio que se va a realizar. A continuación, se proporciona una lista de verbos que pueden ser útiles en este contexto:
 
 | Verbo | Traducción | Uso en el proyecto de programación |
 |-------|------------|------------------------------------|
-| Add | Añadir | Usado para agregar alguna nueva sección, imagen, texto, etc., a una parte del proyecto. Lo ideal es solo usarlos en las features de los capitulos o en features individuales que esperan un pull request. |
-| Create | Crear | Usado exclusivamente para la creación del encabezade de secciones sin más contenido o para la creación de documentos y/o ramas dentro del proyecto |
-| Update | Actualizar | Usado para actualizar alguna sección del proyecto. Lo ideal es que al usarlo solo se realicen cambios grandes y que cambien la estructura del proyecto, pero sin agregar una nueva sección. |
-| Correct | Corregir | Usado para corregir algún aspecto de una sección del proyecto. Esta corrección debe ser menor en comparación a una actualización y se debe usar mayoritariamente para la correción de ortografía y/o grámatica, o la correción de un enlace que no funciona.
+| Add | Añadir | Usado para agregar alguna nueva sección, imagen, texto, etc., a una parte del proyecto. Lo ideal es solo usarlos en las features de los capitulos en forma de commits o en features individuales que esperan un pull request. |
+| Create | Crear | Usado exclusivamente para la creación del encabezado de secciones sin más contenido o para la creación de documentos y/o ramas dentro del proyecto que se usen como base general. |
+| Update | Actualizar | Usado para actualizar alguna sección del proyecto. Lo ideal es que al usarlo solo se hagan agregaciones pequeñas en una sección del proyecto o cambios que no modifiquen la base original de la sección. |
+| Modify | Modificar | Usado para modificar alguna sección del proyecto. Al modificar alguna sección, esta es cambiada casi completamente y se realiza con nuevas bases. El modificar algo se diferencia de actualizar porque el contenido modificado es cambiado desde la raíz. |
+| Correct | Corregir | Usado para corregir algún aspecto de una sección del reporte del proyecto. Esta corrección debe ser menor en comparación a una actualización y se debe usar mayoritariamente para la correción de ortografía y/o grámatica.
+| Fix | Arreglar | Usado para arreglar alguna sección que sea correspondiente a código de programación para alguna parte del Web Application o de la Landing Page. También se puede usar en el reporte del proyecto para arreglar artefactos que no funcionan, como enlaces.
 | Delete | Borrar | Usado para borrar alguna sección, imagen, etc., de una parte del proyecto. Solo debe usarse para eliminar una sección incorrecta que ya haya sido aceptada por los miembros del grupo de trabajo. |
 | Drop | Tirar | Usado exclusivamente para tirar abajo alguna rama, carpeta, etc., de todo el repositorio. Solo utilizar cuando el equipo del proyecto acepto tal dropeo. |
 
 Esta norma se utilizara para mantener y seguir el modelo de los Conventional Commits, los cuales son una convención y especificación ligera para la estructuración y nombramiento de los commits realizados por un equipo. Proporciona un conjunto sencillo de reglas para crear un historial de confirmaciones explícito; lo que facilita la escritura de herramientas automatizadas encima. Esta convención es muy útil al querer describir las características, correcciones y cambios importantes realizados en los mensajes de confirmación. (Github & Netlify, 2024). 
 
+Finalmente, también se adoptará el uso de los Conventional Commits para los mensajes de texto y descripción en cada commit realizada en el proyecto. La estructura de estos mensajes será:
+
+| type: description |
+|-------------------|
+
+**Versionado Semántico**
+
 Con respecto a las versiones de lanzamiento de las secciones de programación del proyecto, se debe seguir el versionado semántico 2.0.0., el cual se basa en la siguiente estructura. 
 
-| Mayor.Menor.Parche. |
-|---------------------|
+| Major.Minor.Patch. |
+|--------------------|
 
 donde, 
 
 - El último dígito (Parche) se refiere principalmente a corrección de errores compatibles con versiones anteriores.
 - El segundo dígito (Menor) aumenta cuando se añaden características compatibles con la versión anterior.
 - El primer dígito (Mayor) se incrementa para cambios significativos que podrían no ser compatibles con la versión anterior.
-
-Finalmente, también se adoptará el uso de los Conventional Commits para los mensajes de texto y descripción en cada commit realizada en el proyecto. La estructura de estos mensajes será:
-
-| type: description |
-|-------------------|
 
 ---
 
@@ -225,7 +302,7 @@ Se tiene la intención de seguir todas estas directrices y normativas de codific
 **Con respecto a HTML:**
 
 - Para el guardado y actualización de archivos HTML se deben usar nombres descriptivos y sencillos que resuman adecuadamente todas las estructuras que se realizaron durante el proceso de programación.
-- Seguir una convención de nomenclatura consistente para los archivos y carpetas utilizadas durante todo el ciclo de vida del proyecto, como camelCase o algún otro similar que cumpla con las mismas especificaciones.
+- Seguir una convención de nomenclatura consistente para los archivos y carpetas utilizadas durante todo el ciclo de vida del proyecto, como kebab-case o algún otro similar que cumpla con las mismas especificaciones.
 - Utilizar las etiquetas HTML de manera semántica para describir adecuadamente la estructura y el contenido de tu página web. Por ejemplo, utilizar header, nav, main, section, article, footer, etc., en lugar de divs genéricos.
 - Mantener una estructura de código clara y legible mediante la indentación adecuada. Promover la coherencia en el diseño y la presentación en todas las partes del proyecto, garantizando una experiencia de usuario uniforme.
 - Utilizar etiquetas semánticas y atributos como "alt" en las imágenes para mejorar la accesibilidad y la indexación por parte de los motores de búsqueda/browsers.
@@ -246,7 +323,7 @@ Se tiene la intención de seguir todas estas directrices y normativas de codific
 **Con respecto a JavaScript:**
 
 - Utilizar nombres descriptivos que reflejen el propósito y la función de las variables y funciones para mejorar la comprensión del código a gran escala y durante todo su ciclo de vida.
-- Adoptar el estilo de nomenclatura CamelCase para nombrar variables y funciones, comenzando con minúscula para las variables y con mayúscula para las funciones. Asimsmo, utilizar espacios o tabulaciones de manera consistente y asegurarse de mantener una línea de código por línea para mejorar la legibilidad.
+- Adoptar el estilo de nomenclatura kebab-case para nombrar variables y funciones, comenzando con minúscula para las variables y con mayúscula para las funciones. Asimsmo, utilizar espacios o tabulaciones de manera consistente y asegurarse de mantener una línea de código por línea para mejorar la legibilidad.
 - Utilizar "const" para declarar variables que no cambiarán de valor y "let" para aquellas que sí lo harán, en lugar de "var", para evitar problemas de alcance y mantener la inmutabilidad cuando sea posible.
 - Documentar el código utilizando comentarios para explicar el propósito de las funciones, algoritmos complejos, decisiones de diseño y cualquier otra información relevante. Sin embargo, al enviar a producción, todos esos comentarios deben eliminarse. En caso el comentario sea demasiado importante y aún se debe mantener en el ambiente de producción, lo mejor es dejarlo con la mayor descripción posible sobre su necesidad, usando un formato agradable y formal.
 - Limitar el uso de variables globales ya que pueden causar conflictos y dificultar el mantenimiento del código. Preferir encapsular variables y funciones dentro de módulos o funciones autoejecutables para evitar contaminar el espacio global.
@@ -262,7 +339,7 @@ Se tiene la intención de seguir todas estas directrices y normativas de codific
 - Evitar el uso excesivo del tipo "any", ya que elimina los beneficios del sistema de tipos de TypeScript. En su lugar, intentar ser lo más específico posible con los tipos de datos que se utilicen.
 - Utilizar uniones (|) y tipos de intersección (&) para modelar tipos complejos que puedan tener múltiples formas o combinaciones de tipos.
 - Aprovechar las generics de TypeScript para crear funciones y clases que sean flexibles y reutilizables con diferentes tipos de datos. Asimismo, aprovechar la capacidad de TypeScript para inferir tipos cuando sea posible, especialmente en situaciones donde la tipificación explícita podría ser redundante.
-- Adoptar el estilo de nomenclatura CamelCase para nombrar variables y funciones, comenzando con minúscula para las variables y con mayúscula para las funciones. Asimsmo, utilizar espacios o tabulaciones de manera consistente y asegurarse de mantener una línea de código por línea para mejorar la legibilidad.
+- Adoptar el estilo de nomenclatura kebab-case para nombrar variables y funciones, comenzando con minúscula para las variables y con mayúscula para las funciones. Asimsmo, utilizar espacios o tabulaciones de manera consistente y asegurarse de mantener una línea de código por línea para mejorar la legibilidad.
 - Habilitar la configuración "strict" en el archivo de configuración tsconfig.json para aprovechar al máximo las características de seguridad y verificación de TypeScript.
 - Documentar el código TypeScript utilizando comentarios JSDoc para describir el propósito, los parámetros y el valor de retorno de las funciones, clases y métodos. Sin embargo, al enviar a producción, todos esos comentarios deben eliminarse. En caso el comentario sea demasiado importante y aún se debe mantener en el ambiente de producción, lo mejor es dejarlo con la mayor descripción posible sobre su necesidad, usando un formato agradable y formal.
 
@@ -289,7 +366,7 @@ Se tiene la intención de seguir todas estas directrices y normativas de codific
 
 **Con respecto a C#:**
 
-- Seguir la convención de nomenclatura de C# que generalmente utiliza PascalCase para nombres de clases y métodos, camelCase para nombres de variables y minúsculas con guiones bajos para nombres de miembros de variables privadas.
+- Seguir la convención de nomenclatura de C# que generalmente utiliza PascalCase para nombres de clases y métodos, kebab-case para nombres de variables y minúsculas con guiones bajos para nombres de miembros de variables privadas.
 - Utilizar regiones con moderación y de manera significativa para organizar y agrupar secciones de código relacionadas, como métodos de interfaz, métodos de ayuda o propiedades.
 - Documentar el código utilizando comentarios XML para proporcionar información útil sobre la funcionalidad, los parámetros y el valor de retorno de los métodos y clases. Esto facilita la comprensión del código y la generación de documentación automática. Sin embargo, si el código es claro y autoexplicativo, evitar el uso excesivo de comentarios que puedan volverse obsoletos o redundantes con el tiempo. Los comentarios deben utilizarse para explicar el por qué del código, no el qué.
 - Utilizar propiedades autoimplementadas cuando no se requiere lógica adicional en el acceso o establecimiento de una propiedad. Esto simplifica el código y mejora la legibilidad.
@@ -507,7 +584,7 @@ En esta sección se explica y presenta los avances en implementación con relaci
 
 | Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
-| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): add US01-06 acceptance tests - Lucio - 1 | be875aa | feat(develop): add US01-06 acceptance tests | En esta sección se implementaron todos los Acceptance Test para el Sprint 1 de Propertunity | 12/04/24 |
+| REPOSITORIO DEL LANDING(NOMBRE)   | feat(develop): add header - index.html - 1 | 63ae3ce | feat: ...                        | MENSAJE DEL COMMIT            | FECHA DEL COMMIT  |
 
 ### 5.2.1.5 Execution Evidence for Sprint Review. 
 
@@ -529,15 +606,15 @@ En este Sprint 1, realizamos el landing page donde no se hizo implementacion de 
 Explicaremos las acciones que realizamos en el sprint 1, como la preparacion y despliegue de nuestro landing page
 
 * Primero creamos un repositorio en Github para el landing page
-  
+* 
 * Las ramas necesarias se crean siguiendo el flujo de trabajo de GitFlow.
-  
+* 
 * En la configuración del repositorio, se accede a la sección "Pages".
-  
+* 
 * Se ajusta la configuración para indicar la fuente de la landing page.
-  
+* 
 * Después de guardar la configuración, se genera un enlace para acceder a la landing page.
-  
+* 
 * Este enlace permite visualizar las actualizaciones realizadas en la rama "develop".
 
 

@@ -27,12 +27,43 @@
 **Registro de Versiones del Informe:**
 En esta sección se resumen todas las modificaciones relevantes que sean realizadas sobre el informe durante el ciclo de vida del proyecto.
 
-| Versión | Fecha            | Autor | Descripción de modificación |
-|---------|------------------|-------|-----------------------------|
-| TB1     | 18/03/24        |Yen Cerna, Lucio Heli|Desarrollo del Capítulo I, Capitulo II, Capítulo III, Capítulo IV y Capitulo V              |
-| TP1     |                  |       |                             |
-| TB2     |                  |       |                             |
-| TF1     |                  |       |                             |
+<table>
+  <thead>
+    <tr>
+      <th>Versión</th>
+      <th>Fecha</th>
+      <th>Autor</th>
+      <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TB1</td>
+      <td>18/03/24</td>
+      <td>Mallma Quispe, Rubén Elias <br> Shimabukuro Uku, Carlos Joel <br> Trigueros Chumacero, Flavio Eduardo <br> Valenzuela Huillcaya, Aldhair Johan Juan <br> Yen Cerna, Lucio Heli</td>
+      <td>Desarrollo del Capítulo I, Capitulo II, Capítulo III, Capítulo IV, Capitulo V y Sprint 1</td>
+    </tr>
+    <tr>
+      <td>TP1</td>
+      <td>01/05/24</td>
+      <td>Mallma Quispe, Rubén Elias <br> Shimabukuro Uku, Carlos Joel <br> Trigueros Chumacero, Flavio Eduardo <br> Valenzuela Huillcaya, Aldhair Johan Juan <br> Yen Cerna, Lucio Heli</td>
+      <td>Desarrollo del Sprint 2, subsanación de errores y implementación de mejora continua</td>
+    </tr>
+    <tr>
+      <td>TB2</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TF1</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
@@ -172,7 +203,37 @@ En la carrera de Ingeniería de Software, el logro del curso contribuye a alcanz
 
 En la siguiente sección se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro mencionado.
 
-|Criterio específico |Acciones Realizadas |Conclusiones |
-| -------- | -------- | -------- |
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.| Mallma Quispe, Rubén Elías - **TB1**: Participamos todos en la elaboración del proyecto. Dentro del equipo hubo comunicación y una escucha activa ya que una buena comunicación (donde sea) es siempre la mejor herramienta para garantizar el éxito como grupo. Como integrante contribuí en el diseño de los wireframes para nuestra aplicación web, además de la elaboración del diagrama de clases y prototipos, y entre otros. <br> Shimabukuro Uku, Carlos Joel -**TB1**: Para llevar a cabo este proyecto, empleamos una variedad de herramientas para mantener una comunicación fluida y fomentar la colaboración. Mi rol principal implicó trabajar en el proceso de identificación de necesidades, el lean ux, la creación de historias de usuario, el diseño de esquemas, la elaboración de maquetas y prototipos, así como en la diagramación del flujo de usuario, además de actualizado el código fuente de forma constante.<br> Trigueros Chumacero, Flavio Eduardo - **TB1**: <br> Valenzuela Huillcaya, Aldhair Johan Juan - **TB1**:Durante mi participación en la TB1, jugué un papel significativo en el proyecto de ingeniería de software propuesto, enfocándome en los componentes de experiencia de usuario (UX) y en la realización de entrevistas con los segmentos objetivo. Además, contribuí de manera destacada en el diseño conceptual (mockup) de la aplicación web y en el modelado de la base de datos. <br> Yen Cerna, Lucio Heli - **TB1**: Para el desarrollo del proyecto, fui el líder del grupo y organicé todas las reponsabilidades y fomente una comunicación activa en equipo y utilicé diferentes herramientas para gestionar el flujo de trabajo. Para el incremento, constituí el propósito de la startup y producto, establecí los segmentos objetivos, realicé entrevistas, estuve involucrado en el diseño de la Landing Page y Web application y enseñé cómo trabajar en github a mi grupo de trabajo   | **TB1**: El equipo trabajó eficazmente y aprendió sobre distintas herramientas que ayudaron a agilizar el desarrollo del producto. Cada miembro del equipo demostró compromiso y responsabilidad de cara a los desafíos del proyecto. Gracias a ello, hemos podido entregar un primer incremento sobre Propertunity.     | 
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software| Mallma Quispe, Rubén Elías - **TB1**: Para elegir nuestro tema de proyecto, hemos evaluado y analizado todas las ideas posibles. Hemos adquirido conocimientos y explorado varios sectores para tener un entendimiento detallado y claro del problema a abarcar.  <br> Shimabukuro Uku, Carlos Joel -**TB1**: Durante el desarrollo del proyecto, llevamos a cabo una investigación exhaustiva del modelo de negocio pertinente al sector empresarial al que nos dirigíamos. Esto nos permitió analizar, desarrollar y mejorar continuamente una solución eficaz que pueda tener un impacto positivo en dicho sector.<br> Trigueros Chumacero, Flavio Eduardo - **TB1**: <br> Valenzuela Huillcaya, Aldhair Johan Juan - **TB1**:Debido a la investigación que se llevó  a cabo para este proyecto, he adquirido conocimientos sobre el sector empresarial al que se dirige nuestra aplicación de software. He explorado a fondo este sector y tengo un entendimiento claro de los desafíos y requisitos que implica en cuanto a tecnología y desarrollo de software. <br> Yen Cerna, Lucio Heli - **TB1**: Para el proyecto, tras una investigación profunda, pude familiarizarme con el sector que estamos abarcando. Además, he estudiado el mercado actual del mismo y los clientes potenciales para nuestra aplicación. Todo lo mencionado anteriormente, me permitió identificar los requerimientos de los usuarios y el valor agregado que necesitamos para enfrentar a la competencia  |**TB1**:  El equipo ha investigado exhaustivamente sobre el sector empresarial inmobiliario y pudo sacar información importante que permitió desarrollar un incremento basado en solventar distintas necesidades y  agregar valor a los clientes con respecto a la competencia |
+<table>
+  <thead>
+    <tr>
+      <th>Criterio específico</th>
+      <th>Acciones Realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</td>
+      <td>
+        <p><strong>Mallma Quispe, Rubén Elías - TB1:</strong> Participamos todos en la elaboración del proyecto. Dentro del equipo hubo comunicación y una escucha activa ya que una buena comunicación (donde sea) es siempre la mejor herramienta para garantizar el éxito como grupo. Como integrante contribuí en el diseño de los wireframes para nuestra aplicación web, además de la elaboración del diagrama de clases y prototipos, y entre otros.</p>
+        <p><strong>Shimabukuro Uku, Carlos Joel - TB1:</strong> Para llevar a cabo este proyecto, empleamos una variedad de herramientas para mantener una comunicación fluida y fomentar la colaboración. Mi rol principal implicó trabajar en el proceso de identificación de necesidades, el lean ux, la creación de historias de usuario, el diseño de esquemas, la elaboración de maquetas y prototipos, así como en la diagramación del flujo de usuario, además de actualizado el código fuente de forma constante.</p>
+        <p><strong>Trigueros Chumacero, Flavio Eduardo - TB1:</strong></p>
+        <p><strong>Valenzuela Huillcaya, Aldhair Johan Juan - TB1:</strong> Durante mi participación en la TB1, jugué un papel significativo en el proyecto de ingeniería de software propuesto, enfocándome en los componentes de experiencia de usuario (UX) y en la realización de entrevistas con los segmentos objetivo. Además, contribuí de manera destacada en el diseño conceptual (mockup) de la aplicación web y en el modelado de la base de datos.</p>
+        <p><strong>Yen Cerna, Lucio Heli - TB1:</strong> Para el desarrollo del proyecto, fui el líder del grupo y organicé todas las reponsabilidades y fomente una comunicación activa en equipo y utilicé diferentes herramientas para gestionar el flujo de trabajo. Para el incremento, constituí el propósito de la startup y producto, establecí los segmentos objetivos, realicé entrevistas, estuve involucrado en el diseño de la Landing Page y Web application y enseñé cómo trabajar en github a mi grupo de trabajo.</p>
+      </td>
+      <td><strong>TB1:</strong> El equipo trabajó eficazmente y aprendió sobre distintas herramientas que ayudaron a agilizar el desarrollo del producto. Cada miembro del equipo demostró compromiso y responsabilidad de cara a los desafíos del proyecto. Gracias a ello, hemos podido entregar un primer incremento sobre Propertunity.</td>
+    </tr>
+    <tr>
+      <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software</td>
+      <td>
+        <p><strong>Mallma Quispe, Rubén Elías - TB1:</strong> Para elegir nuestro tema de proyecto, hemos evaluado y analizado todas las ideas posibles. Hemos adquirido conocimientos y explorado varios sectores para tener un entendimiento detallado y claro del problema a abarcar.</p>
+        <p><strong>Shimabukuro Uku, Carlos Joel - TB1:</strong> Durante el desarrollo del proyecto, llevamos a cabo una investigación exhaustiva del modelo de negocio pertinente al sector empresarial al que nos dirigíamos. Esto nos permitió analizar, desarrollar y mejorar continuamente una solución eficaz que pueda tener un impacto positivo en dicho sector.</p>
+        <p><strong>Trigueros Chumacero, Flavio Eduardo - TB1:</strong></p>
+        <p><strong>Valenzuela Huillcaya, Aldhair Johan Juan - TB1:</strong> Debido a la investigación que se llevó a cabo para este proyecto, he adquirido conocimientos sobre el sector empresarial al que se dirige nuestra aplicación de software. He explorado a fondo este sector y tengo un entendimiento claro de los desafíos y requisitos que implica en cuanto a tecnología y desarrollo de software.</p>
+        <p><strong>Yen Cerna, Lucio Heli - TB1:</strong> Para el proyecto, tras una investigación profunda, pude familiarizarme con el sector que estamos abarcando. Además, he estudiado el mercado actual del mismo y los clientes potenciales para nuestra aplicación. Todo lo mencionado anteriormente, me permitió identificar los requerimientos de los usuarios y el valor agregado que necesitamos para enfrentar a la competencia.</p>
+      </td>
+      <td><strong>TB1:</strong> El equipo ha investigado exhaustivamente sobre el sector empresarial inmobiliario y pudo sacar información importante que permitió desarrollar un incremento basado en solventar distintas necesidades y agregar valor a los clientes con respecto a la competencia.</td>
+    </tr>
+  </tbody>
+</table>
+

@@ -76,11 +76,11 @@ Además, "LucidChart" ofrece herramientas avanzadas para la organización y sepa
 
 - Página oficial de LucidChart: https://lucidchart.com/
 
-**Database Design:** Para abordar el diseño de la base de datos de nuestro proyecto y garantizar una estructura óptima que cumpla con las necesidades de nuestro equipo de gestión y desarrollo de bases de datos, hemos decidido utilizar la propia extensión de "ERD Editor" dentro de la IDE de Visual Studio Code. Esta extensión se ha destacado por cumplir con todos los requisitos necesarios para el diseño de bases de datos de manera eficiente y rápida, lo que la convierte en la opción ideal para nuestro proyecto. "ERD Editor" ofrece una amplia gama de herramientas y funcionalidades diseñadas específicamente para el diseño de bases de datos. Su interfaz intuitiva y compartida con la de Visual Studio Code facilitan la creación de esquemas claros y concisos que pueden ser entendidos por todos los miembros del equipo, independientemente de su nivel de experiencia técnica.
+**Database Design:** Para abordar el diseño de la base de datos de nuestro proyecto y garantizar una estructura óptima que cumpla con las necesidades de nuestro equipo de gestión y desarrollo de bases de datos, hemos decidido utilizar "Vertabelo". Esta aplicación web se ha destacado por cumplir con todos los requisitos necesarios para el diseño de bases de datos de manera eficiente y rápida, lo que la convierte en la opción ideal para nuestro proyecto. "Vertabelo" ofrece una amplia gama de herramientas y funcionalidades diseñadas específicamente para el diseño de bases de datos. Su interfaz intuitiva y su conjunto completo de herramientas facilitan la creación de esquemas claros y concisos que pueden ser entendidos por todos los miembros del equipo, independientemente de su nivel de experiencia técnica.
 
-- Página oficial de Visual Studio Code: https://code.visualstudio.com/
+Asimismo, "Vertabelo" permite la colaboración entre los miembros del equipo, lo que facilita la comunicación y la colaboración en el diseño y la implementación de la base de datos. Esta función es especialmente útil para un equipo distribuido como el nuestro, ya que nos permite trabajar juntos de manera efectiva.
 
-- Página de marketplace de ERD Editor de Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode
+- Página oficial de Vertabelo: https://vertabelo.com/
 
 ---
 
@@ -302,7 +302,7 @@ Se tiene la intención de seguir todas estas directrices y normativas de codific
 **Con respecto a HTML:**
 
 - Para el guardado y actualización de archivos HTML se deben usar nombres descriptivos y sencillos que resuman adecuadamente todas las estructuras que se realizaron durante el proceso de programación.
-- Seguir una convención de nomenclatura consistente para los archivos y carpetas utilizadas durante todo el ciclo de vida del proyecto, como camelCase o algún otro similar que cumpla con las mismas especificaciones.
+- Seguir una convención de nomenclatura consistente para los archivos y carpetas utilizadas durante todo el ciclo de vida del proyecto, como kebab-case o algún otro similar que cumpla con las mismas especificaciones.
 - Utilizar las etiquetas HTML de manera semántica para describir adecuadamente la estructura y el contenido de tu página web. Por ejemplo, utilizar header, nav, main, section, article, footer, etc., en lugar de divs genéricos.
 - Mantener una estructura de código clara y legible mediante la indentación adecuada. Promover la coherencia en el diseño y la presentación en todas las partes del proyecto, garantizando una experiencia de usuario uniforme.
 - Utilizar etiquetas semánticas y atributos como "alt" en las imágenes para mejorar la accesibilidad y la indexación por parte de los motores de búsqueda/browsers.
@@ -323,7 +323,7 @@ Se tiene la intención de seguir todas estas directrices y normativas de codific
 **Con respecto a JavaScript:**
 
 - Utilizar nombres descriptivos que reflejen el propósito y la función de las variables y funciones para mejorar la comprensión del código a gran escala y durante todo su ciclo de vida.
-- Adoptar el estilo de nomenclatura CamelCase para nombrar variables y funciones, comenzando con minúscula para las variables y con mayúscula para las funciones. Asimsmo, utilizar espacios o tabulaciones de manera consistente y asegurarse de mantener una línea de código por línea para mejorar la legibilidad.
+- Adoptar el estilo de nomenclatura kebab-case para nombrar variables y funciones, comenzando con minúscula para las variables y con mayúscula para las funciones. Asimsmo, utilizar espacios o tabulaciones de manera consistente y asegurarse de mantener una línea de código por línea para mejorar la legibilidad.
 - Utilizar "const" para declarar variables que no cambiarán de valor y "let" para aquellas que sí lo harán, en lugar de "var", para evitar problemas de alcance y mantener la inmutabilidad cuando sea posible.
 - Documentar el código utilizando comentarios para explicar el propósito de las funciones, algoritmos complejos, decisiones de diseño y cualquier otra información relevante. Sin embargo, al enviar a producción, todos esos comentarios deben eliminarse. En caso el comentario sea demasiado importante y aún se debe mantener en el ambiente de producción, lo mejor es dejarlo con la mayor descripción posible sobre su necesidad, usando un formato agradable y formal.
 - Limitar el uso de variables globales ya que pueden causar conflictos y dificultar el mantenimiento del código. Preferir encapsular variables y funciones dentro de módulos o funciones autoejecutables para evitar contaminar el espacio global.
@@ -339,7 +339,7 @@ Se tiene la intención de seguir todas estas directrices y normativas de codific
 - Evitar el uso excesivo del tipo "any", ya que elimina los beneficios del sistema de tipos de TypeScript. En su lugar, intentar ser lo más específico posible con los tipos de datos que se utilicen.
 - Utilizar uniones (|) y tipos de intersección (&) para modelar tipos complejos que puedan tener múltiples formas o combinaciones de tipos.
 - Aprovechar las generics de TypeScript para crear funciones y clases que sean flexibles y reutilizables con diferentes tipos de datos. Asimismo, aprovechar la capacidad de TypeScript para inferir tipos cuando sea posible, especialmente en situaciones donde la tipificación explícita podría ser redundante.
-- Adoptar el estilo de nomenclatura CamelCase para nombrar variables y funciones, comenzando con minúscula para las variables y con mayúscula para las funciones. Asimsmo, utilizar espacios o tabulaciones de manera consistente y asegurarse de mantener una línea de código por línea para mejorar la legibilidad.
+- Adoptar el estilo de nomenclatura kebab-case para nombrar variables y funciones, comenzando con minúscula para las variables y con mayúscula para las funciones. Asimsmo, utilizar espacios o tabulaciones de manera consistente y asegurarse de mantener una línea de código por línea para mejorar la legibilidad.
 - Habilitar la configuración "strict" en el archivo de configuración tsconfig.json para aprovechar al máximo las características de seguridad y verificación de TypeScript.
 - Documentar el código TypeScript utilizando comentarios JSDoc para describir el propósito, los parámetros y el valor de retorno de las funciones, clases y métodos. Sin embargo, al enviar a producción, todos esos comentarios deben eliminarse. En caso el comentario sea demasiado importante y aún se debe mantener en el ambiente de producción, lo mejor es dejarlo con la mayor descripción posible sobre su necesidad, usando un formato agradable y formal.
 
@@ -366,7 +366,7 @@ Se tiene la intención de seguir todas estas directrices y normativas de codific
 
 **Con respecto a C#:**
 
-- Seguir la convención de nomenclatura de C# que generalmente utiliza PascalCase para nombres de clases y métodos, camelCase para nombres de variables y minúsculas con guiones bajos para nombres de miembros de variables privadas.
+- Seguir la convención de nomenclatura de C# que generalmente utiliza PascalCase para nombres de clases y métodos, kebab-case para nombres de variables y minúsculas con guiones bajos para nombres de miembros de variables privadas.
 - Utilizar regiones con moderación y de manera significativa para organizar y agrupar secciones de código relacionadas, como métodos de interfaz, métodos de ayuda o propiedades.
 - Documentar el código utilizando comentarios XML para proporcionar información útil sobre la funcionalidad, los parámetros y el valor de retorno de los métodos y clases. Esto facilita la comprensión del código y la generación de documentación automática. Sin embargo, si el código es claro y autoexplicativo, evitar el uso excesivo de comentarios que puedan volverse obsoletos o redundantes con el tiempo. Los comentarios deben utilizarse para explicar el por qué del código, no el qué.
 - Utilizar propiedades autoimplementadas cuando no se requiere lógica adicional en el acceso o establecimiento de una propiedad. Esto simplifica el código y mejora la legibilidad.

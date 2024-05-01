@@ -1055,6 +1055,10 @@ Además de la implementación de estas características y funcionalidades, el eq
 
 En esta sección, presentamos la relación de Endpoints documentados con OpenAPI, que están directamente vinculados con el alcance del Sprint. Iniciamos con una breve introducción que resume los logros alcanzados en relación con la Documentación de Web Services durante este período de desarrollo. A continuación, proporcionamos una tabla detallada que enumera cada Endpoint, junto con las acciones implementadas y los enlaces correspondientes a la documentación desplegada o la URL local en Sprints anteriores al despliegue de Web Services.
 
+El siguiente enlace proporcionará acceso al modelo de DBJson utilizado como una representación simulada de API antes de la integración y construcción de una API completa y final para Propertunity. Este enlace está ubicado dentro de nuestra plataforma FrontEnd y sirve como punto de referencia crucial durante el proceso de desarrollo y prueba.
+
+Al hacer clic en este enlace, los desarrolladores y miembros del equipo pueden acceder al modelo de datos completo en formato JSON, que representa de manera precisa la estructura y la organización de los datos utilizados en nuestra aplicación. Este modelo de DBJson sirve como un punto de partida fundamental para comprender la lógica subyacente de nuestra aplicación y cómo interactúa con la base de datos: https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-FrontEnd/blob/main/server/db.json
+
 En la tabla, se indican las acciones soportadas para cada Endpoint, incluyendo el verbo HTTP (GET, POST, PUT, DELETE, PATCH), la sintaxis de llamada, la especificación de posibles parámetros y se incluye un ejemplo junto con una explicación del response correspondiente. Además de la tabla, se presentan capturas de pantalla que ilustran la interacción con la documentación elaborada, utilizando datos de muestra para demostrar cómo se utiliza cada Endpoint. En este caso, vamos a dar una explicación completa de 3 clases con respecto a todo el modelo del DBJson para poder dar una idea completa y, a la vez, no abrumar al lector con grandes cúmulos de información base en un modelo CRUD:
 
 ###### Tabla 27
@@ -1077,6 +1081,9 @@ En la tabla, se indican las acciones soportadas para cada Endpoint, incluyendo e
 | PUT    | Actualizar una propiedad existente | PUT /propiedades/{id_propiedad} | id_propiedad (int), Datos actualizados de la propiedad en formato JSON en el cuerpo de la solicitud, como título, descripción, precio, ubicación, etc. | Mensaje de éxito o error en formato JSON. |
 | DELETE | Eliminar una propiedad existente | DELETE /propiedades/{id_propiedad} | id_propiedad (int) | Mensaje de éxito o error en formato JSON. |
 
+###### Figura 86
+*Muestra con evidencia de la sección de perfil de propiedades de la aplicación web*
+
 ###### Tabla 29
 *Tabla del modelo de escritura para el EndPoinrt del DBJson con respecto a la base de las areas comunes.*
 | Método | Descripción                                | Ejemplo de llamada       | Parámetros                            | Respuesta                                                                                                                      |
@@ -1086,7 +1093,6 @@ En la tabla, se indican las acciones soportadas para cada Endpoint, incluyendo e
 | POST   | Crear una nueva área común               | POST /areas_comunes       | Datos de la área común a crear en formato JSON en el cuerpo de la solicitud, incluyendo título, descripción, tipo, etc.    | Mensaje de éxito o error en formato JSON, junto con el ID asignado a la nueva área común creada.                               |
 | PUT    | Actualizar una área común existente      | PUT /areas_comunes/{id}   | id (int), Datos actualizados de la área común en formato JSON en el cuerpo de la solicitud, como título, descripción, etc. | Mensaje de éxito o error en formato JSON.                                                                                     |
 | DELETE | Eliminar una área común existente        | DELETE /areas_comunes/{id}| id (int)                             | Mensaje de éxito o error en formato JSON.                                                                                     |
-
 
 ### 5.2.2.7 Software Deployment Evidence for Sprint Review.
 

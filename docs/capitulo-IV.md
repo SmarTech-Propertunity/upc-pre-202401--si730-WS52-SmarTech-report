@@ -14,37 +14,37 @@ El color base principal que se utilizará en todas las páginas de nuestro aplic
 
 Con el fin de mantener contrastes concretos y establecidos durante todo el proceso de diseño, hemos seleccionado la siguiente escala de paleta de colores con respecto al tono azulado deseado. Para representarlos, hemos utilizado colores comunes y una escala basada en el código RGB:
 
-###### Figura 17.
+###### Figura 19.
 *Paleta de colores azules con sus códigos RGB.*
 
 <img src="/assets/img/Paleta de Azules.png" alt="Paleta de Azules" width="600" height="700">
 
 Con el fin de otorgarle un mejor contraste al color azul en los fondos y cuadros, también agregaremos una paleta de colores que varían entre los tonos del blanco, gris y negro. Esto se hará con el fin de mantener un diseño de interfaz más entendible y visualmente cómodo para los usuarios, además de agregar una mezcla de color con los tonos azulados. En estos casos, el blanco atribuye un sentimiento de pureza, simpleza, modernidad y paz, lo cual es una combinación bastante agradable con el color azul. También cabe resaltar que esta es la paleta de color con la que más cambios se harán con respecto a los niveles de transparencia y brillo, puesto que el blanco es un tipo de color muy versátil y que puede acuñarse en varias secciones de la aplicación. Esta es la lista de colores RGB que utilizaremos:
 
-###### Figura 18.
+###### Figura 20.
 *Paleta de colores blanquecinos con sus códigos RGB.*
 
-
+<img src="/assets/img/Paleta de Azules.png" alt="Paleta de Blancos" width="600" height="800">
 
 Finalmente, hemos utilizado un grupo de paletas extras basadas en el color naranja que combinarán con las figuras añadidas y otras secciones de las páginas como fondo agregado. Esto se hará con el fin de aumentar la diversidad en las páginas y volverlas más llamativas, además de agregar colores cálidos como contraste con los tonos azulados, lo que le da un sentimiento más acogedor.
 
 La primera paleta corresponde al color naranja, el cual, en estos casos, transmite entusiasmo, confianza, éxito, generosidad y creatividad, además de ser más atractivo para las personas más jóvenes. Esta es la lista de colores RGB que utilizaremos:
 
-###### Figura 19.
+###### Figura 21.
 *Paleta de colores naranjizos con sus códigos RGB.*
 
 <img src="/assets/img/Paleta de Naranjas.png" alt="Paleta de Naranjas" width="500" height="410">
 
 La segunda paleta corresponde al color amarillo, el cual transmite alegría, felicidad, energía y optimismo. Es un color que tiene un carácter fresco que es mucho más atractivo para los segmentos más jóvenes, como los niños. Debido a este último detalle, este color se usará solo en degradados para otorgar una mayor consistencia a la paleta de colores naranjas. Asimismo, puede usarse como apoyo en el color de figuras y botones. Esta es la lista de colores RGB que utilizaremos:
 
-###### Figura 20.
+###### Figura 22.
 *Paleta de colores amarillentos con sus códigos RGB.*
 
 <img src="/assets/img/Paleta de Amarillos.png" alt="Paleta de Amarillos" width="450" height="195">
 
 La tercera paleta corresponde al color rojo, el cual transmite valentía y energía. Es un color muy intenso que se suele emplear en productos económicos, ya que este color capta la atención, especialmente para destacar ofertas o descuentos. En el caso de nuestra página web, este color solo se usará en degradados para otorgar una mayor consistencia a la paleta de colores naranjas. Asimismo, puede usarse como apoyo en el color de figuras y botones. Esta es la lista de colores RGB que utilizaremos:
 
-###### Figura 21.
+###### Figura 23.
 *Paleta de colores rojizos con sus códigos RGB.*
 
 <img src="/assets/img/Paleta de Rojos.png" alt="Paleta de Rojos" width="450" height="175">
@@ -72,10 +72,10 @@ Los modelos de alineamiento variarán según el tipo de texto que se está escri
   
 Los modelos de grosor de la letra pueden variar según la página y la sección en la que estemos centrando el diseño y la escritura. En el caso del tipo de letra “Lato”, se pueden identificar los siguientes modelos de grosor:
 
-###### Figura 15.
+###### Figura 24.
 *Modelos de grosor para el tipo de letra “Lato”.*
 
-<img src="/assets/img/Modelos de grosor - Lato.png" alt="Paleta de Rojos" width="700" height="150">
+<img src="/assets/img/Modelos de grosor - Lato.png" alt="Modelo de grosor de Lato" width="700" height="150">
 
 ---
 
@@ -95,7 +95,7 @@ Para el logo de nuestra aplicación hemos decidido emplear un modelo pomposo y a
 
 El logo esta compuesto por el diseño de una pequeña ciudad pintada con tonos naranjas y celestes, destacando una casa naranja que se presenta con más precisión. Esto se plantea con un significado referente a la variedad de ofertas que se ofrecen dentro de nuestra página web, la cual proporciona grandes oportunidades a todas las personas que deseen invertir en el mercado inmobiliario. Asimismo, otorga sentimiento de seguridad siendo que nuestra aplicación web siempre proporciona garantía y bienestar a sus clientes, además de otorgar sentimientos esperanzadores al saber que la compra o venta de una propiedad puede significar grandes cambios economicos en una persona, siempre esperando que sean para bien.
 
-###### Figura 16.
+###### Figura 25.
 *Logo principal de la aplicación Propertunity.*
 
 <img src="/assets/img/Propertunity Logo.png" alt="Propertunity Logo" width="500" height="500">
@@ -120,19 +120,31 @@ Con el fin de seguir un modelo sensato y de fácil comprensión, hemos dividido 
 
 - Primaria: Esta capa se basa en el color principal de nuestra empresa, el cual es el azul oscuro, pero puede tener ciertos contrastes más claros según la tonalidad que se busca en cada página y el como encaja con la sección utilizada; sin embargo, no puede usarse más de un color primario. Este color se usara principalmente en las secciones del encabezado, en la barra de navegación, en cuestionarios, en objeto interactuables por los usuarios, y como fondo en articulos con párrafos importantes dentro de una página.
 
+###### Figura 26.
+*Capa primaria de colores para el Web Style.*
+
+<img src="/assets/img/Plantilla de Primarios.png" alt="Capa primaria de colores" width="500" height="500">
+
 - Secundaria: Esta capa se basa en el color secundario de nuestra empresa, el cual es el blanco junto a otras tonalidades de colores claros que no llegan a una oscuridad mayor al gris; sin embargo, no puede usarse más de dos colores secundarios a menos que sea para cambios de tipografía. Este color se usara principalmente en todo fondo que no tenga algún color primario, lo que sería mayormente articulos con parrafos de relevancia menor, además de ser utilizado en el footer de las páginas.
+
+###### Figura 27.
+*Capa secundaria de colores para el Web Style.*
+
+<img src="/assets/img/Plantilla de Secundarios.png" alt="Capa secundaria de colores" width="500" height="500">
 
 - Terciaria: Esta capa se basa en el color terciario de nuestra empresa, el cual es en sí un conjunto de colores variados relacionados con el naranja, llevando tonalidades amarillentas y rojizas. Pueden usarse todas las tonalidades, pero prefireblemente no se debe usar más de dos. Este color se usara principalmente en toda figura de una página y todo botón sencillo que solo funcione para la aceptación o negación de alguna acción realizada por el usuario.
 
-###### Figura 23.
-*Modelo de capas usados para los colores.*
+###### Figura 28.
+*Capa terciaria de colores para el Web Style.*
+
+<img src="/assets/img/Plantilla de Terciarios.png" alt="Capa terciaria de colores" width="500" height="500">
 
 Cada capa de color debera tener una proporción para que el color primario sea más resaltante y llamativo en comparación al resto. Pueden haber variaciones, pero la dispersión no debe aumentar al 5% en ninguna circunstancia con respecto al resto de capas. Es necesario resaltar que todo color de una capa se suma entre si se llega a usar más de un color.
 
 ###### Figura 24.
-*Escala de proporción para cada capa de color.*
+*Escala de proporción para cada capa de color del Web Style.*
 
-
+<img src="/assets/img/Proporción de Capas Utilizadas.png" alt="Escala de proporción para cada capa de color" width="500" height="500">
 
 ##### Color de letra:
 

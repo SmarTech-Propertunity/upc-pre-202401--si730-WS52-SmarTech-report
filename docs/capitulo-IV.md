@@ -399,28 +399,37 @@ URL video demostrativo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191
 
 ## 4.6. Domain-Driven Software Architecture
 
-El modelo C4  nos brinda una estructura clara para visualizar y comunicar la arquitectura de nuestros sistemas, desde la conceptualización de contextos hasta la implementación de componentes y código.<br>
-
-URL del diseño: https://online.visual-paradigm.com/community/share/modeloc4-propertunity-1q23s09jll
+Según Brown (2023), el modelo C4 para la diagramación y esquematización de la arquitectura de un programa o programas de software, proporciona un enfoque claro y escalable para describir cada una de las secciones y componentes. Al dividir la arquitectura en cuatro niveles (Contexto, Contenedores, Componentes y Código), facilita la comunicación y comprensión tanto para los técnicos como para las partes interesadas no técnicas. Esto permite una colaboración más efectiva entre los equipos de desarrollo y las partes interesadas, lo que resulta en un desarrollo de software más eficiente y una arquitectura más sólida y mantenible.
 
 ### 4.6.1. Software Architecture Context Diagram.
-El diagrama de contexto es el nivel más alto de abstracción en el modelo C4. Representa el sistema en su totalidad y su entorno externo, mostrando las interacciones de alto nivel entre el sistema y sus actores externos.<br>
-En el diagrama de Property podemos observar la interacción de los usuarios y agentes inmobiliarios con la aplicación web. Además, de las conexiones que esta tiene con las diversas API y servicios externos, que ayudará al aplicativo web a cumplir con las funciones que requiera realizar los usuarios.
+El diagrama de contexto, el nivel más alto de abstracción en el modelo C4, ofrece una visión completa del sistema y su entorno externo. Este diagrama ilustra las interacciones de alto nivel entre el sistema y sus actores no relacionados o externos.
 
-<img src="/assets/img/C4_ContextDiagram.png" alt="Diagrama de contexto del modelo C4" width="500" height="350">
+En este se proporciona una representación más detallada de la interacción entre los usuarios, los agentes inmobiliarios y la aplicación web. Además de mostrar estas interacciones, también revela las conexiones de la aplicación con diversas API y servicios externos. Estas conexiones son fundamentales para permitir que la aplicación web cumpla con las diversas funciones requeridas por los usuarios.
+
+<img src="/assets/img/C4_ContextDiagram.png" alt="Diagrama de contexto del modelo C4" width="1000" height="670">
 
 ### 4.6.2. Software Architecture Container Diagrams.
-El diagrama de contenedores se enfoca en la estructura interna del sistema, identificando los principales contenedores que lo componen, y muestra las de comunicaciones entre ellos.<br>
-Se observa con un poco mas de detalle el interior del aplicativo web, en donde tenemos un single page app que se comunica con el backend y este a su vez con la base de datos.
+El diagrama de contenedores ofrece una representación visual de la arquitectura interna de un sistema de software, mostrando los contenedores principales y cómo se comunican entre sí para lograr los objetivos del sistema. Es una herramienta útil para comprender la estructura y las interacciones dentro de un sistema, facilitando la comunicación entre los miembros del equipo y otras partes interesadas.
 
-<img src="/assets/img/C4_ContainerDiagram.png" alt="Diagrama de contenedor del modelo C4" width="600" height="350">
+En este diagrama, se profundiza en el interior de todo el sistema integrado de Propertunity, revelando una arquitectura de conexión entre el FrontEnd y el BackEnd, junto a todos los sistemas externos adyacentes. A su vez, el BackEnd establece conexiones con la base de datos para gestionar y almacenar los datos necesarios para el funcionamiento del sistema. Este enfoque detallado del diagrama de contenedores permite una comprensión más clara de cómo interactúan los diferentes componentes del sistema entre sí.
+
+<img src="/assets/img/C4_ContainerDiagram.png" alt="Diagrama de contenedor del modelo C4" width="1000" height="500">
 
 ### 4.6.3. Software Architecture Components Diagrams
 El diagrama de componentes se adentra en el nivel más detallado de la arquitectura, desglosando cada contenedor en sus componentes individuales. Se muestra la organización y comunicación entre los componentes dentro del contenedor.<br>
 Se visualiza los componentes internos del backend, el controlador principal y a relación que este tiene con los otros componentes dedicados a la interacción con los API externos y la base de datos.
 
-<img src="/assets/img/C4_ComponentDiagram.png" alt="Diagrama de componentes del modelo C4" width="600" height="350">
+Diagrama de Componentes especializado en la Página Web o Landing Page de Propertunity:
 
+<img src="/assets/img/C4_ComponentDiagram_WebPage.png" alt="Diagrama de componentes del modelo C4 para la página web" width="1000" height="800">
+
+Diagrama de Componentes especializado en la Aplicación Web de Propertunity:
+
+<img src="/assets/img/C4_ComponentDiagram_WebApplication.png" alt="Diagrama de componentes del modelo C4 para la aplicación web" width="1000" height="550">
+
+Diagrama de Componentes especializado en la API Principal de Propertunity:
+
+<img src="/assets/img/C4_ComponentDiagram_API.png" alt="Diagrama de componentes del modelo C4 para la API principal" width="1000" height="450">
 
 ## 4.7. Software Object-Oriented Design
 

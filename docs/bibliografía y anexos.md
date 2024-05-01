@@ -1,5 +1,8 @@
 # Conclusiones y Recomendaciones
 
+- El proyecto se ha desarrollado con un enfoque integral en la experiencia de usuario, desde la idea de los wireframes hasta la implementación final de la plataforma Propertunity. Se priorizó la coherencia visual, la accesibilidad y la facilidad de uso en cada etapa del proceso de diseño y desarrollo. Se realizaron pruebas de usuario para validar la efectividad de la navegación y se utilizaron prácticas de diseño responsivo para garantizar una experiencia óptima en todos los dispositivos. El resultado es una plataforma intuitiva, atractiva y funcional que satisface los deseos y necesidades de los usuarios inmobiliarios.
+
+
 # Anexos
 
 # Bibliografía
@@ -36,6 +39,7 @@ Kingsnorth, S. (2019). Digital Marketing Strategy: An Integrated Approach to Onl
 
 Martin, R. (2017). *Clean Architecture. A Craftsman's Guide to Software Structure and Design*. Pearson. https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164#detailBullets_feature_div 
 
+
 No18. (2019). *BRAND IDENTITY & STYLE GUIDE V1.0* [Diapositivas de PowerPoint]. IWG. https://work.iwgplc.com/Giudelines/No18%20Brand%20style%20guide.pdf 
 
 Patnaik, D. (2017). Needfinding: Design Research and Planning (4th Edition). CreateSpace Independent Publishing Platform. https://www.amazon.com/Needfinding-Design-Research-Planning-4th/dp/1974015580
@@ -49,3 +53,4 @@ Rivera, A. (2024, 22 de febrero). *Perspectivas del sector inmobiliario y el pro
 Smith, P, R. & Zook, Z.(2022). *Marketing Communications: Integrating Online and Offline, Customer Engagement and Digital Technologies*. Kogan Page. https://www.perlego.com/book/1589959/marketing-communications-integrating-online-and-offline-customer-engagement-and-digital-technologies-pdf 
 
 Tidwell, J., Brewer, C. & Valencia, A. (2020). *Designing Interfaces* (3rd Edition). O'Reilly Media, Inc. https://www.oreilly.com/library/view/designing-interfaces-3rd/9781492051954/
+

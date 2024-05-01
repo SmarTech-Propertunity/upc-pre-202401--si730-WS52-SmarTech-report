@@ -622,7 +622,9 @@ En esta sección presentaremos la evidencia detallada de las pruebas rigurosas r
 *Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 1*
 | Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
+
 | upc-pre-202401--si730-WS52-SmarTech-AcceptanceTests | feat(develop): add US01-06 acceptance tests - Lucio - 1 | be875aa | feat(develop): add US01-06 acceptance tests | En esta sección se implementaron todos los Acceptance Test para el Sprint 1 de Propertunity | 12/04/24 |
+
 
 ### 5.2.1.5 Execution Evidence for Sprint Review. 
 
@@ -682,11 +684,14 @@ Dentro del Sprint 1, realizamos el despliegue de nuestra Landing Page en GitHub 
 
 5. Una vez seleccionada la rama "main", se generará un enlace para acceder al Landing Page desplegado, ofreciendo a los usuarios un acceso inmediato al contenido. Cualquier cambio en el branch "main" se actualizará automáticamente en el Landing Page, asegurando que siempre refleje las últimas modificaciones del código fuente."
 
+
 ###### Figura 74
 *Imagen de evidencia sobre la obtención del enlace de ingreso a la Landing Page de Propertunity.*
 <img src="/assets/img/github-link.png" alt="github link">
 
 6. Una vez completados los pasos anteriores, el Landing Page estará desplegado y listo para ser visualizado y utilizado. Los usuarios podrán acceder al enlace generado y explorar el contenido de nuestra página web. Es importante realizar pruebas adicionales después del despliegue para asegurarse de que la página web se vea y funcione correctamente en diferentes dispositivos y navegadores. Esto garantizará una experiencia de usuario óptima para todos los visitantes de nuestro sitio.
+
+
 
 ###### Figura 75
 *Imagen de evidencia sobre la Landing Page de Propertunity ya desplegada.*
@@ -1121,3 +1126,5 @@ Además, programamos sesiones regulares de brainstorming y resolución de proble
 <img src="/assets/img/Contributions for FrontEnd Web Application.png" alt="Contributions for FrontEnd Web Application">
 <img src="/assets/img/Individual Contributions for FrontEnd Web Application - 1.png" alt="Individual Contributions for FrontEnd Web Application - 1">
 <img src="/assets/img/Individual Contributions for FrontEnd Web Application - 2.png" alt="Individual Contributions for FrontEnd Web Application - 2">
+
+

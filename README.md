@@ -65,6 +65,20 @@ En esta sección se resumen todas las modificaciones relevantes que sean realiza
 </table>
 
 
+**Team Collaboration Insights**
+
+Para el Reporte: 
+
+<img src="/assets/img/Contributions for Main.png" alt="Contributions for Main">
+<img src="/assets/img/Individual Contributions for Main - 1.png" alt="Individual Contributions for Main - 1">
+<img src="/assets/img/Individual Contributions for Main - 2.png" alt="Individual Contributions for Main - 2">
+
+Para la Landing Page: 
+
+<img src="/assets/img/Contributions for Landing Page.png" alt="Contributions for Landing Page">
+<img src="/assets/img/Individual Contributions for Landing Page - 1.png" alt="Individual Contributions for Landing Page - 1">
+<img src="/assets/img/Individual Contributions for Landing Page 2.png" alt="Individual Contributions for Landing Page - 2">
+
 ---
 
 ## ÍNDICE
@@ -154,14 +168,6 @@ En esta sección se resumen todas las modificaciones relevantes que sean realiza
        - 5.2.1.6. Services Documentation Evidence for Sprint Review.
        - 5.2.1.7. Software Deployment Evidence for Sprint Review.
        - 5.2.1.8. Team Collaboration Insights during Sprint.
-
-**Conclusiones**
-
-- El proyecto se ha desarrollado con un enfoque integral en la experiencia de usuario, desde la idea de los wireframes hasta la implementación final de la plataforma Propertunity. Se priorizó la coherencia visual, la accesibilidad y la facilidad de uso en cada etapa del proceso de diseño y desarrollo. Se realizaron pruebas de usuario para validar la efectividad de la navegación y se utilizaron prácticas de diseño responsivo para garantizar una experiencia óptima en todos los dispositivos. El resultado es una plataforma intuitiva, atractiva y funcional que satisface los deseos y necesidades de los usuarios inmobiliarios.
-
-**Anexos**
-
-**Bibliografía**
 
 ---
 

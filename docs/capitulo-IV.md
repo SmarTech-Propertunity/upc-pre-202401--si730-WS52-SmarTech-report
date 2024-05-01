@@ -1,4 +1,4 @@
-# Capítulo IV: Product UX/UI Design
+![image](https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report/assets/130616378/421ebb62-855c-4470-8a38-b8436fff7a89)# Capítulo IV: Product UX/UI Design
 
 ## 4.1. Style Guidelines
 
@@ -227,35 +227,51 @@ Todos los párrafos siempre se escribirán con un grosor “normal”, sin impor
 
 ## 4.2. Informations Architecture
 
+En esta sección del trabajo, nuestro equipo de trabajo va a plantear las decisiones y sustentos que respectan a la manera en la que se organizará el contenido en las experiencias web y móvil, incluyendo el Landing Page y las Aplicaciones relacionadas. Dichas propuestas deben estar orientadas a que los visitantes y usuarios se adapten con facilidad a la funcionalidad de cada producto y puedan encontrar todo aquello que necesiten sin esfuerzo alguno. Se deben incluir las decisiones sobre los Organization Systems, Labelin Systems, Navigation Systems y Searching Systems.
+
 ### 4.2.1. Organization Systems
-El propósito de Organization Systems (Sistema de organización) es establecer la estructura visual del contenido, navegación, cómo encontrar la información, etc. Propertunity utilizará un sistema de organización que se devide en módulos y uso de jerarquías, además detellamos en los siguientes aspectos:
 
-#### Inicio:
-Dentro de inicio se mostrará las funciones principales a primera vista mientras que otras funciones o características estarán (ocultas) en otro apartado que se podrán acceder por medio de un botón. Esta decisión es principalmente para mostrar las funcionalidades importantes o más usadas; usaremos el patrón de diseño 'F', además mostraremos los anuncios inmobiliarios (publicaciones de alquiler, venta) ya que no queremos dilatar la experiencia del usuario y mostrar lo que el usuario está buscando.
+Según Fowler (2018), el Organization Systems es la estructura o sistema utilizado para organizar y gestionar los diversos componentes de un sistema de software. Este sistema abarca la forma en que se organizan y se relacionan entre sí los diferentes elementos del software, como archivos, módulos, funciones, clases, variables, entre otros.
 
-#### Publicaciones:
-Esta sección tiene que ser la más resaltante ya que es el "corazón" de nuestra aplicación. En forma de matriz, mostraremos las imágenes de los inmmuebles, el precio, y la ubicación. Si se desea ordenar por orden alfabético, por fecha, por costo, etc., el usuario podrá por medio de un botón o función.
+El objetivo fundamental del modelo de los Organization Systems (Sistemas de Organización) es crear una estructura visual coherente y eficiente para el contenido, facilitando la navegación y el acceso a la información de manera intuitiva y fluida. En el caso de Propertunity, se implementará un sistema de organización que se fundamenta en la división del contenido en módulos y la aplicación de jerarquías claras y funcionales. Este enfoque permitirá a los usuarios navegar de manera más efectiva a través del sitio web, encontrando fácilmente la información que necesitan. Al detallar los siguientes aspectos, garantizaremos una experiencia de usuario óptima:
 
-#### Perfil de usuario:
-En "perfil" se mostrará todos los datos relacionados al usuario como aquellas publicaciones guardadas como favoritas, reputación, información personal, entre otros. El usuario podrá editar su perfil con la opción descriptiva de "editar"; podrá además acceder desde este apartado a los chats o conversaciones que los usuarios puedan tener con los anunciantes.
+**Inicio:**
+Dentro de la página de inicio de Propertunity, priorizaremos la exposición de las funciones principales de manera inmediata, asegurándonos de que estén visibles a primera vista para los usuarios. Sin embargo, otras funciones o características menos utilizadas estarán ubicadas en un apartado aparte, al cual se podrá acceder mediante un botón específico. Esta decisión de diseño se basa en la idea de destacar las funcionalidades más importantes o frecuentemente utilizadas, siguiendo el patrón de diseño 'F' para una disposición efectiva del contenido. Además, optaremos por mostrar los anuncios inmobiliarios, tanto de alquiler como de venta, en la página de inicio, ya que consideramos crucial no dilatar la experiencia del usuario y presentar de inmediato aquello que están buscando.
+
+**Publicaciones:**
+Esta sección es fundamental para la experiencia de usuario, ya que representa el "corazón" de nuestra aplicación. Utilizaremos un diseño visualmente destacado, presentando los inmuebles en forma de matriz, donde se exhibirán imágenes, precios y ubicaciones de manera clara y accesible. Además, proporcionaremos opciones de ordenamiento para que el usuario pueda organizar los resultados según sus preferencias. Estas opciones podrán incluir ordenar por orden alfabético, por fecha de publicación, por costo y otras variables relevantes. La funcionalidad de ordenamiento estará disponible a través de un botón o función fácilmente identificable, brindando al usuario un mayor control sobre la visualización de los inmuebles.
+
+**Perfil de usuario:**
+La sección de "perfil" será un espacio dedicado exclusivamente a proporcionar al usuario acceso a todos los datos relevantes relacionados con su cuenta. Aquí se mostrarán detalles como las publicaciones guardadas como favoritas, la reputación acumulada, información personal y cualquier otra información pertinente. Además, para brindar una experiencia personalizada, se habilitará la opción de edición del perfil mediante un botón claramente identificable como "editar", lo que permitirá al usuario actualizar su información según sea necesario.
+
+Además de la gestión del perfil, desde este apartado los usuarios podrán acceder fácilmente a los chats o conversaciones que mantengan con los anunciantes. Esto garantizará una experiencia fluida y centralizada, donde los usuarios puedan administrar tanto su perfil como sus interacciones de manera conveniente desde un único lugar.
 
 #### Perfil de anunciante:
-El "perfil de anunciante" mostrará todas las publicaciones resaltantes primeramente puestas por el anunciante y las publicaciones normales. Se mostrará la calificación del anunciante y las reseñas para mostrar confianza y credibilidad del anunciante.
+El "perfil de anunciante" será una sección clave que proporcionará una visión completa de la actividad y reputación del anunciante en la plataforma. En esta sección, se destacarán en primer lugar todas las publicaciones destacadas realizadas por el anunciante, seguidas de las publicaciones regulares, junto a los principales medios de contacto, la dirección de sus oficinas y agencias, y desde cuando es miembro dentro de Propertunity. Esta transparencia contribuirá a fortalecer la confianza en la plataforma y a fomentar relaciones positivas entre los usuarios y los anunciantes.
 
 ### 4.2.2. Labelling Systems
-En esta parte, trataremos de representar una gran cantidad de información (descripción) en pocas palabras; esta es la parte más resaltante de la arquitectura de la información. Usaremos las siguientes etiquetas para representar la información:
+
+Un Labelling Systems es un sistema o método utilizado para asignar etiquetas o nombres a elementos dentro de un sistema de software. Estas etiquetas pueden ser utilizadas para identificar y categorizar diferentes componentes, como variables, funciones, clases, archivos, entre otros.
+
+El Labelling Systems es fundamental para organizar y estructurar el código de manera legible y comprensible, lo que facilita su mantenimiento, colaboración y escalabilidad. Al asignar etiquetas descriptivas y significativas a los elementos del software, los desarrolladores pueden entender rápidamente su propósito y contexto dentro del sistema, lo que facilita la navegación y la comprensión del código (Fowler, 2018).
+
+###### Tabla 12.
+*Seguimiento de Labelling Systems integrados dentro del proyecto de trabajo.*
 | Etiqueta | Descripción |
 |----------|-------------|
-| Contactar | El usuario podrá contactar a un anunciante ya sea por medio de una publicación o por medio del perfil del anunciante; el contexto el cual se encuentre está etiqueta bastará |
-| Mi perfil | El usuario podrá ver su perfil como datos personales, publicaciones, reseñas, reputación, etc., el contexto basará lo que se muestra en el perfil |
-| Publicar | Con esta opción, "publicar" permitirá publicar anuncios sobre inmuebles a alquilar, vender, etc., relacionado con el inmueble. |
-| Buscar | Esencialmente, buscar permite lo que el verbo describe. Dependiendo del contexto como: buscar inmuebles, buscar anunciante, buscar usuario, buscar opciones |
-| Ajustes | La etiqueta "ajustes" permitirá la modificaciones o edición de los bloques, por ejemplo, ajustes podría significar en términos de perfil, la modificación de datos personales o actualización del perfil, ajustes en términos de publicación permitiría la edición de la publicación como la modificación del precio, ubicación, etc. |
-| Evaluar | Evaluar se refiere a la evaluación crediticia. Esta opción permitirá al usuario calcular o estimar el crédito y costos de la adquisición de un inmueble |
-| Compartir | Con esta opción se podrá compartir información por medio de un link. La opción de "comparir" permitirá compartir: publicaciones, perfil, etc. |
+| Contactar | Permite al usuario comunicarse con un anunciante a través de una publicación o el perfil del anunciante. La etiqueta "Contactar" es relevante en cualquier contexto de interacción con el anunciante. |
+| Mi perfil | Ofrece al usuario acceso a su perfil personal, donde puede ver y gestionar datos personales, publicaciones, reseñas, reputación, etc. El contenido del perfil varía según el contexto y las necesidades del usuario. |
+| Publicar | Permite al usuario crear y publicar anuncios relacionados con inmuebles disponibles para alquilar, vender, etc. El contexto de la publicación se relaciona directamente con el inmueble en cuestión. |
+| Buscar | Facilita la búsqueda de diferentes elementos dentro de la plataforma. Puede ser utilizada para buscar inmuebles, anunciantes, usuarios u otras opciones dependiendo del contexto y las necesidades del usuario. |
+| Ajustes | Permite al usuario realizar modificaciones o ediciones en diferentes aspectos de la plataforma, como el perfil o las publicaciones. Por ejemplo, en términos de perfil, ajustes podrían incluir la modificación de datos personales, mientras que en términos de publicación, podrían implicar cambios en el precio o la ubicación. |
+| Evaluar | Ofrece al usuario la capacidad de realizar una evaluación crediticia para estimar los costos relacionados con la adquisición de un inmueble. Esta opción proporciona una herramienta útil para planificar y tomar decisiones financieras informadas. |
+| Compartir | Permite al usuario compartir información relevante, como publicaciones o perfiles, a través de un enlace. Esta opción facilita la difusión de contenido dentro y fuera de la plataforma, mejorando así la visibilidad y accesibilidad de los recursos compartidos. |
 
 ### 4.2.3. SEO Tags and Meta Tags
-Se manejarán diversas páginas con diferentes propósitos: inicio, registro, evaluación crediticia, publicaciones, perfil de anunciante, etc., además de nuestro sitio web estático (Landing Page).
+
+Según Martin (2017), los "SEO tags" y las "meta tags" emergen como elementos de vital importancia en la optimización de motores de búsqueda (SEO) de un sitio web. Estas etiquetas, presentes como elementos HTML específicos, desempeñan un papel fundamental al proporcionar información relevante sobre el contenido de una página web a los motores de búsqueda y otros servicios en línea. En este contexto, resulta esencial comprender la relevancia y el uso adecuado de estas etiquetas para mejorar la visibilidad y el posicionamiento de un sitio web en los resultados de búsqueda.
+
+Al analizar la implementación de estas etiquetas en Propertunity, se observa que se gestionarán diversas páginas con propósitos específicos. Entre ellas se incluyen la página de inicio, el proceso de registro, la evaluación crediticia, las publicaciones de inmuebles, el perfil de los anunciantes, entre otras. Cada una de estas páginas desempeña un papel crucial en la experiencia del usuario y en la efectividad general del sitio web.
 
 1. Landing Page
 - Title Tag: "Propertunity: Anuncia y compra inmuebles fácilmente | SmarTech"
@@ -294,55 +310,74 @@ Se manejarán diversas páginas con diferentes propósitos: inicio, registro, ev
 - Author: name="copyright" content="SmartTech"
 
 ### 4.2.4. Searching Systems.
-Para evitar que nuestro usuarios estén "perdidos" en nuestra aplicación web, usaremos ciertos métodos como filtros, opciones de búsqueda, clasificadores, contenedores, etc., los cuales permitirán al usuario actuar como mapas o guías entre tanta información mostrada de nuestra aplicación web.
+En sí, un Searching System es un grupo de componentes y algoritmos diseñados para permitir a los usuarios encontrar información específica dentro de una aplicación o sistema de software de manera rápida y eficiente. Este sistema está diseñado para procesar consultas de búsqueda ingresadas por el usuario y recuperar los resultados relevantes que coincidan con esos criterios de búsqueda. Puede incluir diferentes técnicas y funcionalidades para mejorar la precisión y la relevancia de los resultados de búsqueda, como la indexación de datos, la tokenización, el filtrado, la ponderación de términos, la búsqueda semántica y la clasificación de resultados.
 
-1. Barra de Navegación:
-Esta barra será la principal herramienta el cual el usuario usará para poder buscar opciones, funcionalidades, características de nuestra aplicación. Dependiendo del contexto en el cual el usuario se encuentre, esta barra buscará detalles cómo perfiles, publicaciones, herramientas de la página, y entre otros. Los principales enlaces serían: "página principal", "contactar", "publicaciones", "evaluación crediticia", "acerca de nosotros".
+Un buen sistema de búsqueda no solo debe ser capaz de encontrar coincidencias exactas, sino también ser capaz de manejar consultas complejas, sinónimos, errores ortográficos y ofrecer funcionalidades avanzadas como la búsqueda por proximidad, la búsqueda por facetas y la sugerencia de consultas (Fowler, 2018).
 
-2. Enlaces Contextuales:
-Dentro de la aplicación y en cada aparatado mostraremos botones descriptivos y llamativos los cuales guiarán al usuario a la información que buscan. Por ejemplo, para ubicar cierto elemento o sección, un botón llamado "más" será el responsable de mostrar a más detalles todas las posibles funciones que el usuario necesite. Las funciones o botones con mayor demanda estarán ubicadas al principio de la página.
+**1. Barra de Navegación:**
+La barra de navegación representa el núcleo de interacción para los usuarios, permitiéndoles acceder a diversas opciones, funcionalidades y características de nuestra aplicación de manera rápida y sencilla. Adaptándose al contexto en el que se encuentre el usuario, esta barra proporcionará acceso directo a elementos como perfiles de usuarios, publicaciones de inmuebles, herramientas de la página y más. Entre los principales enlaces destacan: "Página Principal", "Contactar", "Publicaciones", "Evaluación Crediticia" y "Acerca de Nosotros". Al ofrecer estos enlaces de forma prominente, buscamos facilitar la navegación y mejorar la experiencia del usuario al proporcionar acceso inmediato a las funciones más relevantes de la aplicación.
 
-3. Navegación Jerárquica:
-Nosotros usamos el patrón de diseño 'F' el cual enfatiza y ensalsa lo que nosotros ofrecemos a nuestro usuario. Estás funciones y botones estarán ordenadas de tal manera que se vea a mayor detalles aquellas funciones de mayor demanda hasta la última función disponible para el usuario.
+**2. Enlaces Contextuales:**
+Dentro de cada sección de la aplicación, se presentarán botones descriptivos y llamativos que dirigirán al usuario hacia la información que busca. Por ejemplo, al buscar un elemento o sección específica, un botón etiquetado como "Más" actuará como un punto de acceso para explorar con mayor detalle todas las funciones disponibles. Los botones y funciones más solicitados se colocarán estratégicamente al principio de la página, garantizando así una navegación intuitiva y eficiente para los usuarios al tiempo que satisfacen sus necesidades de manera rápida y efectiva.
 
-4. Sección Inferior:
-En la parte inferior de nuestra página de inicio, mostraremos ciertas opciones de navegación cómo: contáctanos (como empresa), acerca de nosotros, contáctar asesores, etc.
+**3. Navegación Jerárquica:**
+Siguiendo el patrón de diseño 'F', nuestra aplicación resalta y enfatiza las funciones que ofrecemos a nuestros usuarios, organizándolas de manera jerárquica para una mejor comprensión y accesibilidad. Las funciones y botones se ordenarán de tal manera que aquellas de mayor demanda se presenten con mayor prominencia, mientras que las menos utilizadas se ubicarán en lugares secundarios pero aún accesibles. Esta disposición garantiza que los usuarios puedan acceder fácilmente a las funciones más importantes y populares, mientras exploran otras opciones según sus necesidades.
+
+**4. Sección Inferior:**
+En la parte inferior de nuestra página de inicio, se mostrarán opciones de navegación adicionales, como "Contáctanos" (como empresa), "Acerca de Nosotros" y "Contactar Asesores", proporcionando a los usuarios un acceso rápido a información importante y recursos de soporte. Estas opciones de navegación complementan la barra de navegación principal y ofrecen a los usuarios la oportunidad de explorar más a fondo aspectos clave de nuestra aplicación, promoviendo así una experiencia de usuario completa y satisfactoria.
 
 ### 4.2.5. Navigation Systems.
-Las acciones y técnicas que guiarán a los usuarios a través del Landing Page y las aplicaciones permitiran cumplir sus metas e interactuar de forma satisfactoria con el productos.
 
+Los modelos de sistemas de navegación son una infraestructura y las herramientas diseñadas para guiar a los usuarios a través de una aplicación, plataforma o sistema de manera eficiente y efectiva. Este sistema se encarga de proporcionar una estructura organizada y coherente que permite a los usuarios moverse dentro del software de manera intuitiva y encontrar fácilmente la información o las funciones que están buscando.
+
+Un Navigation System es fundamental para proporcionar una experiencia de usuario fluida y satisfactoria, ayudando a los usuarios a encontrar y utilizar las funciones y la información que necesitan de manera rápida, intuitiva y eficiente (Martin, 2017).
+
+###### Tabla 13.
+*Seguimiento de Navigation Systems integrados dentro del proyecto de trabajo.*
 | Etiqueta | Descripción |
 |----------|-------------|
-| Inicio |  Un enlace el cual dirigirá al usuario al inicio donde se visualizará la presentación principal de la aplicación |
-| Perfil | Enlace el cual llevará al usuario al perfil de otro usuario o al perfil de un anunciante; dependiendo del contexto |
-| Evaluación | Este enlace llevará al usuario (comprador) a la aplicación de evaluación crediticia |
-| Publicaciones | Publicaciones en conjunto; un enlace el cual llevará al usuario a la página de publicaciones donde podrá apreciar todos los items |
-| Sobre nosotros | Llevará al usuario a nuestra página estática (Landing Page) para que conozca todo sobre nosotros como empresa y nuestras aplicaciones |
+| Inicio |  Cuando un usuario hace clic en este enlace, será llevado a la página de inicio de nuestra aplicación. Esta página constituye el punto de partida para los usuarios, ofreciendo una presentación dinámica y atractiva de las características principales, servicios ofrecidos y posibilidades de navegación. Aquí, los usuarios pueden familiarizarse con la interfaz, explorar las opciones disponibles y comenzar su experiencia en nuestra plataforma de manera intuitiva y cómoda. |
+| Perfil | Este enlace proporciona acceso directo al perfil de usuario correspondiente. Dependiendo del contexto de la interacción, el usuario será dirigido al perfil propio o al perfil de otro usuario o anunciante. El perfil es un espacio personalizado donde los usuarios pueden gestionar su información, ver sus publicaciones, revisar su historial de actividad y mantenerse al tanto de las interacciones con otros usuarios. Además, ofrece una oportunidad para establecer credibilidad y confianza entre los usuarios al mostrar detalles relevantes como reseñas, calificaciones y experiencia. |
+| Evaluación | Al hacer clic en este enlace, los usuarios que estén interesados en comprar propiedades serán redirigidos a nuestra herramienta de evaluación crediticia. Esta herramienta les permite calcular su capacidad financiera, comprender mejor su situación crediticia y estimar los costos asociados con la adquisición de una propiedad. Con esta función, buscamos ofrecer a los usuarios una visión clara y detallada de su viabilidad financiera antes de embarcarse en el proceso de compra. |
+| Publicaciones | Este enlace lleva a los usuarios a la página de publicaciones, un espacio donde pueden explorar una amplia variedad de propiedades disponibles para la venta o alquiler. Aquí, los usuarios pueden filtrar y buscar propiedades según sus preferencias, visualizar detalles como descripciones, imágenes y precios, y acceder a información adicional sobre ubicación, características y condiciones. Esta página proporciona una plataforma centralizada para que los usuarios encuentren y evalúen las opciones disponibles, facilitando así el proceso de toma de decisiones. |
+| Sobre nosotros | Al hacer clic en este enlace, los usuarios serán redirigidos a nuestra página estática (Landing Page) que presenta información detallada sobre nuestra empresa y nuestras aplicaciones. Aquí, los usuarios pueden conocer nuestra historia, nuestra misión y nuestros valores, así como obtener una visión general de las características y beneficios de nuestras aplicaciones. Esta página está diseñada para transmitir confianza, transparencia y credibilidad a los usuarios, fortaleciendo así nuestra relación con ellos y fomentando una mayor participación y confianza en nuestra plataforma. |
 
 ## 4.3. Landing Page UI Design
 
-### 4.3.1. Landing Page Wireframe
-Los wireframes son esquemas visuales simplificados que representan la estructura y disposición de elementos en una página web o aplicación, centrándose en la organización de la información, la funcionalidad y la experiencia del usuario. En el caso de la landing page de Propertunity, se eligió un diseño intuitivo que incluye secciones como la página de inicio, información sobre la empresa, opciones de suscripción, características, testimonios y formulario de contacto.
+En esta sección del trabajo, nuestro equipo va a elaborar, exponer y explicar la propuesta y modelo de UI diseñado para la Landing Page de Propertunity. Aqui vamos a explicar como se modelan y traducen las decisiones de diseño y arquitectura de información.
 
+### 4.3.1. Landing Page Wireframe
+Según Tidwell et al. (2020), los wireframes, que son representaciones visuales simplificadas, juegan un papel fundamental en la planificación y diseño de interfaces de usuario en páginas web y aplicaciones. Estos esquemas ofrecen una representación estructurada y organizada de los elementos clave, centrándose en aspectos como la disposición de la información, la funcionalidad y la experiencia del usuario. Al proporcionar una vista preliminar de la interfaz, los wireframes permiten a los diseñadores y desarrolladores visualizar y comunicar eficazmente la estructura y el flujo de la aplicación o sitio web.
+
+En el contexto específico de la landing page de Propertunity, se ha optado por un diseño intuitivo que abarca una variedad de secciones diseñadas para captar la atención del usuario y ofrecer una experiencia atractiva y coherente. Entre las secciones clave se incluyen la página de inicio, que actúa como punto de entrada principal y presenta una visión general de las funcionalidades y servicios ofrecidos por Propertunity. Además, se ha incorporado información detallada sobre la empresa, brindando a los usuarios una comprensión más profunda de la marca y sus valores.
+
+Asimismo, se han integrado opciones de suscripción para aquellos interesados en recibir actualizaciones y noticias relacionadas con Propertunity, así como características destacadas que resaltan los puntos fuertes y ventajas de la plataforma. Los testimonios de clientes satisfechos se han incluido para generar confianza y credibilidad entre los usuarios potenciales, mientras que un formulario de contacto se ha agregado para facilitar la comunicación directa con el equipo de Propertunity.
+
+###### Figura 33.
+*Modelo de Wireframes establecidos para la Landing Page de Propertunity*
 <img src="/assets/img/LandingPage-Wireframes01.PNG" alt="Landing page wireframes" >
 <img src="/assets/img/LandingPage-Wireframes02.PNG" alt="Landing page wireframes" >
 <img src="/assets/img/LandingPage-Wireframes03.PNG" alt="Landing page wireframes" >
 
-Link: https://www.figma.com/file/cLmUawJxmBztY9SyWkY4QK/Propertunity-Wireframe?type=design&node-id=0%3A1&mode=design&t=riVNya4VcQH7dfmT-1 
+En este conjunto de modelos de seguimiento relacionados con nuestra Landing Page, cada una de las características principales se representa de manera visual y detallada. El propósito es proporcionar a los lectores una vista completa y profunda, lo que les permitirá realizar un análisis exhaustivo de cada elemento. Para facilitar este proceso, hemos incluido un enlace al desarrollo del modelo de los Wireframes en la página de diseño de Figma. Este enlace ofrece a los lectores la oportunidad de explorar cada aspecto del diseño de manera interactiva y acceder a información adicional si es necesario.
+https://www.figma.com/file/cLmUawJxmBztY9SyWkY4QK/Propertunity-Wireframe?type=design&node-id=0%3A1&mode=design&t=riVNya4VcQH7dfmT-1 
+
 ### 4.3.2. Landing Page Mock-up
 
-Un mockup es una representación visual similar a un prototipo que simula el aspecto final de un diseño.
-<br>
-<br>
-URL del diseño: https://www.figma.com/file/EhhUmOL6KJMmSlNKHDspiY/Propertunity_LandingPage-Design?type=design&node-id=0%3A1&mode=design&t=saITXo5X8DKZyxB4-1
-<br>
-<br>
+Según Tidwell et al. (2020), los mock-ups, al igual que los wireframes, desempeñan un papel crucial en la planificación y diseño de interfaces de usuario en páginas web y aplicaciones. A diferencia de los wireframes, los mock-ups ofrecen una representación más detallada y visualmente elaborada de la interfaz, incluyendo elementos como colores, tipografía, imágenes y otros detalles visuales. Estos modelos permiten a los diseñadores y desarrolladores no solo visualizar la estructura y disposición de los elementos clave, sino también experimentar con aspectos estéticos y de diseño.
+
+En el contexto específico de la landing page de Propertunity, se ha optado por utilizar mock-ups para diseñar un entorno más visualmente rico y atractivo. Estos mock-ups incluyen una variedad de secciones diseñadas para captar la atención del usuario y ofrecer una experiencia estética y funcionalmente agradable. Entre las características destacadas se encuentran una página de inicio que actúa como punto de entrada principal, presentando una visión general de las funcionalidades y servicios ofrecidos por Propertunity con elementos visuales más elaborados.
+
+###### Figura 34.
+*Modelo de Mock-Ups establecidos para la Landing Page de Propertunity*
 <img src="/assets/img/mock-up 1.png" alt="Landing page mock-up" >
 <img src="/assets/img/mock-up 2.png" alt="Landing page mock-up" >
 <img src="/assets/img/mock-up 3.png" alt="Landing page mock-up" >
 <img src="/assets/img/mock-up 4.png" alt="Landing page mock-up" >
 <img src="/assets/img/mock-up 5.png" alt="Landing page mock-up" >
 <img src="/assets/img/mock-up 6.png" alt="Landing page mock-up" >
+
+En este conjunto de modelos de seguimiento relacionados con nuestra Landing Page, cada una de las características principales se representa de manera visual y detallada. El propósito es proporcionar a los lectores una vista completa y profunda, lo que les permitirá realizar un análisis exhaustivo de cada elemento. Para facilitar este proceso, hemos incluido un enlace al desarrollo del modelo de los Mock-Ups en la página de diseño de Figma. Este enlace ofrece a los lectores la oportunidad de explorar cada aspecto del diseño de manera interactiva y acceder a información adicional si es necesario. https://www.figma.com/file/EhhUmOL6KJMmSlNKHDspiY/Propertunity_LandingPage-Designtype=design&nodeid=0%3A1&mode=design&t=saITXo5X8DKZyxB4-1
 
 ## 4.4. Web Applications UX/UI Design
 En esta sección incluiremos secciones internas donde presentaremos y explicaremos la propuesta visual y de interacción para las aplicaciones que constituyen la experiencia de usuario con los productos digitales.

@@ -198,18 +198,21 @@ La siguiente lista presenta todos los enlaces respectivos a la organización de 
 - Landing Page: https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-landingPage
 - Report : https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report
 - Acceptance Test: https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-AcceptanceTests
+- FrontEnd Application: https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-FrontEnd
 
 **Integrantes dentro de la organización:**
 
 En esta sección se presentaran a todos los usuarios que se encuentran dentro de la organización de Github del proyecto de SmarTech junto a sus nombres de usuarios respectivos con los integrantes de nuestro equipo. Esto se realizara con el fin de evitar confusión entre los autores de los commits dentro de Github y las personas que lean y analicen el reporte y código planteado dentro de nuestro grupo de trabajo especificado.
 
+###### Tabla 16
+*Modelo de integrantes del equipo dentro de la página de organización de Github*
 | Nombre de Usuario | Imagen de Perfil | Nombre del Integrante del Equipo |
 |-------------------|------------------|----------------------------------|
-| RubDaShen | <img src="/assets/img/profiles/GitProfilePhoto - Ruben.png" alt="Ruben's Github Profile Photo"> | Mallma Quispe, Rubén Elías - U202214234 |
-| CarlosSh43 | <img src="/assets/img/profiles/GitProfilePhoto - Carlos.png" alt="Carlos' Github Profile Photo"> | Shimabukuro Uku, Carlos Joel - U201912407 |
-| FlavioTrigueros | <img src="/assets/img/profiles/GitProfilePhoto - Flavio.png" alt="Flavio's Github Profile Photo"> | Trigueros Chumacero, Flavio Eduardo - U202210190 |
-| AldhaValenzuelaH | <img src="/assets/img/profiles/GitProfilePhoto - Aldhair.png" alt="Aldhair's Github Profile Photo"> | Valenzuela Huillcaya, Aldhair Johan Juan - U20201F572 |
-| LucioY250 | <img src="/assets/img/profiles/GitProfilePhoto - Lucio.png" alt="Lucio's Github Profile Photo"> | Yen Cerna, Lucio Heli - U202213143 |
+| RubDaShen | <img src="/assets/img/GitProfilePhoto - Ruben.png" alt="Ruben's Github Profile Photo"> | Mallma Quispe, Rubén Elías - U202214234 |
+| CarlosSh43 | <img src="/assets/img/GitProfilePhoto - Carlos.png" alt="Carlos' Github Profile Photo"> | Shimabukuro Uku, Carlos Joel - U201912407 |
+| FlavioTrigueros | <img src="/assets/img/GitProfilePhoto - Flavio.png" alt="Flavio's Github Profile Photo"> | Trigueros Chumacero, Flavio Eduardo - U202210190 |
+| AldhaValenzuelaH | <img src="/assets/img/GitProfilePhoto - Aldhair.png" alt="Aldhair's Github Profile Photo"> | Valenzuela Huillcaya, Aldhair Johan Juan - U20201F572 |
+| LucioY250 | <img src="/assets/img/GitProfilePhoto - Lucio.png" alt="Lucio's Github Profile Photo"> | Yen Cerna, Lucio Heli - U202213143 |
 
 **GitFlow Workflow:**
 
@@ -227,6 +230,8 @@ En esta sección explicaremos de qué forma se implementará GitFlow. Para este 
 
 - `feature`: Para cada nueva funcionalidad, se creará una rama de funcionalidad con el prefijo "feature/", seguido del nombre descriptivo de la función o característica. En nuestro caso, creamos 5 branches de características correspondientes a los 5 capítulos de nuestro informe, donde se realizan los commits respectivos antes de fusionarlos con la rama develop cuando estén listos. Estas ramas generales son respectivas a cada capitulo del reporte del proyecto y es donde los miembros del grupo de trabajo deben realizar sus pull request en primer lugar, con el fin de conseguir orden y seguridad en todo momento, junto a una buena división y organización:
 
+###### Tabla 17
+*Modelo de todas las ramas implementadas dentro de la organización del proyecto en Github*
 | Nombre | Descripción |
 |--------|-------------|
 | feature-Chapter01 | En esta rama se realizan todos los cambios respectivos a las secciones del Capitulo 1 del reporte del proyecto. En este feature se agregaron todas las partes referentes a la introducción del reporte, de nuestro startup y de nuestro producto. | 
@@ -248,6 +253,8 @@ En este formato, la sección branch debe especificar la rama en la que se ha rea
 
 Respecto a la descripción, esta debe estar redactada íntegramente en inglés y debe comenzar con un verbo que indique claramente el cambio que se va a realizar. A continuación, se proporciona una lista de verbos que pueden ser útiles en este contexto:
 
+###### Tabla 18
+*Modelo de escritura de verbos para todos los commits realizados en el proyecto de Github*
 | Verbo | Traducción | Uso en el proyecto de programación |
 |-------|------------|------------------------------------|
 | Add | Añadir | Usado para agregar alguna nueva sección, imagen, texto, etc., a una parte del proyecto. Lo ideal es solo usarlos en las features de los capitulos en forma de commits o en features individuales que esperan un pull request. |
@@ -420,6 +427,8 @@ En esta sección se registra y explica el avance en términos de producto y trab
 
 En esta sección se explicaran los detalles presentados y analizados durante la reunión del Sprint Planning para el número 1. El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión.
 
+###### Tabla 19
+*Tabla del planeamiento a profundidad del Sprint 1*
 <table>
         <tr>
             <td colspan="1">Sprint #</td>
@@ -477,6 +486,8 @@ En esta sección se explicaran los detalles presentados y analizados durante la 
 
 En esta sección se revisara todo el proceso dado para el Sprint Backlog número 1, en el cual nuestro equipo de trabajo se centró principalmente en el diseño y esquematización de la Landing Page de nuestra Startup y Producto de Software. Hemos separado toda la construcción de la Landing Page en seis (6) historias de usuario, donde cada integrante del grupo hizo al menos una. Gracias a este proceso, para el final del Sprint Backlog 1, hemos conseguido crear una página web estatica para nuestra Landing Page.
 
+###### Tabla 20
+*Tabla principal del planeamiento del Sprint Backlog 1*
 <table>
         <tr>
             <td colspan="2">Sprint #</td>
@@ -563,6 +574,8 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
 
 En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page. Aquí se dejara cada uno de los commits ya implementados dentro del repositorio de Github, junto a toda la información referente y a los cambios concluidos.
 
+###### Tabla 21
+*Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 1*
 | Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
 | upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(main): add index.html - Lucio - index.html - 1 | e0941ce | feat(main): add index.html | En esta sección se agregó el index.html a la branch del main. | 09/04/24 |
@@ -582,6 +595,8 @@ En esta sección se explica y presenta los avances en implementación con relaci
 
 ### 5.2.1.4 Testing Suite Evidence for Sprint Review. 
 
+###### Tabla 22
+*Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 1*
 | Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
 | REPOSITORIO DEL LANDING(NOMBRE)   | feat(develop): add header - index.html - 1 | 63ae3ce | feat: ...                        | MENSAJE DEL COMMIT            | FECHA DEL COMMIT  |
@@ -632,6 +647,8 @@ En esta sección se registra y explica el avance en términos de producto y trab
 
 En esta sección se explicaran los detalles presentados y analizados durante la reunión del Sprint Planning para el número 2. El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión.
 
+###### Tabla 23
+*Tabla del planeamiento a profundidad del Sprint 2*
 <table>
         <tr>
             <td colspan="1">Sprint #</td>
@@ -689,6 +706,8 @@ En esta sección se explicaran los detalles presentados y analizados durante la 
 
 En esta sección se revisara todo el proceso dado para el Sprint Backlog número 1, en el cual nuestro equipo de trabajo se centró principalmente en el diseño y esquematización de la Landing Page de nuestra Startup y Producto de Software. Hemos separado toda la construcción de la Landing Page en seis (6) historias de usuario, donde cada integrante del grupo hizo al menos una. Gracias a este proceso, para el final del Sprint Backlog 1, hemos conseguido crear una página web estatica para nuestra Landing Page.
 
+###### Tabla 24
+*Tabla principal del planeamiento del Sprint Backlog 2*
 <table>
         <tr>
             <td colspan="2">Sprint #</td>
@@ -872,6 +891,9 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
 
 
 ### 5.2.2.3 Development Evidence for Sprint Review.
+
+###### Tabla 25
+*Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 2*
 | Repository | Branch| Commit Id| Commit Message| Commit Message Body|Commited on (Date) |
 |------------|-------|----------|---------------|--------------------|-------------------|
 |upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|d3f5583|feat(ALL): initial commit|Se agrega el contenido inicial del proyecto.| 23/04/24|
@@ -901,6 +923,8 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
 
 ### 5.2.2.4 Testing Suite Evidence for Sprint Review. 
 
+###### Tabla 26
+*Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 2*
 | Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
 | upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): add US01-06 acceptance tests - Lucio - 1 | be875aa | feat(develop): add US01-06 acceptance tests | En esta sección se implementaron todos los Acceptance Test para el Sprint 1 de Propertunity | 12/04/24 |

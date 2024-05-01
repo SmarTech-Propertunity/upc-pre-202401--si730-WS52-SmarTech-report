@@ -423,50 +423,104 @@ Esta sección presenta la propuesta de Wireflows seleccionada y determinada por 
 
 Cada diagrama de Wireflow incluye la redacción del objetivo del usuario (User goal) correspondiente, complementado con una explicación detallada del flujo especificado. Esto permite una comprensión clara y completa de cómo los usuarios interactúan con la aplicación y cómo se desarrollan las diferentes etapas del proceso.
 
-Al iniciar sesión, el usuario podrá usar su cuenta creada de la aplicación web o puede crearse una. En caso el inicio de sesión sea exitoso, el usuario será dirigido a la página de inicio; caso contrario el usuario deberá crearse una cuenta nueva. Si desea crearse una cuenta nueva, el usuario deberá poner sus datos completos para la creación. En caso desee recuperar su cuenta ya sea porque se olvidó la contraseña, se pedirá el usuario o correo electrónico de la cuenta para luego poder recuperarla.
+Al iniciar sesión, el usuario tiene la opción de utilizar una cuenta previamente creada en la aplicación web o crear una nueva. En caso de que el inicio de sesión sea exitoso, el usuario será dirigido automáticamente a la página de inicio. En el caso de que el inicio de sesión falle, se le pedirá al usuario que cree una nueva cuenta.
 
+Si el usuario opta por crear una nueva cuenta, se le solicitarán sus datos completos para completar el proceso de registro. En este punto, el usuario deberá proporcionar la información requerida, como nombre, dirección de correo electrónico, contraseña, entre otros, según lo establecido por la aplicación.
+
+En el caso de que un usuario necesite recuperar su cuenta debido a la pérdida u olvido de la contraseña, se le pedirá que proporcione su nombre de usuario o dirección de correo electrónico asociada a la cuenta. Posteriormente, se le brindarán instrucciones sobre cómo restablecer la contraseña o acceder a su cuenta de manera segura. Este proceso garantiza que los usuarios tengan opciones claras y accesibles para gestionar sus cuentas de forma efectiva y segura.
+
+###### Figura 41.
+*Modelo de Wireflow de las secciones de ingreso (inicio de sesión y registro) de Propertunity.*
 <img src="/assets/img/WireflowDiagram1.png" alt="Wireflow diagram de inicio de sesión">
 
-Dentro de la aplicación, el usuario podrá navegar libremente y con sistemas de navegación que permitirá el fácil movimiento dentro de la página.
+Dentro de la aplicación, se ha diseñado un sistema de navegación intuitivo que permite al usuario moverse con facilidad y libertad por todas las secciones y funcionalidades disponibles. Este sistema de navegación ha sido cuidadosamente diseñado para garantizar una experiencia de usuario fluida y sin complicaciones.
+
+Los usuarios pueden explorar la aplicación de manera libre, utilizando diversas opciones de navegación que facilitan el acceso a diferentes partes de la plataforma. Se han implementado menús desplegables, botones de acceso rápido, enlaces contextuales y otros elementos interactivos que guían al usuario a través de la aplicación de manera eficiente.
+
+Este enfoque en la navegación facilita la búsqueda de información, la realización de acciones y la interacción con la aplicación en general. Además, el diseño intuitivo del sistema de navegación contribuye a una experiencia de usuario más agradable y satisfactoria, permitiendo a los usuarios concentrarse en sus objetivos sin distracciones ni obstáculos en el camino.
+
+###### Figura 42.
+*Modelo de Wireflow de las páginas y pestañas principales de la Aplicación Web.*
 <img src="/assets/img/WireflowDiagram2.png" alt="Wireflow diagram de aplicación web">
 
 ### 4.4.3. Web Applications Mock-Ups
-#### Inicio de sesión
+
+En esta sección, presentaremos los modelos de mock-ups detallados de la Aplicación Web principal de Propertunity, destacando todas las características necesarias y las divisiones de pestañas para una visualización más precisa y realista. En el contexto específico de la Aplicación Web de Propertunity, nuestro equipo de trabajo ha optado por un diseño basado en mock-ups que resalte por su interfaz visualmente atractiva, destinada a cautivar la atención de los usuarios y proporcionarles una sensación de confianza.
+
+Nuestro enfoque se centra en seguir un modelo de páginas estructuradas que faciliten la navegación del usuario y le permitan acceder fácilmente a diferentes secciones en función de sus necesidades y acciones. Entre las secciones clave se encuentra la página de inicio, que sirve como punto de partida principal y ofrece una visión general de las funcionalidades principales de la aplicación. Además, la barra de navegación se ha diseñado de manera clara y accesible para guiar al usuario a través de todas las características y opciones disponibles.
+
+Destacan también las secciones dedicadas a las publicaciones de todas las inmobiliarias, los métodos de publicación, las herramientas de financiamiento y los perfiles de los usuarios, cada una diseñada con un enfoque visualmente atractivo y una disposición intuitiva para garantizar una experiencia de usuario completa y satisfactoria. Estas secciones están diseñadas con el objetivo de proporcionar una navegación fluida y una interacción intuitiva, asegurando que los usuarios puedan disfrutar de todas las funcionalidades de la aplicación de manera eficiente y agradable.
+
+###### Figura 43.
+*Modelo de Mock-Up del Inicio de Sesión en la Aplicación Web de Propertunity.*
 <img src="/assets/img/Mockup-InicioDeSesión.png" alt="Wireframe de Inicio de Sesión de la aplicación web">
 
-#### Registro (creación de cuentas)
+###### Figura 44.
+*Modelo de Mock-Up del Registro de Cuentas en la Aplicación Web de Propertunity.*
 <img src="/assets/img/Mockup-Registro.png" alt="Mockup correspondiente al Registro o Creación de cuentas de la aplicación web">
 
-#### Inicio o Home
+###### Figura 45.
+*Modelo de Mock-Up de la Página de Inicio en la Aplicación Web de Propertunity.*
 <img src="/assets/img/Mockup-Inicio.png" alt="Mockup correspondiente al Inicio o 'Home' de la aplicación web">
 
-#### Perfil
+###### Figura 46.
+*Modelo de Mock-Up de la Página de Perfil n en la Aplicación Web de Propertunity.*
 <img src="/assets/img/Mockup-Perfil.png" alt="Mockup correspondiente al Perfil de la aplicación web">
 
-#### Búsqueda
+###### Figura 47.
+*Modelo de Mock-Up de la Sección de Búsqueda en la Aplicación Web de Propertunity.*
 <img src="/assets/img/Mockup-Búsqueda.png" alt="Mockup correspondiente al Búsqueda de la aplicación web">
 
-#### Publicación
+###### Figura 48.
+*Modelo de Mock-Up de la Página de Publicación de Propiedades en la Aplicación Web de Propertunity.*
 <img src="/assets/img/Mockup-Publicación.png" alt="Mockup correspondiente al Publicación de la aplicación web">
 
-#### Evaluación
+###### Figura 49.
+*Modelo de Mock-Up de la Página de Evaluación Crediticia en la Aplicación Web de Propertunity.*
 <img src="/assets/img/Mockup-Evaluación.png" alt="Mockup correspondiente al Evaluación de la aplicación web">
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-Cuando un usuario inicia sesión, tiene la opción de utilizar una cuenta existente de la aplicación web o de crear una nueva. Si el inicio de sesión es exitoso, se redirigirá al usuario a la página de inicio; de lo contrario, se le pedirá que cree una cuenta nueva. Para crear una nueva cuenta, el usuario debe proporcionar sus datos completos. Si el usuario necesita recuperar su cuenta debido a olvidar la contraseña, se le solicitará que proporcione su nombre de usuario o correo electrónico asociado con la cuenta para iniciar el proceso de recuperación.
+En esta sección, presentamos la propuesta de User Flows, un componente esencial en el diseño de la experiencia del usuario. Para cada objetivo del usuario (User goal), se ha desarrollado un User Flow específico, teniendo en cuenta los perfiles de usuario (User Persona) asociados a cada aplicación incluida en el alcance del proyecto. Es crucial que estos User Flows sean coherentes con los Wireflows previamente definidos, asegurando así una experiencia de usuario fluida y consistente en todas las etapas del proceso. En los User Flows se incluyen los Mock-ups de las vistas o pantallas de las aplicaciones, acompañados de los flujos que representan tanto la ruta esperada (happy path) como las rutas alternativas (unhappy paths).
 
+Cada diagrama de User Flow requerirá la redacción del objetivo del usuario correspondiente, complementado con una explicación detallada de los flujos y condiciones especificados. Estos User Flows son fundamentales para comprender cómo los usuarios interactúan con nuestras aplicaciones y para identificar posibles puntos de fricción o áreas de mejora en la experiencia del usuario. Al desarrollar User Flows coherentes y completos, estamos capacitados para diseñar experiencias de usuario que sean intuitivas, eficientes y satisfactorias para nuestros usuarios finales.
+
+Cuando un usuario inicia sesión, se le ofrece la opción de utilizar una cuenta existente en la aplicación web o de crear una nueva. Si el inicio de sesión es exitoso, el usuario será redirigido automáticamente a la página de inicio. En caso contrario, se le pedirá al usuario que cree una nueva cuenta.
+
+Para crear una nueva cuenta, el usuario debe proporcionar sus datos completos, incluyendo información como nombre, dirección de correo electrónico y contraseña. Este proceso garantiza que se recopilen todos los datos necesarios para configurar una cuenta de manera efectiva y segura.
+
+En el caso de que un usuario necesite recuperar su cuenta debido a que ha olvidado su contraseña, se le pedirá que proporcione su nombre de usuario o correo electrónico asociado con la cuenta. Una vez proporcionada esta información, se iniciará el proceso de recuperación de la cuenta, lo que puede incluir el restablecimiento de la contraseña o la verificación de la identidad del usuario a través de un correo electrónico de confirmación. Este proceso asegura que los usuarios tengan opciones claras y accesibles para gestionar sus cuentas de forma segura y eficiente.
+
+###### Figura 50.
+*Modelo de User Flow de las secciones de ingreso (inicio de sesión y registro) de Propertunity.*
 <img src="/assets/img/UserFlowDiagram1.png" alt="User Flow Diagram correspondiente al inicio de sesión">
 
-En la aplicación, los usuarios tienen la libertad de explorar y moverse fácilmente por la página gracias a sistemas de navegación intuitivos diseñado para el correcto funcionamiento de Propertunity.
+Dentro de la aplicación, se ha implementado un sistema de navegación intuitivo que otorga a los usuarios la libertad de explorar y desplazarse por la página de manera fluida y sin dificultades. Este sistema de navegación ha sido meticulosamente diseñado para garantizar el correcto funcionamiento de Propertunity, ofreciendo una experiencia de usuario optimizada y satisfactoria.
 
+Los usuarios pueden moverse fácilmente por la aplicación, accediendo a diferentes secciones y funcionalidades con facilidad gracias a la disposición intuitiva de los elementos de navegación. Se han incorporado menús desplegables, botones de acceso rápido y otros elementos interactivos que facilitan la navegación y permiten a los usuarios encontrar rápidamente lo que están buscando.
+
+Este enfoque en la navegación intuitiva mejora la usabilidad de la aplicación y contribuye a una experiencia de usuario más positiva en general. Al proporcionar a los usuarios la libertad de explorar y desplazarse por la página sin dificultades, estamos mejorando la accesibilidad y la eficiencia de Propertunity, lo que aumenta la satisfacción del usuario y promueve un mayor compromiso con la plataforma.
+
+###### Figura 51.
+*Modelo de User Flow de las páginas y pestañas principales de la Aplicación Web.*
 <img src="/assets/img/UserFlowDiagram2.png" alt="User Flow Diagram correspondiente al manejo de la aplicación web">
 
 ## 4.5. Web Applications Prototyping
 
-URL prototipo: https://www.figma.com/proto/l2XJHYzb11FHLkdTW8r4se/Web-Application-Wireframe?type=design&node-id=17-3&t=SEYRvLtIaY8ZKSAi-1&scaling=contain&page-id=17%3A2&starting-point-node-id=17%3A3&mode=design
+En esta sección, presentaremos los Prototipos de UI destinados al Desktop Web Browser, los cuales han sido meticulosamente diseñados con una simulación de interacción y navegación, siguiendo de cerca la propuesta de paths de User Flow Diagrams. Para comprender mejor estos prototipos, comenzaremos con una introducción detallada en la que se explicarán los principales criterios utilizados para tomar decisiones de interacción.
 
-URL video demostrativo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912407_upc_edu_pe/EVw5tGaqkIxKnMGtILenqO4BPmb9Pby46WbbND5ByaRY4w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=r7gefd
+Es crucial resaltar la estrecha relación entre estas decisiones de interacción y la arquitectura de información, especialmente en lo que respecta al sistema de navegación y los tipos de interacciones seleccionadas. Esto asegura que los prototipos no solo sean visualmente atractivos, sino también funcionales y alineados con los objetivos del proyecto.
+
+Para cada caso presentado, proporcionaremos un screenshot o captura de video que ilustre el prototipo en acción. Además, incluiremos un enlace a un video alojado en Microsoft Stream, donde se demostrarán y explicarán los principales flujos de interacción cubiertos por los prototipos. Este enfoque permitirá a los espectadores comprender de manera completa y detallada cómo se espera que los usuarios interactúen con la interfaz y cómo se cumplen los objetivos de diseño establecidos.
+
+Primero vamos a integrar el enlace directo al modelo de presentación que hemos utilizado para el vídeo. Este modelo de Prototipo los hemos diseñado y esquematizado de forma adecuada dentro de la aplicación Figma. Aqui pueden revisarlo a detalle: https://www.figma.com/proto/l2XJHYzb11FHLkdTW8r4se/Web-Application-Wireframe?type=design&node-id=17-3&t=SEYRvLtIaY8ZKSAi-1&scaling=contain&page-id=17%3A2&starting-point-node-id=17%3A3&mode=design
+
+Ahora, en esta siguiente sección les presentaremos el vídeo realizado para el prototipo de la Landing Page y la Aplicación Web conjunta de Propertunity. En este vídeo se explican todos los puntos necesarios para la comprensión de todos los flujos, junto al modelado de los sistemas escogidos y las funciones que podrán untilizar nuestros usuario. Revisen el siguiente enlace integrado: 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912407_upc_edu_pe/EVw5tGaqkIxKnMGtILenqO4BPmb9Pby46WbbND5ByaRY4w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=r7gefd
+
+###### Figura 52.
+*Imagen de presentación del vídeo del prototipo UI de la Landing Page y Aplicación Web de Propertunity*
+<img src="/assets/img/Video del Prototipo.png" alt="Presentación del vídeo del prototipo UI de la Landing Page y Aplicación Web">
 
 ## 4.6. Domain-Driven Software Architecture
 

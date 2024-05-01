@@ -654,7 +654,7 @@ Dentro del Sprint 1, el equipo logró un avance significativo al implementar las
 
 ### 5.2.1.6 Services Documentation Evidence for Sprint Review. 
 
-Durante el Sprint 1, nuestro principal objetivo fue la creación del Landing Page, sin la implementación de servicios adicionales. Por lo tanto, este apartado permanecerá vacío en nuestro reporte, ya que nuestra atención se centró exclusivamente en el diseño y desarrollo del Landing Page
+En esta sección, presentamos la relación de Endpoints documentados con OpenAPI, que están directamente vinculados con el alcance del Sprint 1, los cuales integraran datos sencillos y completos para la elaboración de funcionalidades. Sin embargo, drante el Sprint 1, nuestro principal objetivo fue la creación del Landing Page, sin la implementación de servicios adicionales. Por lo tanto, este apartado permanecerá vacío en nuestro reporte, ya que nuestra atención se centró exclusivamente en el diseño y desarrollo del Landing Page
 
 ### 5.2.1.7 Software Deployment Evidence for Sprint Review.
 
@@ -1038,7 +1038,13 @@ Finalmente, se agregaron caracteristicas matématicas al implementar una calcula
 
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review. 
 
+En esta sección, presentamos la relación de Endpoints documentados con OpenAPI, que están directamente vinculados con el alcance del Sprint. Iniciamos con una breve introducción que resume los logros alcanzados en relación con la Documentación de Web Services durante este período de desarrollo. A continuación, proporcionamos una tabla detallada que enumera cada Endpoint, junto con las acciones implementadas y los enlaces correspondientes a la documentación desplegada o la URL local en Sprints anteriores al despliegue de Web Services.
 
+
+
+En la tabla, se indican las acciones soportadas para cada Endpoint, incluyendo el verbo HTTP (GET, POST, PUT, DELETE, PATCH), la sintaxis de llamada, la especificación de posibles parámetros y se incluye un ejemplo junto con una explicación del response correspondiente. Además de la tabla, se presentan capturas de pantalla que ilustran la interacción con la documentación elaborada, utilizando datos de muestra para demostrar cómo se utiliza cada Endpoint.
+
+Además, proporcionamos el URL del repositorio de Web Services utilizado para el desarrollo, junto con los ID de los commits relacionados con la Documentación para este Sprint. Esta información permite una referencia completa y detallada a los avances realizados en la documentación de los Web Services durante el Sprint en cuestión.
 
 ### 5.2.2.7 Software Deployment Evidence for Sprint Review.
 
@@ -1056,11 +1062,10 @@ Además, programamos sesiones regulares de brainstorming y resolución de proble
 ###### Figura 88
 *Reporte completo de contribuciones para el desarrollo del Reporte Principal del Proyecto de Propertunity del Sprint 2.*
 
-<img src="/assets/img/Pulse for Main Branch.png" alt="Pulse for Main Branch">
-<img src="/assets/img/Contributions for Main.png" alt="Contributions for Main">
-<img src="/assets/img/Individual Contributions for Main - 1.png" alt="Individual Contributions for Main - 1
-  ">
-<img src="/assets/img/Individual Contributions for Main - 2.png" alt="Individual Contributions for Main - 2">
+<img src="/assets/img/Pulse for Main Branch2.png" alt="Pulse for Main Branch2">
+<img src="/assets/img/Contributions for Main2.png" alt="Contributions for Main2">
+<img src="/assets/img/Individual Contributions for Main Branch2 - 1.png" alt="Individual Contributions for Main Branch2 - 1">
+<img src="/assets/img/Individual Contributions for Main Branch2 - 2.png" alt="Individual Contributions for Main Branch2 - 2">
 
 ###### Figura 89
 *Reporte completo de contribuciones para el desarrollo del FrontEnd del Web Application del Proyecto de Propertunity del Sprint 2.*

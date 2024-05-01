@@ -509,18 +509,21 @@ Este enfoque en la navegación intuitiva mejora la usabilidad de la aplicación 
 
 En esta sección, presentaremos los Prototipos de UI destinados al Desktop Web Browser, los cuales han sido meticulosamente diseñados con una simulación de interacción y navegación, siguiendo de cerca la propuesta de paths de User Flow Diagrams. Para comprender mejor estos prototipos, comenzaremos con una introducción detallada en la que se explicarán los principales criterios utilizados para tomar decisiones de interacción.
 
-Es crucial resaltar la estrecha relación entre estas decisiones de interacción y la arquitectura de información, especialmente en lo que respecta al sistema de navegación y los tipos de interacciones seleccionadas. Esto asegura que los prototipos no solo sean visualmente atractivos, sino también funcionales y alineados con los objetivos del proyecto.
+Según Tidwell et al. (2020), "Web Applications Prototyping" se refiere al proceso de crear prototipos o versiones tempranas de aplicaciones web para probar y validar conceptos, funcionalidades y diseños antes de desarrollar la versión final. Estos prototipos suelen ser versiones simplificadas y no funcionales de la aplicación que permiten a los diseñadores, desarrolladores y stakeholders visualizar y comprender cómo se verá y se comportará la aplicación final.
+
+El objetivo principal del prototipado de aplicaciones web es recopilar retroalimentación temprana de los usuarios y partes interesadas para mejorar el diseño y la usabilidad de la aplicación antes de comprometer recursos significativos en el desarrollo completo. Esto puede ayudar a identificar problemas potenciales y realizar ajustes necesarios en una etapa temprana del proceso de desarrollo, lo que ahorra tiempo y recursos en el futuro. Es crucial resaltar la estrecha relación entre estas decisiones de interacción y la arquitectura de información, especialmente en lo que respecta al sistema de navegación y los tipos de interacciones seleccionadas. Esto asegura que los prototipos no solo sean visualmente atractivos, sino también funcionales y alineados con los objetivos del proyecto.
 
 Para cada caso presentado, proporcionaremos un screenshot o captura de video que ilustre el prototipo en acción. Además, incluiremos un enlace a un video alojado en Microsoft Stream, donde se demostrarán y explicarán los principales flujos de interacción cubiertos por los prototipos. Este enfoque permitirá a los espectadores comprender de manera completa y detallada cómo se espera que los usuarios interactúen con la interfaz y cómo se cumplen los objetivos de diseño establecidos.
 
-Primero vamos a integrar el enlace directo al modelo de presentación que hemos utilizado para el vídeo. Este modelo de Prototipo los hemos diseñado y esquematizado de forma adecuada dentro de la aplicación Figma. Aqui pueden revisarlo a detalle: https://www.figma.com/proto/l2XJHYzb11FHLkdTW8r4se/Web-Application-Wireframe?type=design&node-id=17-3&t=SEYRvLtIaY8ZKSAi-1&scaling=contain&page-id=17%3A2&starting-point-node-id=17%3A3&mode=design
+Primero vamos a integrar el enlace directo al modelo de presentación que hemos utilizado para el vídeo. Este modelo de Prototipo los hemos diseñado y esquematizado de forma adecuada dentro de la aplicación Figma. Aqui pueden revisarlo a detalle: https:
+//www.figma.com/proto/l2XJHYzb11FHLkdTW8r4se/Web-Application-Wireframe?type=design&node-id=17-3&t=SEYRvLtIaY8ZKSAi-1&scaling=contain&page-id=17%3A2&starting-point-node-id=17%3A3&mode=design
 
 Ahora, en esta siguiente sección les presentaremos el vídeo realizado para el prototipo de la Landing Page y la Aplicación Web conjunta de Propertunity. En este vídeo se explican todos los puntos necesarios para la comprensión de todos los flujos, junto al modelado de los sistemas escogidos y las funciones que podrán untilizar nuestros usuario. Revisen el siguiente enlace integrado: 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912407_upc_edu_pe/EVw5tGaqkIxKnMGtILenqO4BPmb9Pby46WbbND5ByaRY4w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=r7gefd
 
 ###### Figura 52.
 *Imagen de presentación del vídeo del prototipo UI de la Landing Page y Aplicación Web de Propertunity*
-<img src="/assets/img/Video del Prototipo.png" alt="Presentación del vídeo del prototipo UI de la Landing Page y Aplicación Web">
+<img src="/assets/img/Video del Prototipo.png" alt="Presentación del vídeo del prototipo UI de la Landing Page y Aplicación Web" width="900" height="500">
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -531,6 +534,8 @@ El diagrama de contexto, el nivel más alto de abstracción en el modelo C4, ofr
 
 En este se proporciona una representación más detallada de la interacción entre los usuarios, los agentes inmobiliarios y la aplicación web. Además de mostrar estas interacciones, también revela las conexiones de la aplicación con diversas API y servicios externos. Estas conexiones son fundamentales para permitir que la aplicación web cumpla con las diversas funciones requeridas por los usuarios.
 
+###### Figura 53.
+*Diagrama de Contexto del Modelo de Propertunity*
 <img src="/assets/img/C4_ContextDiagram.png" alt="Diagrama de contexto del modelo C4" width="1000" height="670">
 
 ### 4.6.2. Software Architecture Container Diagrams.
@@ -538,22 +543,38 @@ El diagrama de contenedores ofrece una representación visual de la arquitectura
 
 En este diagrama, se profundiza en el interior de todo el sistema integrado de Propertunity, revelando una arquitectura de conexión entre el FrontEnd y el BackEnd, junto a todos los sistemas externos adyacentes. A su vez, el BackEnd establece conexiones con la base de datos para gestionar y almacenar los datos necesarios para el funcionamiento del sistema. Este enfoque detallado del diagrama de contenedores permite una comprensión más clara de cómo interactúan los diferentes componentes del sistema entre sí.
 
+###### Figura 54.
+*Diagrama de Contenedores el Modelo de Propertunity*
 <img src="/assets/img/C4_ContainerDiagram.png" alt="Diagrama de contenedor del modelo C4" width="1000" height="500">
 
 ### 4.6.3. Software Architecture Components Diagrams
-El diagrama de componentes se adentra en el nivel más detallado de la arquitectura, desglosando cada contenedor en sus componentes individuales. Se muestra la organización y comunicación entre los componentes dentro del contenedor.<br>
-Se visualiza los componentes internos del backend, el controlador principal y a relación que este tiene con los otros componentes dedicados a la interacción con los API externos y la base de datos.
 
-Diagrama de Componentes especializado en la Página Web o Landing Page de Propertunity:
+El diagrama de componentes nos sumerge en un nivel de detalle más profundo dentro de la arquitectura, ofreciendo un desglose minucioso de cada contenedor en sus componentes individuales. En este nivel de análisis, se pone de relieve la organización y comunicación entre estos componentes dentro del contenedor, lo que proporciona una comprensión clara de cómo interactúan y se relacionan entre sí.
 
+Dentro de este contexto, se nos presenta una visualización de los componentes internos del backend, destacando especialmente el papel del controlador principal. Este último actúa como un punto central en el sistema, orquestando y coordinando las diversas operaciones y flujos de datos que tienen lugar dentro de la aplicación. Además, se evidencia la relación que este controlador principal mantiene con otros componentes especializados, tales como aquellos encargados de la interacción con APIs externos y la base de datos.
+
+Esta representación detallada del diagrama de componentes no solo nos permite entender la estructura interna del sistema de una manera más profunda, sino que también nos proporciona información valiosa sobre cómo se gestionan y procesan los datos dentro de la aplicación. Al desglosar cada elemento en sus componentes individuales y mostrar su interacción, este diagrama sirve como una herramienta invaluable para el diseño, desarrollo y mantenimiento efectivos del sistema.
+
+En el marco de la planificación y desarrollo de la Página Web o Landing Page de Propertunity, es fundamental contar con una comprensión detallada de la estructura y los componentes que conforman esta plataforma digital. El Diagrama de Componentes especializado en la Página Web o Landing Page de Propertunity se erige como una herramienta esencial en este proceso, proporcionando una visión exhaustiva de la arquitectura subyacente y los elementos funcionales que dan forma a la experiencia del usuario.
+
+###### Figura 55.
+*Diagrama de Componentes de la página web o landing page de Propertunity*
 <img src="/assets/img/C4_ComponentDiagram_WebPage.png" alt="Diagrama de componentes del modelo C4 para la página web" width="1000" height="800">
 
-Diagrama de Componentes especializado en la Aplicación Web de Propertunity:
+Continuando con nuestro análisis detallado de la infraestructura tecnológica de Propertunity, nos adentramos ahora en la inspección del Diagrama de Componentes especializado en su Aplicación Web. En este segmento, nos sumergiremos en los entresijos de la arquitectura de la aplicación, desglosando los componentes clave que constituyen su estructura fundamental y facilitan su funcionamiento eficiente y fluido.
 
+El objetivo principal de este análisis es proporcionar una visión integral de los elementos internos de la Aplicación Web de Propertunity, así como de su interacción y relación entre sí. A través de la identificación y descripción de estos componentes, pretendemos ofrecer una comprensión clara y detallada de cómo se organiza y gestiona la información dentro de la aplicación, así como cómo se lleva a cabo la comunicación entre los diferentes módulos y funcionalidades.
+
+###### Figura 56.
+*Diagrama de Componentes de la aplicación web de Propertunity*
 <img src="/assets/img/C4_ComponentDiagram_WebApplication.png" alt="Diagrama de componentes del modelo C4 para la aplicación web" width="1000" height="550">
 
-Diagrama de Componentes especializado en la API Principal de Propertunity:
+Finalmente, tenemos identificado y detallado el Diagrama de Componentes especializado en la API Principal de Propertunity, un componente crítico en la arquitectura tecnológica de la plataforma. La API (Interfaz de Programación de Aplicaciones) Principal desempeña un papel central en la interacción y comunicación entre la aplicación web de Propertunity y otros sistemas externos, proporcionando un medio eficiente y seguro para el intercambio de datos y la ejecución de funcionalidades clave.
 
+Durante este análisis, examinaremos aspectos como la gestión de solicitudes y respuestas, la autenticación y autorización de usuarios, la manipulación de datos y la implementación de lógica empresarial. Además, identificaremos posibles puntos de optimización y áreas de mejora en la infraestructura de la API, con el objetivo de garantizar su rendimiento óptimo y su capacidad para satisfacer las necesidades cambiantes de la aplicación web de Propertunity.
+
+###### Figura 57.
+*Diagrama de Componentes de la API Principal de Propertunity*
 <img src="/assets/img/C4_ComponentDiagram_API.png" alt="Diagrama de componentes del modelo C4 para la API principal" width="1000" height="450">
 
 ## 4.7. Software Object-Oriented Design
@@ -562,6 +583,9 @@ Diagrama de Componentes especializado en la API Principal de Propertunity:
 <img src="/assets/img/ClassDiagram.png" alt="Diagrama de clases">
 
 ### 4.7.2. Class Dictionary
+
+###### Tabla 14.
+*Seguimiento de Navigation Systems integrados dentro del proyecto de trabajo.*
 |Entidad|Atributos|
 |-|-|
 | ***UserData*** | Contenedor de datos para la clase "User" |

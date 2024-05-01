@@ -1,4 +1,4 @@
-![image](https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report/assets/130616378/421ebb62-855c-4470-8a38-b8436fff7a89)# Capítulo IV: Product UX/UI Design
+# Capítulo IV: Product UX/UI Design
 
 ## 4.1. Style Guidelines
 
@@ -354,7 +354,7 @@ En el contexto específico de la landing page de Propertunity, se ha optado por 
 Asimismo, se han integrado opciones de suscripción para aquellos interesados en recibir actualizaciones y noticias relacionadas con Propertunity, así como características destacadas que resaltan los puntos fuertes y ventajas de la plataforma. Los testimonios de clientes satisfechos se han incluido para generar confianza y credibilidad entre los usuarios potenciales, mientras que un formulario de contacto se ha agregado para facilitar la comunicación directa con el equipo de Propertunity.
 
 ###### Figura 33.
-*Modelo de Wireframes establecidos para la Landing Page de Propertunity*
+*Modelo de Wireframes establecidos para la Landing Page de Propertunity.*
 <img src="/assets/img/LandingPage-Wireframes01.PNG" alt="Landing page wireframes" >
 <img src="/assets/img/LandingPage-Wireframes02.PNG" alt="Landing page wireframes" >
 <img src="/assets/img/LandingPage-Wireframes03.PNG" alt="Landing page wireframes" >
@@ -369,7 +369,7 @@ Según Tidwell et al. (2020), los mock-ups, al igual que los wireframes, desempe
 En el contexto específico de la landing page de Propertunity, se ha optado por utilizar mock-ups para diseñar un entorno más visualmente rico y atractivo. Estos mock-ups incluyen una variedad de secciones diseñadas para captar la atención del usuario y ofrecer una experiencia estética y funcionalmente agradable. Entre las características destacadas se encuentran una página de inicio que actúa como punto de entrada principal, presentando una visión general de las funcionalidades y servicios ofrecidos por Propertunity con elementos visuales más elaborados.
 
 ###### Figura 34.
-*Modelo de Mock-Ups establecidos para la Landing Page de Propertunity*
+*Modelo de Mock-Ups establecidos para la Landing Page de Propertunity.*
 <img src="/assets/img/mock-up 1.png" alt="Landing page mock-up" >
 <img src="/assets/img/mock-up 2.png" alt="Landing page mock-up" >
 <img src="/assets/img/mock-up 3.png" alt="Landing page mock-up" >
@@ -380,32 +380,51 @@ En el contexto específico de la landing page de Propertunity, se ha optado por 
 En este conjunto de modelos de seguimiento relacionados con nuestra Landing Page, cada una de las características principales se representa de manera visual y detallada. El propósito es proporcionar a los lectores una vista completa y profunda, lo que les permitirá realizar un análisis exhaustivo de cada elemento. Para facilitar este proceso, hemos incluido un enlace al desarrollo del modelo de los Mock-Ups en la página de diseño de Figma. Este enlace ofrece a los lectores la oportunidad de explorar cada aspecto del diseño de manera interactiva y acceder a información adicional si es necesario. https://www.figma.com/file/EhhUmOL6KJMmSlNKHDspiY/Propertunity_LandingPage-Designtype=design&nodeid=0%3A1&mode=design&t=saITXo5X8DKZyxB4-1
 
 ## 4.4. Web Applications UX/UI Design
-En esta sección incluiremos secciones internas donde presentaremos y explicaremos la propuesta visual y de interacción para las aplicaciones que constituyen la experiencia de usuario con los productos digitales.
+
+En esta sección, nos adentraremos en aspectos más detallados al presentar y explicar la propuesta visual y de interacción para las aplicaciones que conforman la experiencia de usuario en nuestros productos digitales. Exploraremos las diversas secciones internas de estas aplicaciones, desglosando su diseño y funcionalidades para proporcionar una comprensión más profunda de cómo los usuarios interactúan con nuestros productos en el entorno digital.
 
 ### 4.4.1. Web Applications Wireframes
-#### Inicio de sesión
+
+En esta sección, presentaremos los modelos de wireframes esquematizados de la Aplicación Web principal de Propertunity, detallando todas las características necesarias, así como las separaciones y divisiones de pestañas. En el contexto específico de la Aplicación Web de Propertunity, nuestro equipo de trabajo ha optado por un diseño intuitivo que se distinga por su interfaz atractiva, capaz de captar la atención de los usuarios y ofrecerles una sensación de tranquilidad y seguridad en todo momento.
+
+Asimismo, nos hemos propuesto seguir un modelo de páginas estructuradas que faciliten el acceso a otras secciones según las acciones del usuario. Entre las secciones clave se incluye la página de inicio, que sirve como punto de entrada principal, así como la sección de la barra de navegación, que proporciona una guía clara para explorar todas las funcionalidades de la aplicación. También destacan las secciones dedicadas a las publicaciones de todas las inmobiliarias, los métodos de publicación, las herramientas de financiamiento y los perfiles de todos los usuarios, junto con su fiabilidad asociada. Estas secciones están diseñadas para ofrecer una experiencia de usuario completa y satisfactoria, garantizando una navegación fluida y una interacción intuitiva con la aplicación.
+
+###### Figura 35.
+*Modelo de Wireframe del Inicio de Sesión en la Aplicación Web de Propertunity.*
 <img src="/assets/img/Wireframe-InicioDeSesión.png" alt="Wireframe de Inicio de Sesión de la aplicación web">
 
-#### Registro (creación de cuentas)
+###### Figura 36.
+*Modelo de Wireframe del Registro de Cuentas en la Aplicación Web de Propertunity.*
 <img src="/assets/img/Wireframe-Registro.png" alt="Wireframe de Registro o Creación de cuentas de la aplicación web">
 
-#### Inicio o Home
+###### Figura 37.
+*Modelo de Wireframe de la Página de Inicio en la Aplicación Web de Propertunity.*
 <img src="/assets/img/Wireframe-Inicio.png" alt="Wireframe de Inicio o 'Home' de la aplicación web">
 
-#### Perfil
+###### Figura 38.
+*Modelo de Wireframe de la Página de Perfil n en la Aplicación Web de Propertunity.*
 <img src="/assets/img/Wireframe-Perfil.png" alt="Wireframe de Perfil de la aplicación web">
 
-#### Búsqueda
+###### Figura 39.
+*Modelo de Wireframe de la Sección de Búsqueda en la Aplicación Web de Propertunity.*
 <img src="/assets/img/Wireframe-Búsqueda.png" alt="Wireframe de Búsqueda de la aplicación web">
 
-#### Publicación
+###### Figura 39.
+*Modelo de Wireframe de la Página de Publicación de Propiedades en la Aplicación Web de Propertunity.*
 <img src="/assets/img/Wireframe-Publicación.png" alt="Wireframe de Publicación de la aplicación web">
 
-#### Evaluación
+###### Figura 40.
+*Modelo de Wireframe de la Página de Evaluación Crediticia en la Aplicación Web de Propertunity.*
 <img src="/assets/img/Wireframe-Evaluación.png" alt="Wireframe de Evaluación de la aplicación web">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+Esta sección presenta la propuesta de Wireflows seleccionada y determinada por nuestro equipo de trabajo. Para cada objetivo del usuario (User goal), se ha creado un Wireflow específico, teniendo en cuenta los User Persona asociados a cada aplicación incluida en el alcance del proyecto. Es esencial recordar que la manera en que se refleja un cambio en una pantalla (Wireframe) como resultado de la interacción en un flujo implica agregar un paso con un Wireframe que represente el nuevo estado.
+
+Cada diagrama de Wireflow incluye la redacción del objetivo del usuario (User goal) correspondiente, complementado con una explicación detallada del flujo especificado. Esto permite una comprensión clara y completa de cómo los usuarios interactúan con la aplicación y cómo se desarrollan las diferentes etapas del proceso.
+
 Al iniciar sesión, el usuario podrá usar su cuenta creada de la aplicación web o puede crearse una. En caso el inicio de sesión sea exitoso, el usuario será dirigido a la página de inicio; caso contrario el usuario deberá crearse una cuenta nueva. Si desea crearse una cuenta nueva, el usuario deberá poner sus datos completos para la creación. En caso desee recuperar su cuenta ya sea porque se olvidó la contraseña, se pedirá el usuario o correo electrónico de la cuenta para luego poder recuperarla.
+
 <img src="/assets/img/WireflowDiagram1.png" alt="Wireflow diagram de inicio de sesión">
 
 Dentro de la aplicación, el usuario podrá navegar libremente y con sistemas de navegación que permitirá el fácil movimiento dentro de la página.

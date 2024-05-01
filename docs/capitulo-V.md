@@ -1055,10 +1055,10 @@ Además de la implementación de estas características y funcionalidades, el eq
 
 En esta sección, presentamos la relación de Endpoints documentados con OpenAPI, que están directamente vinculados con el alcance del Sprint. Iniciamos con una breve introducción que resume los logros alcanzados en relación con la Documentación de Web Services durante este período de desarrollo. A continuación, proporcionamos una tabla detallada que enumera cada Endpoint, junto con las acciones implementadas y los enlaces correspondientes a la documentación desplegada o la URL local en Sprints anteriores al despliegue de Web Services.
 
-En la tabla, se indican las acciones soportadas para cada Endpoint, incluyendo el verbo HTTP (GET, POST, PUT, DELETE, PATCH), la sintaxis de llamada, la especificación de posibles parámetros y se incluye un ejemplo junto con una explicación del response correspondiente. Además de la tabla, se presentan capturas de pantalla que ilustran la interacción con la documentación elaborada, utilizando datos de muestra para demostrar cómo se utiliza cada Endpoint.
+En la tabla, se indican las acciones soportadas para cada Endpoint, incluyendo el verbo HTTP (GET, POST, PUT, DELETE, PATCH), la sintaxis de llamada, la especificación de posibles parámetros y se incluye un ejemplo junto con una explicación del response correspondiente. Además de la tabla, se presentan capturas de pantalla que ilustran la interacción con la documentación elaborada, utilizando datos de muestra para demostrar cómo se utiliza cada Endpoint. En este caso, vamos a dar una explicación completa de 3 clases con respecto a todo el modelo del DBJson para poder dar una idea completa y, a la vez, no abrumar al lector con grandes cúmulos de información base en un modelo CRUD:
 
-En este caso, vamos a dar una explicación completa de 3 clases 
-
+###### Tabla 27
+*Tabla del modelo de escritura para el EndPoinrt del DBJson con respecto a la base de los usuarios.*
 | Método | Descripción | Ejemplo de llamada | Parámetros | Respuesta |
 |--------|-------------|---------------------|------------|-----------|
 | GET    | Obtener todos los usuarios | GET /usuarios | Ninguno | Lista de usuarios en formato JSON con detalles como nombre, correo, fecha de registro, etc. |
@@ -1067,10 +1067,30 @@ En este caso, vamos a dar una explicación completa de 3 clases
 | PUT    | Actualizar un usuario existente | PUT /usuarios/{id_usuario} | id_usuario (int), Datos actualizados del usuario en formato JSON en el cuerpo de la solicitud, como nombre, correo, contraseña, etc. | Mensaje de éxito o error en formato JSON. |
 | DELETE | Eliminar un usuario existente | DELETE /usuarios/{id_usuario} | id_usuario (int) | Mensaje de éxito o error en formato JSON. |
 
+###### Tabla 28
+*Tabla del modelo de escritura para el EndPoinrt del DBJson con respecto a la base de las propiedades.*
+| Método | Descripción | Ejemplo de llamada | Parámetros | Respuesta |
+|--------|-------------|---------------------|------------|-----------|
+| GET    | Obtener todas las propiedades | GET /propiedades | Ninguno | Lista de todas las propiedades disponibles en formato JSON, con detalles como título, descripción, precio, ubicación, etc. |
+| GET    | Obtener una propiedad específica | GET /propiedades/{id_propiedad} | id_propiedad (int) | Detalles completos de la propiedad especificada en formato JSON, incluyendo título, descripción, precio, ubicación, características, etc. |
+| POST   | Crear una nueva propiedad | POST /propiedades | Datos de la propiedad a crear en formato JSON en el cuerpo de la solicitud, incluyendo título, descripción, precio, ubicación, etc. | Mensaje de éxito o error en formato JSON, junto con el ID asignado a la nueva propiedad creada. |
+| PUT    | Actualizar una propiedad existente | PUT /propiedades/{id_propiedad} | id_propiedad (int), Datos actualizados de la propiedad en formato JSON en el cuerpo de la solicitud, como título, descripción, precio, ubicación, etc. | Mensaje de éxito o error en formato JSON. |
+| DELETE | Eliminar una propiedad existente | DELETE /propiedades/{id_propiedad} | id_propiedad (int) | Mensaje de éxito o error en formato JSON. |
+
+###### Tabla 29
+*Tabla del modelo de escritura para el EndPoinrt del DBJson con respecto a la base de las areas comunes.*
+| Método | Descripción                                | Ejemplo de llamada       | Parámetros                            | Respuesta                                                                                                                      |
+|--------|--------------------------------------------|---------------------------|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| GET    | Obtener todas las áreas comunes           | GET /areas_comunes        | Ninguno                               | Lista de todas las áreas comunes disponibles en formato JSON, con detalles como título, descripción, tipo, etc.             |
+| GET    | Obtener una área común específica         | GET /areas_comunes/{id}   | id (int)                             | Detalles completos de la área común especificada en formato JSON, incluyendo título, descripción, tipo, etc.                 |
+| POST   | Crear una nueva área común               | POST /areas_comunes       | Datos de la área común a crear en formato JSON en el cuerpo de la solicitud, incluyendo título, descripción, tipo, etc.    | Mensaje de éxito o error en formato JSON, junto con el ID asignado a la nueva área común creada.                               |
+| PUT    | Actualizar una área común existente      | PUT /areas_comunes/{id}   | id (int), Datos actualizados de la área común en formato JSON en el cuerpo de la solicitud, como título, descripción, etc. | Mensaje de éxito o error en formato JSON.                                                                                     |
+| DELETE | Eliminar una área común existente        | DELETE /areas_comunes/{id}| id (int)                             | Mensaje de éxito o error en formato JSON.                                                                                     |
+
+
 ### 5.2.2.7 Software Deployment Evidence for Sprint Review.
 
 Dentro del Sprint 2, realizamos el despliegue de nuestra Aplicación Web en Firebase como parte fundamental de nuestra estrategia de lanzamiento. A continuación, detallamos meticulosamente los pasos llevados a cabo para lograr este despliegue con éxito:
-
 
 ### 5.2.2.8 Team Collaboration Insights during Sprint.
 
@@ -1091,7 +1111,7 @@ Además, programamos sesiones regulares de brainstorming y resolución de proble
 ###### Figura 89
 *Reporte completo de contribuciones para el desarrollo del FrontEnd del Web Application del Proyecto de Propertunity del Sprint 2.*
 
-<img src="/assets/img/Pulse for Landing Page.png" alt="Pulse for Landing Page">
-<img src="/assets/img/Contributions for Landing Page.png" alt="Contributions for Landing Page">
-<img src="/assets/img/Individual Contributions for Landing Page - 1.png" alt="Individual Contributions for Landing Page - 1">
-<img src="/assets/img/Individual Contributions for Landing Page 2.png" alt="Individual Contributions for Landing Page - 2">
+<img src="/assets/img/Pulse for Web Application.png" alt="Pulse for FrontEnd Web Application">
+<img src="/assets/img/Contributions for Web Application.png" alt="Contributions for FrontEnd Web Application">
+<img src="/assets/img/Individual Contributions for Web Application - 1.png" alt="Individual Contributions for FrontEnd Web Application - 1">
+<img src="/assets/img/Individual Contributions for Web Application 2.png" alt="Individual Contributions for FrontEnd Web Application - 2">

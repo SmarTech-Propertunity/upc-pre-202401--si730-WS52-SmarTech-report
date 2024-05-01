@@ -2,7 +2,7 @@
 
 ## 4.1. Style Guidelines
 
-En esta parte, presentaremos el plan de diseños, estilos y estéticas que hemos elaborado para todas nuestra páginas web de forma general, con el objetivo de garantizar que nuestros usuarios disfruten de una interfaz amigable y fácil de utilizar. Para lograrlo, hemos optado por emplear elementos visuales que sean claramente visibles y estéticamente agradables, además de identificar una serie de restricciones para evitar incluir elementos gráficos discordantes o poco llamativos.
+En esta parte, presentaremos el plan de diseños, estilos y estéticas que hemos elaborado para todas nuestras páginas web de forma general, con el objetivo de garantizar que nuestros usuarios disfruten de una interfaz amigable y fácil de utilizar. Para lograrlo, hemos optado por emplear elementos visuales que sean claramente visibles y estéticamente agradables, además de identificar una serie de restricciones para evitar incluir elementos gráficos discordantes o poco llamativos.
 
 ### 4.1.1. General Style Guidelines
 
@@ -53,7 +53,7 @@ La tercera paleta corresponde al color rojo, el cual transmite valentía y energ
 
 #### Tipografía:
 
-La tipografía de la marca es un punto esencial para su diseño en general. Según Dopico (2021), el tipo de fuente que elegimos para nuestras páginas provoca una reacción psicológica que puede ayudar a nuestra marca a ser más atrayente, cómoda y amigable. Al cambiar el estilo de fuente y elegir uno adecuado, podemos hacer que los usuarios se sientan de una forma distinta con nuestra startup. Se deben usar fuentes que ofrezcan un impacto positivo y que le otorgue identidad a nuestra empresa, siempre transmitiendo la personalidad y los valores. Todo esto tiene el fin de crear un vinculo más cercano con nuestro segmento objetivo.
+La tipografía de la marca es un punto esencial para su diseño en general. Según Dopico (2021), el tipo de fuente que elegimos para nuestras páginas provoca una reacción psicológica que puede ayudar a nuestra marca a ser más atrayente, cómoda y amigable. Al cambiar el estilo de fuente y elegir uno adecuado, podemos hacer que los usuarios se sientan de una forma distinta con nuestro startup. Se deben usar fuentes que ofrezcan un impacto positivo y que le otorgue identidad a nuestra empresa, siempre transmitiendo la personalidad y los valores. Todo esto tiene el fin de crear un vínculo más cercano con nuestro segmento objetivo.
 
 En este caso, el tipo de letra que usaremos principalmente será “Lato" porque está se encuentra diseñada específicamente para verse cómoda y entendible en computadoras y dispositivos móviles. Su diseño limpio, grueso y sin remates facilita la lectura de texto en estas pantallas, lo que puede mejorar la experiencia del usuario, además de que el estilo de la letra da un sentimiento de profesionalismo, sensatez y atractividad. 
 
@@ -83,7 +83,7 @@ Los modelos de grosor de la letra pueden variar según la página y la sección 
 
 Según lo aclarado por Smith & Zook (2022), el tono de comunicación es un aspecto muy importante en los estilos que se planean integrar en las páginas, pestañas o apartados de una aplicación. Estos añaden sentimientos subjetivos a los clientes con respecto a los textos que leen y a las imágenes o elementos gráficos que observan, además de agregar un sentimiento de identidad propia sobre la empresa y/o producto. Asimismo, el uso de un lenguaje claro y comprensible es importante para la optimización de motores de búsqueda, ya que estos valoran el contenido de alta calidad que utiliza palabras claves y relevantes en contextos naturales.
 
-Teniendo en cuenta el tipo de segmento objetivo en el que nos estamos centrando, lo preferible sería usar un tono y estilo de lenguaje respetuoso y amigable, pero siempre mantiendo la formalidad necesaria al saber que es un entorno de negocios de grandes cantidades de dinero. De esta forma podremos mostrar seguridad y garantia con facilidad a los usuarios y podremos mantenerlos enfocados en todos los textos que escribamos a lo largo de las páginas. 
+Teniendo en cuenta el tipo de segmento objetivo en el que nos estamos centrando, lo preferible sería usar un tono y estilo de lenguaje respetuoso y amigable, pero siempre manteniendo la formalidad necesaria al saber que es un entorno de negocios de grandes cantidades de dinero. De esta forma podremos mostrar seguridad y garantía con facilidad a los usuarios y podremos mantenerlos enfocados en todos los textos que escribamos a lo largo de las páginas. 
 
 Asimismo, podemos agregar un tono bastante entusiasta en todas aquellas secciones en las que se expongan las funcionalidades de nuestra aplicación, junto a nuestra misión, visión y valores. Los estilos serios y formales solo deberían ser empleados cuando se habla de puntos críticos dados durante la negociación de la adquisición de propiedades, durante la venta de propiedades y en las descripciones de suscripciones y cualquier otro tipo de pago relacionado con nuestra aplicación web.
 
@@ -91,9 +91,9 @@ Asimismo, podemos agregar un tono bastante entusiasta en todas aquellas seccione
 
 #### Branding e Icono: 
 
-Para el logo de nuestra aplicación hemos decidido emplear un modelo pomposo y atractivo que destaque entre todas las demás aplicaciones de nuestra competencia en el rubro inmobiliario y pueda ser interesante y atrayente para nuestros clientes. Este diseño se basa en un resumen rápido de lo que hace nuestra aplicación y el cómo queremos que apoye a nuestros segmentos objetivos en sus correspondientes procesos de negocio en biene raíces. 
+Para el logo de nuestra aplicación hemos decidido emplear un modelo pomposo y atractivo que destaque entre todas las demás aplicaciones de nuestra competencia en el rubro inmobiliario y pueda ser interesante y atrayente para nuestros clientes. Este diseño se basa en un resumen rápido de lo que hace nuestra aplicación y el cómo queremos que apoye a nuestros segmentos objetivos en sus correspondientes procesos de negocio en bienes raíces. 
 
-El logo esta compuesto por el diseño de una pequeña ciudad pintada con tonos naranjas y celestes, destacando una casa naranja que se presenta con más precisión. Esto se plantea con un significado referente a la variedad de ofertas que se ofrecen dentro de nuestra página web, la cual proporciona grandes oportunidades a todas las personas que deseen invertir en el mercado inmobiliario. Asimismo, otorga sentimiento de seguridad siendo que nuestra aplicación web siempre proporciona garantía y bienestar a sus clientes, además de otorgar sentimientos esperanzadores al saber que la compra o venta de una propiedad puede significar grandes cambios economicos en una persona, siempre esperando que sean para bien.
+El logo está compuesto por el diseño de una pequeña ciudad pintada con tonos naranjas y celestes, destacando una casa naranja que se presenta con más precisión. Esto se plantea con un significado referente a la variedad de ofertas que se ofrecen dentro de nuestra página web, la cual proporciona grandes oportunidades a todas las personas que deseen invertir en el mercado inmobiliario. Asimismo, otorga sentimiento de seguridad siendo que nuestra aplicación web siempre proporciona garantía y bienestar a sus clientes, además de otorgar sentimientos esperanzadores al saber que la compra o venta de una propiedad puede significar grandes cambios económicos en una persona, siempre esperando que sean para bien.
 
 ###### Figura 25.
 *Logo principal de la aplicación Propertunity.*
@@ -106,9 +106,9 @@ A través del logo atrayente junto a su mensaje claro y agradable, podremos most
 
 ### 4.1.2. Web Style Guidelines
 
-En esta parte, presentaremos el plan de diseños, estilos y estéticas que hemos elaborado para nuestras páginas web referentes a la landing page y a la propia aplicación web, centrandonos en que cumplan todos los requisitos necesarios para darle una experiencia comoda y agradable a todos nuestros clientes. Muchos de los estilos se guiaran principalmente de las bases generales presentadas anteriormente, mostrandose en escenarios más especificos y siguiendo metodologias y buenas practicas referentes al diseño de páginas web. 
+En esta parte, presentaremos el plan de diseños, estilos y estéticas que hemos elaborado para nuestras páginas web referentes a la landing page y a la propia aplicación web, centrándonos en que cumplan todos los requisitos necesarios para darle una experiencia cómoda y agradable a todos nuestros clientes. Muchos de los estilos se guiarán principalmente de las bases generales presentadas anteriormente, mostrándose en escenarios más específicos y siguiendo metodologías y buenas prácticas referentes al diseño de páginas web. 
 
-Asimismo nos aseguraremos que se cumplan todos los requisitos para que las páginas de la landing page y la aplicación web cumplan con el enfoque del Responsive Design, el cual busca proporcionar una experiencia de usuario óptima en una amplia gama de dispositivos y tamaños de pantalla. En lugar de crear múltiples versiones de un sitio web para diferentes dispositivos (como computadoras de escritorio, tabletas y teléfonos móviles), el diseño web adaptable utiliza una combinación de técnicas HTML y CSS para ajustar automáticamente el diseño y el contenido del sitio web según las características del dispositivo y el tamaño de la pantalla del usuario (Bhanarkar et al., 2023).
+Asimismo, nos aseguraremos de que se cumplan todos los requisitos para que las páginas de la landing page y la aplicación web cumplan con el enfoque del Responsive Design, el cual busca proporcionar una experiencia de usuario óptima en una amplia gama de dispositivos y tamaños de pantalla. En lugar de crear múltiples versiones de un sitio web para diferentes dispositivos (como computadoras de escritorio, tabletas y teléfonos móviles), el diseño web adaptable utiliza una combinación de técnicas HTML y CSS para ajustar automáticamente el diseño y el contenido del sitio web según las características del dispositivo y el tamaño de la pantalla del usuario (Bhanarkar et al., 2023).
 
 #### Colores:
 
@@ -116,30 +116,30 @@ Los colores que utilizarán las páginas webs de nuestro aplicativo se guiarán 
 
 ##### Capas de colores:
 
-Con el fin de seguir un modelo sensato y de fácil comprensión, hemos dividido a nuestra paleta de colores para las páginas web en tres capas distintas: primaria, secundaria y terciara, cada una con su propia mezcla de colores. Cabe resaltar que estos son colores sólidos y que el uso de degradados no esta permitido en el uso de nuestra página.
+Con el fin de seguir un modelo sensato y de fácil comprensión, hemos dividido a nuestra paleta de colores para las páginas web en tres capas distintas: primaria, secundaria y terciara, cada una con su propia mezcla de colores. Cabe resaltar que estos son colores sólidos y que el uso de degradados no está permitido en el uso de nuestra página.
 
-- Primaria: Esta capa se basa en el color principal de nuestra empresa, el cual es el azul oscuro, pero puede tener ciertos contrastes más claros según la tonalidad que se busca en cada página y el como encaja con la sección utilizada; sin embargo, no puede usarse más de un color primario. Este color se usara principalmente en las secciones del encabezado, en la barra de navegación, en cuestionarios, en objeto interactuables por los usuarios, y como fondo en articulos con párrafos importantes dentro de una página.
+- Primaria: Esta capa se basa en el color principal de nuestra empresa, el cual es el azul oscuro, pero puede tener ciertos contrastes más claros según la tonalidad que se busca en cada página y el cómo encaja con la sección utilizada; sin embargo, no puede usarse más de un color primario. Este color se usará principalmente en las secciones del encabezado, en la barra de navegación, en cuestionarios, en objeto interactivos para los usuarios, y como fondo en artículos con párrafos importantes dentro de una página.
 
 ###### Figura 26.
 *Capa primaria de colores para el Web Style.*
 
 <img src="/assets/img/Plantilla de Primarios.png" alt="Capa primaria de colores" width="700" height="420">
 
-- Secundaria: Esta capa se basa en el color secundario de nuestra empresa, el cual es el blanco junto a otras tonalidades de colores claros que no llegan a una oscuridad mayor al gris; sin embargo, no puede usarse más de dos colores secundarios a menos que sea para cambios de tipografía. Este color se usara principalmente en todo fondo que no tenga algún color primario, lo que sería mayormente articulos con parrafos de relevancia menor, además de ser utilizado en el footer de las páginas.
+- Secundaria: Esta capa se basa en el color secundario de nuestra empresa, el cual es el blanco junto a otras tonalidades de colores claros que no llegan a una oscuridad mayor al gris; sin embargo, no puede usarse más de dos colores secundarios a menos que sea para cambios de tipografía. Este color se usará principalmente en todo fondo que no tenga algún color primario, lo que sería mayormente artículos con párrafos de relevancia menor, además de ser utilizado en el footer de las páginas.
 
 ###### Figura 27.
 *Capa secundaria de colores para el Web Style.*
 
 <img src="/assets/img/Plantilla de Secundarios.png" alt="Capa secundaria de colores" width="500" height="700">
 
-- Terciaria: Esta capa se basa en el color terciario de nuestra empresa, el cual es en sí un conjunto de colores variados relacionados con el naranja, llevando tonalidades amarillentas y rojizas. Pueden usarse todas las tonalidades, pero prefireblemente no se debe usar más de dos. Este color se usara principalmente en toda figura de una página y todo botón sencillo que solo funcione para la aceptación o negación de alguna acción realizada por el usuario.
+- Terciaria: Esta capa se basa en el color terciario de nuestra empresa, el cual es en sí un conjunto de colores variados relacionados con el naranja, llevando tonalidades amarillentas y rojizas. Pueden usarse todas las tonalidades, pero preferiblemente no se debe usar más de dos. Este color se usará principalmente en toda figura de una página y todo botón sencillo que solo funcione para la aceptación o negación de alguna acción realizada por el usuario.
 
 ###### Figura 28.
 *Capa terciaria de colores para el Web Style.*
 
 <img src="/assets/img/Plantilla de Terciarios.png" alt="Capa terciaria de colores" width="550" height="335">
 
-Cada capa de color debera tener una proporción para que el color primario sea más resaltante y llamativo en comparación al resto. Pueden haber variaciones, pero la dispersión no debe aumentar al 5% en ninguna circunstancia con respecto al resto de capas. Es necesario resaltar que todo color de una capa se suma entre si se llega a usar más de un color.
+Cada capa de color debe tener una proporción para que el color primario sea más resaltante y llamativo en comparación al resto. Puede haber variaciones, pero la dispersión no debe aumentar al 5% en ninguna circunstancia con respecto al resto de capas. Es necesario resaltar que todo color de una capa se suma entre si se llega a usar más de un color.
 
 ###### Figura 29.
 *Escala de proporción para cada capa de color del Web Style.*
@@ -148,16 +148,16 @@ Cada capa de color debera tener una proporción para que el color primario sea m
 
 ##### Color de letra:
 
-El color de la letra utilizado en las páginas web dependera de la capa de color que se esta utilizando en la sección de la página en donde se colocara el texto o si el texto se encuentra sobre una figura referente a una imagen o algún otro tipo de estructura de contorno irregular. Se debe tomar mucha precaución al usar un color para la tipografía, puesto que escoger un color erroneo puede provocar incomodes en los usuarios al momento de querer leer información que puede resultar bastante importante. Siguiendo las capas mostradas anteriormente y otros casos extras, se dictaran los siguientes colores posibles para la tipografía:
+El color de la letra utilizado en las páginas web dependerá de la capa de color que se está utilizando en la sección de la página en donde se colocará el texto o si el texto se encuentra sobre una figura referente a una imagen o algún otro tipo de estructura de contorno irregular. Se debe tomar mucha precaución al usar un color para la tipografía, puesto que escoger un color erróneo puede provocar incomodes en los usuarios al momento de querer leer información que puede resultar bastante importante. Siguiendo las capas mostradas anteriormente y otros casos extras, se dictarán los siguientes colores posibles para la tipografía:
 
 ###### Figura 30.
 *Colores designados para la tipografía del Web Style.*
 
 <img src="/assets/img/Colores de Tipografía.png" alt="Colores para la tipografía" width="520" height="240">
 
-Es necesario resltar que el color "White" o blanco se tratara de usar en mayor proporción al color "Black" o negro; no obstante, no hay ningún modelo de proporción definido, puesto que las circunstancias entre páginas pueden variar.
+Es necesario resaltar que el color "White" o blanco se tratara de usar en mayor proporción al color "Black" o negro; no obstante, no hay ningún modelo de proporción definido, puesto que las circunstancias entre páginas pueden variar.
 
-- White: Este color es la contraparte necesaria de la capa de color primario, el cual es el color azul, por lo que en toda zona donde el fondo tenga el color primario, es necesario usar este color de letra también. Otras secciones donde debe ser implementado es sobre imagenes con un contraste mayor al 60% que pertenezcan a encabezados, y en botones con fondo de algún color terciario.
+- White: Este color es la contraparte necesaria de la capa de color primario, el cual es el color azul, por lo que en toda zona donde el fondo tenga el color primario, es necesario usar este color de letra también. Otras secciones donde debe ser implementado es sobre imágenes con un contraste mayor al 60% que pertenezcan a encabezados, y en botones con fondo de algún color terciario.
 
 - Black: Este color es la contraparte necesaria de la capa de color secundario, el cual es el color blanco, por lo que en toda zona donde el fondo tenga el color secundario, es necesario usar este color de letra también.
 
@@ -167,7 +167,7 @@ Es necesario resltar que el color "White" o blanco se tratara de usar en mayor p
 
 #### Tipografía
 
-El tipo de letra que usaremos principalmente será “Lato “ porque está se encuentra diseñada específicamente para verse cómoda y entendible en computadoras y dispositivos móviles. Su diseño limpio y sin remates facilita la lectura de texto en estas pantallas, lo que puede mejorar la experiencia del usuario y el alcance, además de que el estilo de la letra da un sentimiento de profesionalismo, sensatez y atractividad. 
+El tipo de letra que usaremos principalmente será “Lato “porque está se encuentra diseñada específicamente para verse cómoda y entendible en computadoras y dispositivos móviles. Su diseño limpio y sin remates facilita la lectura de texto en estas pantallas, lo que puede mejorar la experiencia del usuario y el alcance, además de que el estilo de la letra da un sentimiento de profesionalismo, sensatez y atractividad. 
 
 Las principales características de escritura cambiarán según el dispositivo en el que estemos diseñando, pero las bases generales ya están definidas en los General Style Guidelines y son las siguientes:
 
@@ -176,9 +176,9 @@ Las principales características de escritura cambiarán según el dispositivo e
 
 Los modelos de alineamiento variarán según el tipo de texto que se está escribiendo, la sección donde se está escribiendo y el tipo de grosor. Estas son las normas dadas según los diferentes tipos de alineamiento, ya vistas en la sección de General Style Guidelines:
 
-- Justificado: Este un tipo de alineamiento que se usa como descarte en algún parrafo o sección de texto si es que las reglas de los otros tres tipos de alineamiento de texto no se cumplen adecuadamente según los estilos mencionados.
-- A la izquierda: Solo para textos formales y párrafos largos, de más de cien (100) palabras. Nunca debe usarse como texto principal o de subtitulos. También puede usarse como una combinación entre textos con el alineamiento a la derecha y a la izquierda.
-- Centrado: Usado para titulos y/o subtitulos de distintas secciones, sin importar el área en el que se esta usando. También se debe utilizar en párrafos de gran importancia en comparación al resto o párrafos introductorios. En caso la forma de la página provoca que el texto se mueva al centro, en vez de utilizar justificado, se debe usar centrado.
+- Justificado: Este un tipo de alineamiento que se usa como descarte en algún párrafo o sección de texto si es que las reglas de los otros tres tipos de alineamiento de texto no se cumplen adecuadamente según los estilos mencionados.
+- A la izquierda: Solo para textos formales y párrafos largos, de más de cien (100) palabras. Nunca debe usarse como texto principal o de subtítulos. También puede usarse como una combinación entre textos con el alineamiento a la derecha y a la izquierda.
+- Centrado: Usado para títulos y/o subtítulos de distintas secciones, sin importar el área en el que se está usando. También se debe utilizar en párrafos de gran importancia en comparación al resto o párrafos introductorios. En caso la forma de la página provoca que el texto se mueva al centro, en vez de utilizar justificado, se debe usar centrado.
 - A la derecha: Solo debe usarse como una combinación entre textos con el alineamiento a la izquierda y a la derecha. Nunca debe usarse como lineamiento principal.
   
 Los modelos de grosor de la letra pueden variar según la página y la sección en la que estemos centrando el diseño y la escritura. En el caso del tipo de letra “Lato”, se pueden identificar los siguientes modelos de grosor:
@@ -188,7 +188,7 @@ Los modelos de grosor de la letra pueden variar según la página y la sección 
 
 <img src="/assets/img/Modelos de grosor - Lato.png" alt="Modelos de grosor para Lato" width="700" height="150">
 
-Ahora se pasara a revisar las caracteristicas especificas que tendran las letras utilizadas según su ubicación y función dentro de una página o pestaña, además del contexto en el que se están usando. Cabe resaltar que los datos que cambiaran entre sí son el tamaño de la letra y el grosor de la letra.
+Ahora se pasará a revisar las características específicas que tendrán las letras utilizadas según su ubicación y función dentro de una página o pestaña, además del contexto en el que se están usando. Cabe resaltar que los datos que cambiaran entre sí son el tamaño de la letra y el grosor de la letra.
 
 ##### Para títulos:
 
@@ -214,14 +214,14 @@ Siempre se escribirán con un tipo de grosor “mediano”, sin importar el cont
 
 Todos los párrafos siempre se escribirán con un grosor “normal”, sin importar el contexto dado. En caso vaya a escribir un párrafo, debe asegurarse que cada uno contenga menos de doscientas (200) palabras y que se encuentre a una distancia no menor a diez (10) milímetros. El tamaño de la letra puede variar según el contexto dado:
 
-- 16px, se usara para todo párrafo que se encuentre en una zona abierta de la página, sin figuras cercanas a menos de veinte (20) milímetros y que contenga menos de ochenta (80) palabras. También es usado para enlaces a páginas externas.
+- 16px, se usará para todo párrafo que se encuentre en una zona abierta de la página, sin figuras cercanas a menos de veinte (20) milímetros y que contenga menos de ochenta (80) palabras. También es usado para enlaces a páginas externas.
 
-- 15px, se usara para todo párrafo que se encuentre en una zona abierta de la página, sin figuras cercanas a menos de veinte (15) milímetros y que contenga menos de ochenta (100) palabras.
+- 15px, se usará para todo párrafo que se encuentre en una zona abierta de la página, sin figuras cercanas a menos de veinte (15) milímetros y que contenga menos de ochenta (100) palabras.
 
-- 12px, se usara para todo párrafo que se encuentre en una zona cerrada de la página, con varias figuras o imagenes alrededor. Estos párrafos deben tener menos de doscientas (200) palabras y explican más detalles que datos principales. También es usado para enlaces a páginas referentes a términos y/o condiciones de servicios o algún otro modelo de contrato indicado por la aplicación web.
+- 12px, se usará para todo párrafo que se encuentre en una zona cerrada de la página, con varias figuras o imágenes alrededor. Estos párrafos deben tener menos de doscientas (200) palabras y explican más detalles que datos principales. También es usado para enlaces a páginas referentes a términos y/o condiciones de servicios o algún otro modelo de contrato indicado por la aplicación web.
 
 ###### Figura 32.
-**Modelos de grosor según los tipos de textos especificados para página web.**
+*Modelos de grosor según los tipos de textos especificados para página web.*
 
 <img src="/assets/img/Grosor por Tipo de Texto.png" alt="Modelos de grosor según tipo de texto" width="700" height="450">
 
@@ -263,7 +263,7 @@ El Labelling Systems es fundamental para organizar y estructurar el código de m
 | Mi perfil | Ofrece al usuario acceso a su perfil personal, donde puede ver y gestionar datos personales, publicaciones, reseñas, reputación, etc. El contenido del perfil varía según el contexto y las necesidades del usuario. |
 | Publicar | Permite al usuario crear y publicar anuncios relacionados con inmuebles disponibles para alquilar, vender, etc. El contexto de la publicación se relaciona directamente con el inmueble en cuestión. |
 | Buscar | Facilita la búsqueda de diferentes elementos dentro de la plataforma. Puede ser utilizada para buscar inmuebles, anunciantes, usuarios u otras opciones dependiendo del contexto y las necesidades del usuario. |
-| Ajustes | Permite al usuario realizar modificaciones o ediciones en diferentes aspectos de la plataforma, como el perfil o las publicaciones. Por ejemplo, en términos de perfil, ajustes podrían incluir la modificación de datos personales, mientras que en términos de publicación, podrían implicar cambios en el precio o la ubicación. |
+| Ajustes | Permite al usuario realizar modificaciones o ediciones en diferentes aspectos de la plataforma, como el perfil o las publicaciones. Por ejemplo, en términos de perfil, ajustes podrían incluir la modificación de datos personales, mientras que, en términos de publicación, podrían implicar cambios en el precio o la ubicación. |
 | Evaluar | Ofrece al usuario la capacidad de realizar una evaluación crediticia para estimar los costos relacionados con la adquisición de un inmueble. Esta opción proporciona una herramienta útil para planificar y tomar decisiones financieras informadas. |
 | Compartir | Permite al usuario compartir información relevante, como publicaciones o perfiles, a través de un enlace. Esta opción facilita la difusión de contenido dentro y fuera de la plataforma, mejorando así la visibilidad y accesibilidad de los recursos compartidos. |
 
@@ -282,13 +282,13 @@ Al analizar la implementación de estas etiquetas en Propertunity, se observa qu
 2. Inicio
 - Title Tag: "Inicie sesión para empezar | SmarTech"
 - Meta Description Tag: content="¡Bienvenido a Propertunity! Inicie sesión fácilmente para empezar en el mundo de los inmuebles."
-- Meta Keyword Tag: content="propertunity, comprar, alquilar, inciar, online, sesión"
+- Meta Keyword Tag: content="propertunity, comprar, alquilar, iniciar, online, sesión"
 - Author: name="copyright" content="SmartTech"
   
 3. Registro
-- Title Tag: "Registrese en nuestra plataforma con unos simples pasos | SmarTech"
+- Title Tag: "Regístrese en nuestra plataforma con unos simples pasos | SmarTech"
 - Meta Description Tag: content="¡Bienvenido a Propertunity! Complete sus datos para empezar el registro."
-- Meta Keyword Tag: content="registrar, comprar, inmueble, rápido, sesión, propertunity"
+- Meta Keyword Tag: content="registrar, comprar, inmueble, rápido, sesión, Propertunity"
 - Author: name="copyright" content="SmartTech"
   
 4. Evaluación Crediticia
@@ -321,7 +321,7 @@ La barra de navegación representa el núcleo de interacción para los usuarios,
 Dentro de cada sección de la aplicación, se presentarán botones descriptivos y llamativos que dirigirán al usuario hacia la información que busca. Por ejemplo, al buscar un elemento o sección específica, un botón etiquetado como "Más" actuará como un punto de acceso para explorar con mayor detalle todas las funciones disponibles. Los botones y funciones más solicitados se colocarán estratégicamente al principio de la página, garantizando así una navegación intuitiva y eficiente para los usuarios al tiempo que satisfacen sus necesidades de manera rápida y efectiva.
 
 **3. Navegación Jerárquica:**
-Siguiendo el patrón de diseño 'F', nuestra aplicación resalta y enfatiza las funciones que ofrecemos a nuestros usuarios, organizándolas de manera jerárquica para una mejor comprensión y accesibilidad. Las funciones y botones se ordenarán de tal manera que aquellas de mayor demanda se presenten con mayor prominencia, mientras que las menos utilizadas se ubicarán en lugares secundarios pero aún accesibles. Esta disposición garantiza que los usuarios puedan acceder fácilmente a las funciones más importantes y populares, mientras exploran otras opciones según sus necesidades.
+Siguiendo el patrón de diseño 'F', nuestra aplicación resalta y enfatiza las funciones que ofrecemos a nuestros usuarios, organizándolas de manera jerárquica para una mejor comprensión y accesibilidad. Las funciones y botones se ordenarán de tal manera que aquellas de mayor demanda se presenten con mayor prominencia, mientras que las menos utilizadas se ubicarán en lugares secundarios, pero aún accesibles. Esta disposición garantiza que los usuarios puedan acceder fácilmente a las funciones más importantes y populares, mientras exploran otras opciones según sus necesidades.
 
 **4. Sección Inferior:**
 En la parte inferior de nuestra página de inicio, se mostrarán opciones de navegación adicionales, como "Contáctanos" (como empresa), "Acerca de Nosotros" y "Contactar Asesores", proporcionando a los usuarios un acceso rápido a información importante y recursos de soporte. Estas opciones de navegación complementan la barra de navegación principal y ofrecen a los usuarios la oportunidad de explorar más a fondo aspectos clave de nuestra aplicación, promoviendo así una experiencia de usuario completa y satisfactoria.
@@ -336,7 +336,7 @@ Un Navigation System es fundamental para proporcionar una experiencia de usuario
 *Seguimiento de Navigation Systems integrados dentro del proyecto de trabajo.*
 | Etiqueta | Descripción |
 |----------|-------------|
-| Inicio |  Cuando un usuario hace clic en este enlace, será llevado a la página de inicio de nuestra aplicación. Esta página constituye el punto de partida para los usuarios, ofreciendo una presentación dinámica y atractiva de las características principales, servicios ofrecidos y posibilidades de navegación. Aquí, los usuarios pueden familiarizarse con la interfaz, explorar las opciones disponibles y comenzar su experiencia en nuestra plataforma de manera intuitiva y cómoda. |
+| Inicio | Cuando un usuario hace clic en este enlace, será llevado a la página de inicio de nuestra aplicación. Esta página constituye el punto de partida para los usuarios, ofreciendo una presentación dinámica y atractiva de las características principales, servicios ofrecidos y posibilidades de navegación. Aquí, los usuarios pueden familiarizarse con la interfaz, explorar las opciones disponibles y comenzar su experiencia en nuestra plataforma de manera intuitiva y cómoda. |
 | Perfil | Este enlace proporciona acceso directo al perfil de usuario correspondiente. Dependiendo del contexto de la interacción, el usuario será dirigido al perfil propio o al perfil de otro usuario o anunciante. El perfil es un espacio personalizado donde los usuarios pueden gestionar su información, ver sus publicaciones, revisar su historial de actividad y mantenerse al tanto de las interacciones con otros usuarios. Además, ofrece una oportunidad para establecer credibilidad y confianza entre los usuarios al mostrar detalles relevantes como reseñas, calificaciones y experiencia. |
 | Evaluación | Al hacer clic en este enlace, los usuarios que estén interesados en comprar propiedades serán redirigidos a nuestra herramienta de evaluación crediticia. Esta herramienta les permite calcular su capacidad financiera, comprender mejor su situación crediticia y estimar los costos asociados con la adquisición de una propiedad. Con esta función, buscamos ofrecer a los usuarios una visión clara y detallada de su viabilidad financiera antes de embarcarse en el proceso de compra. |
 | Publicaciones | Este enlace lleva a los usuarios a la página de publicaciones, un espacio donde pueden explorar una amplia variedad de propiedades disponibles para la venta o alquiler. Aquí, los usuarios pueden filtrar y buscar propiedades según sus preferencias, visualizar detalles como descripciones, imágenes y precios, y acceder a información adicional sobre ubicación, características y condiciones. Esta página proporciona una plataforma centralizada para que los usuarios encuentren y evalúen las opciones disponibles, facilitando así el proceso de toma de decisiones. |
@@ -344,7 +344,7 @@ Un Navigation System es fundamental para proporcionar una experiencia de usuario
 
 ## 4.3. Landing Page UI Design
 
-En esta sección del trabajo, nuestro equipo va a elaborar, exponer y explicar la propuesta y modelo de UI diseñado para la Landing Page de Propertunity. Aqui vamos a explicar como se modelan y traducen las decisiones de diseño y arquitectura de información.
+En esta sección del trabajo, nuestro equipo va a elaborar, exponer y explicar la propuesta y modelo de UI diseñado para la Landing Page de Propertunity. Aqui vamos a explicar cómo se modelan y traducen las decisiones de diseño y arquitectura de información.
 
 ### 4.3.1. Landing Page Wireframe
 Según Tidwell et al. (2020), los wireframes, que son representaciones visuales simplificadas, juegan un papel fundamental en la planificación y diseño de interfaces de usuario en páginas web y aplicaciones. Estos esquemas ofrecen una representación estructurada y organizada de los elementos clave, centrándose en aspectos como la disposición de la información, la funcionalidad y la experiencia del usuario. Al proporcionar una vista preliminar de la interfaz, los wireframes permiten a los diseñadores y desarrolladores visualizar y comunicar eficazmente la estructura y el flujo de la aplicación o sitio web.
@@ -515,10 +515,10 @@ El objetivo principal del prototipado de aplicaciones web es recopilar retroalim
 
 Para cada caso presentado, proporcionaremos un screenshot o captura de video que ilustre el prototipo en acción. Además, incluiremos un enlace a un video alojado en Microsoft Stream, donde se demostrarán y explicarán los principales flujos de interacción cubiertos por los prototipos. Este enfoque permitirá a los espectadores comprender de manera completa y detallada cómo se espera que los usuarios interactúen con la interfaz y cómo se cumplen los objetivos de diseño establecidos.
 
-Primero vamos a integrar el enlace directo al modelo de presentación que hemos utilizado para el vídeo. Este modelo de Prototipo los hemos diseñado y esquematizado de forma adecuada dentro de la aplicación Figma. Aqui pueden revisarlo a detalle: https:
+Primero vamos a integrar el enlace directo al modelo de presentación que hemos utilizado para el vídeo. Este modelo de Prototipo los hemos diseñado y esquematizado de forma adecuada dentro de la aplicación Figma. Aquí pueden revisarlo a detalle: https:
 //www.figma.com/proto/l2XJHYzb11FHLkdTW8r4se/Web-Application-Wireframe?type=design&node-id=17-3&t=SEYRvLtIaY8ZKSAi-1&scaling=contain&page-id=17%3A2&starting-point-node-id=17%3A3&mode=design
 
-Ahora, en esta siguiente sección les presentaremos el vídeo realizado para el prototipo de la Landing Page y la Aplicación Web conjunta de Propertunity. En este vídeo se explican todos los puntos necesarios para la comprensión de todos los flujos, junto al modelado de los sistemas escogidos y las funciones que podrán untilizar nuestros usuario. Revisen el siguiente enlace integrado: 
+Ahora, en esta siguiente sección les presentaremos el vídeo realizado para el prototipo de la Landing Page y la Aplicación Web conjunta de Propertunity. En este vídeo se explican todos los puntos necesarios para la comprensión de todos los flujos, junto al modelado de los sistemas escogidos y las funciones que podrán utilizar nuestros usuario. Revisen el siguiente enlace integrado: 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912407_upc_edu_pe/EVw5tGaqkIxKnMGtILenqO4BPmb9Pby46WbbND5ByaRY4w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=r7gefd
 
 ###### Figura 52.
@@ -635,7 +635,7 @@ Durante este proceso, se definen los tipos de datos que se almacenarán, así co
 
 ### 4.8.1 Database Diagrams.
 
-Los diagramas de Bases de Datos son representaciones visuales de la estructura y relaciones de una base de datos de un sistema de software. Estas diagramas proporcionan una vista gráfica de las tablas, columnas y relaciones entre las entidades dentro de la base de datos. Resultan ser herramientas útiles para comprender la arquitectura y el diseño de una base de datos, así como para comunicar esta información de manera clara y concisa entre los miembros del equipo de desarrollo.
+Los diagramas de Bases de Datos son representaciones visuales de la estructura y relaciones de una base de datos de un sistema de software. Estos diagramas proporcionan una vista gráfica de las tablas, columnas y relaciones entre las entidades dentro de la base de datos. Resultan ser herramientas útiles para comprender la arquitectura y el diseño de una base de datos, así como para comunicar esta información de manera clara y concisa entre los miembros del equipo de desarrollo.
 
 ###### Figura 59.
 *Diagrama de base de datos con todas las entidades propuestas para la arquitectura de software de Propertunity*

@@ -394,30 +394,64 @@ Se tiene la intención de seguir todas estas directrices y normativas de codific
 
 ### 5.1.4 Software Deployment Configuration.
 
-En esta sección especificaremos la configuración del despliegue de la solución, incluyendo los pasos necesarios para que, a partir de los repositorios de código fuente, se pueda lograr el despliegue de el Landing Page.
+En esta sección, detallaremos la configuración necesaria para implementar la solución, centrándonos específicamente en el despliegue del Landing Page. Comenzaremos creando un repositorio en GitHub destinado a almacenar los archivos HTML, CSS y JavaScript que componen nuestra página de destino. Una vez establecido el repositorio, cada miembro del equipo trabajará en su propia rama "feature" para desarrollar las diferentes características del Landing Page. Tras completar una característica específica, se llevará a cabo el proceso de merge con la rama "develop", garantizando así que la página de destino esté siempre actualizada con las últimas modificaciones y mejoras implementadas.
 
-Empezaremos por crear un repositorio en GitHub para almacenar los archivos HTML, CSS y JavaScript. Luego cada integrante del equipo trabajará en su propia rama "feature" para desarrollar nuestro landing page. Una vez completada una característica, se procederá a hacer el merge con la rama "develop" para que la landing page se encuentre actualizada. estableceremos la configuración en GitHub Pages para publicar la página de destino utilizando la rama "develop". A continuación, detallamos los pasos para llevar a cabo este despliegue en GitHub Pages:
+Posteriormente, configuraremos GitHub Pages para que publique automáticamente la página de destino utilizando la rama "develop". Esto permitirá que la Landing Page sea accesible públicamente y esté disponible para su visualización y prueba por parte de los interesados y usuarios finales.
 
-### 1. Comenzaremos creando un repositorio público en GitHub, le asignamos un nombre y añadimos los archivos necesarios.
+A continuación, proporcionamos una descripción detallada de los pasos necesarios para llevar a cabo este proceso de despliegue en GitHub Pages, asegurando una implementación eficiente y sin contratiempos de nuestra solución.
+
+1. El primer paso en nuestro proceso de despliegue es la creación de un repositorio público en GitHub. Para ello, asignaremos un nombre adecuado al repositorio que refleje el propósito y contenido de nuestra página de destino. Una vez creado el repositorio, procederemos a añadir los archivos necesarios para la construcción y funcionamiento del Landing Page.
+
+Es fundamental seleccionar un nombre significativo que identifique claramente el propósito del repositorio y la naturaleza de los archivos que contendrá. Esto facilitará la gestión y colaboración en el desarrollo del proyecto, asegurando que todos los miembros del equipo puedan identificar y acceder al repositorio de manera eficiente.
+
+Una vez completada esta tarea, estaremos listos para iniciar el proceso de desarrollo y construcción de nuestro Landing Page, utilizando el repositorio recién creado como punto de partida. Este enfoque nos proporcionará una base sólida y organizada desde la cual avanzar en el desarrollo de nuestra solución.
+
+###### Figura 60
+*Imagenes de muestra y presentación sobre la construcción del repositorio designado para la Landing Page de Propertunity.*
 <img src="/assets/img/set-repository-name.png" alt="Set Repository Name">
 <img src="/assets/img/repository.png" alt="Repository">
 
-### 2. Dirigirse a la sección de ajustes y elegir la pestaña Pages.
+2. El segundo paso implica dirigirse a la sección de ajustes en GitHub y seleccionar la pestaña Pages. Una vez allí, podremos acceder a las configuraciones relacionadas con la publicación de páginas web directamente desde nuestro repositorio.
 
-### 3. Nos dirigimos al apartado de configuración para GitHub Pages.
+Esta acción nos permitirá habilitar la funcionalidad de GitHub Pages para nuestro repositorio, lo que nos permitirá alojar y publicar nuestro Landing Page de forma rápida y sencilla. La pestaña Pages ofrece una interfaz intuitiva que nos guiará a través del proceso de configuración, permitiéndonos personalizar diversos aspectos de nuestra página web, como la rama a utilizar para el despliegue y el dominio personalizado, si así lo deseamos.
 
-### 4. En el apartado de branch, seleccionamos el branch "main" donde se realizará el despliegue del landing page, dejando las demás configuraciones con sus valores predeterminados.
+Al acceder a esta sección y realizar las configuraciones necesarias, estaremos un paso más cerca de hacer que nuestro Landing Page esté disponible públicamente para su visualización y acceso por parte de los usuarios finales
+
+3. El tercer paso implica dirigirnos al apartado de configuración específico para GitHub Pages en nuestro repositorio. Una vez en esta sección, podremos ajustar diferentes aspectos relacionados con la publicación de nuestro sitio web, como la rama a utilizar, el directorio desde el que se servirán los archivos, y otras opciones de configuración avanzadas.
+
+Esta parte del proceso nos brinda la oportunidad de personalizar aún más la forma en que nuestra página web será desplegada y accesible para los usuarios finales. Por ejemplo, podemos seleccionar la rama específica que contiene los archivos de nuestro Landing Page y especificar el directorio raíz desde el cual se servirán los archivos HTML, CSS y JavaScript.
+
+4. El cuarto paso implica dirigirse al apartado de "branch" dentro de la configuración de GitHub Pages y seleccionar el branch "main" donde se realizará el despliegue del Landing Page. Es importante asegurarse de elegir el branch correcto donde se encuentran los archivos actualizados de nuestra página web para garantizar que la versión más reciente se despliegue correctamente.
+
+Durante este proceso, es recomendable dejar las demás configuraciones con sus valores predeterminados, a menos que tengamos necesidades específicas que requieran ajustes adicionales. Mantener estas configuraciones en sus valores predeterminados ayuda a simplificar el proceso y reduce la posibilidad de errores durante el despliegue.
+
+###### Figura 61
+*Imagenes de muestra y presentación sobre el despliegue de la Landing Page y el ajuste de las ramas integradas.*
 <img src="/assets/img/pagedeployed.png" alt="github page">
 
-### 5. Al seleccionar la rama correspondiente, se generará un enlace que permitirá acceder al landing page. Cada modificación efectuada en el "main" se actualiza automáticamente.
+5. Una vez seleccionada la rama correspondiente, se generará un enlace que permitirá acceder al Landing Page desplegado. Este enlace proporciona una forma rápida y sencilla para que los usuarios accedan a nuestra página web y puedan interactuar con su contenido.
+
+Es importante tener en cuenta que cualquier modificación realizada en el branch "main" se actualizará automáticamente en el Landing Page desplegado. Esto significa que cualquier cambio que realicemos en nuestros archivos HTML, CSS o JavaScript se reflejará de inmediato en la versión en vivo de nuestra página web.
+
+Este proceso de actualización automática garantiza que nuestro Landing Page esté siempre sincronizado con las últimas modificaciones realizadas en el código fuente, lo que proporciona una experiencia consistente y actualizada para los usuarios que acceden a nuestra página web."
+
+###### Figura 62
+*Imagenes de muestra y presentación sobre la obtención del enlace de ingreso a la Landing Page de Propertunity.*
 <img src="/assets/img/github-link.png" alt="github link">
 
-### 6. Finalmente, el landing estará desplegada, lista para ser visualizada y utilizada.
+6. Una vez completados los pasos anteriores, el Landing Page estará desplegado y listo para ser visualizado y utilizado. Los usuarios podrán acceder al enlace generado y explorar el contenido de nuestra página web.
+
+Es importante realizar pruebas adicionales después del despliegue para asegurarse de que la página web se vea y funcione correctamente en diferentes dispositivos y navegadores. Esto garantizará una experiencia de usuario óptima para todos los visitantes de nuestro sitio.
+
+###### Figura 63
+*Imagenes de muestra y presentación sobre la Landing Page de Propertunity ya desplegada.*
 <img src="/assets/img/landing_deployed.png" alt="Landing deployed">
+
+---
 
 ## 5.2 Landing Page, Services & Applications Implementation.
 
-A continuacion explicaremos el enfoque que seguiremos para llevar a cabo la implementación, pruebas y lanzamiento de nuestro landing page, así como también de los servicios web y la interfaz de usuario de la aplicación web en cada ciclo de desarrollo. 
+A continuación, detallaremos el enfoque que seguiremos para llevar a cabo la implementación, pruebas y lanzamiento de nuestro Landing Page, así como también de los servicios web y la interfaz de usuario de la aplicación web en cada ciclo de desarrollo.
 
 ### 5.2.1 Sprint 1
 
@@ -569,6 +603,9 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
         </tr>
     </table>
 
+Con el fin de que la lista de tareas en el sprint pueda ser visualizada a más profundidad, se mostrara un enlace directo a la sección de trabajo designada por el equipo junto a todas las actividades planificadas de forma completa: https://app.clickup.com/9013153284/v/l/6-901302611184-1 
+
+
 
 ### 5.2.1.3 Development Evidence for Sprint Review.
 
@@ -595,22 +632,19 @@ En esta sección se explica y presenta los avances en implementación con relaci
 
 ### 5.2.1.4 Testing Suite Evidence for Sprint Review. 
 
+En esta sección, nos complace presentar la evidencia detallada de las pruebas rigurosas realizadas durante el sprint. Para garantizar la calidad y funcionalidad del producto, hemos empleado la metodología Gherkin para definir escenarios de prueba claros y concisos. Cada uno de estos escenarios se ha registrado meticulosamente en commits específicos en nuestro repositorio de código, lo que proporciona un registro completo y transparente de nuestro proceso de prueba.
+
 ###### Tabla 22
 *Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 1*
 | Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
-| REPOSITORIO DEL LANDING(NOMBRE)   | feat(develop): add header - index.html - 1 | 63ae3ce | feat: ...                        | MENSAJE DEL COMMIT            | FECHA DEL COMMIT  |
+| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): add US01-06 acceptance tests - Lucio - 1 | be875aa | feat(develop): add US01-06 acceptance tests | En esta sección se implementaron todos los Acceptance Test para el Sprint 1 de Propertunity | 12/04/24 |
 
 ### 5.2.1.5 Execution Evidence for Sprint Review. 
 
-En este punto explicaremos los logros alcanzados para el Sprint 1
+Dentro del Sprint 1, el equipo logró un avance significativo al implementar las características clave en la página de inicio del sitio web. Todas las historias de usuario asignadas para este sprint fueron completadas exitosamente. Estas incluyeron el desarrollo de un resumen detallado de las características y ventajas del sitio web, así como la integración de un acceso visible a la información detallada de precios. Además, se añadió un resumen conciso al final de la página de inicio, se implementó un llamado a la acción destacado para dirigir a los visitantes hacia la aplicación web principal, y se presentó contenido informativo claro y detallado. Además, se integró información de contacto visible en la página de inicio. Durante este proceso, el equipo colaboró estrechamente para asegurar que las características implementadas cumplieran con los requisitos establecidos y contribuyeran a una experiencia de usuario positiva. Este enfoque colaborativo permitió no solo cumplir con los objetivos del sprint, sino también fomentar una cultura de trabajo en equipo y compromiso con la calidad del producto final.
 
--Creacion de repositorios para el report y el landing page en GitHub.
--Realizacion del wireframe y mock-ups del landing page.
--Realizacion del wireframe y mock-ups de la aplicacion web.
--Implementación del landing page.
--Diseño del prototipo de la aplicación web.
--Subir en el GitHub Pages el landing pages.
+
 
 ### 5.2.1.6 Services Documentation Evidence for Sprint Review. 
 
@@ -638,6 +672,8 @@ Explicaremos las acciones que realizamos en el sprint 1, como la preparacion y d
 Para este Sprint 1, hemos hecho el desarrollo del landing page, colaborado en conjunto en la implementación. Esta colaboración se refleja en los distintos commits realizados en el repositorio, los cuales están documentados en las capturas de pantalla adjuntas.
 
 Con respecto a la colaboracion del equipo, nos reunimos presencial como virtualmente para asignarnos tarea y discutir como elaborar el proyecto. Esto nos ha permitido comprender claramente nuestras responsabilidades individuales y tener un mejor desempeño. Para el desarrollo del código, hemos decidido que cada integrante se encarga de una sección específica del landing page. Esto para avanzar mas rapido y terminarlo antes de la entrega. Finalmente, tuvimos reuniones donde compartimos ideas y resolvemos algunas dudas o problemas que podriamos tener con respecto a la elaboracion del landing page, lo que nos dio resultados positivos en la elaboracion del trabajo.
+
+---
 
 ### 5.2.2 Sprint 2
 
@@ -778,19 +814,9 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
             <td>Done</td>
         </tr>
         <tr>
-            <td>US20</td>
-            <td>Agregar atajos en la página web</td>
-            <td>T12</td>
-            <td>Atajos en la página web</td>
-            <td>Como usuario general de la aplicación web, quiero tener un acceso en la aplicación mediante atajos que redirigen hacia secciones y funcionalidades, para poder tener una mayor facilidad de uso y poder acceder rapidamente a cualquier funcionalidad que necesite.</td>
-            <td>1 hora y 10 minutos</td>
-            <td>Mallma Quispe, Rubén Elías</td>
-            <td>Done</td>
-        </tr>
-        <tr>
             <td>US19</td>
             <td>Agregar una barra de navegación en la página web</td>
-            <td>T13</td>
+            <td>T12</td>
             <td>Barra de navegación</td>
             <td>Como usuario general de la aplicación web, quiero tener un acceso rápido al catálogo de propiedades que ofrezca la aplicación mediante una barra de búsqueda , para poder tener una mayor facilidad de uso y poder acceder rapidamente a cualquier propiedad que cumpla con mis intereses.</td>
             <td>2 horas</td>
@@ -800,7 +826,7 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
           <tr>
             <td>US20</td>
             <td>Agregar atajos en la página web</td>
-            <td>T14</td>
+            <td>T13</td>
             <td>Atajos en la página web</td>
             <td>Como usuario general de la aplicación web, quiero tener un acceso en la aplicación mediante atajos que redirigen hacia secciones y funcionalidades, para poder tener una mayor facilidad de uso y poder acceder rapidamente a cualquier funcionalidad que necesite.</td>
             <td>1 hora y 10 minutos</td>
@@ -810,7 +836,7 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
           <tr>
             <td>US21</td>
             <td>Agregar íconos en la página web</td>
-            <td>T15</td>
+            <td>T14</td>
             <td>Íconos</td>
             <td>Como usuario general de la aplicación web, quiero tener íconos que me redirijan a cada una de las funcionalidades que ofrezca la aplicación desde cualquier página en la que me encuentre, para poder tener una mayor facilidad de uso y poder acceder rapidamente a cualquier funcionalidad que necesite.</td>
             <td>1 hora y 30 minutos</td>
@@ -820,7 +846,7 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
           <tr>
             <td>US22</td>
             <td>Agregar botones de reversión en la página web</td>
-            <td>T16</td> 
+            <td>T15</td> 
             <td>Botones de reversión</td>
             <td>Como usuario general de la aplicación web, quiero contar con un botón de reversión para remediar de forma ágil cualquier error que cometa dentro de la plataforma.</td>
             <td>1 hora y 30 minutos</td>
@@ -830,7 +856,7 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
           <tr>
             <td>US24</td>
             <td>Crear publicación de propiedades donde pueda ingresar detalles del inmueble</td>
-            <td>T17</td> 
+            <td>T16</td> 
             <td>Publicación de propiedades</td>
             <td>Como usuario anunciante de propiedades quiero poder crear una publicación de mi producto donde pueda ingresar detalladamente todos los datos de mi inmueble disponible para brindar una información más precisa a las personas que observen mi publicación.</td>
             <td>3 horas</td>
@@ -840,7 +866,7 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
           <tr>
             <td>US25</td>
             <td>Subida de imagenes de propiedades</td>
-            <td>T18</td> 
+            <td>T17</td> 
             <td>Subir imagenes</td>
             <td>Como usuario anunciante de propiedades quiero agregar imágenes a ls nueva publicación que estoy agregando para que los interesados en el inmueble puedan apreciar mejor las dimensiones del mismo.</td>
             <td>1 hora y 10 minutos</td>
@@ -850,7 +876,7 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
           <tr>
             <td>US26</td>
             <td>Vista previa de la publicación</td>
-            <td>T19</td> 
+            <td>T18</td> 
             <td>Subir imagenes</td>
             <td>Como usuario anunciante de propiedades quiero poder previsualizar la publicación nueva que esté creando para asegurarme de que la información sea la correcta.</td>
             <td>1 hora</td>
@@ -860,7 +886,7 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
           <tr>
             <td>US29</td>
             <td>Búsqueda personalizada de inmuebles</td>
-            <td>T20</td> 
+            <td>T19</td> 
             <td>Búsqueda personalizada</td>
             <td>Como usuario interesado en comprar o alquilar un inmueble en Propertunity, quiero poder realizar búsquedas de los inmuebles disponibles en la plataforma para encontrar la que mejor se adapte a mis necesidades y preferencias.</td>
             <td>2 horas y 10 minutos</td>
@@ -870,7 +896,7 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
           <tr>
             <td>US30</td>
             <td>Visualización de perfiles de los inmuebles</td>
-            <td>T21</td> 
+            <td>T20</td> 
             <td>Visualización de inmuebles</td>
             <td>Como usuario interesado en comprar o alquilar un inmueble en Propertunity, quiero poder ver perfiles detallados de los inmuebles disponibles en la plataforma, para obtener información completa sobre ellas antes de tomar una decisión.</td>
             <td>2 horas</td>
@@ -880,7 +906,7 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
           <tr>
             <td>US35</td>
             <td>Implementar calculadora financiera</td>
-            <td>T22</td> 
+            <td>T21</td> 
             <td>Calculadora financiera</td>
             <td>Como usuario interesado en comprar o alquilar un inmueble en Propertunity, quiero tener una calculadora financiera, para verificar si el precio de la propiedad se encuentra dentro de mi presupuesto.</td>
             <td>2 horas y 40 minutos</td>

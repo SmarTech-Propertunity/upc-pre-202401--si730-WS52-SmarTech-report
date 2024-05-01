@@ -11,13 +11,13 @@ Nuestro proyecto está orientado en el desarrollo de un sistema de software que 
 - Es un aplicativo web peruano que opera en gran parte de suramérica y mantiene el principal objetivo de facilitar el proceso de compra, venta o alquiler de bienes raíces mediante el uso de tecnología y herramientas digitales sofisticadas junto a mejores medios de comunicación. Esto lo consigue mediante varias funcionalidades relevantes como:
     - **Búsqueda avanzada:** Los usuarios pueden realizar búsquedas específicas utilizando filtros como ubicación, tipo de propiedad, precio, tamaño, número de habitaciones, características resaltantes, estado o fase de la construcción entre otros criterios.
     - **Listados detallados:** Cada propiedad en el sitio suele tener una página detallada con información sobre características y medidas, fotos, cantidad de dormitorios y baños, planos, ubicación en el mapa, precio y detalles de contacto del agente o propietario junto a su principal información.
-    - **Conexión directa con anunciantes:** Cada usuario puede enviar información y contactarse directamente con los anunciantes y asesores de todas las propiedades.
+    - **Conexión directa con anunciantes:** Cada usuario puede enviar información y contactar directamente con los anunciantes y asesores de todas las propiedades.
     - **Alertas de propiedades:** Los usuarios pueden configurar alertas manuales o automáticas según su perfil para recibir notificaciones por correo electrónico o mensajes cuando se publiquen nuevas propiedades.
     - **Herramientas de financiamiento:** Proporciona información sobre opciones de financiamiento disponibles para ayudar a los compradores a entender mejor sus opciones financieras.
     - **Información sobre el mercado:** Proporciona datos e informes sobre tendencias del mercado inmobiliario, precios de venta y alquiler, y otros análisis relevantes.
     - **Comunidad y consejos:** Ofrece foros comunitarios, blogs o secciones de consejos para ayudar a los usuarios con información útil sobre compra, venta o alquiler de propiedades.
     - **Publicación de inmuebles:** Ofrece modelos de ingreso de datos bastante detallados sobre la empresa en la que se trabaja y los inmuebles presentados. Asimismo, presenta buenos modelos de seguridad durante el proceso.
- - De esta forma, el segmento de mercado de esta aplicación puede estar completamente seguro durantes sus adquisiciones de bienes raíces variados, siguiendo la información detallada, los modelos financieros y las recomendaciones de la comunidad. 
+ - De esta forma, el segmento de mercado de esta aplicación puede estar completamente seguro durante sus adquisiciones de bienes raíces variados, siguiendo la información detallada, los modelos financieros y las recomendaciones de la comunidad. 
 
 ---
 
@@ -25,21 +25,21 @@ Nuestro proyecto está orientado en el desarrollo de un sistema de software que 
 - **Página web principal:** [edifica.com.pe](https://edifica.com.pe/)
 - Es un aplicativo web peruano que mantiene el principal objetivo de proporcionar información y servicios relacionados con el sector inmobiliario para facilitar y mejorar la experiencia de compra, venta o alquiler de propiedades. Esto lo consigue mediante varias funcionalidades relevantes como:
     - **Listados muy detallados:** Cada propiedad en el sitio suele tener una página detallada con información sobre características específicas, fotos con 360°, ubicación en el mapa, precio, planos a profundidad y detalles de contacto del agente o propietario junto a horarios de atención. Cabe resaltar que también proporciona brochures o dípticos informativos.
-    - **Conexión y cotización directa con anunciantes:** Cada usuario puede enviar información y contactarse directamente con los anunciantes y asesores de todas las propiedades, además de realizar cotizaciones informadas.
+    - **Conexión y cotización directa con anunciantes:** Cada usuario puede enviar información y contactar directamente con los anunciantes y asesores de todas las propiedades, además de realizar cotizaciones informadas.
     - **Consejos de financiamiento:** Proporciona información sobre opciones de financiamiento disponibles para ayudar a los compradores a entender mejor sus opciones financieras.
     - **Comunidad y Blogs:** Ofrece foros comunitarios, blogs o secciones de consejos para ayudar a los usuarios con información útil sobre compra, venta o alquiler de propiedades.
     - **Ayudante virtual:** La página web presenta un ayudante virtual en forma de una inteligencia artificial para ayudar al usuario con preguntas sencillas y otras dudas sobre inmobiliarias y bienes raíces.
     - **Publicación de inmuebles:** Ofrece modelos de ingreso de datos bastante detallados sobre los inmuebles presentados para vender. 
- - De esta forma, el segmento de mercado de esta aplicación puede estar completamente seguro durantes sus adquisiciones de departamentos, siguiendo la información bastante detallada y las recomendaciones de la comunidad.
+ - De esta forma, el segmento de mercado de esta aplicación puede estar completamente seguro durante sus adquisiciones de departamentos, siguiendo la información bastante detallada y las recomendaciones de la comunidad.
 
 ---
 
 **3. LaEncontré:**
 - **Página web principal:** [laencontre.com.pe](https://laencontre.com.pe/)
-- Es un aplicativo web peruano que mantiene el principal objetivo de facilitar el proceso de búsqueda, compra y venta de propiedades inmobiliarias. Esto lo consigue mediante varias funcionalides relevantes como:
+- Es un aplicativo web peruano que mantiene el principal objetivo de facilitar el proceso de búsqueda, compra y venta de propiedades inmobiliarias. Esto lo consigue mediante varias funcionalidades relevantes como:
     - **Búsqueda avanzada:** Los usuarios pueden realizar búsquedas específicas utilizando filtros como ubicación, tipo de propiedad, precio, número de habitaciones, entre otros criterios.
     - **Listados detallados:** Cada propiedad en el sitio suele tener una página detallada con información sobre características, fotos, ubicación en el mapa, precio y detalles de contacto del agente o propietario.
-    - **Conexión directa con anunciantes:** Cada usuario puede enviar información y contactarse directamente con los anunciantes y asesores de todas las propiedades.
+    - **Conexión directa con anunciantes:** Cada usuario puede enviar información y contactar directamente con los anunciantes y asesores de todas las propiedades.
     - **Herramientas de financiamiento:** Proporciona información sobre opciones de financiamiento disponibles para ayudar a los compradores a entender mejor sus opciones financieras.
     - **Comunidad y consejos:** Ofrece foros comunitarios, blogs o secciones de consejos para ayudar a los usuarios con información útil sobre compra, venta o alquiler de propiedades.
     - **Publicación de inmuebles:** Ofrece modelos de ingreso de datos bastante detallados sobre la empresa en la que se trabaja y los inmuebles presentados.
@@ -67,21 +67,21 @@ El objetivo de este análisis es investigar a detalle las características princ
 | **Perfil de Producto** | **Productos y Servicios** | - Funcionalidades de la aplicación web que programaron para los clientes. | - Funcionalidades de la aplicación web que programaron para los clientes. | - Funcionalidades de la aplicación web que programaron para los clientes. <br>- Proyectos en planeamiento y construcción de edificaciones de diferente índole para el sector inmobiliario. | - Funcionalidades de la aplicación web que programaron para los clientes. |
 |                   | **Precios y Costos** | - Aplicación web gratuita, pero con planes de membresía para las personas o empresas que quieran publicar propiedades en venta o alquiler | - Aplicación web gratuita, pero con planes para las personas o empresas que quieran publicar propiedades en venta o alquiler. | - Aplicación web gratuita<br> -Los proyectos del sector inmobiliario que ofrecen varían entre los S/. 400 000 y los S/. 800 000| - Aplicación web gratuita, pero con paquetes de suscripción y planificación para las personas o empresas que quieran publicar propiedades en venta o alquiler. |
 |                   | **Canales de Distribución** | - Aplicación web | - Aplicación web | - Aplicación web | - Aplicación web |
-| **Análisis SWOT** | **Fortalezas** | - Mantener un equipo de trabajo multidisciplinario que cuenta con conocimiento informático y de software para la elaboración de aplicativos web. <br>- Conocimientos con respecto a la nueva transformación tecnológica y los avances de la virtualidad en todo el mundo. <br>- Conocimientos con respecto a las nuevas tendencias del consumidor peruano y de la cultura popular. <br>- Posesión de tecnología, infraestructura, sistemas de software y hardware de calidad promedia y óptima. <br>- Conocimientos en el área de las inmobiliarias y las nuevas modas en el Perú. | - Amplia experiencia y presencia en el continente sudamericano en el sector inmobiliario y en la programación de aplicaciones web para fomentar la compra y venta de inmobiliarias. <br>- Alianzas con otras empresas dedicadas en el rubro inmobiliario. <br>- Gran cantidad de equipos de trabajo multidisciplinarios y altamente profesionales en las áreas del desarrollo de software y del rubro inmobiliario. <br>- Posesión de tecnología, infraestructura, sistemas de software y hardware de alta gama y calidad. <br>- Modelos de marketing inteligente, destacable y memorable. <br>- Modelos bancarios y financieros favorables, y grandes cantidades de presupuesto. <br>- Apoyo de parte de redes sociales, canales de televisión, periódicos y páginas web aliadas, con las que promocionan sus servicios. <br>- El principal lugar de influencia se encuentra en los países de sudamérica, principalmente en Argentina, Brasil, Ecuador y Perú. Asimismo, tiene presencia en otros países como Panamá y México. Esta diversidad le proporciona varias oportunidades de negocio. <br>- Conocimientos con respecto a la nueva transformación tecnológica y los avances de la virtualidad en todo el mundo. | - Amplia experiencia y presencia en el Perú en el sector inmobiliario y en la programación de aplicaciones web. <br>- Alianzas con otras empresas dedicadas en el rubro inmobiliario. <br>- Gran cantidad de equipos de trabajo multidisciplinarios y altamente profesionales en las áreas del rubro inmobiliario. <br>- Posesión de tecnología, infraestructura, sistemas de software y hardware de alta gama y calidad. <br>- Modelos de marketing inteligente, destacable y memorable. <br>- Modelos bancarios y financieros favorables, y grandes cantidades de presupuesto. <br>- Apoyo de parte de redes sociales, canales de televisión y páginas web aliadas, con las que promocionan sus servicios. <br>- El principal lugar de influencia se encuentra en el Perú, donde controla el mercado inmobiliario. <br>- Conoce las necesidades y las nuevas modas y tendencias presentadas en la sociedad peruana y los cambios dados en la economía. <br>- Posee proyectos de expansión a otros países vecinos y a ciertas zonas de Estados Unidos, principalmente en Florida. | - Amplia experiencia y presencia en el Perú en el sector inmobiliario y en la programación de aplicaciones web. <br>- Gran cantidad de equipos de trabajo multidisciplinarios y altamente profesionales en las áreas del rubro inmobiliario. <br>- Posesión de tecnología, infraestructura, sistemas de software y hardware de alta gama y calidad. <br>- Modelos bancarios y financieros favorables. <br>- Apoyo de parte de redes sociales, periódicos y páginas web aliadas, con las que promocionan sus servicios. <br>- El principal lugar de influencia se encuentra en el Perú, donde mantiene fuerte presencia en el mercado inmobiliario. <br>- Conoce las necesidades y las nuevas modas y tendencias presentadas en la sociedad peruana y los cambios dados en la economía.|
+| **Análisis SWOT** | **Fortalezas** | - Mantener un equipo de trabajo multidisciplinario que cuenta con conocimiento informático y de software para la elaboración de aplicativos web. <br>- Conocimientos con respecto a la nueva transformación tecnológica y los avances de la virtualidad en todo el mundo. <br>- Conocimientos con respecto a las nuevas tendencias del consumidor peruano y de la cultura popular. <br>- Posesión de tecnología, infraestructura, sistemas de software y hardware de calidad promedia y óptima. <br>- Conocimientos en el área de las inmobiliarias y las nuevas modas en el Perú. | - Amplia experiencia y presencia en el continente sudamericano en el sector inmobiliario y en la programación de aplicaciones web para fomentar la compra y venta de inmobiliarias. <br>- Alianzas con otras empresas dedicadas al rubro inmobiliario. <br>- Gran cantidad de equipos de trabajo multidisciplinarios y altamente profesionales en las áreas del desarrollo de software y del rubro inmobiliario. <br>- Posesión de tecnología, infraestructura, sistemas de software y hardware de alta gama y calidad. <br>- Modelos de marketing inteligente, destacable y memorable. <br>- Modelos bancarios y financieros favorables, y grandes cantidades de presupuesto. <br>- Apoyo de parte de redes sociales, canales de televisión, periódicos y páginas web aliadas, con las que promocionan sus servicios. <br>- El principal lugar de influencia se encuentra en los países de sudamérica, principalmente en Argentina, Brasil, Ecuador y Perú. Asimismo, tiene presencia en otros países como Panamá y México. Esta diversidad le proporciona varias oportunidades de negocio. <br>- Conocimientos con respecto a la nueva transformación tecnológica y los avances de la virtualidad en todo el mundo. | - Amplia experiencia y presencia en el Perú en el sector inmobiliario y en la programación de aplicaciones web. <br>- Alianzas con otras empresas dedicadas en el rubro inmobiliario. <br>- Gran cantidad de equipos de trabajo multidisciplinarios y altamente profesionales en las áreas del rubro inmobiliario. <br>- Posesión de tecnología, infraestructura, sistemas de software y hardware de alta gama y calidad. <br>- Modelos de marketing inteligente, destacable y memorable. <br>- Modelos bancarios y financieros favorables, y grandes cantidades de presupuesto. <br>- Apoyo de parte de redes sociales, canales de televisión y páginas web aliadas, con las que promocionan sus servicios. <br>- El principal lugar de influencia se encuentra en el Perú, donde controla el mercado inmobiliario. <br>- Conoce las necesidades y las nuevas modas y tendencias presentadas en la sociedad peruana y los cambios dados en la economía. <br>- Posee proyectos de expansión a otros países vecinos y a ciertas zonas de Estados Unidos, principalmente en Florida. | - Amplia experiencia y presencia en el Perú en el sector inmobiliario y en la programación de aplicaciones web. <br>- Gran cantidad de equipos de trabajo multidisciplinarios y altamente profesionales en las áreas del rubro inmobiliario. <br>- Posesión de tecnología, infraestructura, sistemas de software y hardware de alta gama y calidad. <br>- Modelos bancarios y financieros favorables. <br>- Apoyo de parte de redes sociales, periódicos y páginas web aliadas, con las que promocionan sus servicios. <br>- El principal lugar de influencia se encuentra en el Perú, donde mantiene fuerte presencia en el mercado inmobiliario. <br>- Conoce las necesidades y las nuevas modas y tendencias presentadas en la sociedad peruana y los cambios dados en la economía.|
 |                   | **Debilidades** | - Falta de conocimientos especializados en las estrategias de marketing y en las propias tendencias del mercado actual y en el futuro. <br>- Gran falta de posicionamiento en el mercado peruano y suramericano general. <br>- Falta de posicionamiento en las redes sociales y otros rubros relacionados, lo que puede aislar nuestras estrategias de marketing. <br>- Falta de conocimientos completos sobre el diseño de aplicaciones web estables, junto a un diseño de mantenimiento y disponibilidad. <br>- Falta de presupuesto inicial para el desarrollo del trabajo. <br>- La carencia de proyectos de producción inmobiliaria propia en el mercado peruano. | - La carencia de proyectos de producción inmobiliaria propia en el mercado sudamericano. <br>- La prestación de servicios directos requiere un alto nivel de especialización, lo que puede implicar mayores costos en la gestión de proyectos. <br>- Falta de diversificación en otros modelos de apoyo en el rubro en el que se especializan. | - Centralización directa en el comercio de solo departamentos y en zonas reducidas del Perú. <br>- Falta de oferta para publicación y venta de inmobiliarias de parte de una persona o empresa externa. <br>- Oferta pequeña en comparación a otras páginas web de promoción de inmobiliarias, lo que puede limitar mucho a sus segmentos de mercado. | - La carencia de proyectos de producción inmobiliaria propia en el mercado sudamericano. <br>- La prestación de servicios directos requiere un alto nivel de especialización, lo que puede implicar mayores costos en la gestión de proyectos. <br>- Falta de diversificación en otros modelos de apoyo en el rubro en el que se especializan. <br>- Falta de blogs o herramientas de consejo sobre decisiones financieras o medidores. <br>- Pérdida de interés de su segmento objetivo por la entrada de nuevas aplicaciones en el mercado, las cuales poseen funcionalidades más optimizadas.|
-|                   | **Oportunidades** | - Preferencia e ideales en las personas del Perú por conseguir una casa propia desde jóvenes. <br>- El fenómeno de la virtualidad al que se adaptaron una gran cantidad de personas en el mundo. <br>- Grandes dificultades en las barreras de entrada de posibles empresas innovadoras.| - Preferencia e ideales en las personas jovenes de sudamérica por conseguir una casa propia desde jovenes. <br>- Bajo poder de los proveedores principales, lo que facilita los modelos de control de calidad y negociaciones. <br>- El fenómeno de la virtualidad al que se adaptaron una gran cantidad de personas. <br>- Grandes dificultades en las barreras de entrada de posibles empresas innovadoras. <br>- Aumento de la industria inmobiliaria en zonas centroamericanas junto al caribe | - Preferencia e ideales en las personas jovenes del Perú por conseguir un departamento propio desde jovenes. <br>- Aumento exponencial de la preferencia de las personas en obtener departamentos en comparación a otros tipos de viviendas. <br>- El fenómeno de la virtualidad al que se adaptaron una gran cantidad de personas. <br>- Grandes dificultades en las barreras de entrada de posibles empresas innovadoras. <br>- Crecimiento de los proyectos de inmobiliarias en zonas de mayor valor como los Estados Unidos o el Continente Europeo | - Preferencia e ideales en las personas jóvenes peruanas por conseguir una casa propia desde jóvenes. <br>- El fenómeno de la virtualidad al que se adaptaron una gran cantidad de personas. <br>- Grandes dificultades en las barreras de entrada de posibles empresas innovadoras.|
-|                   | **Amenazas** | - La evolución tecnológica puede generar nuevas barreras de comunicación y dificultar la oferta de servicios. <br>- La alta inestabilidad política, económica y social que pasa el Perú en la actualidad. Asimismo, se podrían sumar los mismos factores en toda la región de suramérica. <br>- La alta incertidumbre dentro del estado hace que el dólar se revalue, provocando un alza de precios generales para la programación del producto. <br> - La falta de recursos tecnológicos en el Perú por la escasa inversión en especialistas de sistemas. | - La incertidumbre económica y política en sudamérica puede generar cambios en el mercado y en la demanda de servicios. <br>- El aumento de los costos de desarrollo de software que se presentan en los países sudamericanos. Principalmente en Brasil y Colombia. <br>- La evolución tecnológica puede generar nuevas barreras de comunicación y dificultar la oferta de servicios. | - La incertidumbre económica y política en Perú puede generar cambios en la demanda de servicios y en las preferencias de obtención de viviendas en otros países. <br>- La evolución tecnológica puede generar nuevas barreras de comunicación y dificultar la oferta de servicios. | - La incertidumbre económica y política en Perú puede generar cambios en la demanda de servicios y en las preferencias de obtención de viviendas en otros países. <br>- La evolución tecnológica puede generar nuevas barreras de comunicación y dificultar la oferta de servicios. |
+|                   | **Oportunidades** | - Preferencia e ideales en las personas del Perú por conseguir una casa propia desde jóvenes. <br>- El fenómeno de la virtualidad al que se adaptaron una gran cantidad de personas en el mundo. <br>- Grandes dificultades en las barreras de entrada de posibles empresas innovadoras.| - Preferencia e ideales en las personas jovenes de sudamérica por conseguir una casa propia desde jovenes. <br>- Bajo poder de los proveedores principales, lo que facilita los modelos de control de calidad y negociaciones. <br>- El fenómeno de la virtualidad al que se adaptaron una gran cantidad de personas. <br>- Grandes dificultades en las barreras de entrada de posibles empresas innovadoras. <br>- Aumento de la industria inmobiliaria en zonas centroamericanas junto al caribe | - Preferencia e ideales en las personas jóvenes del Perú por conseguir un departamento propio desde jóvenes. <br>- Aumento exponencial de la preferencia de las personas en obtener departamentos en comparación a otros tipos de viviendas. <br>- El fenómeno de la virtualidad al que se adaptaron una gran cantidad de personas. <br>- Grandes dificultades en las barreras de entrada de posibles empresas innovadoras. <br>- Crecimiento de los proyectos de inmobiliarias en zonas de mayor valor como los Estados Unidos o el Continente Europeo | - Preferencia e ideales en las personas jóvenes peruanas por conseguir una casa propia desde jóvenes. <br>- El fenómeno de la virtualidad al que se adaptaron una gran cantidad de personas. <br>- Grandes dificultades en las barreras de entrada de posibles empresas innovadoras.|
+|                   | **Amenazas** | - La evolución tecnológica puede generar nuevas barreras de comunicación y dificultar la oferta de servicios. <br>- La alta inestabilidad política, económica y social que pasa el Perú en la actualidad. Asimismo, se podrían sumar los mismos factores en toda la región de suramérica. <br>- La alta incertidumbre dentro del estado hace que el dólar se revaluó, provocando un alza de precios generales para la programación del producto. <br> - La falta de recursos tecnológicos en el Perú por la escasa inversión en especialistas de sistemas. | - La incertidumbre económica y política en sudamérica puede generar cambios en el mercado y en la demanda de servicios. <br>- El aumento de los costos de desarrollo de software que se presentan en los países sudamericanos. Principalmente en Brasil y Colombia. <br>- La evolución tecnológica puede generar nuevas barreras de comunicación y dificultar la oferta de servicios. | - La incertidumbre económica y política en Perú puede generar cambios en la demanda de servicios y en las preferencias de obtención de viviendas en otros países. <br>- La evolución tecnológica puede generar nuevas barreras de comunicación y dificultar la oferta de servicios. | - La incertidumbre económica y política en Perú puede generar cambios en la demanda de servicios y en las preferencias de obtención de viviendas en otros países. <br>- La evolución tecnológica puede generar nuevas barreras de comunicación y dificultar la oferta de servicios. |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
 - **Mejora de la Interfaz:**
-Al examinar el caso de "AdondeVivir", se ha identificado que uno de los principales obstáculos para la aceptación y popularidad de su plataforma web radica en su interfaz poco intuitiva y poco atractiva. Con el objetivo de obtener una ventaja competitiva en este ámbito, planeamos diseñar interfaces más atractivas para los usuarios. Esto implicará el uso de colores más armoniosos y relacionados con el sector inmobiliario, así como la selección de tipos de letra legibles y amigables. Además, se mejorará la organización de la información y se proporcionará una experiencia más interactiva destacando las cualidades más relevantes de cada propiedad, acompañadas de imágenes en 360 grados y folletos de los anunciantes.
+Al examinar el caso de "AdondeVivir", se ha identificado que uno de los principales obstáculos para la aceptación y popularidad de su plataforma web radica en su interfaz poco intuitiva y poco atractiva. Con el objetivo de obtener una ventaja competitiva en este ámbito, planeamos diseñar interfaces más atractivas para los usuarios. Esto implica el uso de colores más armoniosos y relacionados con el sector inmobiliario, así como la selección de tipos de letra legibles y amigables. Además, se mejorará la organización de la información y se proporcionará una experiencia más interactiva destacando las cualidades más relevantes de cada propiedad, acompañadas de imágenes en 360 grados y folletos de los anunciantes.
 
 - **Diversificación de Servicios:**
 Al analizar el caso de "Edifica", se ha identificado que uno de sus principales desafíos radica en la limitada diversificación de sus servicios, lo cual ha restringido su alcance de mercado y la atracción de inversiones significativas. Dado que Edifica se enfoca principalmente en la construcción y venta de grandes proyectos de departamentos, nuestro enfoque de diversificación relacionada ampliará este alcance. Permitiremos a los usuarios ofrecer una variedad de propiedades, desde viviendas individuales hasta complejos de departamentos. Además, facilitaremos la venta de bienes raíces con diversas características, en diferentes ubicaciones geográficas y en diversos estados de desarrollo.
 
 - **Estrategia de Marketing:**
-Al analizar el caso de "LaEncontré", se ha identificado que su falta de popularidad en el mercado peruano y latinoamericano se debe en gran medida a la falta de presencia y estrategias de marketing virtual efectivas. Aunque optaremos por no emplear un enfoque de marketing agresivo, implementaremos métodos consistentes y campañas en redes sociales para captar la atención de nuestro público objetivo. Nos centraremos en transmitir nuestros valores y visión a través de plataformas como Instagram, Facebook y Twitter (modo empresarial), y complementaremos estas estrategias con vídeos instructivos en Youtube y contenido breve en TikTok. Además, consideraremos la posibilidad de anunciarnos en periódicos como Ojo, Trome y El Comercio para alcanzar una audiencia más amplia.
+Al analizar el caso de "LaEncontré", se ha identificado que su falta de popularidad en el mercado peruano y latinoamericano se debe en gran medida a la falta de presencia y estrategias de marketing virtual efectivas. Aunque optamos por no emplear un enfoque de marketing agresivo, implementaremos métodos consistentes y campañas en redes sociales para captar la atención de nuestro público objetivo. Nos centraremos en transmitir nuestros valores y visión a través de plataformas como Instagram, Facebook y Twitter (modo empresarial), y complementaremos estas estrategias con vídeos instructivos en Youtube y contenido breve en Tik Tok. Además, consideraremos la posibilidad de anunciarse en periódicos como Ojo, Trome y El Comercio para alcanzar una audiencia más amplia.
 
 ---
 
@@ -95,34 +95,34 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 
 **Preguntas generales:**
 
-1. ¿Como se llama?
-2. ¿Cuantos años tienes?
+1. ¿Cómo se llama?
+2. ¿Cuántos años tienes?
 3. ¿A qué te dedicas?
 
 **Segmento 1: Usuarios que desean comprar, vender o informarse:**
 
 1. Actualmente, ¿tienes planeado comprar o alquilar una propiedad?
-2. ¿Cuales son las características de la propiedad que deseas comprar/alquilar?
+2. ¿Cuáles son las características de la propiedad que deseas comprar/alquilar?
 3. ¿Qué métodos de búsqueda ha utilizado para preguntar por alguna propiedad?
 4. ¿Ha visto por la calle diferentes letreros anunciando propiedades?
 5. ¿Ha buscado plataformas en línea que le brindan información sobre propiedades?
 6. ¿Qué tan complejo cree que es usar efectivamente alguna de estas plataformas?
 7. ¿Cree usted que podría utilizar una plataforma de este estilo sin algún tutorial o guía?
-8. ¿Que tanta cercanía cree que tiene con una inmobiliaria o agente inmobiliario a la hora de interactuar vía este tipo de plataformas? 
-9. ¿Cree que esperar por una evaluación crediticia atorpece una búsqueda ágil?
-10. Con respecto a lo mencionado anteriormente, ¿Que tan probable es que adquiera una membresía de la aplicación para obtener beneficios que impactan gradualmente en su experiencia como usuario? 
-11. Recomendaría esta plataforma web? Porqué?
+8. ¿Qué tanta cercanía cree que tiene con una inmobiliaria o agente inmobiliario a la hora de interactuar vía este tipo de plataformas? 
+9. ¿Cree que esperar por una evaluación crediticia entorpece una búsqueda ágil?
+10. Con respecto a lo mencionado anteriormente, ¿Qué tan probable es que adquiera una membresía de la aplicación para obtener beneficios que impactan gradualmente en su experiencia como usuario? 
+11. ¿Recomendaría esta plataforma web? ¿Por qué?
 
 **Segmento 2: Anunciantes que deseen publicar una propiedad en venta o alquiler:**
 
-1. ¿Alguna vez ha logrado vender o alquilar una propiedad? En caso fuere así, ¿Cuanto tiempo le tomó encontrar al cliente? 
+1. ¿Alguna vez ha logrado vender o alquilar una propiedad? En caso fuera así, ¿Cuánto tiempo le tomó encontrar al cliente? 
 2. ¿Alguna vez ha colocado información de su propiedad en la calle mediante anuncios de papel o afines? De no ser el caso, ¿Como ha publicitado su propiedad? 
-3. ¿Que tanto alcance logró tras publicitar su propiedad?
+3. ¿Qué tanto alcance logró tras publicitar su propiedad?
 4. ¿Tuvo problemas al momento de contactarse con los interesados?
 5. ¿Cuanta duración tenían las conversaciones entre anunciante-cliente, donde la mayoría de veces resultaba en un desacuerdo?
 6. ¿Cree que las plataformas inmobiliarias son accesibles y de fácil uso para publicitar propiedades?
-7. Con respecto a lo mencionado anteriormente, ¿Que tan probable es que adquiera una membresía de la aplicación para obtener beneficios que impactan gradualmente en su experiencia como usuario? 
-8. Recomendaría esta plataforma web? Porqué?
+7. Con respecto a lo mencionado anteriormente, ¿Qué tan probable es que adquiera una membresía de la aplicación para obtener beneficios que impactan gradualmente en su experiencia como usuario? 
+8. ¿Recomendaría esta plataforma web? ¿Por qué?
 
 ### 2.2.2. Registro de entrevistas
 
@@ -154,7 +154,7 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 
 <img src="/assets/img/entrevistas/Entrevista2-Segmento1.png" alt="Entrevista 2 Segmento 1" width="400" height="200">
 
-*Nota.* El entrevistado, Yair Aru Acevedo, un estudiante de 20 años de ingeniería de software, revela su interés en adquirir una propiedad con su familia, destacando los desafíos financieros y crediticios que enfrentan. Menciona la importancia de una comunicación más eficiente entre compradores y vendedores, señalando la aplicación Property Unity como una posible solución. Aunque muestra escepticismo sobre la membresía de la aplicación como cliente, reconoce su utilidad potencial para los vendedores al mejorar la promoción y el contacto con los clientes. Destaca la necesidad de una plataforma segura y regulada para buscar propiedades, tanto como usuario como vendedor, resaltando la conveniencia y la seguridad que proporcionaría una plataforma dedicada a este fin.
+*Nota.* El entrevistado, Yair Aru Acevedo, un estudiante de 20 años de ingeniería de software, revela su interés en adquirir una propiedad con su familia, destacando los desafíos financieros y crediticios que enfrentan. Menciona la importancia de una comunicación más eficiente entre compradores y vendedores, señalando la aplicación Property Unity como una posible solución. Aunque muestra escepticismo sobre la membresía de la aplicación como cliente, reconoce su utilidad potencial para los vendedores al mejorar la promoción y el contacto con los clientes. Destaca la necesidad de una plataforma segura y regulada para buscar propiedades, tanto como usuario como vendedor, resaltando la conveniencia y la seguridad que proporciona una plataforma dedicada a este fin.
 
 **Datos principales:**
 - Nombre completo del entrevistado: Yair Aru Acevedo
@@ -173,7 +173,7 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 
 <img src="/assets/img/entrevistas/entrevista3-segmento1.png" alt="Entrevista3 Segmento 1" width="400" height="200">
 
-*Nota.* El señor Rubén es una persona quien está buscando comprar una propiedad y nos comenta cómo encuentra las propiedades en diferentes plataformas como Facebook Marketplace, OLX, búsquedas de Google e inclusive anuncios en periódicos. Él no tiene problemas en manejar estas herramientas tecnológicas pues lo que usa es fácil de usar, mas no están especializadas para la adquisición de inmobiliarias o propiedades en general. También ha buscado en anuncios o pancartas puestas en las propiedades y comenta que suele ser difícil encontrar una que se adecúe a sus necesidades o a las características que busca. Él está dispuesto a usar nuevas plataformas o aplicaciones que estén especializadas en este tipo de búsquedas. Finalmente, recomendaría este tipo de aplicación con sus conocidos.
+*Nota.* El señor Rubén es una persona quien está buscando comprar una propiedad y nos comenta cómo encuentra las propiedades en diferentes plataformas como Facebook Marketplace, OLX, búsquedas de Google e inclusive anuncios en periódicos. Él no tiene problemas en manejar estas herramientas tecnológicas pues lo que usa es fácil de usar, más no están especializadas para la adquisición de inmobiliarias o propiedades en general. También ha buscado en anuncios o pancartas puestas en las propiedades y comenta que suele ser difícil encontrar una que se adecúe a sus necesidades o a las características que busca. Él está dispuesto a usar nuevas plataformas o aplicaciones que estén especializadas en este tipo de búsquedas. Finalmente, recomendaría este tipo de aplicación con sus conocidos.
 
 **Datos principales:**
 - Nombre completo del entrevistado: Rubén Mallma Capcha Carlos
@@ -194,7 +194,7 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 
 <img src="/assets/img/entrevistas/entrevista-segmento2.png" alt="Entrevista Segmento 2" width="400" height="300">
 
-*Nota.* Paolo tiene 22 años, reside en el distrito de San Borja y es un ingeniero Civil que trabaja en el sector inmobiliario por más de 2 años. Él cuenta con experiencia previa en la venta y alquiler de distintas propiedades y ha trabajado con agentes inmobiliarios y clientes directamente. Las herramientas que ha empleado para realizar su búsqueda de clientes son los letreros en la fachada de las propiedades, no obstante, también ha tenido contacto con agentes inmobiliarios que encontraron clientes potenciales para su propiedad y ha utiliza AirBNB para el alquiler de propiedades. Por otro lado, afirma que tiene una conexión directa con los anunciantes debido a que estos se comunican directamente con ellos por teléfono o otros medios, entre estos, ha gastado más de una hora por cliente que desistió de la negociación. Finalmente, tras comentar que no ha utilizado plataformas web del rubro inmobiliario y brindarle una breve explicación sobre la solución que proponemos, comentó que requeriría de más información sobre la inversión que se debe hacer y que está abierto a la posiblidad de adquirir alguna membresía, sin embargo prefiere que la aplicación sea 100% gratuita y que tenga algún tipo de comisión fija, por último, sí recomendaría nuestra plataforma web para personas que están en una situación similar a la suya debido a que les sería de gran utilidad como espacio de trabajo.
+*Nota.* Paolo tiene 22 años, reside en el distrito de San Borja y es un ingeniero civil que trabaja en el sector inmobiliario por más de 2 años. Él cuenta con experiencia previa en la venta y alquiler de distintas propiedades y ha trabajado con agentes inmobiliarios y clientes directamente. Las herramientas que ha empleado para realizar su búsqueda de clientes son los letreros en la fachada de las propiedades, no obstante, también ha tenido contacto con agentes inmobiliarios que encontraron clientes potenciales para su propiedad y ha utilizado AirBNB para el alquiler de propiedades. Por otro lado, afirma que tiene una conexión directa con los anunciantes debido a que estos se comunican directamente con ellos por teléfono o otros medios, entre estos, ha gastado más de una hora por cliente que desistió de la negociación. Finalmente, tras comentar que no ha utilizado plataformas web del rubro inmobiliario y brindarle una breve explicación sobre la solución que proponemos, comentó que requeriría de más información sobre la inversión que se debe hacer y que está abierto a la posibilidad de adquirir alguna membresía, sin embargo prefiere que la aplicación sea 100% gratuita y que tenga algún tipo de comisión fija, por último, sí recomendaría nuestra plataforma web para personas que están en una situación similar a la suya debido a que les sería de gran utilidad como espacio de trabajo.
 
 **Datos principales:**
 - Nombre completo del entrevistado: Paolo Bustos Vidal
@@ -212,7 +212,7 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 *Imagen de presentación de la quinta entrevista realizada.*
 
 <img src="/assets/img/entrevistas/Entrevista2-Segmento2.png" alt="Entrevista Segmento 2" width="400" height="200">
-*Nota.* La entrevistada, Ximena Vilchez Paredes, una estudiante de Derecho y asistente legal en estudio jurídico, comparte su experiencia en alquilar propiedades utilizando medios digitales como Marketplace y Mercado Libre, destacando la rapidez y facilidad de acceso que estas plataformas brindan para publicitar propiedades. Ella menciona los desafíos de comunicación con los interesados, especialmente en obtener números de contacto para una comunicación más efectiva. Además, muestra interés en una aplicación como Propportunity que ofrece simulaciones crediticias y personalización de anuncios, lo que aumentaría su seguridad al alquilar propiedades. Finalmente, recomienda esta plataforma por su facilidad de uso y seguridad, lo que la hace atractiva para aquellos en el rubro inmobiliario.
+*Nota.* La entrevistada, Ximena Vilchez Paredes, una estudiante de Derecho y asistente legal en estudio jurídico, comparte su experiencia en alquilar propiedades utilizando medios digitales como Marketplace y Mercado Libre, destacando la rapidez y facilidad de acceso que estas plataformas brindan para publicitar propiedades. Ella menciona los desafíos de comunicación con los interesados, especialmente en obtener números de contacto para una comunicación más efectiva. Además, muestra interés en una aplicación como Propertunity que ofrece simulaciones crediticias y personalización de anuncios, lo que aumentaría su seguridad al alquilar propiedades. Finalmente, recomienda esta plataforma por su facilidad de uso y seguridad, lo que la hace atractiva para aquellos en el rubro inmobiliario.
 
 **Datos principales:**
 - Nombre completo del entrevistado: Ximena Fernanda Vilchez Paredes
@@ -231,7 +231,7 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 
 <img src="/assets/img/entrevistas/entrevista3-segmento2.png" alt="Entrevista3 Segmento 2" width="400" height="200">
 
-*Nota.* Nuestra entrevistada nos comparte sus dudas y opiniones acerca de cómo y dónde ella publica o anuncia las propiedades a alquilar. Principalmente, nos cuenta que tiene dificultades para poder anunciar puesto que el uso de carteles o pancartas puestas en la propiedad a alquilar resulta ser ineficiente. Segundo, ella muestra interés en usar nuestra aplicación ya que de esta forma podría ofrecer mayor detalle y así aumentar las probabilidades de alquilar su propiedad más rapido. Y por ultimo, ella está dispuesta a confiar en una aplicación especializada que facilite la compra y venta de propiedades ya que ella tiene precaución en cuanto a estafas o plataformas que no sean de confiar.
+*Nota.* Nuestra entrevistada nos comparte sus dudas y opiniones acerca de cómo y dónde ella pública o anuncia las propiedades a alquilar. Principalmente, nos cuenta que tiene dificultades para poder anunciar puesto que el uso de carteles o pancartas puestas en la propiedad a alquilar resulta ser ineficiente. Segundo, ella muestra interés en usar nuestra aplicación ya que de esta forma podría ofrecer mayor detalle y así aumentar las probabilidades de alquilar su propiedad más rápido. Y por último, ella está dispuesta a confiar en una aplicación especializada que facilite la compra y venta de propiedades ya que ella tiene precaución en cuanto a estafas o plataformas que no sean de confiar.
 
 **Datos principales:**
 - Nombre completo del entrevistado: Rosalinda Quispe Ramos 
@@ -299,25 +299,30 @@ A modo de análisis de la información recopilada mediante las entrevistas, se d
 
 Luego, recopilamos para cada pregunta de las entrevistas cuales las respuestas que varios tuvieron en común.
 
-**Segmento 1:** 
-=======
----
-| Preguntas | Respuestas |
-|--------|------|
-| ¿Tiene planeado comprar o alquilar una propiedad? | Varios respondieron que sí, pero la preocupación de encontrar una buena propiedad los desalienta |
-| ¿Qué métodos de búsqueda ha utilizado para preguntar por alguna propiedad? | Algunos mencionan letreros, otros mencionan publicaciones dentro de redes sociales o aplicaciones como tal |
-| ¿Ha visto por la calle diferentes letreros anunciando propiedades? | Varios afirman que sí vieron letreros en las calles: letreros grandes (panorámicos) o letreros casuales que se pueden encontrar en las propiedades a alquilar o vender |
-| ¿Ha buscado plataformas en línea que le brindan información sobre propiedades? | Muchos respondieron que sí puesto que tradicionalmente usando letreros o pegar anuncios en los periódicos es ineficiente hoy en día |
-| ¿Cree usted que podría utilizar una plataforma de este estilo sin algún tutorial o guía? | Varios afirmand que sí podrían utilizar estas plataformas sin algún tutorial ya que estas plataformas están diseñadas para la fácil comprensión del usuario promedio |
-| ¿Cree que esperar por una evaluación crediticia atorpece una búsqueda ágil? | Afirman que sí puesto que la incertidumbre o simplemente saber que no tendrán los recursos necesarios para conseguir una propiedad puede hasta desalentar a los compradores |
+###### Tabla 3.
+*Análisis de las entrevistas para el primer segmento objetivo señalado.*
 
 | Preguntas | Respuestas |
-|--------|------|
-| ¿Alguna vez ha logrado vender o alquilar una propiedad? En caso fuere así, ¿Cuanto tiempo le tomó encontrar al cliente? | Varios responden que sí lograron vender o alquilar una propiedad. Y que a algunos les tomó cierto tiempo mientras que otros fue rápido |
-| ¿Alguna vez ha colocado información de su propiedad en la calle mediante anuncios de papel o afines? De no ser el caso, ¿Como ha publicitado su propiedad? | Si han publicado la venta o comprar de propiedades como anuncios, afiches, letreros y entre otros. Los que no han usado alguna aplicación o herramienta externa |
-| ¿Que tanto alcance logró tras publicitar su propiedad? | Varios esperaban que tenga un alcance considerable pero no fue el caso. Los anuncios se ven ensombresidos por la cantidad de letreros o anuncios que existen en la calle |
+|-----------|------------|
+| ¿Tiene planeado comprar o alquilar una propiedad? | Varios respondieron que sí, pero la preocupación de encontrar una buena propiedad los desalienta |
+| ¿Qué métodos de búsqueda ha utilizado para preguntar por alguna propiedad? | Algunos mencionan letreros, otros mencionan publicaciones dentro de redes sociales o aplicaciones como tal |
+| ¿Ha visto por la calle diferentes letreros anunciando propiedades? | Varios afirman que sí vieron letreros en las calles: letreros grandes (panorámicos) o letreros usuales que se pueden encontrar en las propiedades a alquilar o vender |
+| ¿Ha buscado plataformas en línea que le brindan información sobre propiedades? | Muchos respondieron que sí puesto que tradicionalmente usando letreros o pegar anuncios en los periódicos es ineficiente hoy en día |
+| ¿Cree usted que podría utilizar una plataforma de este estilo sin algún tutorial o guía? | Varios afirman que sí podrían utilizar estas plataformas sin algún tutorial ya que estas plataformas están diseñadas para la fácil comprensión del usuario promedio |
+| ¿Cree que esperar por una evaluación crediticia entorpece una búsqueda ágil? | Afirman que sí puesto que la incertidumbre o simplemente saber que no tendrán los recursos necesarios para conseguir una propiedad puede hasta desalentar a los compradores |
+
+---
+
+###### Tabla 4. 
+*Análisis de las entrevistas para el segundo segmento objetivo señalado.*
+
+| Preguntas | Respuestas |
+|-----------|------------|
+| ¿Alguna vez ha logrado vender o alquilar una propiedad? En caso fuera así, ¿Cuánto tiempo le tomó encontrar al cliente? | Varios responden que sí lograron vender o alquilar una propiedad. Y que a algunos les tomó cierto tiempo mientras que otros fue rápido |
+| ¿Alguna vez ha colocado información de su propiedad en la calle mediante anuncios de papel o afines? De no ser el caso, ¿Como ha publicitado su propiedad? | Si han publicado la venta o compra de propiedades como anuncios, afiches, letreros y entre otros. Los que no han usado alguna aplicación o herramienta externa |
+| ¿Qué tanto alcance logró tras publicitar su propiedad? | Varios esperaban que tuviera un alcance considerable pero no fue el caso. Los anuncios se ven ensombrecidos por la cantidad de letreros o anuncios que existen en la calle |
 | ¿Tuvo problemas al momento de contactarse con los interesados? | Unos afirman que sí mientras que otros no ya que los números de contacto o información para poder comunicarse con el anunciante se encuentran dentro de estos anuncios |
-| ¿Cree que las plataformas inmobiliarias son accesibles y de fácil uso para publicitar propiedades? | Varios creen que no es muy rentable ya que se tiene que pagar un costo por la comprar o venta de alguna propiedad al usar estas plataformas. Inclusive que no se da para personas sin experiencia dentro de este campo |
+| ¿Cree que las plataformas inmobiliarias son accesibles y de fácil uso para publicitar propiedades? | Varios creen que no es muy rentable ya que se tiene que pagar un costo por la compra o venta de alguna propiedad al usar estas plataformas. Inclusive que no se da para personas sin experiencia dentro de este campo |
 
 ---
 ## 2.3. Needfinding
@@ -339,7 +344,7 @@ Para reconocer las demandas de los usuarios, empleamos diversos enfoques. Primer
 
 ### 2.3.2. User Task Matrix
 
-###### Tabla 3.
+###### Tabla 5.
 *User task matrix para el primer user persona.*
 
 | Tareas | Sara | Peterson |    
@@ -347,13 +352,13 @@ Para reconocer las demandas de los usuarios, empleamos diversos enfoques. Primer
 | | Frecuencia | Importancia |
 | Pregunta a amistades y familiares acerca de inmuebles en venta. | Often | Medium |
 | Buscar inmuebles mediante métodos tradicionales. | Always | Medium |
-| Buscar reseñas y experiencias de personas que han trabajado con las agencias inmobiliaria. | Always | High | 
+| Buscar reseñas y experiencias de personas que han trabajado con las agencias inmobiliarias. | Always | High | 
 | Contacta con una agencia inmobiliaria para obtener información actualizada. | Often | Medium | 
 | Buscar entidades financieras para realizar las consultas necesarias. | Often | Medium | 
 | Solicita una evaluación crediticia a una entidad financiera. | Sometimes | Medium | 
 | Concreta una compra de un inmueble satisfactoriamente. | Rarely | High | 
 
-###### Tabla 4.
+###### Tabla 6.
 *User task matrix para el segundo user persona.*
 
 | Tareas | Miguel |  Arias |    
@@ -393,14 +398,14 @@ Para reconocer las demandas de los usuarios, empleamos diversos enfoques. Primer
 
 ### 2.3.5. As-is Scenario Mapping
 
-###### Tabla 5.
+###### Tabla 7.
 *Mapa de Escenario As-Is para nuestro primer user persona.*
 
 User 1: Personas que Deseen Comprar o Alquilar una Propiedad
 <img src="/assets/img/As-Is segmento 1.jpg" alt="As-Is segmento 1">
 
 
-###### Tabla 6.
+###### Tabla 8.
 *Mapa de Escenario As-Is para nuestro segundo user persona.*
 
 User 2: Anunciantes que Deseen Publicar una Propiedad en Venta o Alquiler
@@ -408,16 +413,22 @@ User 2: Anunciantes que Deseen Publicar una Propiedad en Venta o Alquiler
 
 
 ## 2.4. Ubiquitous Language
-Según la página Domain Driven Design (2019), el lenguaje ubicuo es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en común entre todos los implicados dentro del contexto del negocio. A continuación, se han identificado los siguientes conceptos que ayudarán a crear un nexo entre los usuarios y los desarrolladores:
+Según la página Domain Driven Design (2019), el concepto de lenguaje ubicuo se erige como un pilar fundamental en la construcción de sistemas de software que sean comprensibles y adaptables a las necesidades del negocio. El lenguaje ubicuo se define como la articulación y estandarización de los conceptos y términos que se utilizan en el ámbito empresarial, con el fin de establecer un dialecto común que sea entendido por todos los participantes involucrados en el desarrollo y la operación de un sistema. Dentro del marco del negocio inmobiliario, la aplicación del lenguaje ubicuo es esencial para establecer una comunicación efectiva entre los usuarios y los desarrolladores. A través de la identificación y definición de conceptos clave, se establece un puente entre el lenguaje técnico empleado por los desarrolladores y el lenguaje cotidiano utilizado por los usuarios.
 
-- Propiedad: En lugar de “casa” o “apartamento”, se utiliza “propiedad” como un término genérico.
-- Inmueble: Para referirse a cualquier tipo de propiedad (residencial, comercial, industrial, etc.).
-- Arrendador: En lugar de “dueño” o “propietario”.
-- Arrendatario: En lugar de “inquilino”.
-- Garante: Para la persona que respalda financieramente al arrendatario.
-- Contrato de alquiler: En lugar de “contrato de arrendamiento”.
-- Visita virtual: Para describir recorridos virtuales por las propiedades.
-- Ficha de propiedad: Para la información detallada de una propiedad.
-- Zona residencial: En lugar de “barrio” o “vecindario”.
-- Oferta: Para referirse a una propuesta de compra o alquiler.
-- Búsqueda avanzada: Para las opciones de filtrado en la búsqueda de propiedades.
+En este contexto, se han identificado una serie de conceptos que son fundamentales para la comprensión y el desarrollo de sistemas informáticos relacionados con el mercado inmobiliario:
+
+1. **Propiedad:** En lugar de utilizar términos específicos como "casa" o "apartamento", se opta por el término genérico "propiedad", que engloba cualquier tipo de activo inmobiliario.
+2. **Inmueble:** Este término se utiliza de manera amplia para referirse a cualquier tipo de propiedad, ya sea residencial, comercial, industrial o de otro tipo.
+3. **Arrendador:** En lugar de emplear términos como "dueño" o "propietario", se utiliza el término "arrendador" para referirse a la persona o entidad que posee la propiedad y la pone en alquiler.
+4. **Arrendatario:** En contraposición al término "inquilino", se utiliza el término "arrendatario" para referirse a la persona o entidad que alquila la propiedad del arrendador.
+5. **Garante:** Se refiere a la persona que proporciona garantías financieras en apoyo al arrendatario, ofreciendo seguridad adicional al arrendador en caso de incumplimiento de pago.
+6. **Contrato de alquiler:** En lugar de utilizar el término "contrato de arrendamiento", se emplea la expresión "contrato de alquiler" para referirse al acuerdo legal entre el arrendador y el arrendatario.
+7. **Visita virtual:** Se utiliza para describir la experiencia de recorrer una propiedad de manera virtual, a través de medios digitales como fotografías, vídeos o tours interactivos.
+8. **Ficha de propiedad:** Se refiere a la recopilación de información detallada sobre una propiedad, que incluye características, fotografías, precio, ubicación, entre otros datos relevantes.
+9. **Zona residencial:** En lugar de los términos "barrio" o "vecindario", se utiliza la expresión "zona residencial" para referirse a áreas geográficas donde predominan las viviendas y la actividad residencial.
+10. **Oferta:** Se utiliza para referirse a una propuesta de compra o alquiler de una propiedad, presentada por un interesado a un vendedor o arrendador.
+11. **Búsqueda avanzada:** Se refiere a las opciones de filtrado y personalización disponibles en las herramientas de búsqueda de propiedades, que permiten a los usuarios realizar búsquedas específicas según sus preferencias y requisitos.
+
+La adopción de este conjunto de términos estandarizados contribuye a eliminar ambigüedades y confusiones en la comunicación entre los distintos actores del negocio inmobiliario, facilitando así el desarrollo de sistemas de software que satisfagan de manera precisa las necesidades y expectativas de los usuarios finales. Además, al establecer un lenguaje común, se fomenta la colaboración y el entendimiento mutuo entre los diferentes equipos involucrados en el proceso de desarrollo y mantenimiento de dichos sistemas. En resumen, el lenguaje ubicuo emerge como un elemento clave en la creación de soluciones tecnológicas efectivas y alineadas con las exigencias del mercado inmobiliario moderno.
+
+

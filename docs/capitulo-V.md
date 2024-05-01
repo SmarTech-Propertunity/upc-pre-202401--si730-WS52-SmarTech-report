@@ -465,11 +465,11 @@ En esta sección se explicaran los detalles presentados y analizados durante la 
         </tr>
               <tr>
             <td>Sprint 1 Velocity</td>
-            <td>Con el equipo para este sprint 1 decidimos aceptar 5 Story Points</td>
+            <td>Con el equipo para este sprint 1 decidimos aceptar 3 Story Points</td>
         </tr>
               <tr>
             <td>Sum of Story Points</td>
-            <td>La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 1 es 32</td>
+            <td>La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 1 es 7</td>
         </tr>
     </table>
 
@@ -502,7 +502,7 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
             <td>T01</td>
             <td>Sección con descripciones detalladas sobre la startup</td>
             <td>Como usuario general de la aplicación web, quiero tener disponible la informaación sobre la startup de Propertunity, para saber que los motiva, q.ue metas poseen y que clase de productos ofrecen.</td>
-            <td>1 hora y 30 minutos</td>
+            <td>30 minutos</td>
             <td>Mallma Quispe, Rubén Elías</td>
             <td>Done</td>
         </tr>
@@ -512,7 +512,7 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
             <td>T02</td>
             <td>Sección con descripciones de las suscripciones</td>
             <td>Como usuario general de la aplicación web, quiero poder revisar a detalles las suscripciones que ofrece la aplicación web de Propertunity, para saber si las funcionalidades agregadas que entrega serviran para cumplir con mis necesidades y saber cuanto llegaria a gastar en la suscripción.</td>
-            <td>1 hora y 50 minutos</td>
+            <td>50 minutos</td>
             <td>Valenzuela Huillcaya, Aldhair Johan Juan</td>
             <td>Done</td>
         </tr>
@@ -522,7 +522,7 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
             <td>T03</td>
             <td>Lista con principales caracteristicas y funcionalidades</td>
             <td>Como usuario general de la aplicación web, quiero revisar las principales características y funcionalidades de la aplicación web de Propertunity, para ser capaz de saber que funciones pueden ser útiles según mis necesidades y diferenciar a Propertunity de la competencia.</td>
-            <td>1 hora y 40 minutos</td>
+            <td>40 minutos</td>
             <td>Trigueros Chumacero, Flavio Eduardo</td>
             <td>Done</td>
         </tr>
@@ -532,7 +532,7 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
             <td>T04</td>
             <td>Testimonios con casos de uso real de la aplicación web</td>
             <td>Como usuario general de la aplicación web, quiero poder visualizar indicios de otros usuarios quienes ya usaron el producto antes que yo, para poder tener la certeza y garantía de que lo que promocionan es un producto funcional y de confianza.</td>
-            <td>50 minutos</td>
+            <td>30 minutos</td>
             <td>Shimabukuro Uku, Carlos Joel</td>
             <td>Done</td>
         </tr>
@@ -552,7 +552,7 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
             <td>T06</td>
             <td>Barra de navegación</td>
             <td>Como usuario general de la aplicación web, quiero que haya una barra de navegación en alguna sección de la landing page, para que pueda revisar todo lo que me ofrece la página y pueda dirigirme directamente a cada sección de la página.</td>
-            <td>1 hora y 30 minutos</td>
+            <td>1 hora</td>
             <td>Yen Cerna, Lucio Heli</td>
             <td>Done</td>
         </tr>
@@ -626,27 +626,27 @@ Con respecto a la colaboracion del equipo, nos reunimos presencial como virtualm
 
 ### 5.2.2 Sprint 2
 
-En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint número 1. Todo el avance descriptivo se muestra aquí junto a su desarrollo, historial y avance en conjunto dado por cada intengrante del equipo de trabajo. Todas las especificaciones siguen desde el Product Backlog del Capitulo 3 de requerimientos.
+En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint número 2. Todo el avance descriptivo se muestra aquí junto a su desarrollo, historial y avance en conjunto dado por cada intengrante del equipo de trabajo. Todas las especificaciones siguen desde el Product Backlog del Capitulo 3 de requerimientos.
 
 ### 5.2.2.1 Sprint Planning 2
 
-En esta sección se explicaran los detalles presentados y analizados durante la reunión del Sprint Planning para el número 1. El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión.
+En esta sección se explicaran los detalles presentados y analizados durante la reunión del Sprint Planning para el número 2. El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión.
 
 <table>
         <tr>
             <td colspan="1">Sprint #</td>
-            <td colspan="1">Sprint 1</td>
+            <td colspan="1">Sprint 2</td>
         </tr>
         <tr>
             <td colspan="2">Sprint Planning Background</td>
         </tr>
         <tr>
             <td>Date</td>
-            <td>2024-04-04</td>
+            <td>2024-04-21</td>
         </tr>
           <tr>
             <td>Time</td>
-            <td>17:02</td>
+            <td>18:01</td>
         </tr>
             <tr>
             <td>Location</td>
@@ -661,27 +661,27 @@ En esta sección se explicaran los detalles presentados y analizados durante la 
             <td>Mallma Quispe, Rubén Elías, Shimabukuro Uku, Carlos Joel, Trigueros Chumacero, Flavio Eduardo, Valenzuela Huillcaya, Aldhair Johan Juan, Yen Cerna, Lucio Heli</td>
         </tr>
             <tr>
-            <td>Sprint 1 – 1 Review Summary</td>
-            <td>El proceso del sprint 1 concluyo con un claro éxito en términos de avance de los productos softwares dados junto a la colaboración general del equipo y la comunicación. Los logros alcanzados junto a la retroalimentación con la recopilación durante esta revisión proporcionan una buena y sólida base para la construcción y realización del siguiente sprint (2), además de reforzar el compromiso del equipo con la calidad y la entrega responsable.</td>
+            <td>Sprint 2 - 2 Review Summary</td>
+            <td>Después de un realizar todos los procedimientos establecidos para la identificación de objetivos y áreas de retroalimentación, hemos podido concluir la reunión del sprint 2 con éxito en términos de avance en los productos de software y en la colaboración general del equipo. El proceso de mejora con la retroalimentación y la programación de varias secciones nuevas en la Aplicación Web significó un gran proceso de mejora para la construcción y realización del sprint, además de reforzar el compromiso de nuestro equipo y la mejora exponencial de las actividades indicadas.</td>
         </tr>
             <tr>
-            <td>Sprint 1 – 1 Retrospective Summary</td>
-            <td>Para la retrospectiva del Sprint 1 fue necesario reflexionar sobre el desempeño general e individual de todos los miembros del equipo de trabajo, además de identificar todas las secciones posibles donde podemos mejorar además del uso de recomendaciones. Esto nos servira como una buena base para impulsar aun más la mejora continua y optimizar el trabajo del equipo en los próximos sprints durante el ciclo de vida del proyecto.</td>
+            <td>Sprint 2 – 2 Retrospective Summary</td>
+            <td>Para el proceso de la retrospectiva del Sprint 2, fue necesario que nuestro equipo revisara a detalle toda la retroalimentación recibida ante el primer sprint realizado, para luego generar un análisis a profundidad del desempeño general e individual de todos los miembros del equipo de trabjo. Después de ese proceso, pudimos identificar varias áreas de mejora en las cuales centrarnos para así poder garantizar la entrega de un mejor trabajo y un buen producto para todos nuestros clientes, promoviendo la mejora continua y optimizando los métodos de trabajo en los próximos sprints durante el ciclo de vida del proyecto.</td>
         </tr>
             <tr>
             <td colspan="2">Sprint Goal & User Stories</td>
         </tr>
               <tr>
-            <td>Sprint 1 Goal</td>
-            <td>Alcanzar una métrica de cumplimiento del 100%, lo que indicará que se ha logrado todos los objetivos del sprint 1 con todas las historias de usuario y otros materiales necesarios.</td>
+            <td>Sprint 2 Goal</td>
+            <td>Alcanzar una métrica de cumplimiento del 100%, lo que indicará que se ha logrado todos los objetivos del sprint 2 con todas las historias de usuario y otros materiales necesarios.</td>
         </tr>
               <tr>
             <td>Sprint 1 Velocity</td>
-            <td>Con el equipo para este sprint 1 decidimos aceptar 5 Story Points</td>
+            <td>Con el equipo para este sprint 2 decidimos aceptar 8 Story Points</td>
         </tr>
               <tr>
             <td>Sum of Story Points</td>
-            <td>La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 1 es 32</td>
+            <td>La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 2 es ##</td>
         </tr>
     </table>
 
@@ -709,63 +709,163 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
             <td>Status (To-do / In / Process / ToReview / Done)</td>
         </tr>
         <tr>
-            <td>US01</td>
-            <td>Agregar una sección con descripciones detalladas sobre la startup</td>
-            <td>T01</td>
-            <td>Sección con descripciones detalladas sobre la startup</td>
-            <td>Como usuario general de la aplicación web, quiero tener disponible la informaación sobre la startup de Propertunity, para saber que los motiva, q.ue metas poseen y que clase de productos ofrecen.</td>
+            <td>US07</td>
+            <td>Implementar un apartado de registro de cuenta</td>
+            <td>T07</td>
+            <td>Apartado de registro de cuenta</td>
+            <td>Como usuario general de la aplicación, quiero poder crear una cuenta dentro de la aplicación web con el uso de datos pertinentes, para poder ingresar a la aplicación desde cualquier dispositivo y guardar mis datos personales básicos y necesarios.</td>
             <td>1 hora y 30 minutos</td>
-            <td>Mallma Quispe, Rubén Elías</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US02</td>
-            <td>Agregar una sección con descripciones detalladas sobre las suscripciones</td>
-            <td>T02</td>
-            <td>Sección con descripciones de las suscripciones</td>
-            <td>Como usuario general de la aplicación web, quiero poder revisar a detalles las suscripciones que ofrece la aplicación web de Propertunity, para saber si las funcionalidades agregadas que entrega serviran para cumplir con mis necesidades y saber cuanto llegaria a gastar en la suscripción.</td>
-            <td>1 hora y 50 minutos</td>
             <td>Valenzuela Huillcaya, Aldhair Johan Juan</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US03</td>
-            <td>Incorporar una lista con las principales características y funcionalidades</td>
-            <td>T03</td>
-            <td>Lista con principales caracteristicas y funcionalidades</td>
-            <td>Como usuario general de la aplicación web, quiero revisar las principales características y funcionalidades de la aplicación web de Propertunity, para ser capaz de saber que funciones pueden ser útiles según mis necesidades y diferenciar a Propertunity de la competencia.</td>
-            <td>1 hora y 40 minutos</td>
-            <td>Trigueros Chumacero, Flavio Eduardo</td>
+            <td>US08</td>
+            <td>Implementar un apartado de inicio de sesión</td>
+            <td>T08</td>
+            <td>Apartado de inicio de sesión</td>
+            <td>Como usuario general de la aplicación web, quiero poder iniciar sesión con una cuenta ya creada y registrada en la aplicación web, para poder acceder a mis datos, registros, etc., desde cualquier dispositivo.</td>
+            <td>1 hora y 10 minutos</td>
+            <td>Valenzuela Huillcaya, Aldhair Johan Juan</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US04</td>
-            <td>Proporcionar testimonios con casos de uso real de la aplicación web</td>
-            <td>T04</td>
-            <td>Testimonios con casos de uso real de la aplicación web</td>
-            <td>Como usuario general de la aplicación web, quiero poder visualizar indicios de otros usuarios quienes ya usaron el producto antes que yo, para poder tener la certeza y garantía de que lo que promocionan es un producto funcional y de confianza.</td>
-            <td>50 minutos</td>
-            <td>Shimabukuro Uku, Carlos Joel</td>
+            <td>US12</td>
+            <td>Permitir la recuperación de una contraseña mediante una opción</td>
+            <td>T09</td>
+            <td>Recuperación de contraseñas</td>
+            <td>Como usuario general de la aplicación web, quiero tener alguna opción con la que pueda recuperar la contraseña de mi cuenta de la aplicación web de Propertunity, para poder tener alguna opción de recuperar mi cuenta si olvido mi contraseña y/o si quiero cambiar la contraseña de forma rapida para garantizar la seguridad de mi cuenta.</td>
+            <td>1 hora y 10 minutos</td>
+            <td>Valenzuela Huillcaya, Aldhair Johan Juan</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US05</td>
-            <td>Implementación de un cuestionario de contacto</td>
-            <td>T05</td>
-            <td>Cuestionario de contacto</td>
-            <td>Como usuario general de la aplicación web, quiero ser capaz de contactarme directamente con el personal de apoyo al cliente que trabaja para Propertunity, para poder resolver cualquier duda que tenga sobre el aplicativo y pueda conseguir más informacación.</td>
-            <td>40 minutos</td>
+            <td>US14</td>
+            <td>Agregar un menú principal de la aplicación web</td>
+            <td>T10</td>
+            <td>Menú principal</td>
+            <td>Como usuario de la aplicación web, quiero que haya una página principal donde pueda revisar las principales ofertas de propiedades con información y desde la cual pueda acceder a todas las funcionalidades que ofrece la aplicación web, para poder tener una mayor facilidad de uso y verificar rapidamente las principales ofertas de inmobiliarias.</td>
+            <td>2 horas y 10 minutos</td>
+            <td>Mallma Quispe, Rubén Elías</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>US17</td>
+            <td>Implementar una interfaz simple y consistente</td>
+            <td>T11</td>
+            <td>Modelo de interfaz</td>
+            <td>Como usuario de la aplicación web quiero navegar por una interfaz simple consistente y coherente para completar mis objetivos con mucha más facilidad.</td>
+            <td>1 hora y 50 minutos</td>
+            <td>Mallma Quispe, Rubén Elías</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US20</td>
+            <td>Agregar atajos en la página web</td>
+            <td>T12</td>
+            <td>Atajos en la página web</td>
+            <td>Como usuario general de la aplicación web, quiero tener un acceso en la aplicación mediante atajos que redirigen hacia secciones y funcionalidades, para poder tener una mayor facilidad de uso y poder acceder rapidamente a cualquier funcionalidad que necesite.</td>
+            <td>1 hora y 10 minutos</td>
+            <td>Mallma Quispe, Rubén Elías</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US19</td>
+            <td>Agregar una barra de navegación en la página web</td>
+            <td>T13</td>
+            <td>Barra de navegación</td>
+            <td>Como usuario general de la aplicación web, quiero tener un acceso rápido al catálogo de propiedades que ofrezca la aplicación mediante una barra de búsqueda , para poder tener una mayor facilidad de uso y poder acceder rapidamente a cualquier propiedad que cumpla con mis intereses.</td>
+            <td>2 horas</td>
             <td>Shimabukuro Uku, Carlos Joel</td>
             <td>Done</td>
         </tr>
           <tr>
-            <td>US06</td>
-            <td>Integrar una barra de navegación sencilla</td>
-            <td>T06</td>
-            <td>Barra de navegación</td>
-            <td>Como usuario general de la aplicación web, quiero que haya una barra de navegación en alguna sección de la landing page, para que pueda revisar todo lo que me ofrece la página y pueda dirigirme directamente a cada sección de la página.</td>
+            <td>US20</td>
+            <td>Agregar atajos en la página web</td>
+            <td>T14</td>
+            <td>Atajos en la página web</td>
+            <td>Como usuario general de la aplicación web, quiero tener un acceso en la aplicación mediante atajos que redirigen hacia secciones y funcionalidades, para poder tener una mayor facilidad de uso y poder acceder rapidamente a cualquier funcionalidad que necesite.</td>
+            <td>1 hora y 10 minutos</td>
+            <td>Mallma Quispe, Rubén Elías</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>US21</td>
+            <td>Agregar íconos en la página web</td>
+            <td>T15</td>
+            <td>Íconos</td>
+            <td>Como usuario general de la aplicación web, quiero tener íconos que me redirijan a cada una de las funcionalidades que ofrezca la aplicación desde cualquier página en la que me encuentre, para poder tener una mayor facilidad de uso y poder acceder rapidamente a cualquier funcionalidad que necesite.</td>
             <td>1 hora y 30 minutos</td>
+            <td>Trigueros Chumacero, Flavio Eduardo</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>US22</td>
+            <td>Agregar botones de reversión en la página web</td>
+            <td>T16</td> 
+            <td>Botones de reversión</td>
+            <td>Como usuario general de la aplicación web, quiero contar con un botón de reversión para remediar de forma ágil cualquier error que cometa dentro de la plataforma.</td>
+            <td>1 hora y 30 minutos</td>
+            <td>Trigueros Chumacero, Flavio Eduardo</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>US24</td>
+            <td>Crear publicación de propiedades donde pueda ingresar detalles del inmueble</td>
+            <td>T17</td> 
+            <td>Publicación de propiedades</td>
+            <td>Como usuario anunciante de propiedades quiero poder crear una publicación de mi producto donde pueda ingresar detalladamente todos los datos de mi inmueble disponible para brindar una información más precisa a las personas que observen mi publicación.</td>
+            <td>3 horas</td>
             <td>Yen Cerna, Lucio Heli</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>US25</td>
+            <td>Subida de imagenes de propiedades</td>
+            <td>T18</td> 
+            <td>Subir imagenes</td>
+            <td>Como usuario anunciante de propiedades quiero agregar imágenes a ls nueva publicación que estoy agregando para que los interesados en el inmueble puedan apreciar mejor las dimensiones del mismo.</td>
+            <td>1 hora y 10 minutos</td>
+            <td>Yen Cerna, Lucio Heli</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>US26</td>
+            <td>Vista previa de la publicación</td>
+            <td>T19</td> 
+            <td>Subir imagenes</td>
+            <td>Como usuario anunciante de propiedades quiero poder previsualizar la publicación nueva que esté creando para asegurarme de que la información sea la correcta.</td>
+            <td>1 hora</td>
+            <td>Yen Cerna, Lucio Heli</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>US29</td>
+            <td>Búsqueda personalizada de inmuebles</td>
+            <td>T20</td> 
+            <td>Búsqueda personalizada</td>
+            <td>Como usuario interesado en comprar o alquilar un inmueble en Propertunity, quiero poder realizar búsquedas de los inmuebles disponibles en la plataforma para encontrar la que mejor se adapte a mis necesidades y preferencias.</td>
+            <td>2 horas y 10 minutos</td>
+            <td>Shimabukuro Uku, Carlos Joel</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>US30</td>
+            <td>Visualización de perfiles de los inmuebles</td>
+            <td>T21</td> 
+            <td>Visualización de inmuebles</td>
+            <td>Como usuario interesado en comprar o alquilar un inmueble en Propertunity, quiero poder ver perfiles detallados de los inmuebles disponibles en la plataforma, para obtener información completa sobre ellas antes de tomar una decisión.</td>
+            <td>2 horas</td>
+            <td>Yen Cerna, Lucio Heli</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>US35</td>
+            <td>Implementar calculadora financiera</td>
+            <td>T22</td> 
+            <td>Calculadora financiera</td>
+            <td>Como usuario interesado en comprar o alquilar un inmueble en Propertunity, quiero tener una calculadora financiera, para verificar si el precio de la propiedad se encuentra dentro de mi presupuesto.</td>
+            <td>2 horas y 40 minutos</td>
+            <td>Trigueros Chumacero, Flavio Eduardo</td>
             <td>Done</td>
         </tr>
     </table>

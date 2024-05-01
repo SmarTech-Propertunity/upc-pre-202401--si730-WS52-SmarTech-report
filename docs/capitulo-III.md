@@ -2,12 +2,12 @@
 
 ## 3.1. To-Be Scenario Mapping
 
-###### Tabla 7.
+###### Figura 16.
 *Mapa de Escenario To-Be para nuestro primer user persona.*
 <img src="/assets/img/To-Be segmento 1.jpg" alt="To-Be segmento 1" width="1200" >
 
 
-###### Tabla 8.
+###### Figura 17.
 *Mapa de Escenario To-Be para nuestro segundo user persona.*
 <img src="/assets/img/To-Be segmento 2.jpg" alt="To-Be segmento 2" width="1200" >
 
@@ -71,7 +71,7 @@
 ---
 
 ###### Tabla 10.
-*Tabla de las historias de usuarios.*
+*Tabla de las historias de usuarios establecidas.*
 
 | User<br>Story<br>ID | Título | Descripción | Criterios de Aceptación | Relacionado<br>con Epic |
 |---------------------|--------|-------------|-------------------------|-------------------------|
@@ -113,7 +113,7 @@
 
 ## 3.3. Impact Mapping
 
-###### Figura 16.
+###### Figura 18.
 *Impact Mapping de los dos user persona del proyecto.*
 
 <img src="/assets/img/Impact Map.png" alt="Impact Map" width="1200" height="500">
@@ -122,6 +122,8 @@
 
 ## 3.4. Product Backlog
 
+###### Tabla 11.
+*Product Backlog establecido con todas las historias de usuario identificadas en el proyecto.*
 | #Orden | User<br>Story<br>ID | Título | Descripción | Story Points<br>(1/2/3/5/8)|
 |--------|---------------------|--------|-------------|----------------------------|
 | 1 | US24 | Crear publicación de propiedades donde pueda ingresar detalles del inmueble | Como usuario anunciante de propiedades quiero poder crear una publicación de mi producto donde pueda ingresar detalladamente todos los datos de mi inmueble disponible para brindar una información más precisa a las personas que observen mi publicación. | 8 |

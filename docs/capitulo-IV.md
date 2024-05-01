@@ -24,7 +24,7 @@ Con el fin de otorgarle un mejor contraste al color azul en los fondos y cuadros
 ###### Figura 20.
 *Paleta de colores blanquecinos con sus códigos RGB.*
 
-<img src="/assets/img/Paleta de Azules.png" alt="Paleta de Blancos" width="600" height="800">
+<img src="/assets/img/Paleta de Blancos.png" alt="Paleta de Blancos" width="600" height="855">
 
 Finalmente, hemos utilizado un grupo de paletas extras basadas en el color naranja que combinarán con las figuras añadidas y otras secciones de las páginas como fondo agregado. Esto se hará con el fin de aumentar la diversidad en las páginas y volverlas más llamativas, además de agregar colores cálidos como contraste con los tonos azulados, lo que le da un sentimiento más acogedor.
 
@@ -33,7 +33,7 @@ La primera paleta corresponde al color naranja, el cual, en estos casos, transmi
 ###### Figura 21.
 *Paleta de colores naranjizos con sus códigos RGB.*
 
-<img src="/assets/img/Paleta de Naranjas.png" alt="Paleta de Naranjas" width="500" height="410">
+<img src="/assets/img/Paleta de Naranjas.png" alt="Paleta de Naranjas" width="500" height="400">
 
 La segunda paleta corresponde al color amarillo, el cual transmite alegría, felicidad, energía y optimismo. Es un color que tiene un carácter fresco que es mucho más atractivo para los segmentos más jóvenes, como los niños. Debido a este último detalle, este color se usará solo en degradados para otorgar una mayor consistencia a la paleta de colores naranjas. Asimismo, puede usarse como apoyo en el color de figuras y botones. Esta es la lista de colores RGB que utilizaremos:
 
@@ -123,36 +123,37 @@ Con el fin de seguir un modelo sensato y de fácil comprensión, hemos dividido 
 ###### Figura 26.
 *Capa primaria de colores para el Web Style.*
 
-<img src="/assets/img/Plantilla de Primarios.png" alt="Capa primaria de colores" width="500" height="500">
+<img src="/assets/img/Plantilla de Primarios.png" alt="Capa primaria de colores" width="700" height="420">
 
 - Secundaria: Esta capa se basa en el color secundario de nuestra empresa, el cual es el blanco junto a otras tonalidades de colores claros que no llegan a una oscuridad mayor al gris; sin embargo, no puede usarse más de dos colores secundarios a menos que sea para cambios de tipografía. Este color se usara principalmente en todo fondo que no tenga algún color primario, lo que sería mayormente articulos con parrafos de relevancia menor, además de ser utilizado en el footer de las páginas.
 
 ###### Figura 27.
 *Capa secundaria de colores para el Web Style.*
 
-<img src="/assets/img/Plantilla de Secundarios.png" alt="Capa secundaria de colores" width="500" height="500">
+<img src="/assets/img/Plantilla de Secundarios.png" alt="Capa secundaria de colores" width="500" height="700">
 
 - Terciaria: Esta capa se basa en el color terciario de nuestra empresa, el cual es en sí un conjunto de colores variados relacionados con el naranja, llevando tonalidades amarillentas y rojizas. Pueden usarse todas las tonalidades, pero prefireblemente no se debe usar más de dos. Este color se usara principalmente en toda figura de una página y todo botón sencillo que solo funcione para la aceptación o negación de alguna acción realizada por el usuario.
 
 ###### Figura 28.
 *Capa terciaria de colores para el Web Style.*
 
-<img src="/assets/img/Plantilla de Terciarios.png" alt="Capa terciaria de colores" width="500" height="500">
+<img src="/assets/img/Plantilla de Terciarios.png" alt="Capa terciaria de colores" width="550" height="335">
 
 Cada capa de color debera tener una proporción para que el color primario sea más resaltante y llamativo en comparación al resto. Pueden haber variaciones, pero la dispersión no debe aumentar al 5% en ninguna circunstancia con respecto al resto de capas. Es necesario resaltar que todo color de una capa se suma entre si se llega a usar más de un color.
 
-###### Figura 24.
+###### Figura 29.
 *Escala de proporción para cada capa de color del Web Style.*
 
-<img src="/assets/img/Proporción de Capas Utilizadas.png" alt="Escala de proporción para cada capa de color" width="500" height="500">
+<img src="/assets/img/Proporción de Capas Utilizadas.png" alt="Escala de proporción para cada capa de color" width="1000" height="270">
 
 ##### Color de letra:
 
 El color de la letra utilizado en las páginas web dependera de la capa de color que se esta utilizando en la sección de la página en donde se colocara el texto o si el texto se encuentra sobre una figura referente a una imagen o algún otro tipo de estructura de contorno irregular. Se debe tomar mucha precaución al usar un color para la tipografía, puesto que escoger un color erroneo puede provocar incomodes en los usuarios al momento de querer leer información que puede resultar bastante importante. Siguiendo las capas mostradas anteriormente y otros casos extras, se dictaran los siguientes colores posibles para la tipografía:
 
-###### Figura 25.
-*Colores para la tipografía.*
+###### Figura 30.
+*Colores designados para la tipografía del Web Style.*
 
+<img src="/assets/img/Colores de Tipografía.png" alt="Colores para la tipografía" width="700" height="250">
 
 Es necesario resltar que el color "White" o blanco se tratara de usar en mayor proporción al color "Black" o negro; no obstante, no hay ningún modelo de proporción definido, puesto que las circunstancias entre páginas pueden variar.
 
@@ -182,8 +183,8 @@ Los modelos de alineamiento variarán según el tipo de texto que se está escri
   
 Los modelos de grosor de la letra pueden variar según la página y la sección en la que estemos centrando el diseño y la escritura. En el caso del tipo de letra “Lato”, se pueden identificar los siguientes modelos de grosor:
 
-###### Figura 26.
-*Modelos de grosor para el tipo de letra “Lato” en páginas web.*
+###### Figura 31.
+*Modelos de grosor para el tipo de letra “Lato” en el Web Style.*
 
 <img src="/assets/img/Modelos de grosor - Lato.png" alt="Paleta de Rojos" width="700" height="150">
 
@@ -199,7 +200,11 @@ Los títulos siempre se escribirán con un grosor de “negrita”, sin importar
 
 ##### Para subtítulos:
 
-Los subtítulos siempre se escribirán con un grosor de “seminegrita”, sin importar el contexto dado. Siempre serán de tamaño 18px. Pueden encontrarse tanto debajo de un título, debajo de un botón o debajo de una sección, siempre manteniendo una separación no mayor a diez (10) y no menor a cinco (5) milímetros de estos. Debajo de los subtítulos tiene que haber un párrafo de más de una (1) palabra de forma obligatoria y debe mantener la misma distancia de separación.
+Los subtítulos siempre se escribirán con un grosor de “seminegrita”, sin importar el contexto dado. Pueden encontrarse tanto debajo de un título, debajo de un botón o debajo de una sección, siempre manteniendo una separación no mayor a diez (10) y no menor a cinco (5) milímetros de estos. Debajo de los subtítulos tiene que haber un párrafo de más de una (1) palabra de forma obligatoria y debe mantener la misma distancia de separación. Pueden variar su tamaño según la distribución y el espacio disponible en las páginas. Este puede variar entre los siguientes valores:
+
+- 32px, se usarán cuando el subtítulo se encuentre directamente debajo de un título o debajo de un encabezado de sección. Funcionan como un pase a una siguiente sección agregada dentro de una sección mayor que este encabezada por un título.
+
+- 18px, se usarán cuando el subtítulo se encuentre debajo de un botón, párrafo o sección de separación dentro de la página. Debajo es estos subtítulos, es obligatorio que haya un párrafo de más de una (1) palabra y con la misma distancia de separación.
 
 ##### Para botones:
 
@@ -215,10 +220,10 @@ Todos los párrafos siempre se escribirán con un grosor “normal”, sin impor
 
 - 12px, se usara para todo párrafo que se encuentre en una zona cerrada de la página, con varias figuras o imagenes alrededor. Estos párrafos deben tener menos de doscientas (200) palabras y explican más detalles que datos principales. También es usado para enlaces a páginas referentes a términos y/o condiciones de servicios o algún otro modelo de contrato indicado por la aplicación web.
 
-###### Figura 22.
+###### Figura 32.
 **Modelos de grosor según los tipos de textos especificados para página web.**
 
-
+<img src="/assets/img/Grosor por tipo de texto.png" alt="Modelos de grosor según tipo de texto" width="700" height="350">
 
 ## 4.2. Informations Architecture
 

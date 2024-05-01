@@ -18,7 +18,11 @@ Dopico, M. (2021). La tipografía como generadora
 de identidad en la imagen de marca
 de países europeos en el s.XXI. *I+Diseño. Revista Internacional de Innovación, Investigación y Desarrollo en Diseño, 16*(16), 37-57. https://dialnet.unirioja.es/descarga/articulo/8233952.pdf 
 
+Freeman, E. & Robson E.(2021). *Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software* (2nd Edition). O'Reilly Media, Inc. https://www.oreilly.com/library/view/head-first-design/9781492077992/
+
 Folgueiras, P. (2016). La entrevista. [Documento de trabajo, Universidad de Barcelona]. Repositorio Académico de la Facultad de Ciencias Sociales de la Universidad de Barcelona. https://diposit.ub.edu/dspace/bitstream/2445/99003/1/entrevista%20pf.pdf 
+
+Fowler, M. (2018). *Refactoring: Improving the Design of Existing Code (Addison-Wesley Signature Series (Fowler))* (2nd Edition). Addison-Wesley Professional. 
 
 García-Garrido. S. (2021). *Diseño de la identidad visual de las instituciones*. Experimenta Libros.
 
@@ -28,7 +32,9 @@ Instituto Nacional de Defensa de la Competencia y de la Protección de la Propie
 
 Jaworski, B., Drucker, P., Lutz, R., Marshall, G., Harwood, C., Price, L., Knight, P. & Varadarajan, P., (2017). Definitions of marketing. American Marketing Association. Recuperado el 23 de marzo de 2024, de https://www.ama.org/the-definition-of-marketing-what-is-marketing/ 
 
-Kingsnorth, S. (2019). Digital Marketing Strategy: An Integrated Approach to Online Marketing, 2nd Edition. Kogan Page .
+Kingsnorth, S. (2019). Digital Marketing Strategy: An Integrated Approach to Online Marketing, 2nd Edition. Kogan Page.
+
+Martin, R. (2017). *Clean Architecture. A Craftsman's Guide to Software Structure and Design*. Pearson. https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164#detailBullets_feature_div 
 
 No18. (2019). *BRAND IDENTITY & STYLE GUIDE V1.0* [Diapositivas de PowerPoint]. IWG. https://work.iwgplc.com/Giudelines/No18%20Brand%20style%20guide.pdf 
 
@@ -41,3 +47,5 @@ RE/MAX. (2022, 07 de junio). *El sector inmobiliario: qué es y cómo funciona*.
 Rivera, A. (2024, 22 de febrero). *Perspectivas del sector inmobiliario y el problema de la vivienda de interés social*. conexiónesan. Recuperado el 23 de marzo de 2024, de https://www.esan.edu.pe/conexion-esan/perspectivas-del-sector-inmobiliario-y-el-problema-de-la-vivienda-de-interes-
 
 Smith, P, R. & Zook, Z.(2022). *Marketing Communications: Integrating Online and Offline, Customer Engagement and Digital Technologies*. Kogan Page. https://www.perlego.com/book/1589959/marketing-communications-integrating-online-and-offline-customer-engagement-and-digital-technologies-pdf 
+
+Tidwell, J., Brewer, C. & Valencia, A. (2020). *Designing Interfaces* (3rd Edition). O'Reilly Media, Inc. https://www.oreilly.com/library/view/designing-interfaces-3rd/9781492051954/

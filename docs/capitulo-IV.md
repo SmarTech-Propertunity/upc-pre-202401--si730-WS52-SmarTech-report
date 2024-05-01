@@ -153,7 +153,7 @@ El color de la letra utilizado en las páginas web dependera de la capa de color
 ###### Figura 30.
 *Colores designados para la tipografía del Web Style.*
 
-<img src="/assets/img/Colores de Tipografía.png" alt="Colores para la tipografía" width="700" height="250">
+<img src="/assets/img/Colores de Tipografía.png" alt="Colores para la tipografía" width="520" height="240">
 
 Es necesario resltar que el color "White" o blanco se tratara de usar en mayor proporción al color "Black" o negro; no obstante, no hay ningún modelo de proporción definido, puesto que las circunstancias entre páginas pueden variar.
 
@@ -186,7 +186,7 @@ Los modelos de grosor de la letra pueden variar según la página y la sección 
 ###### Figura 31.
 *Modelos de grosor para el tipo de letra “Lato” en el Web Style.*
 
-<img src="/assets/img/Modelos de grosor - Lato.png" alt="Paleta de Rojos" width="700" height="150">
+<img src="/assets/img/Modelos de grosor - Lato.png" alt="Modelos de grosor para Lato" width="700" height="150">
 
 Ahora se pasara a revisar las caracteristicas especificas que tendran las letras utilizadas según su ubicación y función dentro de una página o pestaña, además del contexto en el que se están usando. Cabe resaltar que los datos que cambiaran entre sí son el tamaño de la letra y el grosor de la letra.
 
@@ -223,7 +223,7 @@ Todos los párrafos siempre se escribirán con un grosor “normal”, sin impor
 ###### Figura 32.
 **Modelos de grosor según los tipos de textos especificados para página web.**
 
-<img src="/assets/img/Grosor por tipo de texto.png" alt="Modelos de grosor según tipo de texto" width="700" height="350">
+<img src="/assets/img/Grosor por Tipo de Texto.png" alt="Modelos de grosor según tipo de texto" width="700" height="450">
 
 ## 4.2. Informations Architecture
 

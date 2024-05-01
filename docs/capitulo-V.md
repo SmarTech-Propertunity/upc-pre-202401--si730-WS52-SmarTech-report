@@ -1004,37 +1004,45 @@ En esta sección presentaremos la evidencia detallada de las pruebas rigurosas r
 
 ### 5.2.2.5 Execution Evidence for Sprint Review. 
 
-Dentro del Sprint 2, el equipo logró un avance significativo al implementar las características clave de las principales funcionalidades de la Aplicación Web de Propertunity. Todas las historias de usuario asignadas para este sprint fueron completadas exitosamente. Estas incluyeron las funcionalidades de registro e inicio de sesión dentro de la aplicación web, así como la integración de una sección central o página principal donde los usuarios ingresaran directamente al poder acceder exitosamente dentro de la aplicación web. 
+El equipo ha logrado implementar las características clave de las principales funcionalidades de la Aplicación Web de Propertunity. Todas las historias de usuario asignadas para este sprint fueron completadas exitosamente. En primer lugar, se ha implementado la funcionalidad de registro e inicio de sesión dentro de la aplicación web, lo que permite a los usuarios acceder de manera segura y gestionar sus cuentas de manera eficiente. Además, se ha integrado una sección central o página principal donde los usuarios pueden ingresar directamente después de iniciar sesión, lo que facilita su navegación dentro de la aplicación.
 
-Junto a esas funcionalidades se añadieron las principales caracteristicas base de nuestro modelo de negocio de inmobiliarias, implementando la agregación de una barra de búsqueda de propiedades con filtros personalizados, un modelo de visualización de propiedades en venta o alquilar, un modelo de publicación de propiedades junto a la agregación de imagenes, y una sección de previsualización de las publicaciones antes de que sean guardadas y realizadas.
+Además de estas funcionalidades básicas, se han agregado las características fundamentales de nuestro modelo de negocio de inmobiliarias. Esto incluye la agregación de una barra de búsqueda de propiedades con filtros personalizados, un modelo de visualización de propiedades en venta o alquiler, y un modelo de publicación de propiedades que permite a los anunciantes agregar imágenes y previsualizar sus publicaciones antes de guardarlas y realizarlas.
 
-Asimismo, junto a estas caracteristicas, se implementaron las principales bases de una interfaz cómoda y agradable, implementando atajos sencillos de utilizar, botones de retroceso y páginas con información completa en todo momento. Asimismo, se agregarón perfiles y medios de configuración para todos los usuarios que ingresen a la aplicación.
+Para mejorar la experiencia del usuario, se ha trabajado en una interfaz cómoda y agradable, implementando atajos sencillos de utilizar, botones de retroceso y páginas con información completa en todo momento. Además, se han agregado perfiles y medios de configuración para todos los usuarios que ingresen a la aplicación, lo que les permite personalizar su experiencia según sus preferencias.
 
-Finalmente, se agregaron caracteristicas matématicas al implementar una calculadora crediticia con la que los usuarios podrán interactuar para poder determinar las cuotas mensuales con respecto a cada modelo de negocio establecido y los bancos afiliados con los pagos entre cada anunciante y usuario.
+Finalmente, se han agregado características matemáticas importantes al implementar una calculadora crediticia. Esta herramienta permite a los usuarios determinar las cuotas mensuales con respecto a cada modelo de negocio establecido y los bancos afiliados con los pagos entre cada anunciante y usuario. Esta funcionalidad proporciona a los usuarios una herramienta útil para evaluar su capacidad financiera y tomar decisiones informadas al buscar propiedades.
 
 ###### Figura 78
-*Muestra con evidencia del encabezado de la Landing Page*
-<img src="/assets/img/Evidencia-Encabezado-LandingPage.png" alt="Evidencia Encabezado de Landing Page">
+*Muestra con evidencia del inicio de sesión en la aplicación web*
+<img src="/assets/img/Evidencia-LogIn-WebApp.png" alt="Evidencia del inicio de sesión en la Aplicación Web">
 
 ###### Figura 79
-*Muestra con evidencia de la sección de About-Us de la Landing Page*
-<img src="/assets/img/Evidencia-AboutUs-LandingPage.png" alt="Evidencia About Us de Landing Page">
+*Muestra con evidencia del modelo de recuperación de contraseña en la aplicación web*
+<img src="/assets/img/Evidencia-RecuperaciónContraseña-WebApp.png" alt="Evidencia de la recuperación de contraseña en la Aplicación Web">
 
 ###### Figura 80
-*Muestra con evidencia de la sección de Funcionalidades de la Landing Page*
-<img src="/assets/img/Evidencia-Funcionalidades-LandingPage.png" alt="Evidencia Funcionalidades de Landing Page">
+*Muestra con evidencia del registro en la aplicación web*
+<img src="/assets/img/Evidencia-Registro-WebApp.png" alt="Evidencia de la página de registro en la Aplicación Web">
 
 ###### Figura 81
-*Muestra con evidencia de la sección de Membresías de la Landing Page*
-<img src="/assets/img/Evidencia-Membresías-LandingPage.png" alt="Evidencia Membresías de Landing Page">
+*Muestra con evidencia de la página principal en la aplicación web*
+<img src="/assets/img/Evidencia-PáginaPrincipal-WebApp.png" alt="Evidencia página principal en la Aplicación Web">
 
 ###### Figura 82
-*Muestra con evidencia de la sección de Testimonios de la Landing Page*
-<img src="/assets/img/Evidencia-Testimonios-LandingPage.png" alt="Evidencia Testimonios de Landing Page">
+*Muestra con evidencia de la página principal con su sección de destacados en la aplicación web*
+<img src="/assets/img/Evidencia-Destacados-WebApp.png" alt="Evidencia página principal con destacados en la Aplicación Web">
 
 ###### Figura 83
-*Muestra con evidencia de la sección de Contacto de la Landing Page*
-<img src="/assets/img/Evidencia-Contacto-LandingPage.png" alt="Evidencia Contacto de Landing Page">
+*Muestra con evidencia de la sección de la barra de búsqueda de la aplicación web*
+<img src="/assets/img/Evidencia-Búsqueda-WebApp.png" alt="Evidencia Búsqueda en la Aplicación Web">
+
+###### Figura 84
+*Muestra con evidencia de la sección de la calculadora crediticia de la aplicación web*
+<img src="/assets/img/Evidencia-Calculadora-WebApp.png" alt="Evidencia Calculadora en la Aplicación Web">
+
+###### Figura 85
+*Muestra con evidencia de la sección de perfil de propiedades de la aplicación web*
+<img src="/assets/img/Evidencia-Propiedades-WebApp.png" alt="Evidencia Propiedades en la Aplicación Web">
 
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review. 
 

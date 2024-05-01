@@ -872,7 +872,32 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
 
 
 ### 5.2.2.3 Development Evidence for Sprint Review.
-
+| Repository | Branch| Commit Id| Commit Message| Commit Message Body|Commited on (Date) |
+|------------|-------|----------|---------------|--------------------|-------------------|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|d3f5583|feat(ALL): initial commit|Se agrega el contenido inicial del proyecto.| 23/04/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|5e5de2d|Rename README.md.txt to README.md|Se agrega el archivo readme del proyecto.| 23/04/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|fbb88df|chore: added DDD structured directory and files & updated README.md|Se modifica el esquema del proyecto para la estructura DDD.| 24/04/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|b0638e5|feat: add login, recovery password and register|Se agrega la page de login, recuperar contraseña y registro de nuevo usuario.| 29/04/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|a7412b3|feat(user-management): updated directories & added user-management components|Se modifican las carpetas y se agrega el user-management.| 30/04/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|da54061|feat(user-management): updated directories & added user-management components|Se modifican las carpetas y se agrega el user-management.| 30/04/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|e812ae2|feat: added inicio-home|Se agrega la página de inicio.| 30/04/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|73b2358|feat(finance-tools): create carpet finance-tools|Se agrega la carpeta finance-tools.| 30/04/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|a63d2ca|feat: delete finance-tools|Se Elimina la carpeta finance-tools.| 30/04/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|8c89b78|feat(develop): update db.json|Se inserta datos en el db.json.| 30/04/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|cdc1f27|fix: suppressed and fixed warnings|Se arreglan archivos del proyecto.| 30/04/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|3014037|chore: Add i18n en & es files into Locale directory|Se agrega el i18n y el idioma español en la aplicación.| 30/04/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|1c21c1e|chore: added test.md|Se agrega el archivo test.md.| 01/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|5d3028f|feat(develop): add credit-calculator component|Se agrega la page de la calculadora crediticia.|01/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|632abeb|Merge branch 'develop' into inicio-home|Se realiza el merge a una rama propia.| 01/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|98ccc86|Merge pull request #1 from SmarTech-Propertunity/inicio-home|Se autoriza el merge y se hace pull request.|01/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|ce62d37|feat: update register-user.component|Se actualiza y mejora el componente registro de usuarios.|01/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|0c593f8|chore: updated kebab case component names|Se actualizan los nombres de los componentes con kebab case.|01/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|46d7b24|Merge branch 'develop' of https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-FrontEnd into develop|Se realiza otro merge en la rama de trabajo.|01/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|9dc2609|feat: add search-properties y property-api.services|Se agrega los componentes de búsqueda de propiedades y api services.|01/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|c67f82f|Merge branch 'search-properties' into develop|Se realiza un merge a la rama develop.|01/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|dcb4e32|feat: added routes for login components|Se añaden las rutas dentro de la aplicación.|01/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|46bde63|feat: update login, register and recovery|Se actualizan los componentes login, rgister y recovery password.| 01/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|80aca75|feat: added home icon & fixed Toolbar|Se añaden home icon and fixed toolbar.| 01/05/24|
 
 ### 5.2.2.4 Testing Suite Evidence for Sprint Review. 
 

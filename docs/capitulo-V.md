@@ -958,6 +958,11 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
         </tr>
     </table>
 
+Con el fin de que la lista de tareas en el sprint pueda ser visualizada a más profundidad, se mostrara un enlace directo a la sección de trabajo designada por el equipo junto a todas las actividades planificadas de forma completa: https://app.clickup.com/9013153284/v/l/6-901302611184-1 
+
+###### Figura 78
+*Presentación de la tabla de actividades designada para el Sprint 2 en ClickUp.*
+<img src="/assets/img/Lista de Tareas-Sprint2.png" alt="Lista de Tareas del Sprint 2 En ClickUp">
 
 ### 5.2.2.3 Development Evidence for Sprint Review.
 
@@ -1012,47 +1017,55 @@ Para mejorar la experiencia del usuario, se ha trabajado en una interfaz cómoda
 
 Finalmente, se han agregado características matemáticas importantes al implementar una calculadora crediticia. Esta herramienta permite a los usuarios determinar las cuotas mensuales con respecto a cada modelo de negocio establecido y los bancos afiliados con los pagos entre cada anunciante y usuario. Esta funcionalidad proporciona a los usuarios una herramienta útil para evaluar su capacidad financiera y tomar decisiones informadas al buscar propiedades.
 
-###### Figura 78
+###### Figura 79
 *Muestra con evidencia del inicio de sesión en la aplicación web*
 <img src="/assets/img/Evidencia-LogIn-WebApp.png" alt="Evidencia del inicio de sesión en la Aplicación Web">
 
-###### Figura 79
+###### Figura 80
 *Muestra con evidencia del modelo de recuperación de contraseña en la aplicación web*
 <img src="/assets/img/Evidencia-RecuperaciónContraseña-WebApp.png" alt="Evidencia de la recuperación de contraseña en la Aplicación Web">
 
-###### Figura 80
+###### Figura 81
 *Muestra con evidencia del registro en la aplicación web*
 <img src="/assets/img/Evidencia-Registro-WebApp.png" alt="Evidencia de la página de registro en la Aplicación Web">
 
-###### Figura 81
+###### Figura 82
 *Muestra con evidencia de la página principal en la aplicación web*
 <img src="/assets/img/Evidencia-PáginaPrincipal-WebApp.png" alt="Evidencia página principal en la Aplicación Web">
 
-###### Figura 82
+###### Figura 83
 *Muestra con evidencia de la página principal con su sección de destacados en la aplicación web*
 <img src="/assets/img/Evidencia-Destacados-WebApp.png" alt="Evidencia página principal con destacados en la Aplicación Web">
 
-###### Figura 83
+###### Figura 84
 *Muestra con evidencia de la sección de la barra de búsqueda de la aplicación web*
 <img src="/assets/img/Evidencia-Búsqueda-WebApp.png" alt="Evidencia Búsqueda en la Aplicación Web">
 
-###### Figura 84
+###### Figura 85
 *Muestra con evidencia de la sección de la calculadora crediticia de la aplicación web*
 <img src="/assets/img/Evidencia-Calculadora-WebApp.png" alt="Evidencia Calculadora en la Aplicación Web">
 
-###### Figura 85
+###### Figura 86
 *Muestra con evidencia de la sección de perfil de propiedades de la aplicación web*
 <img src="/assets/img/Evidencia-Propiedades-WebApp.png" alt="Evidencia Propiedades en la Aplicación Web">
+
+Además de la implementación de estas características y funcionalidades, el equipo se esforzó por proporcionar una explicación clara y detallada del progreso alcanzado durante el sprint. Se creó un vídeo de presentación y descripción que destaca cómo se lograron los objetivos del sprint 2, y se agregaron todas las descripciones necesarias con respecto a los commits y branches implementados y programados. El enlace del vídeo, publicado en Microsoft Stream, es el siguiente: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213143_upc_edu_pe/EYKIF86681tEte9exDH-K84BVgVd06QTBzh_aZq84w0jJw?e=4bQwpp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
 
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review. 
 
 En esta sección, presentamos la relación de Endpoints documentados con OpenAPI, que están directamente vinculados con el alcance del Sprint. Iniciamos con una breve introducción que resume los logros alcanzados en relación con la Documentación de Web Services durante este período de desarrollo. A continuación, proporcionamos una tabla detallada que enumera cada Endpoint, junto con las acciones implementadas y los enlaces correspondientes a la documentación desplegada o la URL local en Sprints anteriores al despliegue de Web Services.
 
-
-
 En la tabla, se indican las acciones soportadas para cada Endpoint, incluyendo el verbo HTTP (GET, POST, PUT, DELETE, PATCH), la sintaxis de llamada, la especificación de posibles parámetros y se incluye un ejemplo junto con una explicación del response correspondiente. Además de la tabla, se presentan capturas de pantalla que ilustran la interacción con la documentación elaborada, utilizando datos de muestra para demostrar cómo se utiliza cada Endpoint.
 
-Además, proporcionamos el URL del repositorio de Web Services utilizado para el desarrollo, junto con los ID de los commits relacionados con la Documentación para este Sprint. Esta información permite una referencia completa y detallada a los avances realizados en la documentación de los Web Services durante el Sprint en cuestión.
+En este caso, vamos a dar una explicación completa de 3 clases 
+
+| Método | Descripción | Ejemplo de llamada | Parámetros | Respuesta |
+|--------|-------------|---------------------|------------|-----------|
+| GET    | Obtener todos los usuarios | GET /usuarios | Ninguno | Lista de usuarios en formato JSON con detalles como nombre, correo, fecha de registro, etc. |
+| GET    | Obtener un usuario específico | GET /usuarios/{id_usuario} | id_usuario (int) | Detalles completos del usuario especificado en formato JSON, incluyendo información como nombre, correo, fecha de registro, dirección, etc. |
+| POST   | Crear un nuevo usuario | POST /usuarios | Datos del usuario a crear en formato JSON en el cuerpo de la solicitud, incluyendo nombre, correo, contraseña, etc. | Mensaje de éxito o error en formato JSON, junto con el ID asignado al nuevo usuario creado. |
+| PUT    | Actualizar un usuario existente | PUT /usuarios/{id_usuario} | id_usuario (int), Datos actualizados del usuario en formato JSON en el cuerpo de la solicitud, como nombre, correo, contraseña, etc. | Mensaje de éxito o error en formato JSON. |
+| DELETE | Eliminar un usuario existente | DELETE /usuarios/{id_usuario} | id_usuario (int) | Mensaje de éxito o error en formato JSON. |
 
 ### 5.2.2.7 Software Deployment Evidence for Sprint Review.
 

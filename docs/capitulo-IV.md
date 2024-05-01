@@ -579,13 +579,30 @@ Durante este análisis, examinaremos aspectos como la gestión de solicitudes y 
 
 ## 4.7. Software Object-Oriented Design
 
+Según lo descrito por Freeman y Robson (2021), el siguiente modelo de diseño de software es un enfoque que se basa en el paradigma de programación orientada a objetos (POO). En este enfoque, el software se estructura en torno a objetos que representan entidades del mundo real o conceptos abstractos. Cada objeto tiene atributos que describen su estado y métodos que definen su comportamiento.
+
+El diseño orientado a objetos enfatiza la modularidad, la reutilización y la extensibilidad del código. Los sistemas de software se dividen en pequeñas unidades autónomas (objetos) que interactúan entre sí para realizar tareas específicas. Estas interacciones se llevan a cabo a través de mensajes, donde un objeto invoca los métodos de otro objeto para solicitar su cooperación.
+
+El diseño orientado a objetos también promueve conceptos como la herencia, el encapsulamiento y el polimorfismo. La herencia permite que un objeto herede atributos y comportamientos de otro objeto, lo que facilita la reutilización del código y la creación de jerarquías de clases. El encapsulamiento oculta la implementación interna de un objeto y expone solo una interfaz pública, lo que mejora la modularidad y la seguridad del código. El polimorfismo permite que los objetos de diferentes clases respondan de manera diferente a los mismos mensajes, lo que facilita la extensibilidad y la flexibilidad del sistema de software.
+
 ### 4.7.1. Class Diagrams.
+
+Es una representación visual esencial en el modelado de sistemas de software orientados a objetos. Funciona como una herramienta fundamental para comprender la estructura estática del sistema, mostrando las clases, atributos, métodos y relaciones entre ellas. Su utilidad se extiende a diversas áreas del desarrollo de software, incluyendo la visualización de la arquitectura del sistema, la comunicación efectiva entre los miembros del equipo y la planificación del diseño del software.
+
+En el diagrama, cada clase se representa con un rectángulo dividido en secciones para el nombre de la clase, sus atributos y métodos. Además, las relaciones entre las clases, como asociaciones, herencias, agregaciones y composiciones, se muestran mediante líneas que conectan las clases correspondientes. Esto permite a los desarrolladores entender cómo están organizadas las clases y cómo interactúan entre sí. Utilizando la notación estándar UML y diversas herramientas de modelado, el "Class Diagram" proporciona una representación clara y coherente de la estructura del sistema, facilitando el diseño, la comunicación y la implementación del software (Freeman & Robson, 2021).
+
+###### Figura 58.
+*Diagrama de clases con todas las entidades propuestas para la arquitectura de software de Propertunity*
 <img src="/assets/img/ClassDiagram.png" alt="Diagrama de clases">
 
 ### 4.7.2. Class Dictionary
 
+Un diccionario de clases, como tal, es una herramienta utilizada en el desarrollo de software para documentar y organizar información sobre las clases en un sistema de software. Esencialmente, es un repositorio de información detallada sobre las clases, incluyendo sus atributos, métodos, relaciones y otros detalles relevantes. 
+
+Teniendo en cuenta todas las clases, relaciones, atributos y operaciones mostradas en nuestro anterior diagrama de clases, podemos pasar a realizar un diccionario especializado en la siguiente sección, donde expliquemos todo con más detalle.
+
 ###### Tabla 14.
-*Seguimiento de Navigation Systems integrados dentro del proyecto de trabajo.*
+*Diccionario del diagrama de clases de Propertunity.*
 |Entidad|Atributos|
 |-|-|
 | ***UserData*** | Contenedor de datos para la clase "User" |
@@ -612,26 +629,40 @@ Durante este análisis, examinaremos aspectos como la gestión de solicitudes y 
 
 ## 4.8. Database Design.
 
-### 4.8.1 Database Diagrams.
-Tabla de entidades.
-|Entidad|Atributos|
-|-|-|
-|usuarios |id_usuario (int) PRIMARY KEY <br> nombre (varchar(40)) <br> apellido((varchar(40)) <br>fecha_registro (datetime) <br> correo ((varchar(100)) <br> correo_recuperacion ((varchar(100)) <br> contrasenia ((varchar(15)) <br> foto_perfil (image) <br> distrito ((varchar(30)) <br> direccion ((varchar(50)) <br> telefono ((varchar(9))|
-|propiedades |id_propiedades (int) PRIMARY KEY<br> titulo (varchar(50)) <br> descripcion (varchar(500))<br> precio (money)<br> tipo_inmueble (varchar(20))<br> area_techada (varchar(10))<br> area_total (varchar(10))<br> area_comun (varchar(10))<br> dormitorios (int)<br> banios (int) <br> etapa_proyecto (varchar(20)) <br> fecha_entrega (datetime)<br> mapa (geography) <br> calle (varchar(30))<br> distrito (varchar(30))<br> numero_calle (varchar(5))<br> direccion (varchar(50))<br> id_anunciante (int) FOREIGN KEY|
-|publicaciones |id_publicacion (int) PRIMARY KEY<br> cantidad_visitas (int)<br> id_propiedad (int) FOREIGN KEY|
-|destacados |id_destacado (int) PRIMARY KEY<br> fecha_inicio (datetime)<br> fecha_fin (datetime)<br> estado_destacado (varchar(40))<br> id_publicacion (int) FOREIGN KEY|
-|nuevas_publicaciones |id_nueva_publicacion (int) PRIMARY KEY<br> id_publicacion (int) PRIMARY KEY<br> fecha_inicio (datetime)<br> fecha_fin (datetime)<br> tiempo (time)|
-|resenias |id_usuario (int) PRIMARY KEY<br> id_publicacion (int) PRIMARY KEY<br> fecha (date)<br> hora (time)<br> calificacion (varchar(5))<br> comentario (varchar(500))|
-|interacciones |id_usuario (int) PRIMARY KEY<br> id_publicacion (int)  PRIMARY KEY<br> fecha (date)<br> hora (time) <br> tipo_interaccion (varchar(40))<br> estado_interaccion (varchar(40)) |
-|membresias |id_membresias (int) PRIMARY KEY<br> precio (money)<br> tipo (varchar(40))|
-|membresias_anunciantes |id_anunciante (int) PRIMARY KEY<br> id_membresia (int) PRIMARY KEY<br> fecha_inicio (datetime)<br> fecha_final (datetime)<br> fecha_pago (datetime)<br> meses_miembro (varchar(20))|
-|chats | id_chat (int) PRIMARY KEY<br> id_anunciante (int) FOREIGN KEY<br> id_usuario (int)FOREIGN KEY|
-|mensajes |id_mensajes (int) PRIMARY KEY<br> id_chats (int) PRIMARY KEY<br> contenido (varchar(200))<br> fecha (date)<br> hora (time) <br> estado (varchar(30))|
-|notificaciones |id_notificaciones (int) PRIMARY KEY<br> tipo (varchar(50))<br> contenido (varchar(100))<br> estado (varchar(20))|
-|notificaciones_usuarios |id_notificacion (int) PRIMARY KEY<br> id_usuario (int) PRIMARY KEY|
-|bancos |id_banco (int) PRIMARY KEY<br> nombre (varchar(40))<br> servicio (varchar(40))<br> telefono (varchar(9))<br> correo(varchar(100))|
-|propiedades_bancos | id_propiedad (int) PRIMARY KEY<br> id_banco (int) PRIMARY KEY<br> beneficio (varchar(50))|
-|formularios_contactos |id_formulario (int) PRIMARY KEY<br> correo(varchar(100)) <br> nombre (varchar(40))<br> apellido (varchar(40))<br> telefono (varchar(9))<br> dni (varchar(8))<br> mensaje (varchar(400))<br> recepcion (bit)<br> id_banco (int)FOREIGN KEY|
+Como tal, el diseño en esta sección es el proceso de esquematización de la estructura y organización de una base de datos para satisfacer los requisitos específicos de un sistema de software. Este proceso implica tomar decisiones clave sobre cómo se almacenarán, gestionarán y accederán los datos, con el objetivo de garantizar la eficiencia, la integridad y la seguridad de la base de datos.
 
-Modelado de la Base de Datos
-<img src="/assets/img/DataBase Propertunity.PNG" alt="Modelado de la Base de Datos" >
+Durante este proceso, se definen los tipos de datos que se almacenarán, así como las relaciones entre las diferentes entidades o tablas de la base de datos. Además, se establecen las restricciones de integridad para mantener la coherencia y precisión de los datos. El diseño también considera aspectos como el rendimiento, la escalabilidad y la capacidad de recuperación de la base de datos. En resumen, el "Database Design" es un proceso fundamental en el desarrollo de sistemas de software, ya que proporciona la base estructural sobre la cual se construirá y operará la base de datos de manera eficiente y efectiva (Freeman & Robson, 2021).
+
+### 4.8.1 Database Diagrams.
+
+Los diagramas de Bases de Datos son representaciones visuales de la estructura y relaciones de una base de datos de un sistema de software. Estas diagramas proporcionan una vista gráfica de las tablas, columnas y relaciones entre las entidades dentro de la base de datos. Resultan ser herramientas útiles para comprender la arquitectura y el diseño de una base de datos, así como para comunicar esta información de manera clara y concisa entre los miembros del equipo de desarrollo.
+
+###### Figura 59.
+*Diagrama de base de datos con todas las entidades propuestas para la arquitectura de software de Propertunity*
+
+<img src="/assets/img/DataBase Propertunity.png" alt="Modelado de la Base de Datos" >
+
+###### Tabla 15.
+*Tabla con todas las entidades y atributos mostradas en el diagrama de base de datos*
+| Entidad | Atributos |
+|---------|-----------|
+| usuarios | id_usuario (int) PRIMARY KEY <br>nombre (varchar(100)) <br>fecha_registro (date) <br>correo (varchar(100)) <br> correo_recuperacion (varchar(100)) NULL <br>contrasenia (varchar(200)) <br>foto_perfil (image) <br>direccion (varchar(100)) <br>distrito (varchar(100)) <br>provincia (varchar(100)) <br>departamento (varchar(100)) |
+| anunciantes | id_anunciante (int) PRIMARY KEY<br>descripcion (varchar (500))<br>cantidad_publicaciones (int)<br>pagina_web (varchar(200))<br>tipo_anunciante (varchar(100))<br>usuarios_id_usuario (int) FOREIGN KEY|
+| anunciantes_membresias | membresias_id_membresia (int) PRIMARY KEY, FOREIGN KEY<br>anunciantes_id_anunciante (int) PRIMARY KEY, FOREIGN KEY<br>fecha_inicio (datetime)<br>fecha_salida (datetime) NULL<br>meses_miembro (int)
+| membresias | id_membresia (int) PRIMARY KEY<br>titulo (varchar(40))<br>descripcion (varchar(200))<br>precio_soles (money)<br>modelo_pago (varchar(50)) 
+| membresias_beneficios | membresias_id_membresia (int) PRIMARY KEY, FOREIGN KEY<br>beneficios_id_beneficio (int) PRIMARY KEY, FOREIGN KEY
+| beneficios | id_beneficio (int) PRIMARY KEY<br>titulo (varchar(100))<br>descripcion (varchar(500))
+| telefonos | id_telefono (int) PRIMARY KEY<br>numero(varchar(12)) <br>tipo (varchar(20))<br>usuarios_id_usuario (int) FOREIGN KEY
+| notificaciones_usuarios | usuarios_id_usuario (int) PRIMARY KEY, FOREIGN KEY<br>notificaciones_id_notificacion (int) PRIMARY KEY, FOREIGN KEY
+| notificaciones | id_notificacion (int) PRIMARY KEY<br>tipo (varchar(50))<br>titulo (varchar(50))<br> contenido (varchar(100))<br> estado (varchar(50))
+| propiedades | id_propiedad (int) PRIMARY KEY<br>titulo (varchar(100))<br>descripcion (varchar(500))<br>precio_dolares (money)<br>tipo_propiedad (varchar(100))<br>operacion (varchar(100))<br>entrega (varchar(100))<br>area_techada_metros_cuadrados (float)<br>area_total_metros_cuadrados (float)<br>cantidad_dormitorios (int)<br>cantidad_banios (int)<br>cantidad_estacionamientos (int)<br>estado_venta (varchar(100))<br>etapa_proyecto (varchar(20))<br>fecha_inicio_proyecto (date)<br>antiguedad (float)<br>anunciantes_id_anunciante (int) FOREIGN KEY<br>ubicaciones_id_ubicacion (int) FOREIGN KEY
+| areas_comunes_propiedades | areas_comunes_id_area_comun (int) PRIMARY KEY, FOREIGN KEY<br>propiedades_id_propiedad (int) PRIMARY KEY, FOREIGN KEY
+| propiedades_servicios_propiedades | servicios_propiedades_id_servicio_propiedad (int) PRIMARY KEY, FOREIGN KEY<br>propiedades_id_propiedad (int) PRIMARY KEY, FOREIGN KEY
+| servicios_propiedades | id_servicio_propiedad (int) PRIMARY KEY<br>titulo (varchar(100))<br>descripcion (varchar(300))<br>tipo_servicio_propiedad (varchar(100))
+| areas_comunes | id_area_comun (int) PRIMARY KEY<br>titulo (varchar(100))<br>descripcion (varchar(300))<br>tipo_servicio_propiedad (varchar(100))}
+| imagenes | id_imagen (int) PRIMARY KEY<br>formato (varchar(10))<br>cantidad_pixeles (int)<br>descripcion (varchar(300))<br>enlace_imagen (varchar(200))<br>propiedades_id_propiedad (int) FOREIGN KEY
+| ubicaciones | id_ubicacion (int) PRIMARY KEY<br>direccion (varchar(200))<br>distrito (varchar(100))<br>provincia (varchar(100))<br>ciudad (varchar(100))<br>departamento (varchar(100))<br>latitud (varchar(50))<br>longitud (varchar(50)<br>mapa (map)
+| propiedades_bancos | propiedades_id_propiedad (int) PRIMARY KEY, FOREIGN KEY<br>bancos_id_banco (int) PRIMARY KEY, FOREIGN KEY<br>tasas (float)<br>intereses (float)
+| bancos | id_banco (int) PRIMARY KEY<br>razon_social (varchar(50))<br>descripcion (varchar(300))<br>telefono (varchar(12))<br>correo_eletronico((varchar(50))
+| bancos_servicios_bancos | bancos_id_banco (int) PRIMARY KEY, FOREIGN KEY<br>servicios_id_servicio (int) PRIMARY KEY, FOREIGN KEY
+| servicios_bancos | id_servicio_banco (int) PRIMARY KEY<br>titulo (varchar(100))<br>descripcion (varchar(300))

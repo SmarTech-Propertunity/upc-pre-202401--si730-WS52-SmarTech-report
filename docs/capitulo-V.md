@@ -414,19 +414,19 @@ A continuación, proporcionamos una descripción detallada de los pasos necesari
 4. El cuarto paso implica dirigirse al apartado de "branch" dentro de la configuración de GitHub Pages y seleccionar el branch "main" donde se realizará el despliegue del Landing Page. Es importante asegurarse de elegir el branch correcto donde se encuentran los archivos actualizados de nuestra página web para garantizar que la versión más reciente se despliegue correctamente. Durante este proceso, es recomendable dejar las demás configuraciones con sus valores predeterminados, a menos que tengamos necesidades específicas que requieran ajustes adicionales. Mantener estas configuraciones en sus valores predeterminados ayuda a simplificar el proceso y reduce la posibilidad de errores durante el despliegue.
 
 ###### Figura 61
-*Imagenes de muestra y presentación sobre el despliegue de la Landing Page y el ajuste de las ramas integradas.*
+*Imagen de muestra y presentación sobre el despliegue de la Landing Page y el ajuste de las ramas integradas.*
 <img src="/assets/img/pagedeployed.png" alt="github page">
 
 5. Una vez seleccionada la rama correspondiente, se generará un enlace que permitirá acceder al Landing Page desplegado. Este enlace proporciona una forma rápida y sencilla para que los usuarios accedan a nuestra página web y puedan interactuar con su contenido. Es importante tener en cuenta que cualquier modificación realizada en el branch "main" se actualizará automáticamente en el Landing Page desplegado. Esto significa que cualquier cambio que realicemos en nuestros archivos HTML, CSS o JavaScript se reflejará de inmediato en la versión en vivo de nuestra página web. Este proceso de actualización automática garantiza que nuestro Landing Page esté siempre sincronizado con las últimas modificaciones realizadas en el código fuente, lo que proporciona una experiencia consistente y actualizada para los usuarios que acceden a nuestra página web."
 
 ###### Figura 62
-*Imagenes de muestra y presentación sobre la obtención del enlace de ingreso a la Landing Page de Propertunity.*
+*Imagen de muestra y presentación sobre la obtención del enlace de ingreso a la Landing Page de Propertunity.*
 <img src="/assets/img/github-link.png" alt="github link">
 
 6. Una vez completados los pasos anteriores, el Landing Page estará desplegado y listo para ser visualizado y utilizado. Los usuarios podrán acceder al enlace generado y explorar el contenido de nuestra página web. Es importante realizar pruebas adicionales después del despliegue para asegurarse de que la página web se vea y funcione correctamente en diferentes dispositivos y navegadores. Esto garantizará una experiencia de usuario óptima para todos los visitantes de nuestro sitio.
 
 ###### Figura 63
-*Imagenes de muestra y presentación sobre la Landing Page de Propertunity ya desplegada.*
+*Imagen de muestra y presentación sobre la Landing Page de Propertunity ya desplegada.*
 <img src="/assets/img/landing_deployed.png" alt="Landing deployed">
 
 ---
@@ -658,25 +658,47 @@ Durante el Sprint 1, nuestro principal objetivo fue la creación del Landing Pag
 
 ### 5.2.1.7 Software Deployment Evidence for Sprint Review.
 
-Explicaremos las acciones que realizamos en el sprint 1, como la preparacion y despliegue de nuestro landing page
+Dentro del Sprint 1, realizamos el despliegue de nuestra Landing Page en GitHub Pages como parte fundamental de nuestra estrategia de lanzamiento. A continuación, detallamos meticulosamente los pasos llevados a cabo para lograr este despliegue con éxito:
 
-* Primero creamos un repositorio en Github para el landing page
-* 
-* Las ramas necesarias se crean siguiendo el flujo de trabajo de GitFlow.
-* 
-* En la configuración del repositorio, se accede a la sección "Pages".
-* 
-* Se ajusta la configuración para indicar la fuente de la landing page.
-* 
-* Después de guardar la configuración, se genera un enlace para acceder a la landing page.
-* 
-* Este enlace permite visualizar las actualizaciones realizadas en la rama "develop".
+1. Para iniciar el despliegue, creamos un repositorio público en GitHub, asignándole un nombre relevante. Posteriormente, agregamos los archivos necesarios para construir nuestro Landing Page. Elegir un nombre claro facilita la colaboración y gestión del proyecto. Con el repositorio listo, comenzamos el desarrollo de nuestra página de destino, aprovechando esta base organizada.
+
+###### Figura 71
+*Imagenes de evidencia sobre la construcción del repositorio designado para la Landing Page de Propertunity.*
+<img src="/assets/img/set-repository-name.png" alt="Set Repository Name">
+
+2. Nos dirigimos a la sección de ajustes en GitHub y seleccionar la pestaña Pages. Aquí, activamos la funcionalidad de GitHub Pages para nuestro repositorio, lo que nos permite alojar y publicar nuestro Landing Page de manera rápida. La pestaña Pages ofrece una interfaz intuitiva para personalizar aspectos como la rama de despliegue y el dominio personalizado. Al completar estas configuraciones, nuestro Landing Page estará listo para ser visualizado y accedido públicamente.
+
+3. Vamos al apartado de configuración específica para GitHub Pages en nuestro repositorio. Aquí, ajustamos diversos aspectos relacionados con la publicación de nuestro sitio web, como la rama a utilizar y el directorio desde el que se servirán los archivos. Esta etapa nos permite personalizar la forma en que nuestra página será desplegada y accesible para los usuarios finales. Por ejemplo, podemos elegir la rama que contiene los archivos de nuestro Landing Page y especificar el directorio raíz para los archivos HTML, CSS y JavaScript.
+
+###### Figura 72
+*Imagen de evidencia sobre la construcción del repositorio designado para la Landing Page de Propertunity.*
+<img src="/assets/img/set-repository-name.png" alt="Set Repository Name">
+
+5. Llegamos al apartado de "branch" dentro de la configuración de GitHub Pages, donde seleccionamos el branch "main" para el despliegue del Landing Page. Es crucial elegir el branch correcto que contenga los archivos actualizados de nuestra página web para asegurar que la versión más reciente se despliegue correctamente. Durante este proceso, es recomendable dejar las demás configuraciones en sus valores predeterminados, a menos que tengamos necesidades específicas que requieran ajustes adicionales. Esto simplifica el proceso y reduce la posibilidad de errores durante el despliegue..
+
+###### Figura 73
+*Imagen de evidencia sobre la configuración dada del repositorio designado para la Landing Page de Propertunity.*
+<img src="/assets/img/Deployment Evidence-Build-Branch.png" alt="github configuration">
+
+5. Una vez seleccionada la rama "main", se generará un enlace para acceder al Landing Page desplegado, ofreciendo a los usuarios un acceso inmediato al contenido. Cualquier cambio en el branch "main" se actualizará automáticamente en el Landing Page, asegurando que siempre refleje las últimas modificaciones del código fuente."
+
+###### Figura 74
+*Imagen de evidencia sobre la obtención del enlace de ingreso a la Landing Page de Propertunity.*
+<img src="/assets/img/github-link.png" alt="github link">
+
+6. Una vez completados los pasos anteriores, el Landing Page estará desplegado y listo para ser visualizado y utilizado. Los usuarios podrán acceder al enlace generado y explorar el contenido de nuestra página web. Es importante realizar pruebas adicionales después del despliegue para asegurarse de que la página web se vea y funcione correctamente en diferentes dispositivos y navegadores. Esto garantizará una experiencia de usuario óptima para todos los visitantes de nuestro sitio.
+
+###### Figura 75
+*Imagen de evidencia sobre la Landing Page de Propertunity ya desplegada.*
+<img src="/assets/img/landing_deployed.png" alt="Landing deployed">
 
 ### 5.2.1.8 Team Collaboration Insights during Sprint.
 
-Para este Sprint 1, hemos hecho el desarrollo del landing page, colaborado en conjunto en la implementación. Esta colaboración se refleja en los distintos commits realizados en el repositorio, los cuales están documentados en las capturas de pantalla adjuntas.
+Durante el Sprint 1, nos enfocamos en el desarrollo colaborativo del Landing Page, donde cada miembro del equipo contribuyó con sus habilidades y conocimientos. Esta colaboración se refleja en los numerosos commits realizados en nuestro repositorio de código, los cuales están respaldados por capturas de pantalla adjuntas para una documentación detallada.
 
-Con respecto a la colaboracion del equipo, nos reunimos presencial como virtualmente para asignarnos tarea y discutir como elaborar el proyecto. Esto nos ha permitido comprender claramente nuestras responsabilidades individuales y tener un mejor desempeño. Para el desarrollo del código, hemos decidido que cada integrante se encarga de una sección específica del landing page. Esto para avanzar mas rapido y terminarlo antes de la entrega. Finalmente, tuvimos reuniones donde compartimos ideas y resolvemos algunas dudas o problemas que podriamos tener con respecto a la elaboracion del landing page, lo que nos dio resultados positivos en la elaboracion del trabajo.
+Nuestro equipo se reunió tanto en persona como virtualmente para asignar tareas y discutir la estrategia de desarrollo del proyecto. Estas reuniones fueron cruciales para clarificar nuestras responsabilidades individuales y asegurar un desempeño óptimo. Para maximizar la eficiencia, decidimos asignar a cada miembro del equipo una sección específica del Landing Page para desarrollar, lo que nos permitió avanzar rápidamente y cumplir con los plazos establecidos.
+
+Además, programamos sesiones regulares de brainstorming y resolución de problemas, donde compartimos ideas y abordamos cualquier duda o dificultad que surgiera durante el proceso de desarrollo. Estas reuniones fueron fundamentales para resolver obstáculos de manera efectiva y garantizar un progreso constante en la elaboración del Landing Page.
 
 ---
 

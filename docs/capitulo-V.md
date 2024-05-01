@@ -1111,7 +1111,7 @@ Además, programamos sesiones regulares de brainstorming y resolución de proble
 ###### Figura 89
 *Reporte completo de contribuciones para el desarrollo del FrontEnd del Web Application del Proyecto de Propertunity del Sprint 2.*
 
-<img src="/assets/img/Pulse for Web Application.png" alt="Pulse for FrontEnd Web Application">
-<img src="/assets/img/Contributions for Web Application.png" alt="Contributions for FrontEnd Web Application">
-<img src="/assets/img/Individual Contributions for Web Application - 1.png" alt="Individual Contributions for FrontEnd Web Application - 1">
-<img src="/assets/img/Individual Contributions for Web Application 2.png" alt="Individual Contributions for FrontEnd Web Application - 2">
+<img src="/assets/img/Pulse for FrontEnd Web Application.png" alt="Pulse for FrontEnd Web Application">
+<img src="/assets/img/Contributions for FrontEnd Web Application.png" alt="Contributions for FrontEnd Web Application">
+<img src="/assets/img/Individual Contributions for FrontEnd Web Application - 1.png" alt="Individual Contributions for FrontEnd Web Application - 1">
+<img src="/assets/img/Individual Contributions for FrontEnd Web Application - 2.png" alt="Individual Contributions for FrontEnd Web Application - 2">

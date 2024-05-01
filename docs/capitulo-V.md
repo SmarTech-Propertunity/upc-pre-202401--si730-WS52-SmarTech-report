@@ -700,6 +700,22 @@ Nuestro equipo se reunió tanto en persona como virtualmente para asignar tareas
 
 Además, programamos sesiones regulares de brainstorming y resolución de problemas, donde compartimos ideas y abordamos cualquier duda o dificultad que surgiera durante el proceso de desarrollo. Estas reuniones fueron fundamentales para resolver obstáculos de manera efectiva y garantizar un progreso constante en la elaboración del Landing Page.
 
+###### Figura 76
+*Reporte completo de contribuciones para el desarrollo del Reporte Principal del Proyecto de Propertunity.*
+
+<img src="/assets/img/Pulse for Main Branch.png" alt="Pulse for Main Branch">
+<img src="/assets/img/Contributions for Main.png" alt="Contributions for Main">
+<img src="/assets/img/Individual Contributions for Main - 1.png" alt="Individual Contributions for Main - 1">
+<img src="/assets/img/Individual Contributions for Main - 2.png" alt="Individual Contributions for Main - 2">
+
+###### Figura 77
+*Reporte completo de contribuciones para el desarrollo de la Landing Page del Proyecto de Propertunity.*
+
+<img src="/assets/img/Pulse for Landing Page.png" alt="Pulse for Landing Page">
+<img src="/assets/img/Contributions for Landing Page.png" alt="Contributions for Landing Page">
+<img src="/assets/img/Individual Contributions for Landing Page - 1.png" alt="Individual Contributions for Landing Page - 1">
+<img src="/assets/img/Individual Contributions for Landing Page 2.png" alt="Individual Contributions for Landing Page - 2">
+
 ---
 
 ### 5.2.2 Sprint 2

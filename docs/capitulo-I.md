@@ -70,7 +70,7 @@ Soy estudiante de Ingeniería de software en la Universidad Peruana de Ciencias 
 Soy una persona líder, autodidacta y dedicada. Mis características me permiten tener un gran impacto en el trabajo en equipo debido a que siempre busco que todos los integrantes, entreguemos el mejor entregable posible y aprendamos durante el desarrollo del proyecto. Por otro lado, tengo conocimientos en C++, HTML, CSS, git bash, MsSql y MongoDB, los cuáles serán beneficiosos para cumplir con el Student Outcome y criterios de evaluación del curso.  A modo de desarrollar el proyecto, desempeñaré el rol de **Scrum Master**.
 
 Motivación:<br>
-Seguir creciendo mis aptitudes profesionales como ingenierio de Software.<br>
+Seguir creciendo mis aptitudes profesionales como ingeniero de Software.<br>
 
 > Puede que todos los días no sean buenos, pero hay algo bueno en cada día
 
@@ -118,9 +118,9 @@ Por último, es importante destacar que según Arista et al. (2017), existe un g
 | What?       | ¿Cuál es el problema? | El problema al que se está enfrentando nuestra startup se basa en la falta de organización y comunicación idónea entre los usuarios y las personas o empresas de venta inmobiliaria, además de la falta de información adecuada y formal que los usuarios poseen sobre las empresas, las adquisiciones, los terrenos, el rubro, etc.|
 | When?       | ¿Cuándo sucede el problema? | Según Arista et al. (2017), los problemas presentados en los negocios del rubro de inmobiliarias pueden suceder en varias etapas del proceso, pero mayoritariamente se presentan en el desarrollo, con una ineficiencia de gestión o mala comunicación entre el cliente y los agentes, y al final del proceso, con el incumplimiento de contratos y fallas o discrepancias en la entrega del inmueble. |
 | Where?      | ¿Dónde surge el problema? | La problemática surge y se presenta en la falta de idoneidad durante los procesos de adquisición de alguna propiedad o bienes raíces, ya sea por una mala supervisión del proceso y de la información, por el incumplimiento de contratos, por la falta de entrega o por defectos en el inmueble, o por una mala atención al cliente. 
-| Who?        | ¿Quiénes están involucrados? | Según la Asociación de Desarrolladores Inmobiliares del Perú (2023), los involucrados en este problema son el vendedor, quien puede ser una persona natural o una empresa u organziación del rubro inmobiliario, las entidades financieras a cargo de la facturación y la cotización, los inspectores de créditos durante el proceso de negocio, los gestores de propiedades al revisar la formalidad y garantía de los servicios y productos ofrecidos por las empresas, y los mismos compradores que desean adquirir una propiedad.|
+| Who?        | ¿Quiénes están involucrados? | Según la Asociación de Desarrolladores Inmobiliarios del Perú (2023), los involucrados en este problema son el vendedor, quien puede ser una persona natural o una empresa u organziación del rubro inmobiliario, las entidades financieras a cargo de la facturación y la cotización, los inspectores de créditos durante el proceso de negocio, los gestores de propiedades al revisar la formalidad y garantía de los servicios y productos ofrecidos por las empresas, y los mismos compradores que desean adquirir una propiedad.|
 | Why?        | ¿Cuál es la causa del problema? | Las causas principales de la problemática se presentan en los fallos en áreas como la gestion de clientes, una comunicación efectiva entre los agentes y los clientes, y errores administrativos en la organización. Igualmente, la desinformación y complejidad en el uso de las aplicaciones generan este problema ante el uso de herramientas de financiamiento sin alguna guía o resumen directo. |
-| How?        | ¿Cómo llegó la persona a esta situación? | La forma en la que la persona llego a la situación presentada en la problemática es por las consecuencias de la carencia de aplicativos que permitan la comunicación o interacción directa entre las empresas vendedoras de inmobiliarias, o la presencia de solo aplicaciones informales sin seguridad o tecnología muy pobre y desactualizada. Asimismo, esto también puede ser causado por la desinformación y la mala guía de otros agentes o hasta el uso de estafadores en un ambiente de poco control administrativo de parte de organismos gestionadores del gobierno (Arista et al., 2017).|
+| How?        | ¿Cómo llegó la persona a esta situación? | La forma en la que la persona llego a la situación presentada en la problemática es por las consecuencias de la carencia de aplicativos que permitan la comunicación o interacción directa entre las empresas vendedoras inmobiliarias, o la presencia de solo aplicaciones informales sin seguridad o tecnología muy pobre y desactualizada. Asimismo, esto también puede ser causado por la desinformación y la mala guía de otros agentes o hasta el uso de estafadores en un ambiente de poco control administrativo de parte de organismos gestionadores del gobierno (Arista et al., 2017).|
 | How Much?   | ¿Cuánto dinero se pierde por este problema? | Según Raffo (2022), una persona promedio que invirtió de diferentes formas en el mercado inmobiliario puede llegar a perder más de S/. 20 000 por el incumplimiento de contratos o la falta de un sistema de organización y administración estable en el rubro inmobiliario. Este monto puede llegar a aumentar bastante según el inmueble puesto en negocio o si el problema se debe a la mala gestión o directamente con la informalidad que puede llevar a estafas bruscas y peligrosas. |
 
 ### 1.2.2. Lean UX Process
@@ -140,16 +140,16 @@ Hemos observado que el factor negativo que afecta los procesos de adquisición d
 - **User Outcomes:** 
 
 1. ¿Quién es el usuario?
-Los usuarios de nuestro servicio son personas mayores de 18 años que buscan comprar, alquilar un inmueble de un agente inmobiliario de forma eficiente y segura. Las agencias inmobiliarias y gestores de propiedades que desean exponer sus locales. Las entidades financieras e inspectores de créditos que proporcionan información acerca de los créditos y presupuestos. 
+Los usuarios de nuestro servicio son personas mayores de 18 años que buscan comprar, alquilar un inmueble de un agente inmobiliario de forma eficiente y segura. Las agencias inmobiliarias y gestores de propiedades que desean exponer sus locales. Las entidades financieras e inspectores de créditos proporcionan información acerca de los créditos y presupuestos. 
  
 2. ¿Dónde encaja nuestro producto en su trabajo o vida?
 Encaja en múltiples etapas del proceso de compra, venta y alquiler de un inmueble, en el cual les permitirá generar presupuestos de financiamiento y gestionar su actividad.
 
 3. ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
-Nuestra plataforma puede enfrentarse a una falta de alcance, lo que perjudicaría el desarrollo del servicio. Así como, la falta de credibilidad debido	al corto tiempo dentro del mercado impidiendo la estabilización de la aplicación web. 
+Nuestra plataforma puede enfrentarse a una falta de alcance, lo que perjudica el desarrollo del servicio. Así como, la falta de credibilidad debido al corto tiempo dentro del mercado impidiendo la estabilización de la aplicación web. 
 
 4. ¿Cuándo y cómo es usado nuestro producto?
-Nuestra plataforma está diseñada para ser utilizado como nexo durante el proceso completo de la compra, venta o alquiler de un inmueble entre los usuarios y los anunciantes. El acceso y su funcionamiento deben llevarse a cabo exclusivamente a través de la plataforma web designada para el servicio.
+Nuestra plataforma está diseñada para ser utilizada como nexo durante el proceso completo de la compra, venta o alquiler de un inmueble entre los usuarios y los anunciantes. El acceso y su funcionamiento deben llevarse a cabo exclusivamente a través de la plataforma web designada para el servicio.
 
 5. ¿Qué características son importantes? 
 Las características más importantes de nuestra plataforma serán, la búsqueda y publicación de inmuebles en venta o alquiler, la intermediación entre los usuarios y las agencias de inmuebles, proporcionar una fácil gestión de la actividad inmobiliaria y la orientación financiera mediante presupuestos y herramientas especializadas.
@@ -171,7 +171,7 @@ Nuestra aplicación web debe proporcionar una interfaz amigable, intuitiva y de 
 
 6. Creemos que vamos a adquirir la mayoría de nuestros clientes a través de varias estrategias de marketing digital en medios como las redes sociales, la publicación de anuncios en periódicos y el uso de tácticas con técnicas boca a boca entre nuestros segmentos de mercado.
 
-7. Creemos que haremos ganancias económicas en la aplicación a través de la implementación de planes y suscripciones para las personas o empresas que quieren publicar sus productos inmobiliarios en nuestra plataforma para la venta o el alquiler.
+7. Creemos que haremos ganancias económicas en la aplicación a través de la implementación de planes y suscripciones para las personas o empresas que quieran publicar sus productos inmobiliarios en nuestra plataforma para la venta o el alquiler.
 
 8. Creemos que nuestra competencia principal serán las empresas u organizaciones que ofrezcan productos o servicios dentro del mismo rubro con mayor experiencia y años dentro del mercado peruano o sudamericano.
 
@@ -179,7 +179,7 @@ Nuestra aplicación web debe proporcionar una interfaz amigable, intuitiva y de 
 
 10. Creemos que nuestro mayor riesgo es la insatisfacción e inconformidad del cliente con nuestra aplicación web propuesta o que no cumpla sus expectativas con respecto al rubro inmobiliario. Esto podría darle ventaja y oportunidades a toda nuestra competencia.
 
-11. Creemos que esos problemas mencionados anteriormente se puede resolver mediante el desarrollo óptimo de todas las funcionalidades junto a la interfaz de la aplicación, además del lanzamiento mejoras continuas junto a parches.
+11. Creemos que esos problemas mencionados anteriormente se pueden resolver mediante el desarrollo óptimo de todas las funcionalidades junto a la interfaz de la aplicación, además del lanzamiento mejoras continuas junto a parches.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
@@ -205,7 +205,7 @@ Nuestra aplicación web debe proporcionar una interfaz amigable, intuitiva y de 
     
     Sabremos que hemos tenido éxito 
     
-    Cuando el número de solicitudes de visitas presenciales se reduzca un 15% y las visitas virtuales aumenten un 25%. Verificado a través de análisis de datos y seguimiento de la actividad en la plataforma. 
+    Cuando el número de solicitudes de visitas presenciales se reduzca un 15% y las visitas virtuales aumentan un 25%. Verificado a través de análisis de datos y seguimiento de la actividad en la plataforma. 
     
 - **Hypothesis 4**
 
@@ -213,7 +213,7 @@ Nuestra aplicación web debe proporcionar una interfaz amigable, intuitiva y de 
     
     Sabremos que hemos tenido éxito
     
-    Cuando incremente un 20% la frecuencia de uso del chat en vivo, comparemos el número de solicitudes de financiamiento antes y después de su introducción, y realicemos encuestas de satisfacción para evaluar esta nueva característica.
+    Cuando incremente un 20% la frecuencia de uso del chat en vivo, comparemos el número de solicitudes de financiamiento antes y después de su introducción, y realizamos encuestas de satisfacción para evaluar esta nueva característica.
 
 #### 1.2.2.4. Lean UX Canvas
 
@@ -241,3 +241,5 @@ Este segmento incluye a usuarios de 18 años o más que residan en Perú y que t
 Este segmento incluye a Inmobiliarias peruanas que estén correctamente registradas y acreditadas para ofrecer propiedades en venta o alquiler de proyectos de entrega inmediata o futura entrega; y a personas que residan en Perú que cuenten con una propiedad y deseen ponerla en venta o alquiler. Este conjunto se le conoce como Anunciante en la plataforma puesto que publican información importante de las propiedades disponibles que tienen a disposición.
 
 ---
+
+

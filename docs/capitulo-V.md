@@ -616,13 +616,13 @@ En esta sección se explica y presenta los avances en implementación con relaci
 
 ### 5.2.1.4 Testing Suite Evidence for Sprint Review. 
 
-En esta sección, nos complace presentar la evidencia detallada de las pruebas rigurosas realizadas durante el sprint. Para garantizar la calidad y funcionalidad del producto, hemos empleado la metodología Gherkin para definir escenarios de prueba claros y concisos. Cada uno de estos escenarios se ha registrado meticulosamente en commits específicos en nuestro repositorio de código, lo que proporciona un registro completo y transparente de nuestro proceso de prueba.
+En esta sección presentaremos la evidencia detallada de las pruebas rigurosas realizadas durante el sprint. Para garantizar la calidad y funcionalidad del producto, hemos empleado la metodología Gherkin para definir escenarios de prueba claros y concisos. Cada uno de estos escenarios se ha registrado meticulosamente en commits específicos en nuestro repositorio de código, lo que proporciona un registro completo y transparente de nuestro proceso de prueba.
 
 ###### Tabla 22
 *Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 1*
 | Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
-| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): add US01-06 acceptance tests - Lucio - 1 | be875aa | feat(develop): add US01-06 acceptance tests | En esta sección se implementaron todos los Acceptance Test para el Sprint 1 de Propertunity | 12/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-AcceptanceTests | feat(develop): add US01-06 acceptance tests - Lucio - 1 | be875aa | feat(develop): add US01-06 acceptance tests | En esta sección se implementaron todos los Acceptance Test para el Sprint 1 de Propertunity | 12/04/24 |
 
 ### 5.2.1.5 Execution Evidence for Sprint Review. 
 
@@ -701,7 +701,7 @@ Nuestro equipo se reunió tanto en persona como virtualmente para asignar tareas
 Además, programamos sesiones regulares de brainstorming y resolución de problemas, donde compartimos ideas y abordamos cualquier duda o dificultad que surgiera durante el proceso de desarrollo. Estas reuniones fueron fundamentales para resolver obstáculos de manera efectiva y garantizar un progreso constante en la elaboración del Landing Page.
 
 ###### Figura 76
-*Reporte completo de contribuciones para el desarrollo del Reporte Principal del Proyecto de Propertunity.*
+*Reporte completo de contribuciones para el desarrollo del Reporte Principal del Proyecto de Propertunity del Sprint 1.*
 
 <img src="/assets/img/Pulse for Main Branch.png" alt="Pulse for Main Branch">
 <img src="/assets/img/Contributions for Main.png" alt="Contributions for Main">
@@ -709,7 +709,7 @@ Además, programamos sesiones regulares de brainstorming y resolución de proble
 <img src="/assets/img/Individual Contributions for Main - 2.png" alt="Individual Contributions for Main - 2">
 
 ###### Figura 77
-*Reporte completo de contribuciones para el desarrollo de la Landing Page del Proyecto de Propertunity.*
+*Reporte completo de contribuciones para el desarrollo de la Landing Page del Proyecto de Propertunity del Sprint 1.*
 
 <img src="/assets/img/Pulse for Landing Page.png" alt="Pulse for Landing Page">
 <img src="/assets/img/Contributions for Landing Page.png" alt="Contributions for Landing Page">
@@ -961,6 +961,8 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
 
 ### 5.2.2.3 Development Evidence for Sprint Review.
 
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Web Application. Aquí se dejara cada uno de los commits ya implementados dentro del repositorio de Github, junto a toda la información referente y a los cambios concluidos.
+
 ###### Tabla 25
 *Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 2*
 | Repository | Branch| Commit Id| Commit Message| Commit Message Body|Commited on (Date) |
@@ -992,17 +994,47 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
 
 ### 5.2.2.4 Testing Suite Evidence for Sprint Review. 
 
+En esta sección presentaremos la evidencia detallada de las pruebas rigurosas realizadas durante el sprint. Para garantizar la calidad y funcionalidad del producto, hemos empleado la metodología Gherkin para definir escenarios de prueba claros y concisos. Cada uno de estos escenarios se ha registrado meticulosamente en commits específicos en nuestro repositorio de código, lo que proporciona un registro completo y transparente de nuestro proceso de prueba.
+
 ###### Tabla 26
 *Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 2*
 | Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
-| upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): add US01-06 acceptance tests - Lucio - 1 | be875aa | feat(develop): add US01-06 acceptance tests | En esta sección se implementaron todos los Acceptance Test para el Sprint 1 de Propertunity | 12/04/24 |
+| upc-pre-202401--si730-WS52-SmarTech-AcceptanceTests | feat(.features): added More User Stories - Ruben - 1 | ff860b5 | feat(.features): added More User Stories | En esta sección se implementaron todos los Acceptance Test para el Sprint 2 de Propertunity | 30/04/24 |
 
 ### 5.2.2.5 Execution Evidence for Sprint Review. 
 
-En este punto explicaremos los logros alcanzados para el Sprint 1
+Dentro del Sprint 2, el equipo logró un avance significativo al implementar las características clave de las principales funcionalidades de la Aplicación Web de Propertunity. Todas las historias de usuario asignadas para este sprint fueron completadas exitosamente. Estas incluyeron las funcionalidades de registro e inicio de sesión dentro de la aplicación web, así como la integración de una sección central o página principal donde los usuarios ingresaran directamente al poder acceder exitosamente dentro de la aplicación web. 
 
+Junto a esas funcionalidades se añadieron las principales caracteristicas base de nuestro modelo de negocio de inmobiliarias, implementando la agregación de una barra de búsqueda de propiedades con filtros personalizados, un modelo de visualización de propiedades en venta o alquilar, un modelo de publicación de propiedades junto a la agregación de imagenes, y una sección de previsualización de las publicaciones antes de que sean guardadas y realizadas.
 
+Asimismo, junto a estas caracteristicas, se implementaron las principales bases de una interfaz cómoda y agradable, implementando atajos sencillos de utilizar, botones de retroceso y páginas con información completa en todo momento. Asimismo, se agregarón perfiles y medios de configuración para todos los usuarios que ingresen a la aplicación.
+
+Finalmente, se agregaron caracteristicas matématicas al implementar una calculadora crediticia con la que los usuarios podrán interactuar para poder determinar las cuotas mensuales con respecto a cada modelo de negocio establecido y los bancos afiliados con los pagos entre cada anunciante y usuario.
+
+###### Figura 78
+*Muestra con evidencia del encabezado de la Landing Page*
+<img src="/assets/img/Evidencia-Encabezado-LandingPage.png" alt="Evidencia Encabezado de Landing Page">
+
+###### Figura 79
+*Muestra con evidencia de la sección de About-Us de la Landing Page*
+<img src="/assets/img/Evidencia-AboutUs-LandingPage.png" alt="Evidencia About Us de Landing Page">
+
+###### Figura 80
+*Muestra con evidencia de la sección de Funcionalidades de la Landing Page*
+<img src="/assets/img/Evidencia-Funcionalidades-LandingPage.png" alt="Evidencia Funcionalidades de Landing Page">
+
+###### Figura 81
+*Muestra con evidencia de la sección de Membresías de la Landing Page*
+<img src="/assets/img/Evidencia-Membresías-LandingPage.png" alt="Evidencia Membresías de Landing Page">
+
+###### Figura 82
+*Muestra con evidencia de la sección de Testimonios de la Landing Page*
+<img src="/assets/img/Evidencia-Testimonios-LandingPage.png" alt="Evidencia Testimonios de Landing Page">
+
+###### Figura 83
+*Muestra con evidencia de la sección de Contacto de la Landing Page*
+<img src="/assets/img/Evidencia-Contacto-LandingPage.png" alt="Evidencia Contacto de Landing Page">
 
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review. 
 
@@ -1010,10 +1042,30 @@ En este punto explicaremos los logros alcanzados para el Sprint 1
 
 ### 5.2.2.7 Software Deployment Evidence for Sprint Review.
 
-Explicaremos las acciones que realizamos en el sprint 2
-
+Dentro del Sprint 2, realizamos el despliegue de nuestra Aplicación Web en Firebase como parte fundamental de nuestra estrategia de lanzamiento. A continuación, detallamos meticulosamente los pasos llevados a cabo para lograr este despliegue con éxito:
 
 
 ### 5.2.2.8 Team Collaboration Insights during Sprint.
 
+Durante el Sprint 2, nos enfocamos en el desarrollo colaborativo del FrontEnd del Web Application de Propertunity, donde cada miembro del equipo contribuyó con sus habilidades y conocimientos. Esta colaboración se refleja en los numerosos commits realizados en nuestro repositorio de código, los cuales están respaldados por capturas de pantalla adjuntas para una documentación detallada.
 
+Nuestro equipo se reunió tanto en persona como virtualmente para asignar tareas y discutir la estrategia de desarrollo del proyecto. Estas reuniones fueron cruciales para clarificar nuestras responsabilidades individuales y asegurar un desempeño óptimo. Para maximizar la eficiencia, decidimos asignar a cada miembro del equipo una sección específica del FrontEnd para desarrollar, lo que nos permitió avanzar rápidamente y cumplir con los plazos establecidos.
+
+Además, programamos sesiones regulares de brainstorming y resolución de problemas, donde compartimos ideas y abordamos cualquier duda o dificultad que surgiera durante el proceso de desarrollo. Estas reuniones fueron fundamentales para resolver obstáculos de manera efectiva y garantizar un progreso constante en la elaboración del FrontEnd del Web Application.
+
+###### Figura 88
+*Reporte completo de contribuciones para el desarrollo del Reporte Principal del Proyecto de Propertunity del Sprint 2.*
+
+<img src="/assets/img/Pulse for Main Branch.png" alt="Pulse for Main Branch">
+<img src="/assets/img/Contributions for Main.png" alt="Contributions for Main">
+<img src="/assets/img/Individual Contributions for Main - 1.png" alt="Individual Contributions for Main - 1
+  ">
+<img src="/assets/img/Individual Contributions for Main - 2.png" alt="Individual Contributions for Main - 2">
+
+###### Figura 89
+*Reporte completo de contribuciones para el desarrollo del FrontEnd del Web Application del Proyecto de Propertunity del Sprint 2.*
+
+<img src="/assets/img/Pulse for Landing Page.png" alt="Pulse for Landing Page">
+<img src="/assets/img/Contributions for Landing Page.png" alt="Contributions for Landing Page">
+<img src="/assets/img/Individual Contributions for Landing Page - 1.png" alt="Individual Contributions for Landing Page - 1">
+<img src="/assets/img/Individual Contributions for Landing Page 2.png" alt="Individual Contributions for Landing Page - 2">

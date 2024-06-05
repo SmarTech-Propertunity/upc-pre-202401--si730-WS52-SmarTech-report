@@ -1387,6 +1387,32 @@ En esta sección, nuestro equipo se encargará de registrar y detallar las activ
 
 El equipo se encarga de establecer, para cada segmento objetivo identificado, los elementos que se deben incluir en la sesión de validación. Esto abarca tanto el análisis del Landing Page como de las aplicaciones relacionadas. Además, se detalla el diseño de los user flows de las aplicaciones, los cuales desempeñarán un papel crucial en el proceso de validación. Estos user flows, que representan la secuencia de acciones que los usuarios llevarán a cabo dentro de las aplicaciones, son parte integral del proceso de garantizar una experiencia de usuario óptima. De esta manera, se asegura que cada paso del usuario a través de las aplicaciones sea coherente, intuitivo y cumpla con los objetivos de diseño previamente establecidos.
 
+**Preguntas generales:**
+1. ¿Qué tan satisfecho estás con la experiencia general en nuestra plataforma?
+2. ¿Encontraste algún problema o dificultad mientras usabas nuestra aplicación? Si es así, ¿cuál?
+3. ¿Le recomendarías a otros usuarios el uso de nuestra plataforma?
+
+**Segmento 1: Usuarios que desean comprar, vender o informarse:**
+
+1. ¿Cuál fue tu primera impresión al usar nuestro aplicativo? ¿Te resultó intuitivo y fácil de usar?
+2. ¿Crees que las características e información que presentan las publicaciones es adecuado para que estes bien informado de las propiedades en venta?
+3. ¿Qué tan fácil te resultó encontrar propiedades que se ajustaran a tus criterios de búsqueda?
+4. ¿Qué características o herramientas del aplicativo te resultaron más útiles para tus necesidades como comprador? ¿Por qué?
+5. ¿Crees que los medios de comunicación que la plataforma pide para todos los anunciantes es suficiente para garantizar el contacto rápido, seguro y fluido con los anunciantes?
+6. ¿Cómo se compara nuestra plataforma con otras que has usado en términos de facilidad de uso y calidad de la información?
+7. ¿Qué mejoras o nuevas funcionalidades te gustaría ver en nuestra plataforma que puedan hacer más fluido el proceso de compra?
+
+**Segmento 2: Anunciantes que deseen publicar una propiedad en venta o alquiler:**
+
+1. ¿Cómo crees que sería tu experiencia al publicar una propiedad en nuestra plataforma? ¿El proceso seria sencillo?
+2. ¿Las herramientas disponibles para gestionar las publicaciones (como editar información, responder a consultas, etc.) son adecuadas y fáciles de usar?
+3. ¿Crees que la plataforma brinda la suficiente información para que un comprador este completamente informado sobre una propiedad?
+4. ¿Estás satisfecho con el alcance y visibilidad que las publicaciones tienen en nuestra plataforma?
+5. Comparado con otros sitios similares, ¿Cómo evaluarías nuestra plataforma en términos de efectividad y usabilidad para la publicación de propiedades?
+6. ¿Qué herramientas o características de la plataforma encuentras más útiles para tus necesidades como anunciante?
+7. ¿Hay alguna característica adicional que te gustaría tener para mejorar la efectividad de tus publicaciones?
+8. ¿Qué cambios o mejoras recomendarías para hacer nuestra plataforma más efectiva para anunciantes?
+
 ### 5.3.2. Registro de Entrevistas. 
 
 #### Segmento 1: Personas que deseen comprar o alquilar una propiedad

@@ -1310,8 +1310,18 @@ En esta sección se explica y presenta los avances en implementación con relaci
 *Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3*
 | Repository | Branch| Commit Id| Commit Message| Commit Message Body|Commited on (Date) |
 |------------|-------|----------|---------------|--------------------|-------------------|
-|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|d3f5583|feat(ALL): initial commit|Se agrega el contenido inicial del proyecto.| 23/04/24|
-|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|5e5de2d|Rename README.md.txt to README.md|Se agrega el archivo readme del proyecto.| 23/04/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|8623ceb|Merge branch 'develop' into inicio-home|Se hace merge| 22/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|fe53b29|feat(finance-tool): update credit-calculator.component|Se actualiza la calculadora| 28/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|c1a0a80|feat: added home design and not found page|Se agrega neuvo diseño| 31/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|89931ec|Update: post-overview|Se agrega neuvo diseño a los post| 02/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|dec6209|feat: update filtered search functionality & db.json file & property-api function & i18n locale files|Se actuliza| 04/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|e84c92b|feat: update properties-list and property-post router-link|Se actualiza los links| 04/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|87182bf|feat: added login-register-password pages & updated CCS|Se agrega pagina de actualizacion de contraseña| 06/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|9e2d81d|feat: update properties-list.component & the-new-search.component & db.json|Se acvtualizan las listas y la busqueda | 07/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-BackEndPlatform|Main|8f7fe83|Initial commit|commit de prueba con todas las carpetas disponibles| 07/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-BackEndPlatform|Main|0c0f7a6|delete: bugged folder|Se borran carpetas| 07/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-BackEndPlatform|Main|b5f3bcf|Add or update the Azure App Service build and deployment workflow config|Se agrega el código con toda la lógica y su conexión a azure| 07/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-BackEndPlatform|Main|2169538|Update global.json|Se actualiza el globals.json| 07/06/24|
 
 cambiar
 
@@ -1347,7 +1357,16 @@ Además de la implementación de estas nuevas caracteristicas y conexiones con l
 
 En esta sección, presentamos la relación de Endpoints documentados con OpenAPI, que están directamente vinculados con el alcance del Sprint. Iniciamos con una breve introducción que resume los logros alcanzados en relación con la Documentación de Web Services durante este período de desarrollo. A continuación, proporcionamos una tabla detallada que enumera cada Endpoint, junto con las acciones implementadas y los enlaces correspondientes a la documentación desplegada o la URL local en Sprints anteriores al despliegue de Web Services.
 
-(...)
+| Método | Descripción | Ejemplo de llamada | Parámetros | Respuesta |
+|--------|-------------|---------------------|------------|-----------|
+| GET | Busca una publicación dado un id | GET /api/v1/publication/getPublication | Tiene dos parámetros: el id y el estado de la publicación | Retorna la publicación que corresponda al id solicitado | 
+| POST | Crea una publicación basado en los parámetros | POST /api/v1/publication/postPublication | Los datos de la publicación: título, descripción, precio, ubicación, e id del usuario (automático) | Retorna el id de la publicación creada | 
+| DELETE | Elimina una publicación (soft delete) dado un id | DELETE /api/v1/publication/deletePublication | El id de la publicación a eliminar | Retorna '1' como una eliminación satisfactoria | 
+| GET | Busca publicaciones basadas en una petición | GET /api/v1/search/main | Posee 4 parámetros dentro de la instancia de la entidad: input, tipo (propiedad o ubicación), precio mínimo, precio máximo |  | 
+| POST | Permite un usuario sea autenticado brindando las credenciales correctas | POST /api/v1/user/login | Datos escenciales como credenciales: usuario y contraseña | Retorna una sesión con un token para cualquier request | 
+| POST | Permite actualizar un token vencido del usuario para extender la sesión sin necesidad de iniciar sesión otra vez | POST /api/v1/user/refreshToken | El refresh token dado en el login y el token vencido | Retorna una nueva sesión con nuevos datos actualizados | 
+| GET | Obtiene la información relacionado a un usuario | GET /api/v1/user/getUserInformation | Id del usuario a buscar | Retorna la información del usuario | 
+| POST | Permite que una persona pueda crear su cuenta dentro de la aplicación | POST /api/v1/user/register | Requiere información del usuario como tambien credenciales de la cuenta | Retorna el nuevo Id del usuario creado | 
 
 #### 5.2.2.7 Software Deployment Evidence for Sprint Review.
 
@@ -1396,8 +1415,16 @@ Además, programamos sesiones regulares de brainstorming y resolución de proble
 
 <img src="/assets/img/Pulse for BackEnd Web Application.png" alt="Pulse for BackEnd Web Application">
 <img src="/assets/img/Contributions for BackEnd Web Application.png" alt="Contributions for BackEnd Web Application">
-<img src="/assets/img/Individual Contributions for BackEnd Web Application - 1.png" alt="Individual Contributions for BackEnd Web Application - 1">
-<img src="/assets/img/Individual Contributions for BackEnd Web Application - 2.png" alt="Individual Contributions for BackEnd Web Application - 2">
+<img src="/assets/img/Individual Contributions for BackEnd Web Application.png" alt="Individual Contributions for BackEnd Web Application">
+
+
+###### Figura 100
+*Reporte completo de contribuciones para el desarrollo del FrontEnd del Web Application del Proyecto de Propertunity del Sprint 3.*
+
+<img src="/assets/img/Pulse for FrontEnd Web Application2.png" alt="Pulse for BackEnd Web Application2">
+<img src="/assets/img/Contributions for FrontEnd Web Application2.png" alt="Contributions for BackEnd Web Application2">
+<img src="/assets/img/Individual Contributions for FrontEnd Web Application2 - 1.png" alt="Individual Contributions for BackEnd Web Application2 - 1">
+<img src="/assets/img/Individual Contributions for FrontEnd Web Application2 - 2.png" alt="Individual Contributions for BackEnd Web Application2 - 2">
 
 ---
 
@@ -1439,64 +1466,6 @@ El equipo se encarga de establecer, para cada segmento objetivo identificado, lo
 
 #### Segmento 1: Personas que deseen comprar o alquilar una propiedad
 
-**Entrevista N°1:**
-
-###### Figura 100
-*Imagen de presentación de la primera entrevista de validación realizada.*
-
-<img src="/assets/img/entrevistas/entrevista-validación-segmento1.png" alt="Entrevista Validación 1 del Segmento 1" width="550" height="300">
-
-*Nota.*
-
-**Datos principales:**
-- Nombre completo del entrevistado: 
-- Edad: 
-- Distrito: 
-- Link: 
-- Inicio de la entrevista: 
-- Duración: 
-- Entrevistador:
-
----
-
-**Entrevista N°2:**
-
-###### Figura 101
-*Imagen de presentación de la segunda entrevista de validación realizada.*
-
-<img src="/assets/img/entrevistas/entrevista2-validación-segmento1.png" alt="Entrevista Validación 2 del Segmento 1" width="550" height="300">
-
-*Nota.*
-
-**Datos principales:**
-- Nombre completo del entrevistado: 
-- Edad: 
-- Distrito: 
-- Link: 
-- Inicio de la entrevista: 
-- Duración: 
-- Entrevistador:
-
----
-
-**Entrevista N°3:**
-
-###### Figura 102
-*Imagen de presentación de la tercera entrevista de validación realizada.*
-
-<img src="/assets/img/entrevistas/entrevista3-validación-segmento1.png" alt="Entrevista Validación 3 del Segmento 1" width="550" height="300">
-
-*Nota.*
-
-**Datos principales:**
-- Nombre completo del entrevistado: 
-- Edad: 
-- Distrito: 
-- Link: 
-- Inicio de la entrevista: 
-- Duración: 
-- Entrevistador:
-
 ---
 
 #### Segmento 2: Anunciantes que deseen publicar una propiedad en venta o alquiler.
@@ -1508,56 +1477,16 @@ El equipo se encarga de establecer, para cada segmento objetivo identificado, lo
 
 <img src="/assets/img/entrevistas/entrevista-validación-segmento2.png" alt="Entrevista Validación 1 del Segmento 2" width="550" height="300">
 
-*Nota.*
+*Nota.* Ahora es el momento de la verdad, saber si nuestro proyecto va acorde a las espectativas del usuario final. Nuestra entrevistada comenta principalmente que algunas funciones aún no están implementadas correctamente, que ella se pierde porque algunos funciones son nuevas, y que le gustaría que las publicaciones muestren más información para que sea visible y detallada. Aunque, nos dice que en general le ve futuro y que le encanta el sistema en general.
 
 **Datos principales:**
-- Nombre completo del entrevistado: 
-- Edad: 
-- Distrito: 
-- Link: 
-- Inicio de la entrevista: 
-- Duración: 
-- Entrevistador:
-  
----
-
-**Entrevista N°5:**
-
-###### Figura 104
-*Imagen de presentación de la quinta entrevista de validación realizada.*
-
-<img src="/assets/img/entrevistas/entrevista2-validación-segmento2.png" alt="Entrevista Validación 2 del Segmento 2" width="550" height="300">
-
-*Nota.*
-
-**Datos principales:**
-- Nombre completo del entrevistado: 
-- Edad: 
-- Distrito: 
-- Link: 
-- Inicio de la entrevista: 
-- Duración: 
-- Entrevistador:
-
----
-
-**Entrevista N°6:**
-
-###### Figura 105
-*Imagen de presentación de la sexta entrevista de validación realizada.*
-
-<img src="/assets/img/entrevistas/entrevista3-validación-segmento2.png" alt="Entrevista Validación 3 del Segmento 2" width="550" height="300">
-
-*Nota.*
-
-**Datos principales:**
-- Nombre completo del entrevistado: 
-- Edad: 
-- Distrito: 
-- Link: 
-- Inicio de la entrevista: 
-- Duración: 
-- Entrevistador:
+- Nombre completo de la entrevistada: Rosalinda Quispe Ramos
+- Edad: 42
+- Distrito: Villa Maria del Triunfo
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214234_upc_edu_pe/EchfUy2BPplOipry81Rj6nEBNuUsGM_2rW4UHib93Vp_eA?e=j2yltd
+- Inicio de la entrevista: 00:00
+- Duración: 08:21
+- Entrevistador: Rubén Elías Mallma Quispe
 
 ---
 

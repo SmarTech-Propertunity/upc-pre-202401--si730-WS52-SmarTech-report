@@ -1619,7 +1619,7 @@ El botón "Recuperar contraseña" no funciona, lo que impide a los usuarios recu
 ###### Figura 106.
 *Imagen de presentación del primer error indicado en la evaluación de heurísticas realizada por el grupo 4.*
 
-<img src="/assets/img/evaluacion-heuristicas-grupo4-1.png" alt="Primer error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+<img src="/assets/img/evaluacion-heuristicas-grupo4-1.png.png" alt="Primer error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="360">
 
 **Recomendación:**
 
@@ -1653,7 +1653,7 @@ Los símbolos de redes sociales en el footer de la landing page no funcionan ya 
 ###### Figura 107.
 *Imagen de presentación del segundo error indicado en la evaluación de heurísticas realizada por el grupo 4.*
 
-<img src="/assets/img/evaluacion-heuristicas-grupo4-2.png" alt="Segundo error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+<img src="/assets/img/evaluacion-heuristicas-grupo4-2.png.png" alt="Segundo error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="230">
 
 **Recomendación:**
 
@@ -1688,9 +1688,9 @@ Implementando estas recomendaciones, se puede mejorar significativamente la expe
 ###### Figura 108.
 *Imagen de presentación del tercer error indicado en la evaluación de heurísticas realizada por el grupo 4.*
 
-<img src="/assets/img/evaluacion-heuristicas-grupo4-3.1.png" alt="Primera imagen del tercer error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+<img src="/assets/img/evaluacion-heuristicas-grupo4-3.1.png.png" alt="Primera imagen del tercer error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="240">
 
-<img src="/assets/img/evaluacion-heuristicas-grupo4-3.2.png" alt="Segunda imagen del tercer error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+<img src="/assets/img/evaluacion-heuristicas-grupo4-3.2.png.png" alt="Segunda imagen del tercer error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="240">
 
 **Recomendación:** Para abordar este problema de diseño y mejorar la experiencia del usuario, es importante asegurarse de que el footer se mantenga en la parte inferior de la ventana del navegador, independientemente de la cantidad de contenido en la página. A continuación, se detallan los pasos recomendados para solucionar este problema:
 
@@ -1722,7 +1722,7 @@ Implementando estas recomendaciones, se puede mejorar significativamente la apar
 ###### Figura 109.
 *Imagen de presentación del cuarto error indicado en la evaluación de heurísticas realizada por el grupo 4.*
 
-<img src="/assets/img/evaluacion-heuristicas-grupo4-4.png" alt="Cuarto error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+<img src="/assets/img/evaluacion-heuristicas-grupo4-4.png.png" alt="Cuarto error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="240">
 
 **Recomendación:** Es fundamental mantener la coherencia en el idioma a lo largo de toda la interfaz para asegurar una experiencia de usuario fluida y profesional. A continuación, se detallan las acciones recomendadas para solucionar este problema:
 
@@ -1751,7 +1751,7 @@ El botón "About Us" en la barra de navegación superior de la Landing Page no f
 ###### Figura 110.
 *Imagen de presentación del quinto error indicado en la evaluación de heurísticas realizada por el grupo 4.*
 
-<img src="/assets/img/evaluacion-heuristicas-grupo4-5.png" alt="Quinto error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+<img src="/assets/img/evaluacion-heuristicas-grupo4-5.png.png" alt="Quinto error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="310">
 
 **Recomendación:** Es crucial garantizar que todos los enlaces de navegación funcionen correctamente y dirijan a los usuarios a las páginas correspondientes. A continuación, se detallan las recomendaciones para solucionar este problema:
 
@@ -1778,9 +1778,9 @@ Al seguir estas recomendaciones, se mejorará significativamente la usabilidad d
 ###### Figura 111.
 *Imagen de presentación del sexto error indicado en la evaluación de heurísticas realizada por el grupo 4.*
 
-<img src="/assets/img/evaluacion-heuristicas-grupo4-6.1.png" alt="Primera imagen del sexto error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+<img src="/assets/img/evaluacion-heuristicas-grupo4-6.1.png.png" alt="Primera imagen del sexto error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="350">
 
-<img src="/assets/img/evaluacion-heuristicas-grupo4-6.2.png" alt="Segunda imagen del sexto error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+<img src="/assets/img/evaluacion-heuristicas-grupo4-6.2.png.png" alt="Segunda imagen del sexto error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="390">
 
 **Recomendación:** Para resolver este problema y mejorar la experiencia del usuario, se deben tomar las siguientes medidas para garantizar la completa resolución:
 
@@ -1809,9 +1809,9 @@ Al implementar estas recomendaciones, se garantizará que los usuarios puedan re
 ###### Figura 112.
 *Imagen de presentación del séptimo error indicado en la evaluación de heurísticas realizada por el grupo 4.*
 
-<img src="/assets/img/evaluacion-heuristicas-grupo4-7.1.png" alt="Primera imagen del séptimo error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+<img src="/assets/img/evaluacion-heuristicas-grupo4-7.1.png.png" alt="Primera imagen del séptimo error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="410">
 
-<img src="/assets/img/evaluacion-heuristicas-grupo4-7.2.png" alt="Segunda imagen del séptimo error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+<img src="/assets/img/evaluacion-heuristicas-grupo4-7.2.png.png" alt="Segunda imagen del séptimo error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="380">
 
 **Recomendación:** Para resolver este problema y mejorar la claridad y la experiencia del usuario, se deben tomar las siguientes medidas:
 
@@ -1846,7 +1846,7 @@ En la página principal, hay una sección de texto que dice lo siguiente: "Get s
 ###### Figura 113.
 *Imagen de presentación del octavo error indicado en la evaluación de heurísticas realizada por el grupo 4.*
 
-<img src="/assets/img/evaluacion-heuristicas-grupo4-8.png" alt="Octavo error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+<img src="/assets/img/evaluacion-heuristicas-grupo4-8.png.png" alt="Octavo error de la evaluación de heurísticas realizada por el grupo 4." width="650" height="250">
 
 **Recomendación:**
 Para abordar este problema y mejorar la coherencia y profesionalismo de la página, se recomienda lo siguiente:
@@ -1872,7 +1872,7 @@ Una vez que el usuario sale de la página principal ("Home") para revisar otras 
 ###### Figura 114.
 *Imagen de presentación del noveno error indicado en la evaluación de heurísticas realizada por el grupo 4.*
 
-<img src="/assets/img/evaluacion-heuristicas-grupo4-9.png" alt="Noveno error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+<img src="/assets/img/evaluacion-heuristicas-grupo4-9.png.png" alt="Noveno error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="85">
 
 **Recomendación:**
 Para mejorar la usabilidad y la experiencia del usuario, se recomienda añadir un botón de "Home" o similar en la barra de navegación. Esto asegurará una navegación más fluida e intuitiva, facilitando el regreso a la página principal de manera rápida y eficiente.
@@ -1888,8 +1888,129 @@ Implementar estas recomendaciones mejorará significativamente la experiencia de
 
 ---
 
+### Evaluación de Heurísticas realizada por el grupo 1 para el grupo 4:
 
+---
 
+**UX Heuristics & Principles Evaluation Usability – Inclusive Design – Information Architecture**
+
+**CARRERA : Ingeniería de Software **
+
+**CURSO : Aplicaciones Web 
+
+**SECCIÓN : WS52**
+
+**PROFESORES : Todos**
+
+**AUDITOR : Grupo 3 - GoSteel**
+
+**CLIENTE(S) : Grupo 4 - SmartTech**
+
+**SITE o APP A EVALUAR: Propertunity TAREAS A EVALUAR:**
+
+**El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes**
+
+**tareas:**
+
+1. Registro de un usuario nuevo
+2. Inicio de sesión
+3. Visualización de inmobiliarias
+
+**No están incluidas en esta versión de la evaluación las siguientes tareas:**
+
+1. Calculadora creditica
+2. Resolución de búsqueda
+
+**ESCALA DE SEVERIDAD:**
+
+**Los errores serán puntuados tomando en cuenta la siguiente escala de severidad**
+
+|**Nivel**|**Descripción**|
+| :- | :- |
+|**1**|Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|**2**|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
+|**3**|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|**4**|<p>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de</p><p>la herramienta. Es imperativo que sea corregido antes del lanzamiento.</p>|
+
+**TABLA RESUMEN:**
+
+|**#**|**Problema**|**Escala de severidad**|**Heurística/Principio violada(o)**|
+| :- | -: | :- | -: |
+|**1**|Los labels de las funciones principales son muy pequeños para leerlo con facilidad|**4**|Usabilidad - Visibilidad del estado del sistema|
+|**2**|Algunas imágenes presentan función de router link y otros artefactos hacen router link en vez de devolver una función|**4**|Usabilidad - Consistencia y estándare|
+|**3**|Falta de restricciones y validaciones en algunos entradas de información|**3**|Usabilidad - Prevención de errores|
+|**4**|No hay botón de log out|**5**|Usabilidad - Uso y Control de Usuario|
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1:** Los labels de las funciones principales son muy pequeños para leerlo con facilidad
+
+**Severidad**: 4
+
+**Heurística violada**: Usabilidad - Visibilidad del estado del sistema
+
+**Problema**: La dificultad para leer los labels puede generar confusión y frustración en los usuarios, lo que puede llevar a una mala experiencia de usuario. Incluso causar molestias de la vista.
+
+**Recomendación**: Aumentar el tamaño de los labels y utilizar un tipo de letra claro y fácil de leer, para mejorar la visibilidad y accesibilidad de la plataforma.
+
+###### Figura 115.
+*Imagen de presentación del primer error indicado en la evaluación de heurísticas realizada por el grupo 1.*
+
+<img src="/assets/img/evaluacion-heuristicas-grupo1-1.1.png" alt="Primer imagen del primer error de la evaluación de heurísticas realizada por el grupo 1." width="550" height="250">
+
+<img src="/assets/img/evaluacion-heuristicas-grupo1-1.2.png" alt="Segunda imagen del primer error de la evaluación de heurísticas realizada por el grupo 1." width="550" height="250">
+
+**PROBLEMA #2:** Algunas imágenes presentan función de router link y otros artefactos hacen router link en vez de devolver una función
+
+**Severidad**: 3
+
+**Heurística violada**: Usabilidad - Consistencia y estándare
+
+**Problema**: La inconsistencia en la funcionalidad de los elementos de la interfaz puede generar confusión y dificultar la navegación del usuario, lo que puede afectar la experiencia de usuario.
+
+**Recomendación**: Establecer un estándar consistente para la funcionalidad de los elementos de la interfaz, de manera que los usuarios sepan qué esperar al interactuar con ellos, y asegurarse de que todos los elementos que deberían devolver una función lo hagan de manera coherente.
+
+###### Figura 116.
+*Imagen de presentación del segundo error indicado en la evaluación de heurísticas realizada por el grupo 1.*
+
+|**Imagenes de inicio sin acceso a ninguna vista, a diferencia de las otras imágenes de vistas posteriores-**|**Función lupa no devuelve una función, sino te redirige a una vista para la busqueda de inmobiliaria.**|
+| - | :- |
+|<p></p><p><img src="/assets/img/evaluacion-heuristicas-grupo1-2.1.png" alt="Primer imagen del segundo error de la evaluación de heurísticas realizada por el grupo 1." width="550" height="250"></p>|<p></p><p><img src="/assets/img/evaluacion-heuristicas-grupo1-2.2.png" alt="Segunda imagen del segundo error de la evaluación de heurísticas realizada por el grupo 1." width="550" height="250"></p>|
+
+**PROBLEMA #3:** Falta de restricciones y validaciones en algunos entradas de información
+
+**Severidad**: 3
+
+**Heurística violada**: Usabilidad - Prevención de errores
+
+**Problema**:En algunas entradas de información, no hay restricciones ni validaciones para asegurar que la información ingresada sea correcta y válida. Esto puede llevar a errores y confusiones para los usuarios.
+
+**Recomendación**: Se recomienda agregar restricciones y validaciones en todas las entradas de información para asegurar que la información ingresada sea correcta y válida. Esto ayudará a prevenir errores y a mejorar la experiencia de usuario. Además, se sugiere proporcionar mensajes de error claros y concisos cuando se detecten errores en la información ingresada.
+
+###### Figura 117.
+*Imagen de presentación del tercer error indicado en la evaluación de heurísticas realizada por el grupo 1.*
+
+|**Permiten valores negativos y campos vacíos**||
+| :-: | :- |
+|<p></p><p><img src="/assets/img/evaluacion-heuristicas-grupo1-3.1.png" alt="Primer imagen del tercer error de la evaluación de heurísticas realizada por el grupo 1." width="550" height="250">|<p></p><p><img src="/assets/img/evaluacion-heuristicas-grupo1-3.2.png" alt="Segunda imagen del tercer error de la evaluación de heurísticas realizada por el grupo 1." width="550" height="250"></p>|
+
+**PROBLEMA #4:** Falta de botón para cerrar sesión.
+
+**Severidad**: 5
+
+**Heurística violada**: Usabilidad - Prevención de errores
+
+**Problema**:La ausencia de un botón para cerrar sesión puede generar problemas de seguridad y privacidad, ya que los usuarios no pueden salir de la sesión actual de manera segura y pueden dejar sus cuentas abiertas en dispositivos que no son personalizados a su uso.
+
+**Recomendación**: gregar un botón visible y accesible para cerrar sesión, de manera que los usuarios puedan salir de la sesión actual de manera segura y controlada.
+
+###### Figura 118.
+*Imagen de presentación del cuarto error indicado en la evaluación de heurísticas realizada por el grupo 1.*
+
+|<p></p><p><img src="/assets/img/evaluacion-heuristicas-grupo1-4.1.png" alt="Primer imagen del cuarto error de la evaluación de heurísticas realizada por el grupo 1." width="550" height="250"></p>|<p></p><p><img src="/assets/img/evaluacion-heuristicas-grupo1-4.2.png" alt="Segunda imagen del cuarto error de la evaluación de heurísticas realizada por el grupo 1." width="550" height="250"></p>|
+| :- | :- |
+
+---
 
 ## 5.4. Video About-the-Product. 
 

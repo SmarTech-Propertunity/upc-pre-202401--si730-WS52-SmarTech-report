@@ -1310,8 +1310,18 @@ En esta sección se explica y presenta los avances en implementación con relaci
 *Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3*
 | Repository | Branch| Commit Id| Commit Message| Commit Message Body|Commited on (Date) |
 |------------|-------|----------|---------------|--------------------|-------------------|
-|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|d3f5583|feat(ALL): initial commit|Se agrega el contenido inicial del proyecto.| 23/04/24|
-|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|5e5de2d|Rename README.md.txt to README.md|Se agrega el archivo readme del proyecto.| 23/04/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|8623ceb|Merge branch 'develop' into inicio-home|Se hace merge| 22/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|fe53b29|feat(finance-tool): update credit-calculator.component|Se actualiza la calculadora| 28/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|c1a0a80|feat: added home design and not found page|Se agrega neuvo diseño| 31/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|89931ec|Update: post-overview|Se agrega neuvo diseño a los post| 02/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|dec6209|feat: update filtered search functionality & db.json file & property-api function & i18n locale files|Se actuliza| 04/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|e84c92b|feat: update properties-list and property-post router-link|Se actualiza los links| 04/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|87182bf|feat: added login-register-password pages & updated CCS|Se agrega pagina de actualizacion de contraseña| 06/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|9e2d81d|feat: update properties-list.component & the-new-search.component & db.json|Se acvtualizan las listas y la busqueda | 07/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-BackEndPlatform|Main|8f7fe83|Initial commit|commit de prueba con todas las carpetas disponibles| 07/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-BackEndPlatform|Main|0c0f7a6|delete: bugged folder|Se borran carpetas| 07/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-BackEndPlatform|Main|b5f3bcf|Add or update the Azure App Service build and deployment workflow config|Se agrega el código con toda la lógica y su conexión a azure| 07/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-BackEndPlatform|Main|2169538|Update global.json|Se actualiza el globals.json| 07/06/24|
 
 cambiar
 

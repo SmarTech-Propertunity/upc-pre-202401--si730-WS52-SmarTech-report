@@ -1300,7 +1300,7 @@ En esta sección, presentamos la relación de Endpoints documentados con OpenAPI
 
 #### 5.2.2.7 Software Deployment Evidence for Sprint Review.
 
-Dentro del Sprint 3, realizamos el despliegue de nuestra base de datos en [https://www.freemysqlhosting.net](Free MySQL Hosting) el cual nos permitió deployar nuestra base de datos sin costo alguno, aunque el rendimiento de esta base de datos sea lenta, es suficiente para nuestro proyecto y el flujo de datos que manejamos. 
+Dentro del Sprint 3, realizamos el despliegue de nuestra base de datos en [Free MySQL Hosting](https://www.freemysqlhosting.net) el cual nos permitió deployar nuestra base de datos sin costo alguno, aunque el rendimiento de esta base de datos sea lenta, es suficiente para nuestro proyecto y el flujo de datos que manejamos. 
 
 <img src="/assets/img/MySQLDB-Deployment.png" alt="Pulse for Main Branch3">
 

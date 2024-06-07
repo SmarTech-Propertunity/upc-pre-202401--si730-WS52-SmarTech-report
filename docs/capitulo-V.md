@@ -1351,8 +1351,30 @@ En esta sección, presentamos la relación de Endpoints documentados con OpenAPI
 
 #### 5.2.2.7 Software Deployment Evidence for Sprint Review.
 
-Dentro del Sprint 3, realizamos el despliegue de ...
+Dentro del Sprint 3, realizamos el despliegue del Frontend, Backend y Base de datos.
 
+## FRONTEND 
+ El deployment del frontend se realizó en Firebase. <br>
+    <img src="/assets/img/1.png" alt="Deploy de Frontend ">
+    <img src="/assets/img/2.PNG" alt="Deploy de Frontend ">
+    <img src="/assets/img/3.PNG" alt="Deploy de Frontend ">
+    <img src="/assets/img/4.PNG" alt="Deploy de Frontend ">
+    <img src="/assets/img/5.PNG" alt="Deploy de Frontend ">
+    <img src="/assets/img/5.PNG" alt="Deploy de Frontend ">
+## BACKEND - Azure
+
+ El deployment del backend se realizó en Microsoft Azure for Students. <br>
+    <img src="/assets/img/Deploy_1.jpeg" alt="Deploy de Backend en Azure">
+    <img src="/assets/img/Deploy_2.jpeg" alt="Deploy de Backend en Azure">
+    <img src="/assets/img/Deploy_3.jpeg" alt="Deploy de Backend en Azure">
+    <img src="/assets/img/Deploy_4.jpeg" alt="Deploy de Backend en Azure">
+    <img src="/assets/img/Deploy_5.jpeg" alt="Deploy de Backend en Azure">
+## BASE DE DATOS
+El deployment de la base de datos se realizó en Free MySql Hosting. <br>
+   <img src="/assets/img/Sql_deploy_3.png" alt="Deploy de Base de datos">
+    <img src="/assets/img/Sql_deploy_1.jpeg" alt="Deploy de Base de Datos">
+    <img src="/assets/img/Sql_deploy_2.jpeg" alt="Deploy de Base de datos">
+ 
 #### 5.2.2.8 Team Collaboration Insights during Sprint.
 
 Durante el Sprint 3, nos enfocamos en el desarrollo colaborativo del BackEnd del Web Application de Propertunity junto a la mejora del FrontEnd, donde cada miembro del equipo contribuyó con sus habilidades y conocimientos. Esta colaboración se refleja en los numerosos pull request realizados en nuestro repositorio de código, los cuales están respaldados por capturas de pantalla adjuntas para una documentación detallada. 

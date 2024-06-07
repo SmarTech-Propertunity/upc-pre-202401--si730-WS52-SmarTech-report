@@ -51,9 +51,9 @@ En esta sección se resumen todas las modificaciones relevantes que sean realiza
     </tr>
     <tr>
       <td>TB2</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>07/06/24</td>
+      <td>Mallma Quispe, Rubén Elias <br> Shimabukuro Uku, Carlos Joel <br> Trigueros Chumacero, Flavio Eduardo <br> Valenzuela Huillcaya, Aldhair Johan Juan <br> Yen Cerna, Lucio Heli</td>
+       <td>Desarrollo del Sprint 3, subsanación de errores y implementación de mejora continua</td>
     </tr>
     <tr>
       <td>TF1</td>

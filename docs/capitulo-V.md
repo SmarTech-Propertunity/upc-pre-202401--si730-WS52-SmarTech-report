@@ -1287,11 +1287,22 @@ Además de la implementación de estas nuevas caracteristicas y conexiones con l
 
 En esta sección, presentamos la relación de Endpoints documentados con OpenAPI, que están directamente vinculados con el alcance del Sprint. Iniciamos con una breve introducción que resume los logros alcanzados en relación con la Documentación de Web Services durante este período de desarrollo. A continuación, proporcionamos una tabla detallada que enumera cada Endpoint, junto con las acciones implementadas y los enlaces correspondientes a la documentación desplegada o la URL local en Sprints anteriores al despliegue de Web Services.
 
-(...)
+| Método | Descripción | Ejemplo de llamada | Parámetros | Respuesta |
+|--------|-------------|---------------------|------------|-----------|
+| GET | Busca una publicación dado un id | GET /api/v1/publication/getPublication | Tiene dos parámetros: el id y el estado de la publicación | Retorna la publicación que corresponda al id solicitado | 
+| POST | Crea una publicación basado en los parámetros | POST /api/v1/publication/postPublication | Los datos de la publicación: título, descripción, precio, ubicación, e id del usuario (automático) | Retorna el id de la publicación creada | 
+| DELETE | Elimina una publicación (soft delete) dado un id | DELETE /api/v1/publication/deletePublication | El id de la publicación a eliminar | Retorna '1' como una eliminación satisfactoria | 
+| GET | Busca publicaciones basadas en una petición | GET /api/v1/search/main | Posee 4 parámetros dentro de la instancia de la entidad: input, tipo (propiedad o ubicación), precio mínimo, precio máximo |  | 
+| POST | Permite un usuario sea autenticado brindando las credenciales correctas | POST /api/v1/user/login | Datos escenciales como credenciales: usuario y contraseña | Retorna una sesión con un token para cualquier request | 
+| POST | Permite actualizar un token vencido del usuario para extender la sesión sin necesidad de iniciar sesión otra vez | POST /api/v1/user/refreshToken | El refresh token dado en el login y el token vencido | Retorna una nueva sesión con nuevos datos actualizados | 
+| GET | Obtiene la información relacionado a un usuario | GET /api/v1/user/getUserInformation | Id del usuario a buscar | Retorna la información del usuario | 
+| POST | Permite que una persona pueda crear su cuenta dentro de la aplicación | POST /api/v1/user/register | Requiere información del usuario como tambien credenciales de la cuenta | Retorna el nuevo Id del usuario creado | 
 
 #### 5.2.2.7 Software Deployment Evidence for Sprint Review.
 
-Dentro del Sprint 3, realizamos el despliegue de ...
+Dentro del Sprint 3, realizamos el despliegue de nuestra base de datos en [https://www.freemysqlhosting.net](Free MySQL Hosting) el cual nos permitió deployar nuestra base de datos sin costo alguno, aunque el rendimiento de esta base de datos sea lenta, es suficiente para nuestro proyecto y el flujo de datos que manejamos. 
+
+<img src="/assets/img/MySQLDB-Deployment.png" alt="Pulse for Main Branch3">
 
 #### 5.2.2.8 Team Collaboration Insights during Sprint.
 

@@ -1543,6 +1543,354 @@ El equipo se encarga de establecer, para cada segmento objetivo identificado, lo
 
 En esta sección se encuentra el proceso detallado de evaluación de las sesiones de validación, el cual se fundamenta en una serie de heurísticas que abarcan distintos aspectos clave. Estas heurísticas incluyen tanto criterios de usabilidad como de arquitectura de la información, e incluso aspectos relacionados con el diseño de la experiencia propuesta. Al considerar estos diversos aspectos, se busca garantizar una evaluación integral y exhaustiva de la experiencia del usuario en todas sus dimensiones. Esto permite identificar tanto fortalezas como áreas de oportunidad en el diseño y funcionamiento de las aplicaciones, con el objetivo de mejorar continuamente la calidad y eficacia del producto final.
 
+### Evaluación de Heurísticas realizada por el grupo 4 para el grupo 1:
+
+---
+
+**UX Heuristics & Principles Evaluation**
+
+**Usability – Inclusive Design – Information Architecture*** 
+
+**CARRERA: Ingeniería de Software**
+
+**CURSO: Desarrollo de Aplicaciones Open Source**
+
+**PROFESORES: Hugo Allan Mori Paiva**
+
+**AUDITOR: SmarTech**
+
+**CLIENTE: FastScooter**
+
+**SITE o APP A EVALUAR: goSteel**
+
+El alcance de esta evaluación incluye una revisión exhaustiva de la usabilidad en las siguientes tareas clave dentro de la aplicación web. Cada una de estas tareas ha sido seleccionada con el objetivo de asegurar que cubrimos los aspectos más críticos y frecuentemente utilizados de la aplicación, proporcionando una evaluación integral de su usabilidad y funcionalidad.
+
+1. **Revisión de la Página de Inicio:** La página de inicio es la primera interacción que los usuarios tienen con la aplicación, por lo que su diseño, claridad y facilidad de uso son fundamentales. Esta revisión incluye una evaluación de la disposición de los elementos, la coherencia visual, la claridad de los mensajes de bienvenida y las llamadas a la acción. Nos aseguramos de que los usuarios puedan navegar intuitivamente desde la página de inicio hacia otras secciones de la aplicación sin enfrentarse a obstáculos.
+  
+2. **Navegación Correcta, Lógica y Coherente por las Diferentes Páginas de la Aplicación Web:** Es crucial que los usuarios puedan moverse fácilmente por las diferentes secciones de la aplicación sin confusión. En esta parte de la evaluación, examinamos la estructura del menú de navegación, la coherencia en el diseño de las páginas y la lógica de los enlaces internos. Nos enfocamos en garantizar que la experiencia de navegación sea fluida y que los usuarios puedan encontrar la información que buscan sin dificultad.
+ 
+3. **Revisión de las Secciones de Inicio de Sesión y Registro de Usuarios:** Las secciones de inicio de sesión y registro son vitales para el acceso de los usuarios a la aplicación. En esta revisión, evaluamos la facilidad con la que los nuevos usuarios pueden registrarse y los usuarios existentes pueden iniciar sesión. Esto incluye la claridad de los formularios, la simplicidad del proceso, y la accesibilidad de las opciones para recuperación de contraseña y soporte.
+   
+4. **Revisión de las Secciones Scooters Favorites y Agregar Scooters:** Estas secciones permiten a los usuarios interactuar directamente con el contenido principal de la aplicación: los scooters. Evaluamos la facilidad de uso y la intuición detrás de agregar scooters a la lista de favoritos, así como la funcionalidad para añadir nuevos scooters. Verificamos que estas operaciones sean simples, rápidas y sin errores, proporcionando una experiencia de usuario positiva y sin frustraciones.
+
+5. **Revisión de Bases de Diseño en la Página junto a los Esquemas Propuestos:** El diseño de la aplicación debe ser coherente y estéticamente agradable, siguiendo los esquemas propuestos. En esta revisión, examinamos la coherencia del diseño a través de todas las páginas, asegurándonos de que los elementos visuales sigan una misma línea gráfica. Esto incluye colores, tipografías, espaciados y la disposición de los elementos. También verificamos que el diseño no solo sea atractivo, sino también funcional y accesible para todos los usuarios.
+
+A través de este proceso de revisión, buscamos identificar áreas de mejora y optimización en la aplicación. Nuestro objetivo es garantizar que la aplicación no solo cumpla con los estándares de calidad esperados, sino que también proporcione una experiencia de usuario excepcional. Al abordar cada uno de estos aspectos críticos, nos aseguramos de que la aplicación sea intuitiva, eficiente y agradable de usar, promoviendo la satisfacción y fidelidad de los usuarios.
+
+**ESCALA DE SEVERIDAD:**
+
+Durante el proceso de inspección, se han identificado varios errores que afectan la experiencia del usuario. Estos errores se han clasificado y puntuado de acuerdo con la siguiente escala de severidad, que describe la gravedad de cada problema y la urgencia con la que debe ser abordado:
+
+|**Nivel**|**Descripción**|
+| :- | :- |
+|1|<p>**Problema Superficial**</p><p>**Descripción:** Este tipo de problema es menor y puede ser fácilmente superado o incluso ignorado por el usuario. Ocurre con muy poca frecuencia y no interfiere significativamente con la funcionalidad principal de la aplicación.</p><p>**Acciones:** No requiere una corrección inmediata en la mayoría de los casos, a menos que haya tiempo disponible para hacerlo. Se puede considerar para futuras actualizaciones si no hay otros problemas más graves que abordar.</p>|
+|2|<p>**Problema Menor**</p><p>**Descripción:** Este problema ocurre un poco más frecuentemente que los problemas superficiales y es ligeramente más difícil de superar para el usuario. Puede causar inconvenientes, pero no impide el uso de la aplicación.</p><p>**Acciones:** Debería asignarse una prioridad baja para su resolución. Es recomendable abordarlo antes de la siguiente entrega o actualización, asegurando que no se acumule con otros problemas menores.</p>|
+|3|<p>**Problema Mayor**</p><p>**Descripción:** Los problemas en este nivel ocurren con mayor frecuencia y los usuarios a menudo no son capaces de resolverlos por sí mismos. Estos errores afectan de manera significativa la experiencia del usuario y pueden llevar a la frustración o abandono del uso de la aplicación.</p><p>**Acciones:** Es crucial que estos problemas sean corregidos con alta prioridad. Se debe asignar los recursos necesarios para su resolución rápida, asegurando que sean abordados antes de la siguiente actualización importante.</p>|
+|4|<p>**Problema Muy Grave**</p><p>**Descripción:** Un error en este nivel tiene un gran impacto y puede impedir que el usuario continúe utilizando la herramienta. Estos problemas son críticos y pueden afectar la funcionalidad básica de la aplicación, haciéndola inutilizable.</p><p>**Acciones:** Es imperativo que estos errores sean corregidos inmediatamente. La resolución de estos problemas debe ser la máxima prioridad y debe realizarse antes del lanzamiento de la aplicación o de cualquier actualización crítica.</p>|
+
+Esta escala de severidad ayuda a priorizar los problemas encontrados durante la evaluación, garantizando que los errores más críticos sean abordados con la urgencia adecuada, mientras que los problemas menores pueden ser programados para ser resueltos en actualizaciones futuras. Utilizar esta clasificación permite una gestión eficiente de los recursos y asegura una mejora continua de la experiencia del usuario.
+
+**TABLA RESUMEN:**
+
+|#|Problema|<p>Escala de</p><p>severidad</p>|Heurística/Principio violada(o)|
+| :-: | :-: | :-: | :-: |
+|1|El botón "Recuperar contraseña" no funciona de forma adecuada o de forma esperada.|3|Usabilidad - Visibilidad del estado del sistema, Control y libertad del usuario, Prevención de errores|
+|2|Los símbolos de redes sociales en el footer de la landing page no funcionan ya que no tienen ningún enlace añadido|2|Usabilidad - Visibilidad del estado del sistema, Consistencia y estándares, Flexibilidad y eficiencia de uso|
+|3|Cuando una página no tiene contenido, el footer se posiciona demasiado arriba, comprimiendo el cuerpo de la página.|3|Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista|
+|4|La página está en inglés, pero hay secciones que tienen texto en español.|2|Usabilidad - Compatibilidad entre el sistema y el mundo real, Consistencia y estándares|
+|5|El botón "About Us" en la barra de navegación superior de la Landing Page no funciona correctamente y lleva a una página de error 404|3|Usabilidad - Control y libertad del usuario, Visibilidad del estado del sistema.|
+|6|En la sección de registro e inicio de sesión, hay botones que redirigen a una página /signup que no contiene ningún contenido|3|Usabilidad - Visibilidad del estado del sistema, Control y libertad del usuario, Consistencia y estándares.|
+|7|Los campos para agregar datos en las páginas de registro e inicio de sesión tienen los mismos nombres: "loginpage-name" y "loginpage-password".|2|Usabilidad - Consistencia y estándares|
+|8|En la página principal, hay una sección de texto que dice "Lorem ipsum dolor sit amet..." lo que indica un texto que no ha sido reemplazado por contenido real.|1|Usabilidad - Consistencia y Estándares; Compatibilidad entre el Sistema y el Mundo Real|
+|9|No hay un botón dedicado en la barra de navegación para ingresar o regresar a la página principal “Home”|3|Usabilidad - Navegación Intuitiva y Visibilidad del Estado del Sistema|
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1:** 
+
+**Severidad: 3**
+
+**Heurística violada:**  Usabilidad - Visibilidad del estado del sistema, Control y libertad del usuario, Prevención de errores
+
+**Problema:**
+
+El botón "Recuperar contraseña" no funciona, lo que impide a los usuarios recuperar el acceso a sus cuentas en caso de haber olvidado su contraseña de forma oportuna. Este es un problema crítico ya que afecta directamente la capacidad de los usuarios para acceder a la aplicación y continuar utilizando sus servicios.
+
+###### Figura 106.
+*Imagen de presentación del primer error indicado en la evaluación de heurísticas realizada por el grupo 4.*
+
+<img src="/assets/img/evaluacion-heuristicas-grupo4-1.png" alt="Primer error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+
+**Recomendación:**
+
+Para solucionar este problema, es crucial reorganizar el grupo de componentes establecidos y mejorar la estructura de relaciones de ruteo dentro de la aplicación. Algunas acciones recomendadas incluyen:
+
+1. **Visibilidad del Estado del Sistema:**
+- Asegurar que el botón "Recuperar contraseña" muestre algún tipo de retroalimentación cuando se hace clic, como un mensaje de "procesando" o "enviando solicitud", para que los usuarios sepan que su acción está siendo procesada.
+- Implementar mensajes de error claros y específicos si el proceso de recuperación de contraseña falla por algún motivo, indicando al usuario qué pasos debe seguir para solucionar el problema.
+2. **Control y Libertad del Usuario:**
+- Proporcionar alternativas de contacto o ayuda para los usuarios que no puedan recuperar su contraseña automáticamente, como un enlace a un formulario de soporte o un número de atención al cliente.
+- Asegurar que los usuarios tengan control sobre el proceso de recuperación de contraseña, pudiendo reintentarlo fácilmente si ocurre un error.
+3. **Prevención de Errores:**
+- Realizar pruebas exhaustivas para garantizar que el botón "Recuperar contraseña" y su funcionalidad asociada funcionen correctamente en todas las situaciones y navegadores.
+- Implementar validaciones necesarias y manejo de excepciones en el backend para manejar cualquier error que pueda ocurrir durante el proceso de recuperación de contraseña.
+4. **Feedback y Solución de Problemas:**
+- Monitorizar regularmente la funcionalidad del botón "Recuperar contraseña" para detectar cualquier fallo y solucionarlo rápidamente.
+- Incluir una sección de ayuda o preguntas frecuentes que aborde posibles problemas con la recuperación de contraseñas y cómo resolverlos.
+
+Implementando estas recomendaciones, se puede mejorar significativamente la experiencia del usuario en relación con la funcionalidad de recuperación de contraseñas, asegurando que los usuarios puedan acceder a sus cuentas de manera confiable y sin frustraciones.
+
+**PROBLEMA #2:** 
+
+**Severidad:** 2
+
+**Heurística violada:** Usabilidad - Visibilidad del estado del sistema, Consistencia y estándares, Flexibilidad y eficiencia de uso
+
+**Problema:**
+
+Los símbolos de redes sociales en el footer de la landing page no funcionan ya que no tienen ningún enlace añadido. Esto puede causar confusión y frustración en los usuarios, quienes pueden esperar que estos iconos los dirijan a las páginas correspondientes de las redes sociales de la empresa con el fin de obtener más información sobre la propia empresa. Asimismo, el footer carece de información, hasta el punto que un usuario no se podría dar cuenta que hay un footer en la Aplicación Web.
+
+###### Figura 107.
+*Imagen de presentación del segundo error indicado en la evaluación de heurísticas realizada por el grupo 4.*
+
+<img src="/assets/img/evaluacion-heuristicas-grupo4-2.png" alt="Segundo error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+
+**Recomendación:**
+
+Para abordar este problema y mejorar la experiencia del usuario, es esencial implementar enlaces funcionales en los iconos de redes sociales y asegurar que estos elementos interactivos cumplan con las expectativas de los usuarios. A continuación, se detallan los pasos recomendados para solucionar este problema:
+
+1. **Visibilidad del Estado del Sistema:**
+- Asegurarse de que los iconos de redes sociales proporcionen retroalimentación visual (como un cambio de color o un efecto de resalte) cuando el usuario pase el cursor sobre ellos, indicando que son interactivos y que pueden ser clicados.
+- Implementar enlaces funcionales que dirijan a los usuarios a las páginas oficiales de las redes sociales de la empresa. Estos enlaces deben abrirse en una nueva pestaña para que los usuarios no pierdan su lugar en la página principal.
+2. **Consistencia y Estándares:**
+- Verificar que los iconos de redes sociales sigan las convenciones y estándares de diseño comúnmente aceptados, asegurando que los usuarios reconozcan fácilmente su propósito y uso.
+- Mantener la consistencia en la funcionalidad de todos los elementos interactivos en el sitio web, incluyendo enlaces, botones y otros iconos.
+3. **Flexibilidad y Eficiencia de Uso:**
+- Facilitar el acceso rápido a las redes sociales de la empresa a través de los iconos en el footer, permitiendo a los usuarios seguir o interactuar con la empresa en diferentes plataformas sociales de manera eficiente.
+- Asegurar que los enlaces de redes sociales sean accesibles y funcionan correctamente en todos los dispositivos y navegadores.
+4. **Revisión y Pruebas:**
+- Realizar pruebas de usabilidad para asegurar que los iconos de redes sociales funcionen correctamente y que los enlaces redirigen a las páginas correctas.
+- Recoger retroalimentación de los usuarios para identificar cualquier problema con los enlaces de redes sociales y solucionarlo rápidamente.
+5. **Actualización y Mantenimiento:**
+- Establecer un procedimiento regular para verificar y actualizar los enlaces de redes sociales, asegurando que siempre se dirijan a las páginas actuales y correctas de la empresa.
+- Documentar el proceso de configuración de enlaces en los iconos de redes sociales para facilitar el mantenimiento futuro.
+
+Implementando estas recomendaciones, se puede mejorar significativamente la experiencia del usuario en la landing page, asegurando que los iconos de redes sociales sean funcionales y útiles, lo que también puede contribuir a una mayor interacción y engagement en las plataformas sociales de la empresa.
+
+**PROBLEMA #3:** 
+
+**Severidad:** 3
+
+**Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista
+
+**Problema:** Cuando una página no tiene contenido, el footer se posiciona demasiado arriba, comprimiendo el cuerpo de la página. Esto crea una sensación visual de incompletitud y puede causar confusión en los usuarios al ver la interfaz de la aplicación. Este problema es común en el diseño de páginas web y está relacionado tanto con la usabilidad como con la estética de la interfaz.
+
+###### Figura 108.
+*Imagen de presentación del tercer error indicado en la evaluación de heurísticas realizada por el grupo 4.*
+
+<img src="/assets/img/evaluacion-heuristicas-grupo4-3.1.png" alt="Primera imagen del tercer error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+
+<img src="/assets/img/evaluacion-heuristicas-grupo4-3.2.png" alt="Segunda imagen del tercer error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+
+**Recomendación:** Para abordar este problema de diseño y mejorar la experiencia del usuario, es importante asegurarse de que el footer se mantenga en la parte inferior de la ventana del navegador, independientemente de la cantidad de contenido en la página. A continuación, se detallan los pasos recomendados para solucionar este problema:
+
+1. **Flexibilidad y Eficiencia de Uso:**
+- Implementar una solución de "sticky footer" utilizando CSS, que garantiza que el footer siempre permanezca en la parte inferior de la página, incluso cuando el contenido es escaso.
+- Asegurarse de que el cuerpo de la página se expanda para ocupar todo el espacio disponible, proporcionando una sensación más completa y visualmente agradable.
+2. **Diseño Estético y Minimalista:**
+- Mantener una estructura de diseño que se adapte fluidamente a diferentes tamaños de pantalla y resoluciones, asegurando que la interfaz sea coherente y atractiva en todas las situaciones.
+- Utilizar el espacio en blanco de manera efectiva para crear una apariencia equilibrada y evitar que la página parezca comprimida o desorganizada.
+3. **Implementación Técnica:**
+- Buscar y añadir códigos en base de Bootstrap con referencia al modelo “sticky footer” en CSS, el cual asegura que el contenido principal (#content) ocupe todo el espacio disponible en la sección de body, consiguiendo que el footer permanezca en la parte inferior de la página.
+4. **Revisión y Pruebas:**
+- Probar la solución en diferentes navegadores y dispositivos para asegurarse de que el footer se comporte de manera consistente y adecuada.
+- Recoger retroalimentación de los usuarios para identificar cualquier problema persistente y realizar ajustes adicionales si es necesario.
+5. **Actualización y Mantenimiento:**
+- Establecer un proceso regular para revisar y actualizar el diseño de la página, asegurando que nuevas implementaciones no afecten negativamente la disposición del footer.
+- Documentar las soluciones aplicadas para facilitar futuras revisiones y mantenimientos del diseño.
+
+Implementando estas recomendaciones, se puede mejorar significativamente la apariencia y funcionalidad de la página web, garantizando que el footer siempre esté correctamente posicionado y que la interfaz sea visualmente coherente y agradable para los usuarios.
+
+**PROBLEMA #4:** 
+
+**Severidad:** 3
+
+**Heurística violada:** Usabilidad - Compatibilidad entre el sistema y el mundo real, Consistencia y estándares
+
+**Problema:** Las páginas de la Aplicación Web están en inglés, pero hay secciones que tienen texto en español, lo que causa una falta de consistencia en la interfaz de usuario. Esto puede llevar a confusión y una experiencia de usuario menos efectiva.
+
+###### Figura 109.
+*Imagen de presentación del cuarto error indicado en la evaluación de heurísticas realizada por el grupo 4.*
+
+<img src="/assets/img/evaluacion-heuristicas-grupo4-4.png" alt="Cuarto error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+
+**Recomendación:** Es fundamental mantener la coherencia en el idioma a lo largo de toda la interfaz para asegurar una experiencia de usuario fluida y profesional. A continuación, se detallan las acciones recomendadas para solucionar este problema:
+
+1. **Corrección de Inconsistencias:**
+- Traducir todo el contenido que esté en español al inglés para mantener la uniformidad en el idioma. Esto incluye mensajes, etiquetas, botones, y cualquier otro elemento textual de la interfaz.
+- Implementar un sistema de gestión de contenido que permita centralizar y controlar el idioma de todos los elementos de la interfaz, facilitando futuras traducciones y actualizaciones.
+2. **Implementación de Internacionalización (i18n):**
+- Si se planea soportar múltiples idiomas, implementar una solución de internacionalización que permita cambiar fácilmente el idioma de la interfaz. Esto puede incluir el uso de bibliotecas como i18next para aplicaciones basadas en JavaScript.
+- Asegurarse de que todas las cadenas de texto en la aplicación sean manejadas a través del sistema de internacionalización para evitar inconsistencias.
+3. **Mantenimiento y Actualización:**
+- Establecer un proceso regular para revisar y actualizar el contenido de la aplicación, asegurando que cualquier nuevo contenido añadido siga las normas de idioma establecidas.
+- Documentar las políticas de idioma y las guías de estilo para facilitar el trabajo de desarrolladores y diseñadores en futuras actualizaciones.
+
+Implementando estas recomendaciones, se puede asegurar que la interfaz de la aplicación sea consistente y profesional, mejorando así la experiencia del usuario. Estas acciones no solo resolverán el problema de inconsistencias de idioma, sino que también mejorarán la usabilidad general de la aplicación y fortalecerán la percepción de calidad y atención al detalle por parte de los usuarios.
+
+**PROBLEMA #5:** 
+
+**Severidad:** 3
+
+**Heurística violada:** Usabilidad - Control y libertad del usuario, Visibilidad del estado del sistema.
+
+**Problema:**
+
+El botón "About Us" en la barra de navegación superior de la Landing Page no funciona correctamente y lleva a una página de error 404. Esto crea una experiencia de usuario frustrante, ya que los usuarios no pueden acceder a la información esperada sobre la propia información de la empresa.
+
+###### Figura 110.
+*Imagen de presentación del quinto error indicado en la evaluación de heurísticas realizada por el grupo 4.*
+
+<img src="/assets/img/evaluacion-heuristicas-grupo4-5.png" alt="Quinto error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+
+**Recomendación:** Es crucial garantizar que todos los enlaces de navegación funcionen correctamente y dirijan a los usuarios a las páginas correspondientes. A continuación, se detallan las recomendaciones para solucionar este problema:
+
+1. **Crear la Página "About Us":** 
+- Desarrollar una página "About Us" que incluya información relevante sobre la empresa, como su misión, visión, historia, equipo y cualquier otra información que pueda ser de interés para los usuarios. 
+- Asegurarse de que el diseño y el contenido de la página sean coherentes con el resto del sitio web, proporcionando una experiencia de usuario fluida y profesional.
+2. **Actualizar el Enlace de Navegación:** 
+- Verificar y actualizar el enlace del botón "About Us" en la barra de navegación superior para que apunte a la URL correcta de la nueva página "About Us". 
+- Realizar pruebas para asegurarse de que el enlace funciona correctamente en diferentes dispositivos y navegadores.
+3. **Manejo de Errores 404:** 
+- Implementar una página de error 404 personalizada que dirija a los usuarios a la página principal o proporcione enlaces a otras secciones del sitio web. Esto mejorará la experiencia del usuario en caso de que encuentren un enlace roto en el futuro.
+- Monitorear regularmente el sitio web para detectar y corregir cualquier enlace roto que pueda surgir.
+
+Al seguir estas recomendaciones, se mejorará significativamente la usabilidad del sitio web, proporcionando una experiencia más coherente y profesional para los usuarios. Asimismo, mejorará la propia transparencia de la empresa.
+
+**PROBLEMA #6:**
+
+**Severidad:** 3
+
+**Heurística violada:** Usabilidad - Visibilidad del estado del sistema, Control y libertad del usuario, Consistencia y estándares.
+
+**Problema:** En la sección de registro e inicio de sesión, hay botones que redirigen a una página /signup que no contiene ningún contenido, resultando en un error 404. Esto puede confundir a los usuarios y causar frustración al intentar registrarse o iniciar sesión en la aplicación.
+
+###### Figura 111.
+*Imagen de presentación del sexto error indicado en la evaluación de heurísticas realizada por el grupo 4.*
+
+<img src="/assets/img/evaluacion-heuristicas-grupo4-6.1.png" alt="Primera imagen del sexto error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+
+<img src="/assets/img/evaluacion-heuristicas-grupo4-6.2.png" alt="Segunda imagen del sexto error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+
+**Recomendación:** Para resolver este problema y mejorar la experiencia del usuario, se deben tomar las siguientes medidas para garantizar la completa resolución:
+
+1. **Verificar y Actualizar Enlaces de Botones:**
+- Revisar todos los botones en la sección de registro e inicio de sesión para asegurar que redirigen a la URL correcta, que es /sign-up.
+- Actualizar los botones que actualmente apuntan a /signup para que redirija a /sign-up la cual es funcional y adecuada para el registro de usuarios.
+2. **Eliminar o Redirigir la URL /signup:**
+- Si la página /signup no está en uso y no se planea utilizarla en el futuro, eliminarla para evitar cualquier confusión.
+- Alternativamente, configurar una redirección desde /signup a /sign-up para capturar cualquier intento de acceso a la URL incorrecta y dirigirlo a la página funcional de registro.
+3. **Pruebas Exhaustivas:**
+- Realizar pruebas exhaustivas en la sección de registro e inicio de sesión para asegurarse de que todos los enlaces y botones funcionan correctamente.
+- Probar el flujo de registro e inicio de sesión en diferentes dispositivos y navegadores para garantizar una experiencia de usuario consistente y sin errores.
+4. **Mejora de la Experiencia del Usuario:**
+- Incluir una guía paso a paso en la página de registro e inicio de sesión para ayudar a los usuarios a completar el proceso sin problemas. Esto podría incluir mensajes emergentes o consejos que expliquen qué hacer en caso de problemas.
+
+Al implementar estas recomendaciones, se garantizará que los usuarios puedan registrarse e iniciar sesión sin problemas, mejorando la usabilidad y la experiencia general de la aplicación. Un enfoque proactivo y continuo en la optimización de la interfaz y la experiencia del usuario contribuirá significativamente al éxito y la aceptación de la aplicación en el mercado.
+
+**PROBLEMA #7:**
+
+**Severidad:** 2
+
+**Heurística violada:** Usabilidad - Consistencia y estándares
+
+**Problema:** Los campos para agregar datos en las páginas de registro e inicio de sesión tienen los mismos nombres: "loginpage-name" y "loginpage-password". Esto puede ser confuso para el usuario final, ya que al utilizar los mismos nombres en ambas páginas, se puede confundir el registro con el inicio de sesión, dificultando la distinción entre ambos procesos. Asimismo, el diseño de nombres parece bastante brusco para el usuario final, al contener palabras de más que no debería encontrarse ahí. Hay que recordar que nuestros clientes no son necesariamente personas con conocimientos técnicos.
+
+###### Figura 112.
+*Imagen de presentación del séptimo error indicado en la evaluación de heurísticas realizada por el grupo 4.*
+
+<img src="/assets/img/evaluacion-heuristicas-grupo4-7.1.png" alt="Primera imagen del séptimo error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+
+<img src="/assets/img/evaluacion-heuristicas-grupo4-7.2.png" alt="Segunda imagen del séptimo error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+
+**Recomendación:** Para resolver este problema y mejorar la claridad y la experiencia del usuario, se deben tomar las siguientes medidas:
+
+1. **Renombrar Campos de Entrada:**
+- Renombrar los campos de entrada en la página de registro para diferenciarlos claramente de los campos de inicio de sesión. Por ejemplo, utilizar "register-name" y "register-password" para la página de registro, y mantener "loginpage-name" y "loginpage-password" para la página de inicio de sesión.
+- Asegurarse de que los nuevos nombres de los campos sean intuitivos y reflejen claramente su propósito.
+2. **Actualizar Etiquetas y Placeholder:**
+- Actualizar las etiquetas y los textos placeholder de los campos de entrada para proporcionar una orientación clara a los usuarios. Por ejemplo, en la página de registro, utilizar etiquetas como "Nombre de usuario para registro" y "Contraseña para registro".
+- En la página de inicio de sesión, mantener etiquetas claras como "Nombre de usuario" y "Contraseña".
+3. **Diseño Visual y Mensajes Informativos:**
+- Utilizar diferencias visuales en el diseño de las páginas de registro e inicio de sesión para ayudar a los usuarios a distinguir entre los dos procesos. Esto podría incluir diferentes colores de fondo, íconos distintivos o encabezados claros.
+- Incluir mensajes informativos en ambas páginas para aclarar el propósito de cada una. Por ejemplo, en la página de registro, un mensaje como "Crea tu cuenta" y en la página de inicio de sesión, "Inicia sesión en tu cuenta".
+4. **Mejorar la Navegación y Mensajes de Error:**
+- Asegurarse de que la navegación entre las páginas de registro e inicio de sesión sea intuitiva. Por ejemplo, proporcionar enlaces claros como "¿No tienes una cuenta? Regístrate aquí" en la página de inicio de sesión, y "¿Ya tienes una cuenta? Inicia sesión aquí" en la página de registro.
+- Implementar mensajes de error específicos y amigables que guíen al usuario en caso de que ingresen datos incorrectos o incompletos. Esto incluye mensajes diferenciados para los campos de registro e inicio de sesión.
+5. **Documentación y Guías de Uso:**
+- Crear documentación clara y guías de uso para los usuarios, explicando cómo registrarse y cómo iniciar sesión. Esto podría incluir tutoriales en video, guías paso a paso y preguntas frecuentes (FAQs).
+- Asegurarse de que estas guías sean fácilmente accesibles desde las páginas de registro e inicio de sesión.
+
+Al implementar estas recomendaciones, se mejorará significativamente la claridad y la usabilidad de los formularios de registro e inicio de sesión, reduciendo la confusión y mejorando la experiencia general del usuario. Un enfoque coherente y claro en el diseño de estos formularios es esencial para asegurar que los usuarios puedan interactuar con la aplicación de manera efectiva y sin dificultades.
+
+**PROBLEMA #8:**
+
+**Severidad: 1**
+
+**Heurística violada:** Usabilidad - Consistencia y Estándares; Compatibilidad entre el Sistema y el Mundo Real.
+
+**Problema:**
+
+En la página principal, hay una sección de texto que dice lo siguiente: "Get started today! Join our discord server and start your journey today! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus et felis. Powered by Discord". La inclusión de "Lorem ipsum dolor sit amet..." indica un texto de marcador de posición que no ha sido reemplazado por contenido real y relevante. Esto puede causar confusión y desconfianza en los usuarios, haciendo que la aplicación parezca no profesional. Asimismo, el botón “Join Now” no funciona de forma correcta o adecuada al enviar al usuario a una página con error 404.
+
+###### Figura 113.
+*Imagen de presentación del octavo error indicado en la evaluación de heurísticas realizada por el grupo 4.*
+
+<img src="/assets/img/evaluacion-heuristicas-grupo4-8.png" alt="Octavo error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+
+**Recomendación:**
+Para abordar este problema y mejorar la coherencia y profesionalismo de la página, se recomienda lo siguiente:
+
+1. **Reemplazar el Texto de Marcador de Posición**: 
+- Sustituir el texto "Lorem ipsum dolor sit amet..." por contenido real y significativo que explique claramente los beneficios y el propósito de unirse al servidor de Discord.
+2. **Mejorar la Descripción de la Acción**: 
+- Asegurarse de que la descripción sea motivadora y relevante, destacando cómo unirse al servidor de Discord puede beneficiar al usuario. Por ejemplo, "Únete a nuestra comunidad en Discord para obtener soporte en tiempo real, actualizaciones exclusivas y para conectar con otros usuarios como tú."
+3. **Consistencia y Relevancia**:
+- Mantener un tono y estilo consistente con el resto del contenido de la página. Asegurar que la información proporcionada sea relevante y útil para el usuario, evitando cualquier texto genérico o irrelevante.
+
+Al implementar estas recomendaciones, se mejorará significativamente la usabilidad y la percepción profesional de la aplicación, asegurando que los usuarios comprendan claramente la propuesta de valor y se sientan motivados a interactuar con el contenido ofrecido.
+
+**PROBLEMA #9:** 
+
+**Severidad: 3**
+
+**Heurística violada:** Usabilidad -** Navegación Intuitiva y Visibilidad del Estado del Sistema.
+
+**Problema:**
+Una vez que el usuario sale de la página principal ("Home") para revisar otras páginas de la aplicación, es imposible volver de nuevo a la página de inicio debido a que no hay un botón dedicado en la barra de navegación. Aunque los usuarios pueden usar los botones de retroceso del navegador o cambiar manualmente la URL, estas soluciones no son intuitivas y pueden resultar poco profesionales, especialmente para usuarios no técnicos.
+
+###### Figura 114.
+*Imagen de presentación del noveno error indicado en la evaluación de heurísticas realizada por el grupo 4.*
+
+<img src="/assets/img/evaluacion-heuristicas-grupo4-9.png" alt="Noveno error de la evaluación de heurísticas realizada por el grupo 4." width="550" height="300">
+
+**Recomendación:**
+Para mejorar la usabilidad y la experiencia del usuario, se recomienda añadir un botón de "Home" o similar en la barra de navegación. Esto asegurará una navegación más fluida e intuitiva, facilitando el regreso a la página principal de manera rápida y eficiente.
+
+1. **Añadir un Botón de "Home" en la Barra de Navegación**: 
+- Incluir un botón claramente etiquetado como "Home" o un ícono de casa en la barra de navegación. Este botón debe estar presente en todas las páginas de la aplicación, permitiendo a los usuarios volver a la página principal con un solo clic.
+2. **Ubicación Consistente**: 
+- Colocar el botón de "Home" en una posición visible y consistente, preferiblemente al principio de la barra de navegación, ya que los usuarios tienden a buscar la navegación principal en esta área.
+3. **Probar la Funcionalidad**: 
+- Asegurarse de que el botón de "Home" funcione correctamente en todas las páginas, redirigiendo a los usuarios de vuelta a la página principal sin errores.
+
+Implementar estas recomendaciones mejorará significativamente la experiencia del usuario, proporcionando una navegación más intuitiva y accesible, lo cual es esencial para la satisfacción y retención del usuario.
+
+---
+
+
+
+
 ## 5.4. Video About-the-Product. 
 
 En esta sección, nosotros presentamos y detallamos el contenido del Video "Acerca del Producto", el cual está dirigido tanto a nuestros visitantes del Landing Page como a nuestros usuarios de las Aplicaciones. Nuestro objetivo con este video es brindar información detallada sobre nuestro modelo de negocio y las características principales de nuestros productos de software. Para asegurar una comunicación efectiva, nos esforzamos por mantener un tono que refleje la imagen y la atmósfera general que hemos creado para nuestro producto.

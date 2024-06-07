@@ -1956,7 +1956,7 @@ Implementar estas recomendaciones mejorará significativamente la experiencia de
 ###### Figura 115.
 *Imagen de presentación del primer error indicado en la evaluación de heurísticas realizada por el grupo 1.*
 
-<img src="/assets/img/evaluacion-heuristicas-grupo1-1.1.png" alt="Primer imagen del primer error de la evaluación de heurísticas realizada por el grupo 1." width="550" height="250">
+<img src="/assets/img/evaluacion-heuristicas-grupo1-1.1.png" alt="Primer imagen del primer error de la evaluación de heurísticas realizada por el grupo 1." width="550" height="100">
 
 <img src="/assets/img/evaluacion-heuristicas-grupo1-1.2.png" alt="Segunda imagen del primer error de la evaluación de heurísticas realizada por el grupo 1." width="550" height="250">
 

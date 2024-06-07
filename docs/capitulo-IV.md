@@ -391,31 +391,31 @@ Asimismo, nos hemos propuesto seguir un modelo de páginas estructuradas que fac
 
 ###### Figura 35.
 *Modelo de Wireframe del Inicio de Sesión en la Aplicación Web de Propertunity.*
-<img src="/assets/img/Wireframe-InicioDeSesión.png" alt="Wireframe de Inicio de Sesión de la aplicación web">
+<img src="/assets/img/Wireframe-InicioDeSesión-V2.png" alt="Wireframe de Inicio de Sesión de la aplicación web">
 
 ###### Figura 36.
 *Modelo de Wireframe del Registro de Cuentas en la Aplicación Web de Propertunity.*
-<img src="/assets/img/Wireframe-Registro.png" alt="Wireframe de Registro o Creación de cuentas de la aplicación web">
+<img src="/assets/img/Wireframe-Registro-V2.png" alt="Wireframe de Registro o Creación de cuentas de la aplicación web">
 
 ###### Figura 37.
 *Modelo de Wireframe de la Página de Inicio en la Aplicación Web de Propertunity.*
-<img src="/assets/img/Wireframe-Inicio.png" alt="Wireframe de Inicio o 'Home' de la aplicación web">
+<img src="/assets/img/Wireframe-Inicio-V2.png" alt="Wireframe de Inicio o 'Home' de la aplicación web">
 
 ###### Figura 38.
 *Modelo de Wireframe de la Página de Perfil n en la Aplicación Web de Propertunity.*
-<img src="/assets/img/Wireframe-Perfil.png" alt="Wireframe de Perfil de la aplicación web">
+<img src="/assets/img/Wireframe-Perfil-V2.png" alt="Wireframe de Perfil de la aplicación web">
 
 ###### Figura 39.
 *Modelo de Wireframe de la Sección de Búsqueda en la Aplicación Web de Propertunity.*
-<img src="/assets/img/Wireframe-Búsqueda.png" alt="Wireframe de Búsqueda de la aplicación web">
+<img src="/assets/img/Wireframe-Búsqueda-V2.png" alt="Wireframe de Búsqueda de la aplicación web">
 
 ###### Figura 39.
 *Modelo de Wireframe de la Página de Publicación de Propiedades en la Aplicación Web de Propertunity.*
-<img src="/assets/img/Wireframe-Publicación.png" alt="Wireframe de Publicación de la aplicación web">
+<img src="/assets/img/Wireframe-Publicación-V2.png" alt="Wireframe de Publicación de la aplicación web">
 
 ###### Figura 40.
 *Modelo de Wireframe de la Página de Evaluación Crediticia en la Aplicación Web de Propertunity.*
-<img src="/assets/img/Wireframe-Evaluación.png" alt="Wireframe de Evaluación de la aplicación web">
+<img src="/assets/img/Wireframe-Evaluación-V2.png" alt="Wireframe de Evaluación de la aplicación web">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -453,31 +453,31 @@ Destacan también las secciones dedicadas a las publicaciones de todas las inmob
 
 ###### Figura 43.
 *Modelo de Mock-Up del Inicio de Sesión en la Aplicación Web de Propertunity.*
-<img src="/assets/img/Mockup-InicioDeSesión.png" alt="Wireframe de Inicio de Sesión de la aplicación web">
+<img src="/assets/img/Mockup-InicioDeSesión-V2.png" alt="Wireframe de Inicio de Sesión de la aplicación web">
 
 ###### Figura 44.
 *Modelo de Mock-Up del Registro de Cuentas en la Aplicación Web de Propertunity.*
-<img src="/assets/img/Mockup-Registro.png" alt="Mockup correspondiente al Registro o Creación de cuentas de la aplicación web">
+<img src="/assets/img/Mockup-Registro-V2.png" alt="Mockup correspondiente al Registro o Creación de cuentas de la aplicación web">
 
 ###### Figura 45.
 *Modelo de Mock-Up de la Página de Inicio en la Aplicación Web de Propertunity.*
-<img src="/assets/img/Mockup-Inicio.png" alt="Mockup correspondiente al Inicio o 'Home' de la aplicación web">
+<img src="/assets/img/Mockup-Inicio-V2.png" alt="Mockup correspondiente al Inicio o 'Home' de la aplicación web">
 
 ###### Figura 46.
 *Modelo de Mock-Up de la Página de Perfil n en la Aplicación Web de Propertunity.*
-<img src="/assets/img/Mockup-Perfil.png" alt="Mockup correspondiente al Perfil de la aplicación web">
+<img src="/assets/img/Mockup-Perfil-V2.png" alt="Mockup correspondiente al Perfil de la aplicación web">
 
 ###### Figura 47.
 *Modelo de Mock-Up de la Sección de Búsqueda en la Aplicación Web de Propertunity.*
-<img src="/assets/img/Mockup-Búsqueda.png" alt="Mockup correspondiente al Búsqueda de la aplicación web">
+<img src="/assets/img/Mockup-Búsqueda-V2.png" alt="Mockup correspondiente al Búsqueda de la aplicación web">
 
 ###### Figura 48.
 *Modelo de Mock-Up de la Página de Publicación de Propiedades en la Aplicación Web de Propertunity.*
-<img src="/assets/img/Mockup-Publicación.png" alt="Mockup correspondiente al Publicación de la aplicación web">
+<img src="/assets/img/Mockup-Publicación-V2.png" alt="Mockup correspondiente al Publicación de la aplicación web">
 
 ###### Figura 49.
 *Modelo de Mock-Up de la Página de Evaluación Crediticia en la Aplicación Web de Propertunity.*
-<img src="/assets/img/Mockup-Evaluación.png" alt="Mockup correspondiente al Evaluación de la aplicación web">
+<img src="/assets/img/Mockup-Evaluación-V2.png" alt="Mockup correspondiente al Evaluación de la aplicación web">
 
 ### 4.4.4. Web Applications User Flow Diagrams
 

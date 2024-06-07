@@ -435,11 +435,11 @@ A continuación, proporcionamos una descripción detallada de los pasos necesari
 
 A continuación, detallaremos el enfoque que seguiremos para llevar a cabo la implementación, pruebas y lanzamiento de nuestro Landing Page, así como también de los servicios web y la interfaz de usuario de la aplicación web en cada ciclo de desarrollo.
 
-### 5.2.1 Sprint 1
+### 5.2.1 Sprint 1.
 
 En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint número 1. Todo el avance descriptivo se muestra aquí junto a su desarrollo, historial y avance en conjunto dado por cada intengrante del equipo de trabajo. Todas las especificaciones siguen desde el Product Backlog del Capitulo 3 de requerimientos.
 
-### 5.2.1.1 Sprint Planning 1
+#### 5.2.1.1 Sprint Planning 1.
 
 En esta sección se explicaran los detalles presentados y analizados durante la reunión del Sprint Planning para el número 1. El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión.
 
@@ -498,7 +498,7 @@ En esta sección se explicaran los detalles presentados y analizados durante la 
         </tr>
     </table>
 
-### 5.2.1.2 Sprint Backlog 1
+#### 5.2.1.2 Sprint Backlog 1.
 
 En esta sección se revisara todo el proceso dado para el Sprint Backlog número 1, en el cual nuestro equipo de trabajo se centró principalmente en el diseño y esquematización de la Landing Page de nuestra Startup y Producto de Software. Hemos separado toda la construcción de la Landing Page en seis (6) historias de usuario, donde cada integrante del grupo hizo al menos una. Gracias a este proceso, para el final del Sprint Backlog 1, hemos conseguido crear una página web estatica para nuestra Landing Page.
 
@@ -591,7 +591,7 @@ Con el fin de que la lista de tareas en el sprint pueda ser visualizada a más p
 *Presentación de la tabla de actividades designada para el Sprint 1 en ClickUp.*
 <img src="/assets/img/Lista de Tareas-Sprint1.png" alt="Lista de Tareas del Sprint 1 En ClickUp">
 
-### 5.2.1.3 Development Evidence for Sprint Review.
+#### 5.2.1.3 Development Evidence for Sprint Review.
 
 En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page. Aquí se dejara cada uno de los commits ya implementados dentro del repositorio de Github, junto a toda la información referente y a los cambios concluidos.
 
@@ -614,7 +614,7 @@ En esta sección se explica y presenta los avances en implementación con relaci
 | upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): update index.html footer - Lucio - index.html - 5 | 0e06c00 | feat(develop): update index.html footer | En esta sección se realizo el footer de la landing page con todos los datos correspondientes. | 11/04/24 |
 | upc-pre-202401--si730-WS52-SmarTech-landingPage | feat(develop): update styles.css footer - Lucio - styles.css - 6 | a29d3fa | feat(develop): update styles.css footer | En esta sección se actualizo el style.css para el footer de la Landing Page ya implementada | 11/04/24 |
 
-### 5.2.1.4 Testing Suite Evidence for Sprint Review. 
+#### 5.2.1.4 Testing Suite Evidence for Sprint Review. 
 
 En esta sección presentaremos la evidencia detallada de las pruebas rigurosas realizadas durante el sprint. Para garantizar la calidad y funcionalidad del producto, hemos empleado la metodología Gherkin para definir escenarios de prueba claros y concisos. Cada uno de estos escenarios se ha registrado meticulosamente en commits específicos en nuestro repositorio de código, lo que proporciona un registro completo y transparente de nuestro proceso de prueba.
 
@@ -658,7 +658,7 @@ Dentro del Sprint 1, el equipo logró un avance significativo al implementar las
 
 En esta sección, presentamos la relación de Endpoints documentados con OpenAPI, que están directamente vinculados con el alcance del Sprint 1, los cuales integraran datos sencillos y completos para la elaboración de funcionalidades. Sin embargo, drante el Sprint 1, nuestro principal objetivo fue la creación del Landing Page, sin la implementación de servicios adicionales. Por lo tanto, este apartado permanecerá vacío en nuestro reporte, ya que nuestra atención se centró exclusivamente en el diseño y desarrollo del Landing Page
 
-### 5.2.1.7 Software Deployment Evidence for Sprint Review.
+#### 5.2.1.7 Software Deployment Evidence for Sprint Review.
 
 Dentro del Sprint 1, realizamos el despliegue de nuestra Landing Page en GitHub Pages como parte fundamental de nuestra estrategia de lanzamiento. A continuación, detallamos meticulosamente los pasos llevados a cabo para lograr este despliegue con éxito:
 
@@ -684,20 +684,17 @@ Dentro del Sprint 1, realizamos el despliegue de nuestra Landing Page en GitHub 
 
 5. Una vez seleccionada la rama "main", se generará un enlace para acceder al Landing Page desplegado, ofreciendo a los usuarios un acceso inmediato al contenido. Cualquier cambio en el branch "main" se actualizará automáticamente en el Landing Page, asegurando que siempre refleje las últimas modificaciones del código fuente."
 
-
 ###### Figura 74
 *Imagen de evidencia sobre la obtención del enlace de ingreso a la Landing Page de Propertunity.*
 <img src="/assets/img/github-link.png" alt="github link">
 
 6. Una vez completados los pasos anteriores, el Landing Page estará desplegado y listo para ser visualizado y utilizado. Los usuarios podrán acceder al enlace generado y explorar el contenido de nuestra página web. Es importante realizar pruebas adicionales después del despliegue para asegurarse de que la página web se vea y funcione correctamente en diferentes dispositivos y navegadores. Esto garantizará una experiencia de usuario óptima para todos los visitantes de nuestro sitio.
 
-
-
 ###### Figura 75
 *Imagen de evidencia sobre la Landing Page de Propertunity ya desplegada.*
 <img src="/assets/img/landing_deployed.png" alt="Landing deployed">
 
-### 5.2.1.8 Team Collaboration Insights during Sprint.
+#### 5.2.1.8 Team Collaboration Insights during Sprint.
 
 Durante el Sprint 1, nos enfocamos en el desarrollo colaborativo del Landing Page, donde cada miembro del equipo contribuyó con sus habilidades y conocimientos. Esta colaboración se refleja en los numerosos commits realizados en nuestro repositorio de código, los cuales están respaldados por capturas de pantalla adjuntas para una documentación detallada.
 
@@ -723,11 +720,11 @@ Además, programamos sesiones regulares de brainstorming y resolución de proble
 
 ---
 
-### 5.2.2 Sprint 2
+### 5.2.2 Sprint 2.
 
 En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint número 2. Todo el avance descriptivo se muestra aquí junto a su desarrollo, historial y avance en conjunto dado por cada intengrante del equipo de trabajo. Todas las especificaciones siguen desde el Product Backlog del Capitulo 3 de requerimientos.
 
-### 5.2.2.1 Sprint Planning 2
+#### 5.2.2.1 Sprint Planning 2.
 
 En esta sección se explicaran los detalles presentados y analizados durante la reunión del Sprint Planning para el número 2. El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión.
 
@@ -763,11 +760,11 @@ En esta sección se explicaran los detalles presentados y analizados durante la 
         </tr>
             <tr>
             <td>Sprint 2 - 2 Review Summary</td>
-            <td>Después de un realizar todos los procedimientos establecidos para la identificación de objetivos y áreas de retroalimentación, hemos podido concluir la reunión del sprint 2 con éxito en términos de avance en los productos de software y en la colaboración general del equipo. El proceso de mejora con la retroalimentación y la programación de varias secciones nuevas en la Aplicación Web significó un gran proceso de mejora para la construcción y realización del sprint, además de reforzar el compromiso de nuestro equipo y la mejora exponencial de las actividades indicadas.</td>
+            <td>Después de un realizar todos los procedimientos establecidos para la identificación de objetivos y áreas de retroalimentación, hemos podido concluir la reunión del sprint 2 con éxito en términos de avance en los productos de software y en la colaboración general del equipo. El proceso de mejora con la retroalimentación y la programación de varias secciones nuevas en la Aplicación Web significó un gran proceso de mejora para la construcción y realización del sprint, además de reforzar el compromiso de nuestro equipo y la mejora exponencial de las actividades indicadas.</td> 
         </tr>
             <tr>
             <td>Sprint 2 – 2 Retrospective Summary</td>
-            <td>Para el proceso de la retrospectiva del Sprint 2, fue necesario que nuestro equipo revisara a detalle toda la retroalimentación recibida ante el primer sprint realizado, para luego generar un análisis a profundidad del desempeño general e individual de todos los miembros del equipo de trabjo. Después de ese proceso, pudimos identificar varias áreas de mejora en las cuales centrarnos para así poder garantizar la entrega de un mejor trabajo y un buen producto para todos nuestros clientes, promoviendo la mejora continua y optimizando los métodos de trabajo en los próximos sprints durante el ciclo de vida del proyecto.</td>
+            <td>Para el proceso de la retrospectiva del Sprint 2, fue necesario que nuestro equipo revisara a detalle toda la retroalimentación recibida ante el primer sprint realizado, para luego generar un análisis a profundidad del desempeño general e individual de todos los miembros del equipo de trabjo. Después de ese proceso, pudimos identificar varias áreas de mejora en las cuales centrarnos para así poder garantizar la entrega de un mejor trabajo y un buen producto para todos nuestros clientes, promoviendo la mejora continua y optimizando los métodos de trabajo en los próximos sprints durante el ciclo de vida del proyecto. Para el caso de este sprint, hemos planteado la mejora en la esquematización del reporte junto a sus diagramas, además de una mejora general en todo el diseño de la Landing Page.</td>
         </tr>
             <tr>
             <td colspan="2">Sprint Goal & User Stories</td>
@@ -777,18 +774,18 @@ En esta sección se explicaran los detalles presentados y analizados durante la 
             <td>Alcanzar una métrica de cumplimiento del 100%, lo que indicará que se ha logrado todos los objetivos del sprint 2 con todas las historias de usuario y otros materiales necesarios.</td>
         </tr>
               <tr>
-            <td>Sprint 1 Velocity</td>
-            <td>Con el equipo para este sprint 2 decidimos aceptar 8 Story Points</td>
+            <td>Sprint 2 Velocity</td>
+            <td>Con el equipo para este sprint 2 decidimos aceptar 15 Story Points</td>
         </tr>
               <tr>
             <td>Sum of Story Points</td>
-            <td>La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 2 es ##</td>
+            <td>La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 2 es 71</td>
         </tr>
     </table>
 
-### 5.2.2.2 Sprint Backlog 2
+#### 5.2.2.2 Sprint Backlog 2.
 
-En esta sección se revisara todo el proceso dado para el Sprint Backlog número 1, en el cual nuestro equipo de trabajo se centró principalmente en el diseño y esquematización de la Landing Page de nuestra Startup y Producto de Software. Hemos separado toda la construcción de la Landing Page en seis (6) historias de usuario, donde cada integrante del grupo hizo al menos una. Gracias a este proceso, para el final del Sprint Backlog 1, hemos conseguido crear una página web estatica para nuestra Landing Page.
+En esta sección se revisara todo el proceso dado para el Sprint Backlog número 2, en el cual nuestro equipo de trabajo se centró principalmente en el diseño y esquematización de la aplicación web de nuestra Startup y Producto de Software, junto a la preparación de ciertas caracteristicas correspondientes a la interfaz y a los modelos de navegación y componentes. Hemos separado toda la construcción del FrontEnd en un total de quince (15) historias de usuario, donde cada integrante del grupo hizo al menos dos. Gracias a este proceso, para el final del Sprint Backlog 2, hemos conseguido tener un modelo de FrontEnd estable, accesible y manipulable para toda nuestra aplicación web.
 
 ###### Tabla 24
 *Tabla principal del planeamiento del Sprint Backlog 2*
@@ -969,7 +966,7 @@ Con el fin de que la lista de tareas en el sprint pueda ser visualizada a más p
 *Presentación de la tabla de actividades designada para el Sprint 2 en ClickUp.*
 <img src="/assets/img/Lista de Tareas-Sprint2.png" alt="Lista de Tareas del Sprint 2 En ClickUp">
 
-### 5.2.2.3 Development Evidence for Sprint Review.
+#### 5.2.2.3 Development Evidence for Sprint Review.
 
 En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Web Application. Aquí se dejara cada uno de los commits ya implementados dentro del repositorio de Github, junto a toda la información referente y a los cambios concluidos.
 
@@ -1002,7 +999,7 @@ En esta sección se explica y presenta los avances en implementación con relaci
 |upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|46bde63|feat: update login, register and recovery|Se actualizan los componentes login, rgister y recovery password.| 01/05/24|
 |upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|80aca75|feat: added home icon & fixed Toolbar|Se añaden home icon and fixed toolbar.| 01/05/24|
 
-### 5.2.2.4 Testing Suite Evidence for Sprint Review. 
+#### 5.2.2.4 Testing Suite Evidence for Sprint Review. 
 
 En esta sección presentaremos la evidencia detallada de las pruebas rigurosas realizadas durante el sprint. Para garantizar la calidad y funcionalidad del producto, hemos empleado la metodología Gherkin para definir escenarios de prueba claros y concisos. Cada uno de estos escenarios se ha registrado meticulosamente en commits específicos en nuestro repositorio de código, lo que proporciona un registro completo y transparente de nuestro proceso de prueba.
 
@@ -1012,7 +1009,7 @@ En esta sección presentaremos la evidencia detallada de las pruebas rigurosas r
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
 | upc-pre-202401--si730-WS52-SmarTech-AcceptanceTests | feat(.features): added More User Stories - Ruben - 1 | ff860b5 | feat(.features): added More User Stories | En esta sección se implementaron todos los Acceptance Test para el Sprint 2 de Propertunity | 30/04/24 |
 
-### 5.2.2.5 Execution Evidence for Sprint Review. 
+#### 5.2.2.5 Execution Evidence for Sprint Review. 
 
 El equipo ha logrado implementar las características clave de las principales funcionalidades de la Aplicación Web de Propertunity. Todas las historias de usuario asignadas para este sprint fueron completadas exitosamente. En primer lugar, se ha implementado la funcionalidad de registro e inicio de sesión dentro de la aplicación web, lo que permite a los usuarios acceder de manera segura y gestionar sus cuentas de manera eficiente. Además, se ha integrado una sección central o página principal donde los usuarios pueden ingresar directamente después de iniciar sesión, lo que facilita su navegación dentro de la aplicación.
 
@@ -1056,7 +1053,7 @@ Finalmente, se han agregado características matemáticas importantes al impleme
 
 Además de la implementación de estas características y funcionalidades, el equipo se esforzó por proporcionar una explicación clara y detallada del progreso alcanzado durante el sprint. Se creó un vídeo de presentación y descripción que destaca cómo se lograron los objetivos del sprint 2, y se agregaron todas las descripciones necesarias con respecto a los commits y branches implementados y programados. El enlace del vídeo, publicado en Microsoft Stream, es el siguiente: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213143_upc_edu_pe/EYKIF86681tEte9exDH-K84BVgVd06QTBzh_aZq84w0jJw?e=4bQwpp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
 
-### 5.2.2.6 Services Documentation Evidence for Sprint Review. 
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review. 
 
 En esta sección, presentamos la relación de Endpoints documentados con OpenAPI, que están directamente vinculados con el alcance del Sprint. Iniciamos con una breve introducción que resume los logros alcanzados en relación con la Documentación de Web Services durante este período de desarrollo. A continuación, proporcionamos una tabla detallada que enumera cada Endpoint, junto con las acciones implementadas y los enlaces correspondientes a la documentación desplegada o la URL local en Sprints anteriores al despliegue de Web Services.
 
@@ -1090,7 +1087,7 @@ En la tabla, se indican las acciones soportadas para cada Endpoint, incluyendo e
 *Muestra con evidencia de la sección de perfil de propiedades de la aplicación web*
 
 ###### Tabla 29
-*Tabla del modelo de escritura para el EndPoinrt del DBJson con respecto a la base de las areas comunes.*
+*Tabla del modelo de escritura para el EndPoint del DBJson con respecto a la base de las areas comunes.*
 | Método | Descripción                                | Ejemplo de llamada       | Parámetros                            | Respuesta                                                                                                                      |
 |--------|--------------------------------------------|---------------------------|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | GET    | Obtener todas las áreas comunes           | GET /areas_comunes        | Ninguno                               | Lista de todas las áreas comunes disponibles en formato JSON, con detalles como título, descripción, tipo, etc.             |
@@ -1099,11 +1096,11 @@ En la tabla, se indican las acciones soportadas para cada Endpoint, incluyendo e
 | PUT    | Actualizar una área común existente      | PUT /areas_comunes/{id}   | id (int), Datos actualizados de la área común en formato JSON en el cuerpo de la solicitud, como título, descripción, etc. | Mensaje de éxito o error en formato JSON.                                                                                     |
 | DELETE | Eliminar una área común existente        | DELETE /areas_comunes/{id}| id (int)                             | Mensaje de éxito o error en formato JSON.                                                                                     |
 
-### 5.2.2.7 Software Deployment Evidence for Sprint Review.
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review.
 
 Dentro del Sprint 2, realizamos el despliegue de nuestra Aplicación Web en Firebase como parte fundamental de nuestra estrategia de lanzamiento. A continuación, detallamos meticulosamente los pasos llevados a cabo para lograr este despliegue con éxito:
 
-### 5.2.2.8 Team Collaboration Insights during Sprint.
+#### 5.2.2.8 Team Collaboration Insights during Sprint.
 
 Durante el Sprint 2, nos enfocamos en el desarrollo colaborativo del FrontEnd del Web Application de Propertunity, donde cada miembro del equipo contribuyó con sus habilidades y conocimientos. Esta colaboración se refleja en los numerosos commits realizados en nuestro repositorio de código, los cuales están respaldados por capturas de pantalla adjuntas para una documentación detallada.
 
@@ -1126,3 +1123,5 @@ Además, programamos sesiones regulares de brainstorming y resolución de proble
 <img src="/assets/img/Contributions for FrontEnd Web Application.png" alt="Contributions for FrontEnd Web Application">
 <img src="/assets/img/Individual Contributions for FrontEnd Web Application - 1.png" alt="Individual Contributions for FrontEnd Web Application - 1">
 <img src="/assets/img/Individual Contributions for FrontEnd Web Application - 2.png" alt="Individual Contributions for FrontEnd Web Application - 2">
+
+

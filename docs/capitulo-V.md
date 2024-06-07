@@ -1341,12 +1341,12 @@ El equipo se encarga de establecer, para cada segmento objetivo identificado, lo
 *Nota.*
 
 **Datos principales:**
-- Nombre completo del entrevistado: 
-- Edad: 
-- Distrito: 
-- Link: 
-- Inicio de la entrevista: 
-- Duración: 
+- Nombre completo de la entrevistada:
+- Edad:
+- Distrito: Villa Maria del Triunfo
+- Link:
+- Inicio de la entrevista:
+- Duración:
 - Entrevistador:
 
 ---
@@ -1400,16 +1400,16 @@ El equipo se encarga de establecer, para cada segmento objetivo identificado, lo
 
 <img src="/assets/img/entrevistas/entrevista-validación-segmento2.png" alt="Entrevista Validación 1 del Segmento 2" width="550" height="300">
 
-*Nota.*
+*Nota.* Ahora es el momento de la verdad, saber si nuestro proyecto va acorde a las espectativas del usuario final. Nuestra entrevistada comenta principalmente que algunas funciones aún no están implementadas correctamente, que ella se pierde porque algunos funciones son nuevas, y que le gustaría que las publicaciones muestren más información para que sea visible y detallada. Aunque, nos dice que en general le ve futuro y que le encanta el sistema en general.
 
 **Datos principales:**
-- Nombre completo del entrevistado: 
-- Edad: 
-- Distrito: 
-- Link: 
-- Inicio de la entrevista: 
-- Duración: 
-- Entrevistador:
+- Nombre completo de la entrevistada: Rosalinda Quispe Ramos
+- Edad: 42
+- Distrito: Villa Maria del Triunfo
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214234_upc_edu_pe/EchfUy2BPplOipry81Rj6nEBNuUsGM_2rW4UHib93Vp_eA?e=j2yltd
+- Inicio de la entrevista: 00:00
+- Duración: 08:21
+- Entrevistador: Rubén Elías Mallma Quispe
   
 ---
 

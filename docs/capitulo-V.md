@@ -1545,4 +1545,10 @@ En esta sección se encuentra el proceso detallado de evaluación de las sesione
 
 ## 5.4. Video About-the-Product. 
 
-En esta sección, el equipo presenta y detalla el contenido del Video "About-the-Product", el cual está dirigido tanto a los visitantes del Landing Page como a los usuarios de las Aplicaciones. Este video tiene como objetivo proporcionar información sobre el modelo de negocio y las principales características de los productos de software. Para lograr una comunicación efectiva, el tono utilizado debe ser coherente con la imagen y el tono general adoptado para el producto. 
+En esta sección, nosotros presentamos y detallamos el contenido del Video "Acerca del Producto", el cual está dirigido tanto a nuestros visitantes del Landing Page como a nuestros usuarios de las Aplicaciones. Nuestro objetivo con este video es brindar información detallada sobre nuestro modelo de negocio y las características principales de nuestros productos de software. Para asegurar una comunicación efectiva, nos esforzamos por mantener un tono que refleje la imagen y la atmósfera general que hemos creado para nuestro producto.
+Revisen el siguiente enlace integrado: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912407_upc_edu_pe/EcGUGNttVmpKgbiLYQ__PjABF7uHs4fL-OMhXLN4JfbwYQ?e=ksXcFq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+###### Figura 106.
+*Imagen de presentación del vídeo del About the Product de la aplicación web Propertunity*
+<img src="/assets/img/Video del About The Product.png" alt="Presentación del vídeo del About the Product de la aplicación web Propertunity" width="900" height="500">
+

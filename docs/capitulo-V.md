@@ -1393,8 +1393,8 @@ Además, programamos sesiones regulares de brainstorming y resolución de proble
 
 <img src="/assets/img/Pulse for BackEnd Web Application.png" alt="Pulse for BackEnd Web Application">
 <img src="/assets/img/Contributions for BackEnd Web Application.png" alt="Contributions for BackEnd Web Application">
-<img src="/assets/img/Individual Contributions for BackEnd Web Application - 1.png" alt="Individual Contributions for BackEnd Web Application - 1">
-<img src="/assets/img/Individual Contributions for BackEnd Web Application - 2.png" alt="Individual Contributions for BackEnd Web Application - 2">
+<img src="/assets/img/Individual Contributions for BackEnd Web Application.png" alt="Individual Contributions for BackEnd Web Application">
+
 
 ###### Figura 100
 *Reporte completo de contribuciones para el desarrollo del FrontEnd del Web Application del Proyecto de Propertunity del Sprint 3.*
@@ -1444,64 +1444,6 @@ El equipo se encarga de establecer, para cada segmento objetivo identificado, lo
 
 #### Segmento 1: Personas que deseen comprar o alquilar una propiedad
 
-**Entrevista N°1:**
-
-###### Figura 100
-*Imagen de presentación de la primera entrevista de validación realizada.*
-
-<img src="/assets/img/entrevistas/entrevista-validación-segmento1.png" alt="Entrevista Validación 1 del Segmento 1" width="550" height="300">
-
-*Nota.*
-
-**Datos principales:**
-- Nombre completo del entrevistado: 
-- Edad: 
-- Distrito: 
-- Link: 
-- Inicio de la entrevista: 
-- Duración: 
-- Entrevistador:
-
----
-
-**Entrevista N°2:**
-
-###### Figura 101
-*Imagen de presentación de la segunda entrevista de validación realizada.*
-
-<img src="/assets/img/entrevistas/entrevista2-validación-segmento1.png" alt="Entrevista Validación 2 del Segmento 1" width="550" height="300">
-
-*Nota.*
-
-**Datos principales:**
-- Nombre completo del entrevistado: 
-- Edad: 
-- Distrito: 
-- Link: 
-- Inicio de la entrevista: 
-- Duración: 
-- Entrevistador:
-
----
-
-**Entrevista N°3:**
-
-###### Figura 102
-*Imagen de presentación de la tercera entrevista de validación realizada.*
-
-<img src="/assets/img/entrevistas/entrevista3-validación-segmento1.png" alt="Entrevista Validación 3 del Segmento 1" width="550" height="300">
-
-*Nota.*
-
-**Datos principales:**
-- Nombre completo del entrevistado: 
-- Edad: 
-- Distrito: 
-- Link: 
-- Inicio de la entrevista: 
-- Duración: 
-- Entrevistador:
-
 ---
 
 #### Segmento 2: Anunciantes que deseen publicar una propiedad en venta o alquiler.
@@ -1513,56 +1455,16 @@ El equipo se encarga de establecer, para cada segmento objetivo identificado, lo
 
 <img src="/assets/img/entrevistas/entrevista-validación-segmento2.png" alt="Entrevista Validación 1 del Segmento 2" width="550" height="300">
 
-*Nota.*
+*Nota.* Ahora es el momento de la verdad, saber si nuestro proyecto va acorde a las espectativas del usuario final. Nuestra entrevistada comenta principalmente que algunas funciones aún no están implementadas correctamente, que ella se pierde porque algunos funciones son nuevas, y que le gustaría que las publicaciones muestren más información para que sea visible y detallada. Aunque, nos dice que en general le ve futuro y que le encanta el sistema en general.
 
 **Datos principales:**
-- Nombre completo del entrevistado: 
-- Edad: 
-- Distrito: 
-- Link: 
-- Inicio de la entrevista: 
-- Duración: 
-- Entrevistador:
-  
----
-
-**Entrevista N°5:**
-
-###### Figura 104
-*Imagen de presentación de la quinta entrevista de validación realizada.*
-
-<img src="/assets/img/entrevistas/entrevista2-validación-segmento2.png" alt="Entrevista Validación 2 del Segmento 2" width="550" height="300">
-
-*Nota.*
-
-**Datos principales:**
-- Nombre completo del entrevistado: 
-- Edad: 
-- Distrito: 
-- Link: 
-- Inicio de la entrevista: 
-- Duración: 
-- Entrevistador:
-
----
-
-**Entrevista N°6:**
-
-###### Figura 105
-*Imagen de presentación de la sexta entrevista de validación realizada.*
-
-<img src="/assets/img/entrevistas/entrevista3-validación-segmento2.png" alt="Entrevista Validación 3 del Segmento 2" width="550" height="300">
-
-*Nota.*
-
-**Datos principales:**
-- Nombre completo del entrevistado: 
-- Edad: 
-- Distrito: 
-- Link: 
-- Inicio de la entrevista: 
-- Duración: 
-- Entrevistador:
+- Nombre completo de la entrevistada: Rosalinda Quispe Ramos
+- Edad: 42
+- Distrito: Villa Maria del Triunfo
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214234_upc_edu_pe/EchfUy2BPplOipry81Rj6nEBNuUsGM_2rW4UHib93Vp_eA?e=j2yltd
+- Inicio de la entrevista: 00:00
+- Duración: 08:21
+- Entrevistador: Rubén Elías Mallma Quispe
 
 ---
 

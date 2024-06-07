@@ -1221,8 +1221,8 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
             <td>Sistema de modificación de perfil de usuario.</td>
             <td>Como usuario general de la aplicación web, quiero ser capaz de modificar mi perfil a gusto y/o cambiar ciertos aspectos (como foto de perfil, nombre, estado civil, correo electrónico, cambio de contraseña), para mantener mi cuenta actualizada en todo momento y/o cambiar datos erróneos.</td>
             <td>2 horas y 30 minutos</td>
-            <td>...</td>
-            <td>To-do</td>
+            <td>Yen Cerna, Lucio Heli</td>
+            <td>Done</td>
         </tr>
         <tr>
             <td>US11</td>
@@ -1231,8 +1231,8 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
             <td>Opción para eliminar cuenta.</td>
             <td>Como usuario general de la aplicación web, quiero ser capaz de eliminar una de mis cuentas dentro de la aplicación web de Propertunity, para poder crear una nueva cuenta con normalidad y/o eliminar una cuenta que fue creada de forma errónea.</td>
             <td>1 hora y 40 minutos</td>
-            <td>...</td>
-            <td>To-do</td>
+            <td>Yen Cerna, Lucio Heli</td>
+            <td>Done</td>
         </tr>
           <tr>
             <td>US23</td>
@@ -1241,8 +1241,8 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
             <td>Buzón de notificaciones de la página web.</td>
             <td>Como usuario general de la aplicación web, quiero tener un apartado de notificaciones para recibir información de mi interés y redirigirme a cualquier propiedad que cumpla con mis estándares al instante.</td>
             <td>4 horas</td>
-            <td>...</td>
-            <td>To-do</td>
+            <td>Mallma Quispe, Rubén Elías</td>
+            <td>Done</td>
         </tr>
           <tr>
             <td>US27</td>
@@ -1251,7 +1251,7 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
             <td>Revisión y edicación de publicaciones de propiedades.</td>
             <td>Como usuario anunciante de propiedades quiero poder visualizar y tener la capacidad de editar mi publicación una vez subida para tener un mejor control sobre la misma.</td>
             <td>3 horas y 30 minutos</td>
-            <td>...</td>
+            <td>Shimabukuro Uku, Carlos Joel</td>
             <td>To-do</td>
         </tr>
           <tr>
@@ -1261,8 +1261,8 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
             <td>Localización de inmuebles.</td>
             <td>Como usuario interesado en comprar o alquilar un inmueble en Propertunity, quiero que la página web me brinde la ubicación de los inmuebles, para poder buscarlos personalmente.</td>
             <td>2 horas y 40 minutos</td>
-            <td>...</td>
-            <td>To-do</td>
+            <td>Valenzuela Huillcaya, Aldhair Johan Juan</td>
+            <td>Done</td>
         </tr>
           <tr>
             <td>US32</td>
@@ -1271,8 +1271,8 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
             <td>Contactar a agente inmobiliario.</td>
             <td>Como usuario interesado en comprar o alquilar un inmueble en Propertunity, quiero poder contactar directamente a los agentes inmobiliarios listados en la plataforma, para obtener más información o coordinar una cita.</td>
             <td>4 horas y 30 minutos</td>
-            <td>...</td>
-            <td>To-do</td>
+            <td>Trigueros Chumacero, Flavio Eduardo</td>
+            <td>Done</td>
         </tr>
             <tr>
             <td>US33</td>
@@ -1281,8 +1281,8 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
             <td>Información de agente inmobiliario.</td>
             <td>Como usuario interesado en comprar o alquilar un inmueble en Propertunity, quiero ver información detallada sobre los agentes inmobiliarios disponibles en la plataforma, incluyendo su ubicación, horarios de atención y reseñas, para tomar una decisión correcta al elegir una.</td>
             <td>2 hora y 30 minutos</td>
-            <td>...</td>
-            <td>To-do</td>
+            <td>Flavio Eduardo Trigueros Chumacero</td>
+            <td>Done</td>
         </tr>
             <tr>
             <td>US34</td>
@@ -1291,8 +1291,8 @@ En esta sección se revisara todo el proceso dado para el Sprint Backlog número
             <td>Comunicación entre usuario y agente inmobiliario.</td>
             <td>Como usuario interesado en comprar o alquilar un inmueble en Propertunity, quiero tener diversos métodos de comunicación con el agente inmobiliario, para agilizar el proceso conexión entre las dos partes.</td>
             <td>3 hora y 10 minutos</td>
-            <td>...</td>
-            <td>To-do</td>
+            <td>Valenzuela Huillcaya, Aldhair Johan Juan</td>
+            <td>Done</td>
         </tr>
     </table>
 

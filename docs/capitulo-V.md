@@ -1323,33 +1323,33 @@ En esta sección se explica y presenta los avances en implementación con relaci
 |upc-pre-202401--si730-WS52-SmartTech-BackEndPlatform|Main|b5f3bcf|Add or update the Azure App Service build and deployment workflow config|Se agrega el código con toda la lógica y su conexión a azure| 07/06/24|
 |upc-pre-202401--si730-WS52-SmartTech-BackEndPlatform|Main|2169538|Update global.json|Se actualiza el globals.json| 07/06/24|
 
-cambiar
-
 ### 5.2.3.4 Testing Suite Evidence for Sprint Review. 
 
 En esta sección presentaremos la evidencia detallada de las pruebas rigurosas realizadas durante el sprint. Para garantizar la calidad y funcionalidad del producto, hemos empleado la metodología Gherkin para definir escenarios de prueba claros y concisos. Cada uno de estos escenarios se ha registrado meticulosamente en commits específicos en nuestro repositorio de código, lo que proporciona un registro completo y transparente de nuestro proceso de prueba.
 
 ###### Tabla 33
-*Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3*
+*Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3.*
 | Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
-| upc-pre-202401--si730-WS52-SmarTech-AcceptanceTests | feat(.features): added More User Stories - Ruben - 1 | ff860b5 | feat(.features): added More User Stories | En esta sección se implementaron todos los Acceptance Test para el Sprint 2 de Propertunity | 30/04/24 |
-
-cambiar
+| upc-pre-202401--si730-WS52-SmarTech-AcceptanceTests | feat: Added User Stories for Sprint backlog 3 - Lucio - 2 | 055a358 | feat: Added User Stories for Sprint backlog 3 | En esta sección se implementaron todos los Acceptance Test para el Sprint 3 de Propertunity | 07/04/24 |
 
 #### 5.2.3.5 Execution Evidence for Sprint Review. 
 
-El equipo ha logrado implementar las características clave de la API principal de la startup junto a toda su lógica de negocio y conexiones con servicios web externos y la base de datos. Todas las historias de usuario asignadas para este sprint fueron completadas exitosamente. En primer lugar, ...
+Durante el desarrollo del Sprint 3, nuestro equipo ha logrado implementar las características clave de la API principal de la startup, junto con toda su lógica de negocio y las conexiones necesarias con servicios web externos y la base de datos. Esta fase ha sido fundamental para sentar las bases de nuestro proyecto y asegurar que todas las partes funcionen de manera coherente y eficiente. Cabe destacar que todas las historias de usuario asignadas para este sprint fueron completadas exitosamente, lo que refleja el compromiso y la dedicación del equipo.
 
-Además de estas ..., se han agregado ...
+En primer lugar, se aplicaron meticulosamente las reglas de negocio, las cuales son esenciales para definir el comportamiento de la aplicación en función de las diferentes necesidades de los usuarios. Estas reglas abarcan desde restricciones y validaciones hasta la lógica que determina cómo se procesan y gestionan los datos. Además, se desarrollaron funcionalidades específicas para cada tipo de usuario que interactúa con nuestra aplicación, asegurando que cada grupo de usuarios tenga una experiencia personalizada y adecuada a sus necesidades particulares. Con esto, también se implementó una serie de operaciones de tipo CRUD (Create, Read, Update, Delete), las cuales son fundamentales para permitir a los usuarios interactuar con la información en cualquier momento. Estas operaciones son esenciales para la gestión de datos, ya que permiten crear nuevos registros, leer datos existentes, actualizarlos según sea necesario y eliminarlos cuando ya no sean relevantes. Este conjunto de operaciones ha sido diseñado para integrarse de manera fluida con las funcionalidades propuestas en el FrontEnd de la página web, garantizando una experiencia de usuario coherente y eficiente.
 
-Para mejorar la experiencia del usuario, se ha trabajado en ...
+###### Figura 91.
+*Muestra con evidencia de los Endpoints implementados en la aplicación a través de las herramientas de Swagger*
+<img src="/assets/img/Evidencia-Endpoints-WebService.png" alt="Evidencia de los Endpoints implementados en la Aplicación Web">
 
-Finalmente, se han agregado ...
+Además de las funcionalidades propuestas en el Backend, también se agregaron ciertos aspectos y reglas adicionales para el manejo de información desde la base de datos, la cual ya ha sido implementada y desplegada de forma independiente en un servicio web externo. Estas medidas adicionales incluyen la implementación de políticas estrictas para la gestión de datos, garantizando que todas las operaciones se realicen de manera consistente y segura. Con estas funciones, se introdujo un modelo de escritura para la base de datos, asegurando un buen estilo de escritura y nomenclatura a lo largo de todo el proyecto. Este modelo de escritura establece convenciones claras para la creación y el nombrado de tablas, columnas, índices y otros objetos de la base de datos. De este modo, se facilita la comprensión y el mantenimiento del esquema de la base de datos, permitiendo que todos los miembros del equipo puedan trabajar de manera coherente y efectiva.
 
-###### Figura 91
-*Muestra con evidencia del ...*
-<img src="/assets/img/Evidencia-LogIn-WebApp.png" alt="Evidencia del ... en la Aplicación Web">
+Finalmente, para mejorar la experiencia del usuario, se ha trabajado en la creación de esquemas simples y sencillos, que garantizan funcionalidades en todo momento para el uso de los usuarios. Estos esquemas han sido diseñados con el objetivo de ser intuitivos y fáciles de comprender, lo que facilita la interacción de los usuarios con la aplicación. Además, estos esquemas incluyen documentación detallada y accesible, que mantiene a los usuarios informados y les permite utilizar adecuadamente todas las funcionalidades disponibles en la aplicación. La documentación se presenta de manera clara y organizada, cubriendo todos los aspectos relevantes, desde las descripciones de cada funcionalidad hasta guías paso a paso sobre cómo realizar diversas tareas dentro de la aplicación. Para asegurar que los esquemas cumplen con las expectativas de los usuarios, se han realizado pruebas de usabilidad y se han recopilado comentarios de los usuarios finales. Esta retroalimentación ha sido esencial para ajustar y optimizar los esquemas, asegurando que satisfacen las necesidades y expectativas de los usuarios. Las pruebas han permitido identificar áreas de mejora y hacer los ajustes necesarios para que los esquemas no solo sean funcionales, sino también amigables y accesibles.
+
+###### Figura 92.
+*Muestra con evidencia de los Esquemas implementados en la aplicación a través de las herramientas de Swagger*
+<img src="/assets/img/Evidencia-Schema-WebService.png" alt="Evidencia de los Endpoints implementados en la Aplicación Web">
 
 Además de la implementación de estas nuevas caracteristicas y conexiones con los servicios web, el equipo se esforzó por proporcionar una explicación clara y detallada del progreso alcanzado durante el sprint. Se creó un vídeo de presentación y descripción que destaca cómo se lograron los objetivos del sprint 3, y se agregaron todas las descripciones necesarias con respecto a los commits y branches implementados y programados. El enlace del vídeo, publicado en Microsoft Stream, es el siguiente: (Nuevo enlace)
 
@@ -1370,37 +1370,52 @@ En esta sección, presentamos la relación de Endpoints documentados con OpenAPI
 
 #### 5.2.2.7 Software Deployment Evidence for Sprint Review.
 
-Dentro del Sprint 3, realizamos el despliegue del Frontend, Backend y Base de datos.
+Dentro del Sprint 3, realizamos el despliegue completo del Frontend, Backend y la base de datos. Este logro representa un hito importante en nuestro proyecto, ya que ahora todas las partes principales del sistema están operativas y funcionando en conjunto.
 
-## FRONTEND 
- El deployment del frontend se realizó en Firebase. <br>
-    <img src="/assets/img/1.png" alt="Deploy de Frontend ">
-    <img src="/assets/img/2.PNG" alt="Deploy de Frontend ">
-    <img src="/assets/img/3.PNG" alt="Deploy de Frontend ">
-    <img src="/assets/img/4.PNG" alt="Deploy de Frontend ">
-    <img src="/assets/img/5.PNG" alt="Deploy de Frontend ">
-    <img src="/assets/img/5.PNG" alt="Deploy de Frontend ">
-## BACKEND - Azure
+El despliegue del Frontend incluyó la implementación de la interfaz de usuario, diseñada para ser intuitiva y fácil de usar, garantizando una experiencia agradable para los usuarios. Se llevaron a cabo pruebas exhaustivas para asegurar que todas las funcionalidades estuvieran correctamente integradas y operativas. Además, se optimizó el rendimiento del Frontend para asegurar tiempos de carga rápidos y una navegación fluida.
 
- El deployment del backend se realizó en Microsoft Azure for Students. <br>
-    <img src="/assets/img/Deploy_1.jpeg" alt="Deploy de Backend en Azure">
-    <img src="/assets/img/Deploy_2.jpeg" alt="Deploy de Backend en Azure">
-    <img src="/assets/img/Deploy_3.jpeg" alt="Deploy de Backend en Azure">
-    <img src="/assets/img/Deploy_4.jpeg" alt="Deploy de Backend en Azure">
-    <img src="/assets/img/Deploy_5.jpeg" alt="Deploy de Backend en Azure">
-## BASE DE DATOS
-El deployment de la base de datos se realizó en Free MySql Hosting. <br>
-   <img src="/assets/img/Sql_deploy_3.png" alt="Deploy de Base de datos">
-    <img src="/assets/img/Sql_deploy_1.jpeg" alt="Deploy de Base de Datos">
-    <img src="/assets/img/Sql_deploy_2.jpeg" alt="Deploy de Base de datos">
+El deployment del Frontend se realizó en Firebase, una plataforma robusta que nos permite alojar nuestra aplicación web de manera segura y eficiente. La interfaz de usuario, diseñada para ser intuitiva y fácil de usar, fue implementada y optimizada en Firebase, asegurando tiempos de carga rápidos y una navegación fluida. Además, Firebase ofrece características adicionales como el hosting escalable y la entrega de contenido a través de una red de distribución (CDN), lo que mejora significativamente la experiencia del usuario.
+
+###### Figura 93.
+*Muestra con evidencia del despliegue del FrontEnd en la página de Firebase.*
+<img src="/assets/img/1.png" alt="Deploy de Frontend ">
+<img src="/assets/img/2.PNG" alt="Deploy de Frontend ">
+<img src="/assets/img/3.PNG" alt="Deploy de Frontend ">
+<img src="/assets/img/4.PNG" alt="Deploy de Frontend ">
+<img src="/assets/img/5.PNG" alt="Deploy de Frontend ">
+<img src="/assets/img/5.PNG" alt="Deploy de Frontend ">
+
+En cuanto al Backend, se desplegaron todas las funcionalidades clave que permiten la lógica de negocio y la interacción con el Frontend. Esto incluye la implementación de las API necesarias para la comunicación entre las distintas partes del sistema, así como la integración de las operaciones CRUD y las conexiones con servicios web externos. Se aseguraron también altos estándares de seguridad y eficiencia en las operaciones del servidor. 
+
+El deployment del Backend se realizó en Azure, una plataforma de servicios en la nube que ofrece una infraestructura confiable y escalable. En Azure, desplegamos todas las funcionalidades clave que permiten la lógica de negocio y la interacción con el Frontend. Esto incluye la implementación de las API necesarias para la comunicación entre las distintas partes del sistema, así como la integración de las operaciones CRUD y las conexiones con servicios web externos. Azure nos proporciona altos estándares de seguridad, disponibilidad y rendimiento, asegurando que el Backend funcione de manera eficiente y segura.
+
+###### Figura 94.
+*Muestra con evidencia del despliegue del BackEnd en la plataforma de Azure.*
+<img src="/assets/img/Deploy_1.jpeg" alt="Deploy de Backend en Azure">
+<img src="/assets/img/Deploy_2.jpeg" alt="Deploy de Backend en Azure">
+<img src="/assets/img/Deploy_3.jpeg" alt="Deploy de Backend en Azure">
+<img src="/assets/img/Deploy_4.jpeg" alt="Deploy de Backend en Azure">
+<img src="/assets/img/Deploy_5.jpeg" alt="Deploy de Backend en Azure">
+
+La base de datos, implementada y desplegada de manera independiente, también fue puesta en funcionamiento. Este despliegue incluyó la configuración de todas las tablas, relaciones y procedimientos necesarios para el correcto almacenamiento y gestión de los datos. Además, se establecieron políticas de seguridad y se optimizaron las consultas para asegurar un rendimiento eficiente.
+
+El deployment de la base de datos se realizó en Free MySQL Hosting, una plataforma que ofrece servicios de alojamiento de bases de datos MySQL de manera gratuita. Este despliegue incluyó la configuración de todas las tablas, relaciones y procedimientos necesarios para el correcto almacenamiento y gestión de los datos. Además, se establecieron políticas de seguridad y se optimizaron las consultas para asegurar un rendimiento eficiente. Free MySQL Hosting nos permite manejar la base de datos de manera efectiva, garantizando el acceso rápido y seguro a los datos necesarios para la operación de la aplicación.
+
+###### Figura 95.
+*Muestra con evidencia del despliegue de la base de datos en la página principal de Free MySql Hosting.*
+<img src="/assets/img/Sql_deploy_3.png" alt="Deploy de Base de datos">
+<img src="/assets/img/Sql_deploy_1.jpeg" alt="Deploy de Base de Datos">
+<img src="/assets/img/Sql_deploy_2.jpeg" alt="Deploy de Base de datos">
+
+El despliegue simultáneo del Frontend, Backend y la base de datos ha sido un paso crucial en el avance de nuestro proyecto. Ahora, con todas las partes principales en funcionamiento, podemos centrarnos en refinar y mejorar la plataforma, asegurando una integración perfecta y una experiencia de usuario óptima. Este despliegue no solo refleja el esfuerzo y la coordinación del equipo, sino que también establece una base sólida para las futuras fases de desarrollo y mejora continua.
  
 #### 5.2.2.8 Team Collaboration Insights during Sprint.
 
-Durante el Sprint 3, nos enfocamos en el desarrollo colaborativo del BackEnd del Web Application de Propertunity junto a la mejora del FrontEnd, donde cada miembro del equipo contribuyó con sus habilidades y conocimientos. Esta colaboración se refleja en los numerosos pull request realizados en nuestro repositorio de código, los cuales están respaldados por capturas de pantalla adjuntas para una documentación detallada. 
+Durante el Sprint 3, nos enfocamos intensamente en el desarrollo colaborativo del BackEnd de la aplicación web Propertunity, simultáneamente mejorando el FrontEnd con las habilidades y conocimientos únicos de cada miembro del equipo. Esta colaboración se evidencia en los numerosos pull requests que fueron generados y revisados en nuestro repositorio de código. Cada pull request está respaldado por capturas de pantalla adjuntas, las cuales ofrecen una documentación detallada de los cambios implementados.
 
-Nuestro equipo se reunió tanto en persona como virtualmente para asignar tareas y discutir la estrategia de desarrollo del proyecto. Estas reuniones fueron cruciales para clarificar nuestras responsabilidades individuales y asegurar un desempeño óptimo. Para maximizar la eficiencia, decidimos asignar a cada miembro del equipo una sección específica del BackEnd para desarrollar, lo que nos permitió avanzar rápidamente y cumplir con los plazos establecidos.
+Para asegurar una coordinación efectiva y un rendimiento óptimo, el equipo se reunió regularmente tanto en reuniones presenciales como virtuales. Durante estas sesiones, se asignaron tareas específicas y se discutió la estrategia de desarrollo del proyecto. Estas reuniones fueron cruciales para clarificar las responsabilidades individuales y mantener el enfoque en los objetivos del Sprint. Asimismo, para maximizar la eficiencia, se decidió asignar a cada miembro del equipo una sección particular del BackEnd para desarrollar. Esta estrategia permitió avanzar rápidamente en múltiples frentes y cumplir con los plazos establecidos de manera efectiva.
 
-Además, programamos sesiones regulares de brainstorming y resolución de problemas, donde compartimos ideas y abordamos cualquier duda o dificultad que surgiera durante el proceso de desarrollo. Estas reuniones fueron fundamentales para resolver obstáculos de manera efectiva y garantizar un progreso constante en la elaboración del BackEnd del Web Application.
+Además de las reuniones de planificación y asignación de tareas, programamos sesiones regulares de brainstorming y resolución de problemas. Estas sesiones fueron espacios donde los miembros del equipo compartieron ideas, discutieron soluciones y abordaron cualquier desafío técnico o conceptual que surgiera durante el desarrollo del BackEnd. Este enfoque colaborativo no solo facilitó la superación de obstáculos de manera eficiente, sino que también fomentó la innovación y la mejora continua en la implementación del proyecto.
 
 ###### Figura 98
 *Reporte completo de contribuciones para el desarrollo del Reporte Principal del Proyecto de Propertunity del Sprint 3.*
@@ -1417,7 +1432,6 @@ Además, programamos sesiones regulares de brainstorming y resolución de proble
 <img src="/assets/img/Contributions for BackEnd Web Application.png" alt="Contributions for BackEnd Web Application">
 <img src="/assets/img/Individual Contributions for BackEnd Web Application.png" alt="Individual Contributions for BackEnd Web Application">
 
-
 ###### Figura 100
 *Reporte completo de contribuciones para el desarrollo del FrontEnd del Web Application del Proyecto de Propertunity del Sprint 3.*
 
@@ -1427,6 +1441,323 @@ Además, programamos sesiones regulares de brainstorming y resolución de proble
 <img src="/assets/img/Individual Contributions for FrontEnd Web Application2 - 2.png" alt="Individual Contributions for BackEnd Web Application2 - 2">
 
 ---
+
+---
+
+### 5.2.4 Sprint 4.
+
+En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint número 3. Todo el avance descriptivo se muestra aquí junto a su desarrollo, historial y avance en conjunto dado por cada intengrante del equipo de trabajo. Todas las especificaciones siguen desde el Product Backlog del Capitulo 3 de requerimientos.
+
+#### 5.2.3.1 Sprint Planning 3.
+
+En esta sección se explicaran los detalles presentados y analizados durante la reunión del Sprint Planning para el número 3. El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión.
+
+###### Tabla 30
+*Tabla del planeamiento a profundidad del Sprint 3.*
+<table>
+        <tr>
+            <td colspan="1">Sprint #</td>
+            <td colspan="1">Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024-05-17</td>
+        </tr>
+          <tr>
+            <td>Time</td>
+            <td>17:38</td>
+        </tr>
+            <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+            <tr>
+            <td>Prepared by</td>
+            <td>Yen Cerna, Lucio Heli</td>
+        </tr>
+            <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Mallma Quispe, Rubén Elías, Shimabukuro Uku, Carlos Joel, Trigueros Chumacero, Flavio Eduardo, Valenzuela Huillcaya, Aldhair Johan Juan, Yen Cerna, Lucio Heli</td>
+        </tr>
+            <tr>
+            <td>Sprint 3 - 3 Review Summary</td>
+            <td>Tras ejecutar todos los pasos establecidos para identificar metas y áreas de retroalimentación, hemos concluido con éxito la reunión correspondiente al sprint 3. Este encuentro destacó por el progreso alcanzado en los productos de software y la colaboración general del equipo. La implementación de nuevas secciones en la Aplicación Web, junto con la adición de funcionalidades de negocio y servicios web, representó un significativo avance en el proceso de mejora durante la planificación y ejecución del sprint. Este proceso no solo fortaleció el compromiso de nuestro equipo, sino que también impulsó de manera considerable las actividades previamente señaladas.</td>
+        </tr>
+            <tr>
+            <td>Sprint 3 – 3 Retrospective Summary</td>
+            <td>Para llevar a cabo la retrospectiva del Sprint 3, nuestro equipo se vio en la necesidad de examinar detalladamente toda la retroalimentación recibida tras la ejecución del segundo sprint. Posteriormente, realizamos un análisis exhaustivo del desempeño tanto general como individual de todos los integrantes del equipo. Tras este proceso, logramos identificar diversas áreas de oportunidad en las cuales enfocarnos, con el objetivo de asegurar una mejora tanto en la calidad del trabajo como en el producto final entregado a nuestros clientes. Este enfoque hacia la mejora continua busca optimizar los métodos de trabajo para los próximos sprints a lo largo del ciclo de vida del proyecto. Las mejoras propuestas se centran en el rediseño del frontend de nuestra aplicación, así como en el despliegue completo y adecuado, respaldado por una evidencia sólida.</td>
+        </tr>
+            <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+              <tr>
+            <td>Sprint 3 Goal</td>
+            <td>Alcanzar una métrica de cumplimiento del 100%, lo que indicará que se ha logrado todos los objetivos del sprint 3 con todas las historias de usuario y otros materiales necesarios.</td>
+        </tr>
+              <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>Con el equipo para este sprint 3 decidimos aceptar 8 Story Points</td>
+        </tr>
+              <tr>
+            <td>Sum of Story Points</td>
+            <td>La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 3 es 8.</td>
+        </tr>
+    </table>
+
+#### 5.2.3.2 Sprint Backlog 3.
+
+En esta sección se revisara todo el proceso dado para el Sprint Backlog número 3, en el cual nuestro equipo de trabajo se centró principalmente en el diseño, estructuración y organización de la lógica de negocio agregada en nuestra aplicación web con el uso de servicios diferenciados y modelos de base de datos, además de proporcionar un modelo de intercambio de información entre el FrontEnd y el BackEnd. Hemos separado toda la construcción del BackEnd y la conexión con los Web Services en ####### (#) historias de usuario, donde cada integrante del grupo hizo al menos dos. Gracias a este proceso, para el final del Sprint Backlog 3, hemos conseguido tener una página web estable, con buenos modelos de interfaz, conexiones con la API principal y APIs externas, junto a la conexión con servicios web.
+
+###### Tabla 31
+*Tabla principal del planeamiento del Sprint Backlog 3.*
+<table>
+        <tr>
+            <td colspan="2">Sprint #</td>
+            <td colspan="6">Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Descripcion</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In Process / ToReview / Done)</td>
+        </tr>
+        <tr>
+            <td>US09</td>
+            <td>Integrar un sistema que permita modificar el perfil de un usuario.</td>
+            <td>T22</td>
+            <td>Sistema de modificación de perfil de usuario.</td>
+            <td>Como usuario general de la aplicación web, quiero ser capaz de modificar mi perfil a gusto y/o cambiar ciertos aspectos (como foto de perfil, nombre, estado civil, correo electrónico, cambio de contraseña), para mantener mi cuenta actualizada en todo momento y/o cambiar datos erróneos.</td>
+            <td>2 horas y 30 minutos</td>
+            <td>Yen Cerna, Lucio Heli</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US11</td>
+            <td>Agregar una opción para eliminar una cuenta.</td>
+            <td>T23</td>
+            <td>Opción para eliminar cuenta.</td>
+            <td>Como usuario general de la aplicación web, quiero ser capaz de eliminar una de mis cuentas dentro de la aplicación web de Propertunity, para poder crear una nueva cuenta con normalidad y/o eliminar una cuenta que fue creada de forma errónea.</td>
+            <td>1 hora y 40 minutos</td>
+            <td>Yen Cerna, Lucio Heli</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>US23</td>
+            <td>Agregar un buzón de notificaciones en la página web.</td>
+            <td>T24</td>
+            <td>Buzón de notificaciones de la página web.</td>
+            <td>Como usuario general de la aplicación web, quiero tener un apartado de notificaciones para recibir información de mi interés y redirigirme a cualquier propiedad que cumpla con mis estándares al instante.</td>
+            <td>4 horas</td>
+            <td>Mallma Quispe, Rubén Elías</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>US27</td>
+            <td>Revisión y edición de la publicación de propiedades.</td>
+            <td>T25</td>
+            <td>Revisión y edicación de publicaciones de propiedades.</td>
+            <td>Como usuario anunciante de propiedades quiero poder visualizar y tener la capacidad de editar mi publicación una vez subida para tener un mejor control sobre la misma.</td>
+            <td>3 horas y 30 minutos</td>
+            <td>Shimabukuro Uku, Carlos Joel</td>
+            <td>To-do</td>
+        </tr>
+          <tr>
+            <td>US31</td>
+            <td>Localización de los inmuebles en la página web.</td>
+            <td>T26</td>
+            <td>Localización de inmuebles.</td>
+            <td>Como usuario interesado en comprar o alquilar un inmueble en Propertunity, quiero que la página web me brinde la ubicación de los inmuebles, para poder buscarlos personalmente.</td>
+            <td>2 horas y 40 minutos</td>
+            <td>Valenzuela Huillcaya, Aldhair Johan Juan</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>US32</td>
+            <td>Contactar a agente inmobiliario respectivo.</td>
+            <td>T27</td>
+            <td>Contactar a agente inmobiliario.</td>
+            <td>Como usuario interesado en comprar o alquilar un inmueble en Propertunity, quiero poder contactar directamente a los agentes inmobiliarios listados en la plataforma, para obtener más información o coordinar una cita.</td>
+            <td>4 horas y 30 minutos</td>
+            <td>Trigueros Chumacero, Flavio Eduardo</td>
+            <td>Done</td>
+        </tr>
+            <tr>
+            <td>US33</td>
+            <td>Visualizar información del agente inmobiliario.</td>
+            <td>T28</td>
+            <td>Información de agente inmobiliario.</td>
+            <td>Como usuario interesado en comprar o alquilar un inmueble en Propertunity, quiero ver información detallada sobre los agentes inmobiliarios disponibles en la plataforma, incluyendo su ubicación, horarios de atención y reseñas, para tomar una decisión correcta al elegir una.</td>
+            <td>2 hora y 30 minutos</td>
+            <td>Flavio Eduardo Trigueros Chumacero</td>
+            <td>Done</td>
+        </tr>
+            <tr>
+            <td>US34</td>
+            <td>Facilitar la comunicación entre usuario y el agente inmobiliario</td>
+            <td>T29</td>
+            <td>Comunicación entre usuario y agente inmobiliario.</td>
+            <td>Como usuario interesado en comprar o alquilar un inmueble en Propertunity, quiero tener diversos métodos de comunicación con el agente inmobiliario, para agilizar el proceso conexión entre las dos partes.</td>
+            <td>3 hora y 10 minutos</td>
+            <td>Valenzuela Huillcaya, Aldhair Johan Juan</td>
+            <td>Done</td>
+        </tr>
+    </table>
+
+Con el fin de que la lista de tareas en el sprint pueda ser visualizada a más profundidad, se mostrara un enlace directo a la sección de trabajo designada por el equipo junto a todas las actividades planificadas de forma completa: https://app.clickup.com/9013153284/v/l/6-901302611184-1 
+
+###### Figura 90
+*Presentación de la tabla de actividades designada para el Sprint 3 en ClickUp.*
+<img src="/assets/img/Lista de Tareas-Sprint3.png" alt="Lista de Tareas del Sprint 3 En ClickUp">
+
+#### 5.2.3.3 Development Evidence for Sprint Review.
+
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint 3 referente a los Web Services. Aquí se dejara cada uno de los commits ya implementados dentro del repositorio de Github, junto a toda la información referente y a los cambios concluidos.
+
+###### Tabla 32
+*Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3*
+| Repository | Branch| Commit Id| Commit Message| Commit Message Body|Commited on (Date) |
+|------------|-------|----------|---------------|--------------------|-------------------|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|8623ceb|Merge branch 'develop' into inicio-home|Se hace merge| 22/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|fe53b29|feat(finance-tool): update credit-calculator.component|Se actualiza la calculadora| 28/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|c1a0a80|feat: added home design and not found page|Se agrega neuvo diseño| 31/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|89931ec|Update: post-overview|Se agrega neuvo diseño a los post| 02/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|dec6209|feat: update filtered search functionality & db.json file & property-api function & i18n locale files|Se actuliza| 04/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|e84c92b|feat: update properties-list and property-post router-link|Se actualiza los links| 04/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|87182bf|feat: added login-register-password pages & updated CCS|Se agrega pagina de actualizacion de contraseña| 06/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|9e2d81d|feat: update properties-list.component & the-new-search.component & db.json|Se acvtualizan las listas y la busqueda | 07/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-BackEndPlatform|Main|8f7fe83|Initial commit|commit de prueba con todas las carpetas disponibles| 07/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-BackEndPlatform|Main|0c0f7a6|delete: bugged folder|Se borran carpetas| 07/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-BackEndPlatform|Main|b5f3bcf|Add or update the Azure App Service build and deployment workflow config|Se agrega el código con toda la lógica y su conexión a azure| 07/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-BackEndPlatform|Main|2169538|Update global.json|Se actualiza el globals.json| 07/06/24|
+
+### 5.2.3.4 Testing Suite Evidence for Sprint Review. 
+
+En esta sección presentaremos la evidencia detallada de las pruebas rigurosas realizadas durante el sprint. Para garantizar la calidad y funcionalidad del producto, hemos empleado la metodología Gherkin para definir escenarios de prueba claros y concisos. Cada uno de estos escenarios se ha registrado meticulosamente en commits específicos en nuestro repositorio de código, lo que proporciona un registro completo y transparente de nuestro proceso de prueba.
+
+###### Tabla 33
+*Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3.*
+| Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
+|-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
+| upc-pre-202401--si730-WS52-SmarTech-AcceptanceTests | feat: Added User Stories for Sprint backlog 3 - Lucio - 2 | 055a358 | feat: Added User Stories for Sprint backlog 3 | En esta sección se implementaron todos los Acceptance Test para el Sprint 3 de Propertunity | 07/04/24 |
+
+#### 5.2.3.5 Execution Evidence for Sprint Review. 
+
+Durante el desarrollo del Sprint 3, nuestro equipo ha logrado implementar las características clave de la API principal de la startup, junto con toda su lógica de negocio y las conexiones necesarias con servicios web externos y la base de datos. Esta fase ha sido fundamental para sentar las bases de nuestro proyecto y asegurar que todas las partes funcionen de manera coherente y eficiente. Cabe destacar que todas las historias de usuario asignadas para este sprint fueron completadas exitosamente, lo que refleja el compromiso y la dedicación del equipo.
+
+En primer lugar, se aplicaron meticulosamente las reglas de negocio, las cuales son esenciales para definir el comportamiento de la aplicación en función de las diferentes necesidades de los usuarios. Estas reglas abarcan desde restricciones y validaciones hasta la lógica que determina cómo se procesan y gestionan los datos. Además, se desarrollaron funcionalidades específicas para cada tipo de usuario que interactúa con nuestra aplicación, asegurando que cada grupo de usuarios tenga una experiencia personalizada y adecuada a sus necesidades particulares. Con esto, también se implementó una serie de operaciones de tipo CRUD (Create, Read, Update, Delete), las cuales son fundamentales para permitir a los usuarios interactuar con la información en cualquier momento. Estas operaciones son esenciales para la gestión de datos, ya que permiten crear nuevos registros, leer datos existentes, actualizarlos según sea necesario y eliminarlos cuando ya no sean relevantes. Este conjunto de operaciones ha sido diseñado para integrarse de manera fluida con las funcionalidades propuestas en el FrontEnd de la página web, garantizando una experiencia de usuario coherente y eficiente.
+
+###### Figura 91.
+*Muestra con evidencia de los Endpoints implementados en la aplicación a través de las herramientas de Swagger*
+<img src="/assets/img/Evidencia-Endpoints-WebService.png" alt="Evidencia de los Endpoints implementados en la Aplicación Web">
+
+Además de las funcionalidades propuestas en el Backend, también se agregaron ciertos aspectos y reglas adicionales para el manejo de información desde la base de datos, la cual ya ha sido implementada y desplegada de forma independiente en un servicio web externo. Estas medidas adicionales incluyen la implementación de políticas estrictas para la gestión de datos, garantizando que todas las operaciones se realicen de manera consistente y segura. Con estas funciones, se introdujo un modelo de escritura para la base de datos, asegurando un buen estilo de escritura y nomenclatura a lo largo de todo el proyecto. Este modelo de escritura establece convenciones claras para la creación y el nombrado de tablas, columnas, índices y otros objetos de la base de datos. De este modo, se facilita la comprensión y el mantenimiento del esquema de la base de datos, permitiendo que todos los miembros del equipo puedan trabajar de manera coherente y efectiva.
+
+Finalmente, para mejorar la experiencia del usuario, se ha trabajado en la creación de esquemas simples y sencillos, que garantizan funcionalidades en todo momento para el uso de los usuarios. Estos esquemas han sido diseñados con el objetivo de ser intuitivos y fáciles de comprender, lo que facilita la interacción de los usuarios con la aplicación. Además, estos esquemas incluyen documentación detallada y accesible, que mantiene a los usuarios informados y les permite utilizar adecuadamente todas las funcionalidades disponibles en la aplicación. La documentación se presenta de manera clara y organizada, cubriendo todos los aspectos relevantes, desde las descripciones de cada funcionalidad hasta guías paso a paso sobre cómo realizar diversas tareas dentro de la aplicación. Para asegurar que los esquemas cumplen con las expectativas de los usuarios, se han realizado pruebas de usabilidad y se han recopilado comentarios de los usuarios finales. Esta retroalimentación ha sido esencial para ajustar y optimizar los esquemas, asegurando que satisfacen las necesidades y expectativas de los usuarios. Las pruebas han permitido identificar áreas de mejora y hacer los ajustes necesarios para que los esquemas no solo sean funcionales, sino también amigables y accesibles.
+
+###### Figura 92.
+*Muestra con evidencia de los Esquemas implementados en la aplicación a través de las herramientas de Swagger*
+<img src="/assets/img/Evidencia-Schema-WebService.png" alt="Evidencia de los Endpoints implementados en la Aplicación Web">
+
+Además de la implementación de estas nuevas caracteristicas y conexiones con los servicios web, el equipo se esforzó por proporcionar una explicación clara y detallada del progreso alcanzado durante el sprint. Se creó un vídeo de presentación y descripción que destaca cómo se lograron los objetivos del sprint 3, y se agregaron todas las descripciones necesarias con respecto a los commits y branches implementados y programados. El enlace del vídeo, publicado en Microsoft Stream, es el siguiente: (Nuevo enlace)
+
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review. 
+
+En esta sección, presentamos la relación de Endpoints documentados con OpenAPI, que están directamente vinculados con el alcance del Sprint. Iniciamos con una breve introducción que resume los logros alcanzados en relación con la Documentación de Web Services durante este período de desarrollo. A continuación, proporcionamos una tabla detallada que enumera cada Endpoint, junto con las acciones implementadas y los enlaces correspondientes a la documentación desplegada o la URL local en Sprints anteriores al despliegue de Web Services.
+
+| Método | Descripción | Ejemplo de llamada | Parámetros | Respuesta |
+|--------|-------------|---------------------|------------|-----------|
+| GET | Busca una publicación dado un id | GET /api/v1/publication/getPublication | Tiene dos parámetros: el id y el estado de la publicación | Retorna la publicación que corresponda al id solicitado | 
+| POST | Crea una publicación basado en los parámetros | POST /api/v1/publication/postPublication | Los datos de la publicación: título, descripción, precio, ubicación, e id del usuario (automático) | Retorna el id de la publicación creada | 
+| DELETE | Elimina una publicación (soft delete) dado un id | DELETE /api/v1/publication/deletePublication | El id de la publicación a eliminar | Retorna '1' como una eliminación satisfactoria | 
+| GET | Busca publicaciones basadas en una petición | GET /api/v1/search/main | Posee 4 parámetros dentro de la instancia de la entidad: input, tipo (propiedad o ubicación), precio mínimo, precio máximo |  | 
+| POST | Permite un usuario sea autenticado brindando las credenciales correctas | POST /api/v1/user/login | Datos escenciales como credenciales: usuario y contraseña | Retorna una sesión con un token para cualquier request | 
+| POST | Permite actualizar un token vencido del usuario para extender la sesión sin necesidad de iniciar sesión otra vez | POST /api/v1/user/refreshToken | El refresh token dado en el login y el token vencido | Retorna una nueva sesión con nuevos datos actualizados | 
+| GET | Obtiene la información relacionado a un usuario | GET /api/v1/user/getUserInformation | Id del usuario a buscar | Retorna la información del usuario | 
+| POST | Permite que una persona pueda crear su cuenta dentro de la aplicación | POST /api/v1/user/register | Requiere información del usuario como tambien credenciales de la cuenta | Retorna el nuevo Id del usuario creado | 
+
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review.
+
+Dentro del Sprint 3, realizamos el despliegue completo del Frontend, Backend y la base de datos. Este logro representa un hito importante en nuestro proyecto, ya que ahora todas las partes principales del sistema están operativas y funcionando en conjunto.
+
+El despliegue del Frontend incluyó la implementación de la interfaz de usuario, diseñada para ser intuitiva y fácil de usar, garantizando una experiencia agradable para los usuarios. Se llevaron a cabo pruebas exhaustivas para asegurar que todas las funcionalidades estuvieran correctamente integradas y operativas. Además, se optimizó el rendimiento del Frontend para asegurar tiempos de carga rápidos y una navegación fluida.
+
+El deployment del Frontend se realizó en Firebase, una plataforma robusta que nos permite alojar nuestra aplicación web de manera segura y eficiente. La interfaz de usuario, diseñada para ser intuitiva y fácil de usar, fue implementada y optimizada en Firebase, asegurando tiempos de carga rápidos y una navegación fluida. Además, Firebase ofrece características adicionales como el hosting escalable y la entrega de contenido a través de una red de distribución (CDN), lo que mejora significativamente la experiencia del usuario.
+
+###### Figura 93.
+*Muestra con evidencia del despliegue del FrontEnd en la página de Firebase.*
+<img src="/assets/img/1.png" alt="Deploy de Frontend ">
+<img src="/assets/img/2.PNG" alt="Deploy de Frontend ">
+<img src="/assets/img/3.PNG" alt="Deploy de Frontend ">
+<img src="/assets/img/4.PNG" alt="Deploy de Frontend ">
+<img src="/assets/img/5.PNG" alt="Deploy de Frontend ">
+<img src="/assets/img/5.PNG" alt="Deploy de Frontend ">
+
+En cuanto al Backend, se desplegaron todas las funcionalidades clave que permiten la lógica de negocio y la interacción con el Frontend. Esto incluye la implementación de las API necesarias para la comunicación entre las distintas partes del sistema, así como la integración de las operaciones CRUD y las conexiones con servicios web externos. Se aseguraron también altos estándares de seguridad y eficiencia en las operaciones del servidor. 
+
+El deployment del Backend se realizó en Azure, una plataforma de servicios en la nube que ofrece una infraestructura confiable y escalable. En Azure, desplegamos todas las funcionalidades clave que permiten la lógica de negocio y la interacción con el Frontend. Esto incluye la implementación de las API necesarias para la comunicación entre las distintas partes del sistema, así como la integración de las operaciones CRUD y las conexiones con servicios web externos. Azure nos proporciona altos estándares de seguridad, disponibilidad y rendimiento, asegurando que el Backend funcione de manera eficiente y segura.
+
+###### Figura 94.
+*Muestra con evidencia del despliegue del BackEnd en la plataforma de Azure.*
+<img src="/assets/img/Deploy_1.jpeg" alt="Deploy de Backend en Azure">
+<img src="/assets/img/Deploy_2.jpeg" alt="Deploy de Backend en Azure">
+<img src="/assets/img/Deploy_3.jpeg" alt="Deploy de Backend en Azure">
+<img src="/assets/img/Deploy_4.jpeg" alt="Deploy de Backend en Azure">
+<img src="/assets/img/Deploy_5.jpeg" alt="Deploy de Backend en Azure">
+
+La base de datos, implementada y desplegada de manera independiente, también fue puesta en funcionamiento. Este despliegue incluyó la configuración de todas las tablas, relaciones y procedimientos necesarios para el correcto almacenamiento y gestión de los datos. Además, se establecieron políticas de seguridad y se optimizaron las consultas para asegurar un rendimiento eficiente.
+
+El deployment de la base de datos se realizó en Free MySQL Hosting, una plataforma que ofrece servicios de alojamiento de bases de datos MySQL de manera gratuita. Este despliegue incluyó la configuración de todas las tablas, relaciones y procedimientos necesarios para el correcto almacenamiento y gestión de los datos. Además, se establecieron políticas de seguridad y se optimizaron las consultas para asegurar un rendimiento eficiente. Free MySQL Hosting nos permite manejar la base de datos de manera efectiva, garantizando el acceso rápido y seguro a los datos necesarios para la operación de la aplicación.
+
+###### Figura 95.
+*Muestra con evidencia del despliegue de la base de datos en la página principal de Free MySql Hosting.*
+<img src="/assets/img/Sql_deploy_3.png" alt="Deploy de Base de datos">
+<img src="/assets/img/Sql_deploy_1.jpeg" alt="Deploy de Base de Datos">
+<img src="/assets/img/Sql_deploy_2.jpeg" alt="Deploy de Base de datos">
+
+El despliegue simultáneo del Frontend, Backend y la base de datos ha sido un paso crucial en el avance de nuestro proyecto. Ahora, con todas las partes principales en funcionamiento, podemos centrarnos en refinar y mejorar la plataforma, asegurando una integración perfecta y una experiencia de usuario óptima. Este despliegue no solo refleja el esfuerzo y la coordinación del equipo, sino que también establece una base sólida para las futuras fases de desarrollo y mejora continua.
+ 
+#### 5.2.2.8 Team Collaboration Insights during Sprint.
+
+Durante el Sprint 3, nos enfocamos intensamente en el desarrollo colaborativo del BackEnd de la aplicación web Propertunity, simultáneamente mejorando el FrontEnd con las habilidades y conocimientos únicos de cada miembro del equipo. Esta colaboración se evidencia en los numerosos pull requests que fueron generados y revisados en nuestro repositorio de código. Cada pull request está respaldado por capturas de pantalla adjuntas, las cuales ofrecen una documentación detallada de los cambios implementados.
+
+Para asegurar una coordinación efectiva y un rendimiento óptimo, el equipo se reunió regularmente tanto en reuniones presenciales como virtuales. Durante estas sesiones, se asignaron tareas específicas y se discutió la estrategia de desarrollo del proyecto. Estas reuniones fueron cruciales para clarificar las responsabilidades individuales y mantener el enfoque en los objetivos del Sprint. Asimismo, para maximizar la eficiencia, se decidió asignar a cada miembro del equipo una sección particular del BackEnd para desarrollar. Esta estrategia permitió avanzar rápidamente en múltiples frentes y cumplir con los plazos establecidos de manera efectiva.
+
+Además de las reuniones de planificación y asignación de tareas, programamos sesiones regulares de brainstorming y resolución de problemas. Estas sesiones fueron espacios donde los miembros del equipo compartieron ideas, discutieron soluciones y abordaron cualquier desafío técnico o conceptual que surgiera durante el desarrollo del BackEnd. Este enfoque colaborativo no solo facilitó la superación de obstáculos de manera eficiente, sino que también fomentó la innovación y la mejora continua en la implementación del proyecto.
+
+###### Figura 98
+*Reporte completo de contribuciones para el desarrollo del Reporte Principal del Proyecto de Propertunity del Sprint 3.*
+
+<img src="/assets/img/Pulse for Main Branch3.png" alt="Pulse for Main Branch3">
+<img src="/assets/img/Contributions for Main3.png" alt="Contributions for Main3">
+<img src="/assets/img/Individual Contributions for Main Branch3 - 1.png" alt="Individual Contributions for Main Branch3 - 1">
+<img src="/assets/img/Individual Contributions for Main Branch3 - 2.png" alt="Individual Contributions for Main Branch3 - 2">
+
+###### Figura 99
+*Reporte completo de contribuciones para el desarrollo del BackEnd del Web Application del Proyecto de Propertunity del Sprint 3.*
+
+<img src="/assets/img/Pulse for BackEnd Web Application.png" alt="Pulse for BackEnd Web Application">
+<img src="/assets/img/Contributions for BackEnd Web Application.png" alt="Contributions for BackEnd Web Application">
+<img src="/assets/img/Individual Contributions for BackEnd Web Application.png" alt="Individual Contributions for BackEnd Web Application">
+
+###### Figura 100
+*Reporte completo de contribuciones para el desarrollo del FrontEnd del Web Application del Proyecto de Propertunity del Sprint 3.*
+
+<img src="/assets/img/Pulse for FrontEnd Web Application2.png" alt="Pulse for BackEnd Web Application2">
+<img src="/assets/img/Contributions for FrontEnd Web Application2.png" alt="Contributions for BackEnd Web Application2">
+<img src="/assets/img/Individual Contributions for FrontEnd Web Application2 - 1.png" alt="Individual Contributions for BackEnd Web Application2 - 1">
+<img src="/assets/img/Individual Contributions for FrontEnd Web Application2 - 2.png" alt="Individual Contributions for BackEnd Web Application2 - 2">
+
 
 ## 5.3. Validation Interviews. 
 

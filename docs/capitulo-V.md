@@ -1758,6 +1758,20 @@ El equipo se encarga de establecer, para cada segmento objetivo identificado, lo
 ### 5.3.2. Registro de Entrevistas. 
 
 #### Segmento 1: Personas que deseen comprar o alquilar una propiedad
+*Imagen de presentación de la cuarta entrevista de validación realizada.*
+
+<img src="/assets/img/entrevistas/entrevista-validación-segmento2.png" alt="Entrevista Validación 1 del Segmento 2" width="550" height="300">
+
+*Nota.* 
+
+**Datos principales:**
+- Nombre completo de la entrevistado: Max Dayson
+- Edad: 23
+- Distrito: Chorrillos
+- Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214234_upc_edu_pe/EchfUy2BPplOipry81Rj6nEBNuUsGM_2rW4UHib93Vp_eA?e=j2yltd](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f572_upc_edu_pe/Ebs61Zpj0wlNsrwlYidisKEBA-fGNjX2ZfSnAfjtBzEESg?e=K7Rrln&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Inicio de la entrevista: 00:00
+- Duración: 12:52
+- Entrevistador: Aldhair Johan Juan Valenzuela Huillcaya
 
 ---
 

@@ -199,6 +199,7 @@ La siguiente lista presenta todos los enlaces respectivos a la organización de 
 - Report : https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report
 - Acceptance Test: https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-AcceptanceTests
 - FrontEnd Application: https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-FrontEnd
+- BackEnd Web Service: https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-BackEndPlatform 
 
 **Integrantes dentro de la organización:**
 

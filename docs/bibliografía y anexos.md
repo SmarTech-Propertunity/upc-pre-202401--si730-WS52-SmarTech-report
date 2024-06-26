@@ -20,6 +20,23 @@
 
 # Anexos
 
+En esta sección, presentaremos los anexos principales de nuestro proyecto de programación, que incluyen enlaces directos a otras secciones relevantes de esta documentación. Consideramos fundamental revisar detalladamente los siguientes enlaces para obtener una comprensión más profunda de todos los aspectos relacionados con este proyecto. Estos recursos complementarios ofrecen una visión completa y detallada del desarrollo del proyecto, demostrando el esfuerzo coordinado y la planificación estratégica que ha sido fundamental para su éxito.
+
+En primer lugar, proporcionamos los enlaces directos a los repositorios más destacados relacionados con este proyecto. Estos repositorios contienen el desarrollo integral de las diversas secciones del proyecto, cubriendo tanto aspectos de programación como de documentación. En detalle, podrás encontrar el código y la estructura del FrontEnd, donde se ha trabajado en la interfaz de usuario y su interacción. También se incluyen los elementos del BackEnd, que abarcan la lógica de negocio, la gestión de datos y la integración de servicios. Además, está el repositorio de la Landing Page, que ofrece una vista inicial y accesible de nuestro producto, diseñada para captar el interés de los usuarios potenciales. Por último, hemos dedicado un espacio específico para toda la documentación, donde se detallan los procesos, decisiones y justificaciones técnicas a lo largo del desarrollo del proyecto. Estos repositorios son esenciales para entender el alcance y la complejidad de nuestro trabajo, y representan el esfuerzo conjunto del equipo en cada fase del desarrollo.
+
+Organización: https://github.com/SmarTech-Propertunity
+Landing Page: https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-landingPage
+Report : https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-report
+Acceptance Test: https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-AcceptanceTests
+FrontEnd Application: https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-FrontEnd
+BackEnd Web Service: https://github.com/SmarTech-Propertunity/upc-pre-202401--si730-WS52-SmarTech-BackEndPlatform 
+
+También agregamos los enlaces directos a otros vídeos necesarios, como el vídeo "About The Product" y "About The Team". Estos vídeos proporcionan una visión integral del producto, explicando sus características, funcionalidades y beneficios, así como una presentación de nuestro equipo, sus roles y contribuciones al proyecto:
+
+About-The-Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912407_upc_edu_pe/EcGUGNttVmpKgbiLYQ__PjABF7uHs4fL-OMhXLN4JfbwYQ?e=ksXcFq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+About-The-Team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210190_upc_edu_pe/ETHNjfPU9zZHtw81Dcf-uwsB2Wx8KWZjYMJPGMgkf-Y-jQ?e=ijwXrE 
+
 # Bibliografía
 
 Arista, M., Sifuentes, J. & Urbano, E. (2017). ESTRATEGIA QUE PERMITA A LOS CONSUMIDORES ADQUIRIR SATISFACTORIAMENTE VIVIENDAS EN LIMA METROPOLITANA. [Trabajo de Investigación, Universidad del Pacífico]. Repositorio de la Escuela de Postgrado de la Universidad del Pacífico. https://repositorio.up.edu.pe/bitstream/handle/11354/1913/Miguel_Tesis_maestria_2017.pdf?sequence=1

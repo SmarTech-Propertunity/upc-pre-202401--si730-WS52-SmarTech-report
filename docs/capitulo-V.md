@@ -1763,7 +1763,7 @@ El equipo se encarga de establecer, para cada segmento objetivo identificado, lo
 #### Segmento 1: Personas que deseen comprar o alquilar una propiedad
 *Imagen de presentación de la cuarta entrevista de validación realizada.*
 
-<img src="/assets/img/entrevistas/entrevista-validacion-segmento1.1.png" alt="Entrevista Validación 1 del Segmento 2" width="550" height="300">
+<img src="/assets/img/entrevistas/entrevista-validacion-segmento1.1.jpg" alt="Entrevista Validación 1 del Segmento 2" width="550" height="300">
 
 *Nota.* El entrevistador comentó que la aplicación es fácil de usar e intuitiva, proporcionando toda la información necesaria para alquilar un inmueble. Sin embargo, también señaló que faltan algunas funcionalidades, como la opción de contactar directamente al vendedor. Expresó su deseo de tener esta característica para facilitar una comunicación más directa y cercana con los vendedores. Además, destacó que integrar esta funcionalidad podría mejorar significativamente la experiencia del usuario, permitiendo un proceso de alquiler más fluido y personalizado.
 

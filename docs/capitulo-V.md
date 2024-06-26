@@ -1697,9 +1697,13 @@ Dada la completa implementación realizada en el Sprint 3 y la estabilidad alcan
  
 #### 5.2.2.8 Team Collaboration Insights during Sprint.
 
-Durante el Sprint 4 ...
+Durante el Sprint 4, nos enfocamos principalmente en la integración de funcionalidades de seguridad y privacidad de datos en el BackEnd, agregando algunos EndPoints adicionales y mejorando el FrontEnd de forma simultánea con las habilidades y experiencia única de cada miembro del equipo. Esta colaboración se evidencia en los numerosos pull requests que fueron generados y revisados en nuestro repositorio de código. Cada pull request está respaldado por capturas de pantalla adjuntas, las cuales ofrecen una documentación detallada de los cambios implementados.
 
-###### Figura 1##
+Para asegurar una coordinación efectiva y un rendimiento óptimo, el equipo se reunió regularmente tanto en reuniones presenciales como virtuales. Durante estas sesiones, se asignaron tareas específicas y se discutió la estrategia de desarrollo del proyecto. Estas reuniones fueron cruciales para clarificar las responsabilidades individuales y mantener el enfoque en los objetivos del Sprint. Asimismo, para maximizar la eficiencia, se decidió asignar a cada miembro del equipo una sección particular del BackEnd para desarrollar. Esta estrategia permitió avanzar rápidamente en múltiples frentes y cumplir con los plazos establecidos de manera efectiva.
+
+Además de las reuniones de planificación y asignación de tareas, programamos sesiones regulares de brainstorming y resolución de problemas. Estas sesiones fueron espacios donde los miembros del equipo compartieron ideas, discutieron soluciones y abordaron cualquier desafío técnico o conceptual que surgiera durante el desarrollo del BackEnd. Este enfoque colaborativo no solo facilitó la superación de obstáculos de manera eficiente, sino que también fomentó la innovación y la mejora continua en la implementación del proyecto.
+
+###### Figura 106
 *Reporte completo de contribuciones para el desarrollo del Reporte Principal del Proyecto de Propertunity del Sprint 4.*
 
 <img src="/assets/img/Pulse for Main Branch4.png" alt="Pulse for Main Branch4">
@@ -1707,14 +1711,14 @@ Durante el Sprint 4 ...
 <img src="/assets/img/Individual Contributions for Main Branch4 - 1.png" alt="Individual Contributions for Main Branch4 - 1">
 <img src="/assets/img/Individual Contributions for Main Branch4 - 2.png" alt="Individual Contributions for Main Branch4 - 2">
 
-###### Figura 1##
+###### Figura 107
 *Reporte completo de contribuciones para el desarrollo del BackEnd del Web Application del Proyecto de Propertunity del Sprint 4.*
 
 <img src="/assets/img/Pulse for BackEnd Web Application2.png" alt="Pulse for BackEnd Web Application2">
 <img src="/assets/img/Contributions for BackEnd Web Application2.png" alt="Contributions for BackEnd Web Application2">
 <img src="/assets/img/Individual Contributions for BackEnd Web Application2.png" alt="Individual Contributions for BackEnd Web Application2">
 
-###### Figura 1##
+###### Figura 108
 *Reporte completo de contribuciones para el desarrollo del FrontEnd del Web Application del Proyecto de Propertunity del Sprint 4.*
 
 <img src="/assets/img/Pulse for FrontEnd Web Application3.png" alt="Pulse for BackEnd Web Application3">
@@ -1761,7 +1765,11 @@ El equipo se encarga de establecer, para cada segmento objetivo identificado, lo
 ### 5.3.2. Registro de Entrevistas. 
 
 #### Segmento 1: Personas que deseen comprar o alquilar una propiedad
-*Imagen de presentación de la cuarta entrevista de validación realizada.*
+
+**Entrevista N°1:**
+
+###### Figura 109
+*Imagen de presentación de la primera entrevista de validación realizada.*
 
 <img src="/assets/img/entrevistas/entrevista-validacion-segmento1.1.jpg" alt="Entrevista Validación 1 del Segmento 2" width="550" height="300">
 
@@ -1776,13 +1784,31 @@ El equipo se encarga de establecer, para cada segmento objetivo identificado, lo
 - Duración: 12:52
 - Entrevistador: Aldhair Johan Juan Valenzuela Huillcaya
 
+- **Entrevista N°2:**
+
+###### Figura 110
+*Imagen de presentación de la segunda entrevista de validación realizada.*
+
+<img src="/assets/img/entrevistas/entrevista-validación1-segmento2.png" alt="Entrevista Validación 1 del Segmento 2" width="550" height="300">
+
+*Nota.* La entrevistada comenta que la aplicación le parece interesante y bastante útil para un segmento objetivo variado. Puede encontrar mucha utilidad con la aplicación en sí, principalmente para publicar sus propiedades y alquilarlas a alguna persona que necesite. Lo único que recomendaría es que haya una página que muestre a las propiedades mejor ranckeadas en la actualidad, además de que el diseño sea más intuitivo y fácil de usar.
+
+**Datos principales:**
+- Nombre completo de la entrevistada: Luciana Vega Delgado
+- Edad: 19
+- Distrito: Chorrillos
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213143_upc_edu_pe/EQs_G8tVilJDrCe5rUnBTYEB5hfO7HS-cHv6pMBb7IclYg?e=2ByXxB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+- Inicio de la entrevista: 00:19
+- Duración: 07:30
+- Entrevistador: Lucio Heli, Yen Cerna
+
 ---
 
 #### Segmento 2: Anunciantes que deseen publicar una propiedad en venta o alquiler.
 
 **Entrevista N°4:**
 
-###### Figura 103
+###### Figura 111
 *Imagen de presentación de la cuarta entrevista de validación realizada.*
 
 <img src="/assets/img/entrevistas/entrevista-validación-segmento2.png" alt="Entrevista Validación 1 del Segmento 2" width="550" height="300">

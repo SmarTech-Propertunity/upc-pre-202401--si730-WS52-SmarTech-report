@@ -1616,8 +1616,11 @@ Estos avances reflejan nuestro esfuerzo continuo por fortalecer la seguridad de 
 *Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 4*
 | Repository | Branch| Commit Id| Commit Message| Commit Message Body|Commited on (Date) |
 |------------|-------|----------|---------------|--------------------|-------------------|
-|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|8623ceb|Merge branch 'develop' into inicio-home|Se hace merge| 22/05/24|
-|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|fe53b29|feat(finance-tool): update credit-calculator.component|Se actualiza la calculadora| 28/05/24|
+|upc-pre-202401--si730-WS52-SmartTech-BackEndPlatform|Main|59ffb9b|refactor: refactored and organized applying DDD|Se mejoran la organización de carpetas| 19/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-BackEndPlatform|Main|fe53b29|update(JWT): update Authentication System and improve security using encryption algorithms|Se actualizan los sistemas de autenticación| 21/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-BackEndPlatform|Main|fe53b29|feat(Authorization): now passwords are hashed and any request requires a valid token; also uses refresh token as a bonus|Se agregan la validación con token y el funcionamiento de tokens|21/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-BackEndPlatform|Main|fe53b29|update(Repositories): usage of DDD to implement repository interfaces along with other implementations|Se siguen actualizando las carpetas y se modifican interfaces |23/06/24|
+|upc-pre-202401--si730-WS52-SmartTech-BackEndPlatform|Main|fe53b29|feat(Authorization): last security implementation|Se implementa seguridad en el BackEnd|26/06/24|
 
 ### 5.2.4.4 Testing Suite Evidence for Sprint Review. 
 
@@ -1762,7 +1765,7 @@ El equipo se encarga de establecer, para cada segmento objetivo identificado, lo
 
 <img src="/assets/img/entrevistas/entrevista-validación-segmento2.png" alt="Entrevista Validación 1 del Segmento 2" width="550" height="300">
 
-*Nota.* 
+*Nota.* El entrevistador comentó que la aplicación es fácil de usar e intuitiva, proporcionando toda la información necesaria para alquilar un inmueble. Sin embargo, también señaló que faltan algunas funcionalidades, como la opción de contactar directamente al vendedor. Expresó su deseo de tener esta característica para facilitar una comunicación más directa y cercana con los vendedores. Además, destacó que integrar esta funcionalidad podría mejorar significativamente la experiencia del usuario, permitiendo un proceso de alquiler más fluido y personalizado.
 
 **Datos principales:**
 - Nombre completo de la entrevistado: Max Dayson

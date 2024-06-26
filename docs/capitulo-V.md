@@ -1789,7 +1789,7 @@ El equipo se encarga de establecer, para cada segmento objetivo identificado, lo
 ###### Figura 110
 *Imagen de presentación de la segunda entrevista de validación realizada.*
 
-<img src="/assets/img/entrevistas/entrevista-validación1-segmento2.png" alt="Entrevista Validación 1 del Segmento 2" width="550" height="300">
+<img src="/assets/img/entrevista-validación1-segmento2.png" alt="Entrevista Validación 1 del Segmento 2" width="550" height="300">
 
 *Nota.* La entrevistada comenta que la aplicación le parece interesante y bastante útil para un segmento objetivo variado. Puede encontrar mucha utilidad con la aplicación en sí, principalmente para publicar sus propiedades y alquilarlas a alguna persona que necesite. Lo único que recomendaría es que haya una página que muestre a las propiedades mejor ranckeadas en la actualidad, además de que el diseño sea más intuitivo y fácil de usar.
 
@@ -1811,7 +1811,7 @@ El equipo se encarga de establecer, para cada segmento objetivo identificado, lo
 ###### Figura 111
 *Imagen de presentación de la cuarta entrevista de validación realizada.*
 
-<img src="/assets/img/entrevista-validación-segmento2.png" alt="Entrevista Validación 1 del Segmento 2" width="550" height="300">
+<img src="/assets/img/entrevistas/entrevista-validación-segmento2.png" alt="Entrevista Validación 1 del Segmento 2" width="550" height="300">
 
 *Nota.* Ahora es el momento de la verdad, saber si nuestro proyecto va acorde a las espectativas del usuario final. Nuestra entrevistada comenta principalmente que algunas funciones aún no están implementadas correctamente, que ella se pierde porque algunos funciones son nuevas, y que le gustaría que las publicaciones muestren más información para que sea visible y detallada. Aunque, nos dice que en general le ve futuro y que le encanta el sistema en general.
 

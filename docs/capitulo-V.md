@@ -1784,7 +1784,28 @@ El equipo se encarga de establecer, para cada segmento objetivo identificado, lo
 - Duración: 12:52
 - Entrevistador: Aldhair Johan Juan Valenzuela Huillcaya
 
-- **Entrevista N°2:**
+**Entrevista N°2:**
+
+###### Figura 109
+*Imagen de presentación de la primera entrevista de validación realizada.*
+
+<img src="/assets/img/entrevistas/entrevista-validacion-segmento1.1.jpg" alt="Entrevista Validación 1 del Segmento 2" width="550" height="300">
+
+*Nota.* El entrevistador mencionó que la aplicación se destaca por su facilidad de uso e interfaz intuitiva, ofreciendo toda la información requerida para alquilar un inmueble de manera efectiva. No obstante, también identificó la ausencia de ciertas funcionalidades cruciales, como la capacidad de contactar directamente al vendedor. Manifestó que contar con esta opción permitiría una comunicación más estrecha y directa con los vendedores, lo cual es esencial para usuarios que buscan establecer una relación más personal antes de concretar un alquiler.
+
+Asimismo, el entrevistador subrayó que la incorporación de esta funcionalidad no solo enriquecería la experiencia del usuario, sino que también optimizaría el proceso de alquiler, haciéndolo más ágil y eficiente. Añadió que la comunicación directa podría resolver dudas y proporcionar una mayor confianza en la transacción, factores que son vitales para usuarios que valoran la transparencia y la interacción personal en sus decisiones de alquiler. Por último, sugirió que esta mejora podría posicionar la aplicación como una herramienta líder en el mercado inmobiliario, diferenciándola de otras plataformas que no ofrecen este nivel de interacción personalizada.
+
+**Datos principales:**
+- Nombre completo de la entrevistado: Yair Aru
+- Edad: 20
+- Distrito: Chorrillos
+- Link: [[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214234_upc_edu_pe/EchfUy2BPplOipry81Rj6nEBNuUsGM_2rW4UHib93Vp_eA?e=j2yltd](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f572_upc_edu_pe/Ebs61Zpj0wlNsrwlYidisKEBA-fGNjX2ZfSnAfjtBzEESg?e=K7Rrln&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f572_upc_edu_pe/EblemmCMCZhOqGNtAvYBccABAVPe5hYtjFa4qGhuFgFYJw?e=R3pRwa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Inicio de la entrevista: 00:00
+- Duración: 08:21
+- Entrevistador: Aldhair Johan Juan Valenzuela Huillcaya
+
+
+- **Entrevista N°3:**
 
 ###### Figura 110
 *Imagen de presentación de la segunda entrevista de validación realizada.*

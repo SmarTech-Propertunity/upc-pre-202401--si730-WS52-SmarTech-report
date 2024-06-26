@@ -1627,9 +1627,13 @@ En esta sección presentaremos la evidencia detallada de las pruebas rigurosas r
 *Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 4.*
 | Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
-| upc-pre-202401--si730-WS52-SmarTech-AcceptanceTests | feat: Added User Stories for Sprint backlog 3 - Lucio - 2 | 055a358 | feat: Added User Stories for Sprint backlog 3 | En esta sección se implementaron todos los Acceptance Test para el Sprint 3 de Propertunity | 07/04/24 |
-
-## (cambiar)
+| upc-pre-202401--si730-WS52-SmarTech-AcceptanceTests | feat: Added User Stories for Sprint backlog 4 - Aldhair - 1 | ef0fa98 | Feat: Create US28.feature | Implementación de la US28 en los Testing Groups mediante Gherkin | 26/06/24 |
+| upc-pre-202401--si730-WS52-SmarTech-AcceptanceTests | feat: Added User Stories for Sprint backlog 4 - Aldhair - 1 | 987bfc5 | Feat: Create US18.feature | Implementación de la US18 en los Testing Groups mediante Gherkin | 26/06/24 |
+| upc-pre-202401--si730-WS52-SmarTech-AcceptanceTests | feat: Added User Stories for Sprint backlog 4 - Aldhair - 1 | 0c51b82 | Feat: Create US16.feature | Implementación de la US16 en los Testing Groups mediante Gherkin | 26/06/24 |
+| upc-pre-202401--si730-WS52-SmarTech-AcceptanceTests | feat: Added User Stories for Sprint backlog 4 - Aldhair - 1 | 22cd391 | Feat: Create US15.feature | Implementación de la US15 en los Testing Groups mediante Gherkin | 26/06/24 |
+| upc-pre-202401--si730-WS52-SmarTech-AcceptanceTests | feat: Added User Stories for Sprint backlog 4 - Aldhair - 1 | c11b33d | Feat: Create US13.feature | Implementación de la US13 en los Testing Groups mediante Gherkin | 26/06/24 |
+| upc-pre-202401--si730-WS52-SmarTech-AcceptanceTests | feat: Added User Stories for Sprint backlog 4 - Aldhair - 1 | 4eec1b1 | Feat: Create US10.feature | Implementación de la US10 en los Testing Groups mediante Gherkin | 26/06/24 |
+| upc-pre-202401--si730-WS52-SmarTech-AcceptanceTests | feat: Added User Stories for Sprint backlog 4 - Aldhair - 1 | 25ca7ca | Feat: Update US10.feature | Actualización de la US10 en los Testing Groups mediante Gherkin | 26/06/24 |
 
 #### 5.2.4.5 Execution Evidence for Sprint Review. 
 

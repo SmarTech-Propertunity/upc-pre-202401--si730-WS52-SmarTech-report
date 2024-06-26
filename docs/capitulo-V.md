@@ -1637,7 +1637,29 @@ El Sprint 4, siendo el sprint final programado en el desarrollo del proyecto, se
 
 Durante este sprint, la seguridad es nuestra máxima prioridad. Implementaremos métodos de autenticación y autorización para todos los datos proporcionados por los usuarios y aplicaremos todas las reglas de negocio necesarias para mantener una lógica clara y coherente en todas las funcionalidades propuestas por la aplicación de Propertunity. Esto incluye el desarrollo de métodos de seguridad y privacidad de datos previamente establecidos, así como la integración de la persistencia de datos y los servicios de tokens web con JSON.
 
+###### Figura 102.
+*Muestra con evidencia de los Endpoints implementados en para publication en la aplicación web mediante Swagger.*
+<img src="/assets/img/Evidencia-GetPublication-WebService.png" alt="Primera evidencia de los Endpoints referentes a Publication, relacionados con JWT.">
+
+<img src="/assets/img/Evidencia-GetPublication2-WebService.png" alt="Segunda evidencia de los Endpoints referentes a Publication, relacionados con JWT.">
+
 Al completar las tareas asociadas con las historias de usuario definidas, no solo estamos desarrollando funcionalidades específicas, sino que también estamos construyendo una base sólida para la seguridad de la aplicación web de Propertunity. Este enfoque garantiza que cada incremento en el desarrollo del producto contribuya significativamente al éxito del proyecto a largo plazo. Además, hemos revisado exhaustivamente todas las historias de usuario anteriores para identificar y abordar cualquier detalle que pudiera mejorar. Esta revisión minuciosa asegura que el proyecto esté en su mejor forma para su despliegue en un entorno de producción. Nuestro compromiso con la mejora continua y la optimización de la seguridad significa que cada funcionalidad implementada está diseñada para proteger la información de los usuarios y proporcionar una experiencia confiable y segura.
+
+Junto a esos aspectos de seguridad, también hemos agregado un modelo de autenticación y autorización de usuarios para poder validar la entrada de nuestros clientes y evitar el ingreso de personas no deseadas. Estos modelos también dependen de un seguimiento de roles sencillo que se define segúns las suscripciones presentadas en el caso de negocio de toda nuestra startup. Con este proceso, podemos mantener segura a nuestra aplicación web en las formas más básicas dables para el entorno en el que nos vamos a dirigir, también tomando en cuenta el mercado competitivo al que nos enfrentamos.
+
+###### Figura 103.
+*Muestra con evidencia del modelo de Autenticación de Usuarios en la aplicación web mediante Swagger.*
+<img src="/assets/img/Evidencia-Auth-WebService.png" alt="Primera evidencia de la Autenticación en el Web Service.">
+
+<img src="/assets/img/Evidencia-Auth2-WebService.png" alt="Segunda evidencia de la Autenticación en el Web Service.">
+
+###### Figura 104.
+*Muestra con evidencia del modelo de Roles de Usuarios en la aplicación web mediante Swagger.*
+<img src="/assets/img/Evidencia-Roles-WebService.png" alt="Evidencia de los Roles en el Web Service.">
+
+###### Figura 105.
+*Muestra con evidencia del modelo de la Autorización de Usuarios en la aplicación web mediante Swagger.*
+<img src="/assets/img/Evidencia-Authorization-WebService.png" alt="Evidencia de la Autorización en el Web Service.">
 
 Con cada tarea completada y cada historia de usuario refinada, nos aseguramos de que Propertunity no solo cumpla con las expectativas actuales sino que también esté preparado para enfrentar los desafíos futuros. Este sprint final marca un paso crucial en el camino hacia la finalización exitosa del proyecto, estableciendo un marco robusto y seguro que apoyará el crecimiento y la sostenibilidad de Propertunity a largo plazo.
 
